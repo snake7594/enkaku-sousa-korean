@@ -1,0 +1,14458 @@
+[
+ {
+  "index": 0,
+  "char": "新",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 114,
+  "alts": []
+ },
+ {
+  "index": 1,
+  "char": "情",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 213,
+  "alts": []
+ },
+ {
+  "index": 2,
+  "char": "椋",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 218,
+  "alts": [
+   "報"
+  ]
+ },
+ {
+  "index": 3,
+  "char": "為",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 241,
+  "alts": [
+   "入",
+   "敗"
+  ]
+ },
+ {
+  "index": 4,
+  "char": "手",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 321,
+  "alts": []
+ },
+ {
+  "index": 5,
+  "char": "嵬",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "豢",
+   "嵬",
+   "東",
+   "峯",
+   "家"
+  ]
+ },
+ {
+  "index": 6,
+  "char": "京",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "京",
+   "亰",
+   "崑",
+   "炊",
+   "廩"
+  ]
+ },
+ {
+  "index": 7,
+  "char": "年",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 110,
+  "alts": []
+ },
+ {
+  "index": 8,
+  "char": "発",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 103,
+  "alts": []
+ },
+ {
+  "index": 9,
+  "char": "売",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": []
+ },
+ {
+  "index": 10,
+  "char": "予",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 21,
+  "alts": [
+   "予",
+   "矛",
+   "下",
+   "テ",
+   "チ"
+  ]
+ },
+ {
+  "index": 11,
+  "char": "定",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 125,
+  "alts": []
+ },
+ {
+  "index": 12,
+  "char": "無",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 248,
+  "alts": []
+ },
+ {
+  "index": 13,
+  "char": "罪",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 83,
+  "alts": []
+ },
+ {
+  "index": 14,
+  "char": "勝",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 30,
+  "alts": [
+   "勝",
+   "胼",
+   "梼",
+   "腓",
+   "絣"
+  ]
+ },
+ {
+  "index": 15,
+  "char": "蠧",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 194,
+  "alts": []
+ },
+ {
+  "index": 16,
+  "char": "次",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 41,
+  "alts": [
+   "犬",
+   "大",
+   "次",
+   "実",
+   "火"
+  ]
+ },
+ {
+  "index": 17,
+  "char": "第",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 18,
+  "alts": [
+   "第",
+   "骼",
+   "萠",
+   "簓",
+   "撤"
+  ]
+ },
+ {
+  "index": 18,
+  "char": "午",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 16,
+  "alts": [
+   "午",
+   "乍",
+   "千",
+   "于",
+   "竿"
+  ]
+ },
+ {
+  "index": 19,
+  "char": "氣",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 528,
+  "alts": [
+   "■",
+   "陂",
+   "曲",
+   "崗",
+   "毆"
+  ]
+ },
+ {
+  "index": 20,
+  "char": "後",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 144,
+  "alts": []
+ },
+ {
+  "index": 21,
+  "char": "白",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 539,
+  "alts": []
+ },
+ {
+  "index": 22,
+  "char": "側",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 567,
+  "alts": [
+   "川"
+  ]
+ },
+ {
+  "index": 23,
+  "char": "家",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 102,
+  "alts": [
+   "置"
+  ]
+ },
+ {
+  "index": 24,
+  "char": "水",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 359,
+  "alts": []
+ },
+ {
+  "index": 25,
+  "char": "谷",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 189,
+  "alts": []
+ },
+ {
+  "index": 26,
+  "char": "探",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 107,
+  "alts": []
+ },
+ {
+  "index": 27,
+  "char": "偵",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 80,
+  "alts": []
+ },
+ {
+  "index": 28,
+  "char": "事",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 913,
+  "alts": []
+ },
+ {
+  "index": 29,
+  "char": "務",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 133,
+  "alts": []
+ },
+ {
+  "index": 30,
+  "char": "所",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 281,
+  "alts": []
+ },
+ {
+  "index": 31,
+  "char": "高",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 107,
+  "alts": [
+   "高",
+   "姦",
+   "龕",
+   "窩",
+   "轟"
+  ]
+ },
+ {
+  "index": 32,
+  "char": "校",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 62,
+  "alts": [
+   "佼",
+   "皎",
+   "按",
+   "撹",
+   "授"
+  ]
+ },
+ {
+  "index": 33,
+  "char": "哉",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 209,
+  "alts": []
+ },
+ {
+  "index": 34,
+  "char": "害",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 250,
+  "alts": []
+ },
+ {
+  "index": 35,
+  "char": "現",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 113,
+  "alts": []
+ },
+ {
+  "index": 36,
+  "char": "場",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 189,
+  "alts": [
+   "塲"
+  ]
+ },
+ {
+  "index": 37,
+  "char": "教",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 150,
+  "alts": [
+   "班",
+   "甜",
+   "鏃",
+   "辧",
+   "皺"
+  ]
+ },
+ {
+  "index": 38,
+  "char": "授",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 153,
+  "alts": [
+   "崎",
+   "畸",
+   "峙",
+   "嶢",
+   "畤"
+  ]
+ },
+ {
+  "index": 39,
+  "char": "法",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2353,
+  "alts": []
+ },
+ {
+  "index": 40,
+  "char": "律",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 13,
+  "alts": [
+   "律",
+   "絛",
+   "脩",
+   "修",
+   "倖"
+  ]
+ },
+ {
+  "index": 41,
+  "char": "自",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 274,
+  "alts": [
+   "斧"
+  ]
+ },
+ {
+  "index": 42,
+  "char": "宅",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 13,
+  "alts": [
+   "宅",
+   "毟",
+   "宝",
+   "疱",
+   "庖"
+  ]
+ },
+ {
+  "index": 43,
+  "char": "註",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": [
+   "貧",
+   "銓",
+   "昔",
+   "嘗",
+   "跿"
+  ]
+ },
+ {
+  "index": 44,
+  "char": "都",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 25,
+  "alts": [
+   "都",
+   "鄒",
+   "館",
+   "飾",
+   "鄰"
+  ]
+ },
+ {
+  "index": 45,
+  "char": "病",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 85,
+  "alts": []
+ },
+ {
+  "index": 46,
+  "char": "院",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 74,
+  "alts": [
+   "院",
+   "皖",
+   "陝",
+   "皎",
+   "時"
+  ]
+ },
+ {
+  "index": 47,
+  "char": "表",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 69,
+  "alts": [
+   "表",
+   "衣",
+   "衰",
+   "衷",
+   "喪"
+  ]
+ },
+ {
+  "index": 48,
+  "char": "札",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "札",
+   "扎",
+   "軋",
+   "糺",
+   "牝"
+  ]
+ },
+ {
+  "index": 49,
+  "char": "門",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": [
+   "門",
+   "円",
+   "閂",
+   "鬥",
+   "汽"
+  ]
+ },
+ {
+  "index": 50,
+  "char": "被",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 255,
+  "alts": [
+   "蕪"
+  ]
+ },
+ {
+  "index": 51,
+  "char": "疑",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 128,
+  "alts": []
+ },
+ {
+  "index": 52,
+  "char": "者",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 451,
+  "alts": []
+ },
+ {
+  "index": 53,
+  "char": "人",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 970,
+  "alts": []
+ },
+ {
+  "index": 54,
+  "char": "黄",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 19,
+  "alts": [
+   "梼",
+   "畴",
+   "棒",
+   "髀",
+   "鴨"
+  ]
+ },
+ {
+  "index": 55,
+  "char": "味",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 79,
+  "alts": []
+ },
+ {
+  "index": 56,
+  "char": "別",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 60,
+  "alts": []
+ },
+ {
+  "index": 57,
+  "char": "一",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 524,
+  "alts": []
+ },
+ {
+  "index": 58,
+  "char": "意",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 700,
+  "alts": [
+   "言"
+  ]
+ },
+ {
+  "index": 59,
+  "char": "考",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 187,
+  "alts": []
+ },
+ {
+  "index": 60,
+  "char": "族",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 25,
+  "alts": [
+   "族",
+   "篏",
+   "腋",
+   "艘",
+   "鰒"
+  ]
+ },
+ {
+  "index": 61,
+  "char": "構",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 36,
+  "alts": [
+   "擣",
+   "構",
+   "擠",
+   "橇",
+   "横"
+  ]
+ },
+ {
+  "index": 62,
+  "char": "成",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 29,
+  "alts": [
+   "成",
+   "戚",
+   "威",
+   "戌",
+   "咸"
+  ]
+ },
+ {
+  "index": 63,
+  "char": "最",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 109,
+  "alts": [
+   "■",
+   "畠",
+   "贔",
+   "畿",
+   "曼"
+  ]
+ },
+ {
+  "index": 64,
+  "char": "近",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 335,
+  "alts": []
+ },
+ {
+  "index": 65,
+  "char": "変",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 91,
+  "alts": [
+   "変",
+   "麦",
+   "寉",
+   "党",
+   "夐"
+  ]
+ },
+ {
+  "index": 66,
+  "char": "子",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2485,
+  "alts": []
+ },
+ {
+  "index": 67,
+  "char": "太",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 125,
+  "alts": [
+   "立"
+  ]
+ },
+ {
+  "index": 68,
+  "char": "派",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 26,
+  "alts": []
+ },
+ {
+  "index": 69,
+  "char": "貰",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "貰",
+   "貫",
+   "貧",
+   "寳",
+   "賃"
+  ]
+ },
+ {
+  "index": 70,
+  "char": "禄",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "禄",
+   "録",
+   "緑",
+   "縁",
+   "腺"
+  ]
+ },
+ {
+  "index": 71,
+  "char": "着",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 64,
+  "alts": [
+   "都"
+  ]
+ },
+ {
+  "index": 72,
+  "char": "掛",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 31,
+  "alts": [
+   "掛",
+   "褂",
+   "崗",
+   "撈",
+   "擾"
+  ]
+ },
+ {
+  "index": 73,
+  "char": "名",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 125,
+  "alts": []
+ },
+ {
+  "index": 74,
+  "char": "屋",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 52,
+  "alts": []
+ },
+ {
+  "index": 75,
+  "char": "頼",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 93,
+  "alts": []
+ },
+ {
+  "index": 76,
+  "char": "大",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 219,
+  "alts": []
+ },
+ {
+  "index": 77,
+  "char": "体",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 75,
+  "alts": []
+ },
+ {
+  "index": 78,
+  "char": "相",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 77,
+  "alts": []
+ },
+ {
+  "index": 79,
+  "char": "当",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 351,
+  "alts": []
+ },
+ {
+  "index": 80,
+  "char": "見",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 357,
+  "alts": []
+ },
+ {
+  "index": 81,
+  "char": "周",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 20,
+  "alts": []
+ },
+ {
+  "index": 82,
+  "char": "多",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 47,
+  "alts": []
+ },
+ {
+  "index": 83,
+  "char": "金",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 28,
+  "alts": []
+ },
+ {
+  "index": 84,
+  "char": "姆",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 115,
+  "alts": []
+ },
+ {
+  "index": 85,
+  "char": "圧",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 86,
+  "char": "倒",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 14,
+  "alts": [
+   "撓"
+  ]
+ },
+ {
+  "index": 87,
+  "char": "私",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 411,
+  "alts": [
+   "私",
+   "軋",
+   "粘",
+   "亂",
+   "粃"
+  ]
+ },
+ {
+  "index": 88,
+  "char": "弁",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 337,
+  "alts": []
+ },
+ {
+  "index": 89,
+  "char": "護",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 359,
+  "alts": []
+ },
+ {
+  "index": 90,
+  "char": "士",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 329,
+  "alts": []
+ },
+ {
+  "index": 91,
+  "char": "城",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 56,
+  "alts": []
+ },
+ {
+  "index": 92,
+  "char": "申",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 69,
+  "alts": []
+ },
+ {
+  "index": 93,
+  "char": "不",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 131,
+  "alts": []
+ },
+ {
+  "index": 94,
+  "char": "躾",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 95,
+  "char": "遅",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "恐"
+  ]
+ },
+ {
+  "index": 96,
+  "char": "少",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 183,
+  "alts": [
+   "少",
+   "争",
+   "歩",
+   "◆",
+   "康"
+  ]
+ },
+ {
+  "index": 97,
+  "char": "話",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 547,
+  "alts": []
+ },
+ {
+  "index": 98,
+  "char": "暖",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 502,
+  "alts": [
+   "関",
+   "閤",
+   "崗",
+   "闘",
+   "聞"
+  ]
+ },
+ {
+  "index": 99,
+  "char": "待",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 163,
+  "alts": [
+   "持",
+   "恃",
+   "待",
+   "侍",
+   "掎"
+  ]
+ },
+ {
+  "index": 100,
+  "char": "女",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 199,
+  "alts": [
+   "女",
+   "枇",
+   "套",
+   "齔",
+   "隹"
+  ]
+ },
+ {
+  "index": 101,
+  "char": "性",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 133,
+  "alts": []
+ },
+ {
+  "index": 102,
+  "char": "今",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 402,
+  "alts": []
+ },
+ {
+  "index": 103,
+  "char": "関",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 61,
+  "alts": [
+   "■",
+   "囲",
+   "闘",
+   "附",
+   "崗"
+  ]
+ },
+ {
+  "index": 104,
+  "char": "件",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 384,
+  "alts": []
+ },
+ {
+  "index": 105,
+  "char": "斉",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 151,
+  "alts": [
+   "勇"
+  ]
+ },
+ {
+  "index": 106,
+  "char": "藤",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 419,
+  "alts": [
+   "俯"
+  ]
+ },
+ {
+  "index": 107,
+  "char": "光",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3276,
+  "alts": []
+ },
+ {
+  "index": 108,
+  "char": "志",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3287,
+  "alts": []
+ },
+ {
+  "index": 109,
+  "char": "肘",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 56,
+  "alts": [
+   "挺",
+   "掛",
+   "梃",
+   "撥",
+   "撹"
+  ]
+ },
+ {
+  "index": 110,
+  "char": "彼",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 254,
+  "alts": [
+   "披",
+   "彼",
+   "疲",
+   "筱",
+   "篋"
+  ]
+ },
+ {
+  "index": 111,
+  "char": "実",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 256,
+  "alts": []
+ },
+ {
+  "index": 112,
+  "char": "主",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 60,
+  "alts": [
+   "主",
+   "｜",
+   "圭",
+   "生",
+   "杢"
+  ]
+ },
+ {
+  "index": 113,
+  "char": "張",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 57,
+  "alts": [
+   "婆",
+   "簸"
+  ]
+ },
+ {
+  "index": 114,
+  "char": "身",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 70,
+  "alts": [
+   "身",
+   "権",
+   "葎",
+   "種",
+   "痩"
+  ]
+ },
+ {
+  "index": 115,
+  "char": "本",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 438,
+  "alts": []
+ },
+ {
+  "index": 116,
+  "char": "客",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 66,
+  "alts": []
+ },
+ {
+  "index": 117,
+  "char": "観",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 29,
+  "alts": []
+ },
+ {
+  "index": 118,
+  "char": "的",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 160,
+  "alts": []
+ },
+ {
+  "index": 119,
+  "char": "証",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 345,
+  "alts": []
+ },
+ {
+  "index": 120,
+  "char": "拠",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 136,
+  "alts": []
+ },
+ {
+  "index": 121,
+  "char": "出",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 262,
+  "alts": []
+ },
+ {
+  "index": 122,
+  "char": "真",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 340,
+  "alts": []
+ },
+ {
+  "index": 123,
+  "char": "犯",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 284,
+  "alts": [
+   "犯",
+   "鉅",
+   "蛆",
+   "墾",
+   "簓"
+  ]
+ },
+ {
+  "index": 124,
+  "char": "裏",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 58,
+  "alts": [
+   "喪",
+   "寰",
+   "裏",
+   "叢",
+   "裹"
+  ]
+ },
+ {
+  "index": 125,
+  "char": "言",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 26,
+  "alts": [
+   "笑",
+   "実",
+   "笶",
+   "芙",
+   "奕"
+  ]
+ },
+ {
+  "index": 126,
+  "char": "絶",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 22,
+  "alts": []
+ },
+ {
+  "index": 127,
+  "char": "対",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 80,
+  "alts": [
+   "対",
+   "射",
+   "紂",
+   "材",
+   "豺"
+  ]
+ },
+ {
+  "index": 128,
+  "char": "許",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 21,
+  "alts": [
+   "許",
+   "詐",
+   "胙",
+   "忤",
+   "胖"
+  ]
+ },
+ {
+  "index": 129,
+  "char": "知",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 259,
+  "alts": []
+ },
+ {
+  "index": 130,
+  "char": "協",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "協",
+   "鰛",
+   "恊",
+   "磁",
+   "媼"
+  ]
+ },
+ {
+  "index": 131,
+  "char": "力",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 71,
+  "alts": []
+ },
+ {
+  "index": 132,
+  "char": "重",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 478,
+  "alts": [
+   "自",
+   "思"
+  ]
+ },
+ {
+  "index": 133,
+  "char": "索",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "崗",
+   "鹵",
+   "帛",
+   "瘠",
+   "攤"
+  ]
+ },
+ {
+  "index": 134,
+  "char": "条",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 23,
+  "alts": [
+   "条",
+   "粂",
+   "糸",
+   "峯",
+   "集"
+  ]
+ },
+ {
+  "index": 135,
+  "char": "奥",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 18,
+  "alts": [
+   "奧"
+  ]
+ },
+ {
+  "index": 136,
+  "char": "様",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 97,
+  "alts": []
+ },
+ {
+  "index": 137,
+  "char": "只",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 9,
+  "alts": []
+ },
+ {
+  "index": 138,
+  "char": "伺",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 28,
+  "alts": [
+   "伺",
+   "何",
+   "恟",
+   "倆",
+   "榊"
+  ]
+ },
+ {
+  "index": 139,
+  "char": "答",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 46,
+  "alts": []
+ },
+ {
+  "index": 140,
+  "char": "範",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 9,
+  "alts": []
+ },
+ {
+  "index": 141,
+  "char": "囲",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 17,
+  "alts": []
+ },
+ {
+  "index": 142,
+  "char": "結",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 110,
+  "alts": []
+ },
+ {
+  "index": 143,
+  "char": "在",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 43,
+  "alts": []
+ },
+ {
+  "index": 144,
+  "char": "写",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 29,
+  "alts": [
+   "写",
+   "岑",
+   "琴",
+   "冪",
+   "宰"
+  ]
+ },
+ {
+  "index": 145,
+  "char": "先",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 160,
+  "alts": []
+ },
+ {
+  "index": 146,
+  "char": "日",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 640,
+  "alts": []
+ },
+ {
+  "index": 147,
+  "char": "接",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 108,
+  "alts": []
+ },
+ {
+  "index": 148,
+  "char": "会",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 161,
+  "alts": [
+   "会",
+   "合",
+   "麁",
+   "僉",
+   "金"
+  ]
+ },
+ {
+  "index": 149,
+  "char": "色",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 42,
+  "alts": [
+   "邑",
+   "色",
+   "皀",
+   "魚",
+   "た"
+  ]
+ },
+ {
+  "index": 150,
+  "char": "問",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 184,
+  "alts": [
+   "闘"
+  ]
+ },
+ {
+  "index": 151,
+  "char": "題",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 38,
+  "alts": [
+   "趙",
+   "鐓",
+   "餓",
+   "題",
+   "越"
+  ]
+ },
+ {
+  "index": 152,
+  "char": "行",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 311,
+  "alts": []
+ },
+ {
+  "index": 153,
+  "char": "気",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 314,
+  "alts": [
+   "木",
+   "軌"
+  ]
+ },
+ {
+  "index": 154,
+  "char": "縁",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 73,
+  "alts": [
+   "緑",
+   "縁",
+   "鰻",
+   "繕",
+   "繙"
+  ]
+ },
+ {
+  "index": 155,
+  "char": "際",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 34,
+  "alts": [
+   "際",
+   "崗",
+   "閤",
+   "隰",
+   "関"
+  ]
+ },
+ {
+  "index": 156,
+  "char": "質",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 40,
+  "alts": [
+   "賓",
+   "貲",
+   "寳",
+   "寶",
+   "贇"
+  ]
+ },
+ {
+  "index": 157,
+  "char": "仕",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 154,
+  "alts": [
+   "阯"
+  ]
+ },
+ {
+  "index": 158,
+  "char": "方",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 206,
+  "alts": []
+ },
+ {
+  "index": 159,
+  "char": "去",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 21,
+  "alts": [
+   "去",
+   "玄",
+   "五",
+   "夫",
+   "査"
+  ]
+ },
+ {
+  "index": 160,
+  "char": "心",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 177,
+  "alts": []
+ },
+ {
+  "index": 161,
+  "char": "禁",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 162,
+  "char": "土",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 37,
+  "alts": []
+ },
+ {
+  "index": 163,
+  "char": "通",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 134,
+  "alts": [
+   "遠"
+  ]
+ },
+ {
+  "index": 164,
+  "char": "装",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": []
+ },
+ {
+  "index": 165,
+  "char": "物",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 156,
+  "alts": []
+ },
+ {
+  "index": 166,
+  "char": "反",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 54,
+  "alts": []
+ },
+ {
+  "index": 167,
+  "char": "応",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 56,
+  "alts": []
+ },
+ {
+  "index": 168,
+  "char": "違",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 138,
+  "alts": [
+   "画"
+  ]
+ },
+ {
+  "index": 169,
+  "char": "以",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 152,
+  "alts": [
+   "以",
+   "蹼",
+   "騏",
+   "朕",
+   "謀"
+  ]
+ },
+ {
+  "index": 170,
+  "char": "上",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 178,
+  "alts": []
+ },
+ {
+  "index": 171,
+  "char": "配",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 24,
+  "alts": []
+ },
+ {
+  "index": 172,
+  "char": "慮",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 13,
+  "alts": []
+ },
+ {
+  "index": 173,
+  "char": "亜",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 27,
+  "alts": [
+   "足"
+  ]
+ },
+ {
+  "index": 174,
+  "char": "信",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 102,
+  "alts": []
+ },
+ {
+  "index": 175,
+  "char": "抜",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 14,
+  "alts": [
+   "奴"
+  ]
+ },
+ {
+  "index": 176,
+  "char": "戦",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 103,
+  "alts": [
+   "教"
+  ]
+ },
+ {
+  "index": 177,
+  "char": "助",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 26,
+  "alts": []
+ },
+ {
+  "index": 178,
+  "char": "直",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 113,
+  "alts": []
+ },
+ {
+  "index": 179,
+  "char": "捕",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 64,
+  "alts": [
+   "掬",
+   "乕"
+  ]
+ },
+ {
+  "index": 180,
+  "char": "伝",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 53,
+  "alts": [
+   "伝",
+   "阮",
+   "挺",
+   "肌",
+   "斫"
+  ]
+ },
+ {
+  "index": 181,
+  "char": "旦",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 19,
+  "alts": []
+ },
+ {
+  "index": 182,
+  "char": "那",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 10,
+  "alts": []
+ },
+ {
+  "index": 183,
+  "char": "存",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 59,
+  "alts": []
+ },
+ {
+  "index": 184,
+  "char": "阿",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 20,
+  "alts": [
+   "网",
+   "同",
+   "岡",
+   "阿",
+   "明"
+  ]
+ },
+ {
+  "index": 185,
+  "char": "痛",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 84,
+  "alts": [
+   "鏡",
+   "膜",
+   "鐵",
+   "鋭",
+   "饒"
+  ]
+ },
+ {
+  "index": 186,
+  "char": "亡",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 55,
+  "alts": [
+   "亡",
+   "じ",
+   "匸",
+   "む",
+   "仁"
+  ]
+ },
+ {
+  "index": 187,
+  "char": "美",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 40,
+  "alts": []
+ },
+ {
+  "index": 188,
+  "char": "左",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 189,
+  "char": "恵",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 27,
+  "alts": []
+ },
+ {
+  "index": 190,
+  "char": "書",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 70,
+  "alts": [
+   "書",
+   "盡",
+   "晝",
+   "盪",
+   "豊"
+  ]
+ },
+ {
+  "index": 191,
+  "char": "佐",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 25,
+  "alts": []
+ },
+ {
+  "index": 192,
+  "char": "嬢",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 29,
+  "alts": []
+ },
+ {
+  "index": 193,
+  "char": "例",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 24,
+  "alts": []
+ },
+ {
+  "index": 194,
+  "char": "遅",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 18,
+  "alts": [
+   "臆"
+  ]
+ },
+ {
+  "index": 195,
+  "char": "逆",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 26,
+  "alts": [
+   "逆",
+   "述",
+   "避",
+   "鋩",
+   "巫"
+  ]
+ },
+ {
+  "index": 196,
+  "char": "並",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "比",
+   "庄",
+   "齔",
+   "化",
+   "捻"
+  ]
+ },
+ {
+  "index": 197,
+  "char": "数",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 33,
+  "alts": [
+   "數",
+   "数",
+   "妝",
+   "教",
+   "馼"
+  ]
+ },
+ {
+  "index": 198,
+  "char": "陽",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 34,
+  "alts": [
+   "孳",
+   "孥",
+   "挙",
+   "拏",
+   "駢"
+  ]
+ },
+ {
+  "index": 199,
+  "char": "印",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 13,
+  "alts": [
+   "印",
+   "槨",
+   "国",
+   "岡",
+   "閙"
+  ]
+ },
+ {
+  "index": 200,
+  "char": "夐",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 13,
+  "alts": [
+   "豢",
+   "夐",
+   "象",
+   "躯",
+   "彙"
+  ]
+ },
+ {
+  "index": 201,
+  "char": "優",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 26,
+  "alts": []
+ },
+ {
+  "index": 202,
+  "char": "継",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 50,
+  "alts": [
+   "鏃",
+   "蹠",
+   "蝓",
+   "蛆",
+   "鮠"
+  ]
+ },
+ {
+  "index": 203,
+  "char": "特",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 66,
+  "alts": [
+   "持",
+   "特",
+   "將",
+   "胖",
+   "梓"
+  ]
+ },
+ {
+  "index": 204,
+  "char": "良",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 73,
+  "alts": []
+ },
+ {
+  "index": 205,
+  "char": "誰",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 78,
+  "alts": []
+ },
+ {
+  "index": 206,
+  "char": "空",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 13,
+  "alts": []
+ },
+ {
+  "index": 207,
+  "char": "絵",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 208,
+  "char": "能",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 15,
+  "alts": [
+   "龜",
+   "躯",
+   "簓",
+   "髷",
+   "氣"
+  ]
+ },
+ {
+  "index": 209,
+  "char": "中",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 279,
+  "alts": []
+ },
+ {
+  "index": 210,
+  "char": "燬",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 64,
+  "alts": []
+ },
+ {
+  "index": 211,
+  "char": "仇",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 212,
+  "char": "視",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 16,
+  "alts": [
+   "俟"
+  ]
+ },
+ {
+  "index": 213,
+  "char": "線",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": []
+ },
+ {
+  "index": 214,
+  "char": "冷",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "療",
+   "褂",
+   "瘴",
+   "庫",
+   "康"
+  ]
+ },
+ {
+  "index": 215,
+  "char": "関",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 271,
+  "alts": []
+ },
+ {
+  "index": 216,
+  "char": "是",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 7,
+  "alts": []
+ },
+ {
+  "index": 217,
+  "char": "非",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 25,
+  "alts": [
+   "脊"
+  ]
+ },
+ {
+  "index": 218,
+  "char": "避",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 75,
+  "alts": [
+   "引"
+  ]
+ },
+ {
+  "index": 219,
+  "char": "経",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 39,
+  "alts": []
+ },
+ {
+  "index": 220,
+  "char": "束",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": [
+   "塚"
+  ]
+ },
+ {
+  "index": 221,
+  "char": "用",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 93,
+  "alts": []
+ },
+ {
+  "index": 222,
+  "char": "黙",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 32,
+  "alts": [
+   "玉"
+  ]
+ },
+ {
+  "index": 223,
+  "char": "父",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 67,
+  "alts": [
+   "父",
+   "攵",
+   "虻",
+   "乂",
+   "鋩"
+  ]
+ },
+ {
+  "index": 224,
+  "char": "願",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 40,
+  "alts": []
+ },
+ {
+  "index": 225,
+  "char": "疚",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 21,
+  "alts": [
+   "飲",
+   "飮",
+   "批",
+   "欲",
+   "俄"
+  ]
+ },
+ {
+  "index": 226,
+  "char": "決",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 12,
+  "alts": [
+   "貸",
+   "貲",
+   "錢",
+   "瞥",
+   "賃"
+  ]
+ },
+ {
+  "index": 227,
+  "char": "扱",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 57,
+  "alts": [
+   "繼",
+   "鐓",
+   "繃",
+   "纖",
+   "麟"
+  ]
+ },
+ {
+  "index": 228,
+  "char": "判",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 71,
+  "alts": [
+   "判",
+   "柯",
+   "鷯",
+   "枸",
+   "物"
+  ]
+ },
+ {
+  "index": 229,
+  "char": "取",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 22,
+  "alts": [
+   "倍",
+   "僭",
+   "僧",
+   "儕",
+   "倩"
+  ]
+ },
+ {
+  "index": 230,
+  "char": "芯",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 231,
+  "char": "強",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 43,
+  "alts": []
+ },
+ {
+  "index": 232,
+  "char": "調",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 354,
+  "alts": [
+   "躑",
+   "鶲",
+   "讖",
+   "鷁",
+   "識"
+  ]
+ },
+ {
+  "index": 233,
+  "char": "査",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 203,
+  "alts": [
+   "作"
+  ]
+ },
+ {
+  "index": 234,
+  "char": "終",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 84,
+  "alts": [
+   "終",
+   "鮗",
+   "許",
+   "胖",
+   "嶄"
+  ]
+ },
+ {
+  "index": 235,
+  "char": "綴",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 38,
+  "alts": [
+   "辺",
+   "迢",
+   "遐",
+   "磁",
+   "避"
+  ]
+ },
+ {
+  "index": 236,
+  "char": "失",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 95,
+  "alts": []
+ },
+ {
+  "index": 237,
+  "char": "礼",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 65,
+  "alts": [
+   "扎",
+   "礼",
+   "札",
+   "牝",
+   "亂"
+  ]
+ },
+ {
+  "index": 238,
+  "char": "礒",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 31,
+  "alts": []
+ },
+ {
+  "index": 239,
+  "char": "束",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 19,
+  "alts": []
+ },
+ {
+  "index": 240,
+  "char": "残",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 127,
+  "alts": [
+   "残",
+   "桟",
+   "賎",
+   "棧",
+   "找"
+  ]
+ },
+ {
+  "index": 241,
+  "char": "得",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 78,
+  "alts": [
+   "黹",
+   "得",
+   "樗",
+   "饅",
+   "撈"
+  ]
+ },
+ {
+  "index": 242,
+  "char": "感",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 122,
+  "alts": []
+ },
+ {
+  "index": 243,
+  "char": "衢",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 57,
+  "alts": []
+ },
+ {
+  "index": 244,
+  "char": "代",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 165,
+  "alts": [
+   "髏"
+  ]
+ },
+ {
+  "index": 245,
+  "char": "變",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "妻",
+   "姜",
+   "豊",
+   "鏖",
+   "會"
+  ]
+ },
+ {
+  "index": 246,
+  "char": "赤",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "赤",
+   "●",
+   "春",
+   "素",
+   "恚"
+  ]
+ },
+ {
+  "index": 247,
+  "char": "昨",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 111,
+  "alts": []
+ },
+ {
+  "index": 248,
+  "char": "役",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 28,
+  "alts": [
+   "役",
+   "挽",
+   "俛",
+   "佼",
+   "撹"
+  ]
+ },
+ {
+  "index": 249,
+  "char": "遡",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "遯",
+   "遵",
+   "纒",
+   "遡",
+   "纏"
+  ]
+ },
+ {
+  "index": 250,
+  "char": "母",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 70,
+  "alts": [
+   "饅",
+   "瓣",
+   "偐",
+   "段",
+   "母"
+  ]
+ },
+ {
+  "index": 251,
+  "char": "血",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 252,
+  "char": "縁",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 12,
+  "alts": []
+ },
+ {
+  "index": 253,
+  "char": "係",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 228,
+  "alts": []
+ },
+ {
+  "index": 254,
+  "char": "参",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 24,
+  "alts": [
+   "參",
+   "参",
+   "●",
+   "歙",
+   "歉"
+  ]
+ },
+ {
+  "index": 255,
+  "char": "腸",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 42,
+  "alts": [
+   "鞴",
+   "韆",
+   "鱒",
+   "糒",
+   "韃"
+  ]
+ },
+ {
+  "index": 256,
+  "char": "動",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 140,
+  "alts": []
+ },
+ {
+  "index": 257,
+  "char": "口",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 244,
+  "alts": []
+ },
+ {
+  "index": 258,
+  "char": "枢",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 259,
+  "char": "各",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 15,
+  "alts": []
+ },
+ {
+  "index": 260,
+  "char": "企",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 20,
+  "alts": []
+ },
+ {
+  "index": 261,
+  "char": "業",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 231,
+  "alts": []
+ },
+ {
+  "index": 262,
+  "char": "社",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 88,
+  "alts": []
+ },
+ {
+  "index": 263,
+  "char": "廝",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 264,
+  "char": "合",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 157,
+  "alts": []
+ },
+ {
+  "index": 265,
+  "char": "損",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 5,
+  "alts": [
+   "衒",
+   "斫",
+   "挺",
+   "擬",
+   "撒"
+  ]
+ },
+ {
+  "index": 266,
+  "char": "重",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 18,
+  "alts": [
+   "隹",
+   "皇",
+   "篁",
+   "崔",
+   "童"
+  ]
+ },
+ {
+  "index": 267,
+  "char": "向",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 66,
+  "alts": []
+ },
+ {
+  "index": 268,
+  "char": "食",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 23,
+  "alts": [
+   "食",
+   "倉",
+   "責",
+   "賣",
+   "良"
+  ]
+ },
+ {
+  "index": 269,
+  "char": "孛",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "豢",
+   "孛",
+   "髦",
+   "璧",
+   "炊"
+  ]
+ },
+ {
+  "index": 270,
+  "char": "繁",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 271,
+  "char": "盛",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 272,
+  "char": "店",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 106,
+  "alts": [
+   "店",
+   "唐",
+   "眠",
+   "斫",
+   "貭"
+  ]
+ },
+ {
+  "index": 273,
+  "char": "外",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 181,
+  "alts": []
+ },
+ {
+  "index": 274,
+  "char": "機",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 64,
+  "alts": []
+ },
+ {
+  "index": 275,
+  "char": "負",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 47,
+  "alts": [
+   "負",
+   "員",
+   "賣",
+   "賁",
+   "麁"
+  ]
+ },
+ {
+  "index": 276,
+  "char": "受",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 154,
+  "alts": [
+   "受",
+   "斐",
+   "曼",
+   "誉",
+   "譽"
+  ]
+ },
+ {
+  "index": 277,
+  "char": "付",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 164,
+  "alts": [
+   "忖",
+   "付",
+   "Ｈ",
+   "Η",
+   "餞"
+  ]
+ },
+ {
+  "index": 278,
+  "char": "咐",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 279,
+  "char": "造",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "造",
+   "遊",
+   "道",
+   "逝",
+   "渣"
+  ]
+ },
+ {
+  "index": 280,
+  "char": "待",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 299,
+  "alts": [
+   "間"
+  ]
+ },
+ {
+  "index": 281,
+  "char": "高",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 18,
+  "alts": [
+   "広",
+   "応",
+   "庄",
+   "仄",
+   "炭"
+  ]
+ },
+ {
+  "index": 282,
+  "char": "沽",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 76,
+  "alts": []
+ },
+ {
+  "index": 283,
+  "char": "明",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 228,
+  "alts": []
+ },
+ {
+  "index": 284,
+  "char": "雰",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 285,
+  "char": "住",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 23,
+  "alts": [
+   "庄",
+   "住",
+   "侘",
+   "俊",
+   "佐"
+  ]
+ },
+ {
+  "index": 286,
+  "char": "任",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 33,
+  "alts": []
+ },
+ {
+  "index": 287,
+  "char": "丈",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 47,
+  "alts": [
+   "条"
+  ]
+ },
+ {
+  "index": 288,
+  "char": "夫",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 47,
+  "alts": []
+ },
+ {
+  "index": 289,
+  "char": "安",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 47,
+  "alts": []
+ },
+ {
+  "index": 290,
+  "char": "咫",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 15,
+  "alts": [
+   "与"
+  ]
+ },
+ {
+  "index": 291,
+  "char": "部",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 162,
+  "alts": []
+ },
+ {
+  "index": 292,
+  "char": "署",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": [
+   "署",
+   "箸",
+   "謇",
+   "奢",
+   "詈"
+  ]
+ },
+ {
+  "index": 293,
+  "char": "来",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 189,
+  "alts": [
+   "来",
+   "來",
+   "東",
+   "柬",
+   "兼"
+  ]
+ },
+ {
+  "index": 294,
+  "char": "承",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 16,
+  "alts": []
+ },
+ {
+  "index": 295,
+  "char": "寝",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 31,
+  "alts": [
+   "抗",
+   "梳",
+   "柧",
+   "拠",
+   "輒"
+  ]
+ },
+ {
+  "index": 296,
+  "char": "饐",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 297,
+  "char": "畭",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 57,
+  "alts": []
+ },
+ {
+  "index": 298,
+  "char": "形",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 30,
+  "alts": []
+ },
+ {
+  "index": 299,
+  "char": "斬",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 300,
+  "char": "下",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 91,
+  "alts": []
+ },
+ {
+  "index": 301,
+  "char": "可",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 80,
+  "alts": []
+ },
+ {
+  "index": 302,
+  "char": "能",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 79,
+  "alts": [
+   "能",
+   "紕",
+   "簓",
+   "■",
+   "蛆"
+  ]
+ },
+ {
+  "index": 303,
+  "char": "難",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 25,
+  "alts": [
+   "薙",
+   "曝",
+   "簸",
+   "鬚",
+   "幾"
+  ]
+ },
+ {
+  "index": 304,
+  "char": "夢",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "夢",
+   "孳",
+   "蓼",
+   "搴",
+   "麥"
+  ]
+ },
+ {
+  "index": 305,
+  "char": "凝",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 306,
+  "char": "縮",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 307,
+  "char": "雛",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "嗇",
+   "厳",
+   "錐",
+   "蔚",
+   "巖"
+  ]
+ },
+ {
+  "index": 308,
+  "char": "置",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 69,
+  "alts": [
+   "■",
+   "匱",
+   "直",
+   "賣",
+   "篋"
+  ]
+ },
+ {
+  "index": 309,
+  "char": "商",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 310,
+  "char": "談",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 28,
+  "alts": []
+ },
+ {
+  "index": 311,
+  "char": "詰",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 4,
+  "alts": [
+   "詰",
+   "訪",
+   "誌",
+   "詁",
+   "詩"
+  ]
+ },
+ {
+  "index": 312,
+  "char": "何",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 75,
+  "alts": [
+   "何",
+   "俯",
+   "餠",
+   "辮",
+   "拊"
+  ]
+ },
+ {
+  "index": 313,
+  "char": "度",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 117,
+  "alts": [
+   "度",
+   "廈",
+   "虔",
+   "窗",
+   "厦"
+  ]
+ },
+ {
+  "index": 314,
+  "char": "利",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 32,
+  "alts": [
+   "利",
+   "軻",
+   "村",
+   "柯",
+   "鶇"
+  ]
+ },
+ {
+  "index": 315,
+  "char": "業",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 57,
+  "alts": [
+   "豢",
+   "萠",
+   "麕",
+   "鼈",
+   "截"
+  ]
+ },
+ {
+  "index": 316,
+  "char": "植",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 115,
+  "alts": [
+   "植",
+   "掖",
+   "毓",
+   "披",
+   "檢"
+  ]
+ },
+ {
+  "index": 317,
+  "char": "朗",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 166,
+  "alts": []
+ },
+ {
+  "index": 318,
+  "char": "給",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "給",
+   "絵",
+   "胎",
+   "鯰",
+   "姶"
+  ]
+ },
+ {
+  "index": 319,
+  "char": "料",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": [
+   "料",
+   "科",
+   "斜",
+   "抖",
+   "軒"
+  ]
+ },
+ {
+  "index": 320,
+  "char": "悟",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 102,
+  "alts": [
+   "聡"
+  ]
+ },
+ {
+  "index": 321,
+  "char": "刺",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 31,
+  "alts": []
+ },
+ {
+  "index": 322,
+  "char": "休",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 71,
+  "alts": []
+ },
+ {
+  "index": 323,
+  "char": "憧",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 12,
+  "alts": [
+   "憶",
+   "愴",
+   "慢",
+   "惶",
+   "憧"
+  ]
+ },
+ {
+  "index": 324,
+  "char": "内",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 152,
+  "alts": []
+ },
+ {
+  "index": 325,
+  "char": "纏",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "駅",
+   "鈬",
+   "釈",
+   "釿",
+   "訳"
+  ]
+ },
+ {
+  "index": 326,
+  "char": "便",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 327,
+  "char": "分",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 251,
+  "alts": []
+ },
+ {
+  "index": 328,
+  "char": "綾",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 33,
+  "alts": []
+ },
+ {
+  "index": 329,
+  "char": "理",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 181,
+  "alts": []
+ },
+ {
+  "index": 330,
+  "char": "頂",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 331,
+  "char": "戴",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 332,
+  "char": "御",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 14,
+  "alts": []
+ },
+ {
+  "index": 333,
+  "char": "我",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 22,
+  "alts": []
+ },
+ {
+  "index": 334,
+  "char": "賭",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": [
+   "紲",
+   "臆",
+   "繚",
+   "嫌",
+   "戀"
+  ]
+ },
+ {
+  "index": 335,
+  "char": "設",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 49,
+  "alts": [
+   "設",
+   "狡",
+   "寂",
+   "股",
+   "毆"
+  ]
+ },
+ {
+  "index": 336,
+  "char": "化",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 34,
+  "alts": []
+ },
+ {
+  "index": 337,
+  "char": "希",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "希",
+   "肴",
+   "毒",
+   "斎",
+   "番"
+  ]
+ },
+ {
+  "index": 338,
+  "char": "望",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 41,
+  "alts": [
+   "望",
+   "璽",
+   "璧",
+   "悽",
+   "攣"
+  ]
+ },
+ {
+  "index": 339,
+  "char": "算",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": [
+   "賣",
+   "貰",
+   "嘗",
+   "弉",
+   "貧"
+  ]
+ },
+ {
+  "index": 340,
+  "char": "計",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 65,
+  "alts": [
+   "計",
+   "訃",
+   "肚",
+   "什",
+   "肝"
+  ]
+ },
+ {
+  "index": 341,
+  "char": "段",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 30,
+  "alts": []
+ },
+ {
+  "index": 342,
+  "char": "階",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 32,
+  "alts": [
+   "隕",
+   "崗",
+   "萌",
+   "險",
+   "隴"
+  ]
+ },
+ {
+  "index": 343,
+  "char": "嬶",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 21,
+  "alts": []
+ },
+ {
+  "index": 344,
+  "char": "連",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 46,
+  "alts": []
+ },
+ {
+  "index": 345,
+  "char": "携",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 346,
+  "char": "要",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 88,
+  "alts": []
+ },
+ {
+  "index": 347,
+  "char": "制",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 21,
+  "alts": []
+ },
+ {
+  "index": 348,
+  "char": "整",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 20,
+  "alts": []
+ },
+ {
+  "index": 349,
+  "char": "柔",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 350,
+  "char": "軟",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 351,
+  "char": "産",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 352,
+  "char": "提",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 50,
+  "alts": []
+ },
+ {
+  "index": 353,
+  "char": "供",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 18,
+  "alts": []
+ },
+ {
+  "index": 354,
+  "char": "素",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 31,
+  "alts": []
+ },
+ {
+  "index": 355,
+  "char": "槍",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 17,
+  "alts": [
+   "暗",
+   "哨",
+   "嶢",
+   "晴",
+   "疇"
+  ]
+ },
+ {
+  "index": 356,
+  "char": "指",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 149,
+  "alts": [
+   "剃"
+  ]
+ },
+ {
+  "index": 357,
+  "char": "営",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 31,
+  "alts": [
+   "貲",
+   "育",
+   "實",
+   "肯",
+   "囂"
+  ]
+ },
+ {
+  "index": 358,
+  "char": "活",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 14,
+  "alts": [
+   "活",
+   "沽",
+   "估",
+   "橇",
+   "瓲"
+  ]
+ },
+ {
+  "index": 359,
+  "char": "崋",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "兼",
+   "莪"
+  ]
+ },
+ {
+  "index": 360,
+  "char": "格",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 37,
+  "alts": []
+ },
+ {
+  "index": 361,
+  "char": "煤",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 37,
+  "alts": []
+ },
+ {
+  "index": 362,
+  "char": "紹",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 10,
+  "alts": []
+ },
+ {
+  "index": 363,
+  "char": "介",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 10,
+  "alts": []
+ },
+ {
+  "index": 364,
+  "char": "常",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 25,
+  "alts": [
+   "帛",
+   "弯",
+   "累",
+   "寓",
+   "寫"
+  ]
+ },
+ {
+  "index": 365,
+  "char": "典",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "典",
+   "黄",
+   "喪",
+   "夷",
+   "冓"
+  ]
+ },
+ {
+  "index": 366,
+  "char": "断",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 29,
+  "alts": [
+   "断",
+   "崗",
+   "斷",
+   "絎",
+   "■"
+  ]
+ },
+ {
+  "index": 367,
+  "char": "敵",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 15,
+  "alts": []
+ },
+ {
+  "index": 368,
+  "char": "選",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 13,
+  "alts": []
+ },
+ {
+  "index": 369,
+  "char": "婚",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 24,
+  "alts": []
+ },
+ {
+  "index": 370,
+  "char": "居",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 18,
+  "alts": []
+ },
+ {
+  "index": 371,
+  "char": "謎",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": []
+ },
+ {
+  "index": 372,
+  "char": "解",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 78,
+  "alts": [
+   "闘"
+  ]
+ },
+ {
+  "index": 373,
+  "char": "退",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 917,
+  "alts": [
+   "三",
+   "豆",
+   "亙",
+   "互",
+   "湮"
+  ]
+ },
+ {
+  "index": 374,
+  "char": "職",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 910,
+  "alts": [
+   "甫",
+   "唐",
+   "慮",
+   "濾",
+   "虜"
+  ]
+ },
+ {
+  "index": 375,
+  "char": "撃",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 44,
+  "alts": [
+   "鵜"
+  ]
+ },
+ {
+  "index": 376,
+  "char": "恥",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "簸"
+  ]
+ },
+ {
+  "index": 377,
+  "char": "告",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 69,
+  "alts": []
+ },
+ {
+  "index": 378,
+  "char": "必",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 53,
+  "alts": [
+   "必",
+   "趁",
+   "畆",
+   "髟",
+   "齢"
+  ]
+ },
+ {
+  "index": 379,
+  "char": "評",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": [
+   "許",
+   "拌",
+   "評",
+   "胖",
+   "譁"
+  ]
+ },
+ {
+  "index": 380,
+  "char": "根",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 17,
+  "alts": []
+ },
+ {
+  "index": 381,
+  "char": "注",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": [
+   "庄",
+   "住",
+   "往",
+   "眈",
+   "陳"
+  ]
+ },
+ {
+  "index": 382,
+  "char": "意",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 139,
+  "alts": []
+ },
+ {
+  "index": 383,
+  "char": "長",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 194,
+  "alts": [
+   "長",
+   "跿",
+   "貧",
+   "員",
+   "曼"
+  ]
+ },
+ {
+  "index": 384,
+  "char": "厳",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 13,
+  "alts": [
+   "厳",
+   "竸",
+   "敏",
+   "敵",
+   "継"
+  ]
+ },
+ {
+  "index": 385,
+  "char": "腕",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 15,
+  "alts": []
+ },
+ {
+  "index": 386,
+  "char": "端",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 18,
+  "alts": [
+   "播"
+  ]
+ },
+ {
+  "index": 387,
+  "char": "触",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 31,
+  "alts": [
+   "忘",
+   "岩",
+   "起",
+   "厳",
+   "紜"
+  ]
+ },
+ {
+  "index": 388,
+  "char": "就",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": [
+   "硫",
+   "肬",
+   "碇",
+   "蔵",
+   "跿"
+  ]
+ },
+ {
+  "index": 389,
+  "char": "戻",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 83,
+  "alts": [
+   "炭",
+   "慶",
+   "斑",
+   "庚",
+   "臠"
+  ]
+ },
+ {
+  "index": 390,
+  "char": "生",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 257,
+  "alts": []
+ },
+ {
+  "index": 391,
+  "char": "続",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 58,
+  "alts": [
+   "皎",
+   "硫",
+   "皖",
+   "院",
+   "饒"
+  ]
+ },
+ {
+  "index": 392,
+  "char": "思",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "走",
+   "麦",
+   "圭",
+   "澎",
+   "素"
+  ]
+ },
+ {
+  "index": 393,
+  "char": "像",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 74,
+  "alts": [
+   "崗",
+   "像",
+   "嶐",
+   "鹵",
+   "愎"
+  ]
+ },
+ {
+  "index": 394,
+  "char": "勘",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 14,
+  "alts": []
+ },
+ {
+  "index": 395,
+  "char": "挨",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 17,
+  "alts": []
+ },
+ {
+  "index": 396,
+  "char": "拶",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 17,
+  "alts": []
+ },
+ {
+  "index": 397,
+  "char": "割",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 12,
+  "alts": [
+   "刮",
+   "割",
+   "黼",
+   "剖",
+   "朗"
+  ]
+ },
+ {
+  "index": 398,
+  "char": "侏",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "侏",
+   "眛",
+   "檪",
+   "株",
+   "橡"
+  ]
+ },
+ {
+  "index": 399,
+  "char": "伽",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "伽",
+   "剖",
+   "踟",
+   "枷",
+   "餉"
+  ]
+ },
+ {
+  "index": 400,
+  "char": "始",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 50,
+  "alts": []
+ },
+ {
+  "index": 401,
+  "char": "峰",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 21,
+  "alts": [
+   "押"
+  ]
+ },
+ {
+  "index": 402,
+  "char": "槇",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "槇",
+   "模",
+   "攅",
+   "横",
+   "樸"
+  ]
+ },
+ {
+  "index": 403,
+  "char": "同",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 90,
+  "alts": []
+ },
+ {
+  "index": 404,
+  "char": "目",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 112,
+  "alts": []
+ },
+ {
+  "index": 405,
+  "char": "積",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": [
+   "饒",
+   "饋",
+   "穢",
+   "饐",
+   "橈"
+  ]
+ },
+ {
+  "index": 406,
+  "char": "極",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 16,
+  "alts": []
+ },
+ {
+  "index": 407,
+  "char": "軽",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 26,
+  "alts": []
+ },
+ {
+  "index": 408,
+  "char": "声",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 112,
+  "alts": []
+ },
+ {
+  "index": 409,
+  "char": "腰",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 410,
+  "char": "貞",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "賣",
+   "員",
+   "責",
+   "貞",
+   "賁"
+  ]
+ },
+ {
+  "index": 411,
+  "char": "重",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 67,
+  "alts": []
+ },
+ {
+  "index": 412,
+  "char": "古",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 6,
+  "alts": [
+   "古",
+   "占",
+   "杏",
+   "吉",
+   "衣"
+  ]
+ },
+ {
+  "index": 413,
+  "char": "渡",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 42,
+  "alts": []
+ },
+ {
+  "index": 414,
+  "char": "使",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 51,
+  "alts": [
+   "鋩",
+   "紕",
+   "鯲",
+   "絎",
+   "総"
+  ]
+ },
+ {
+  "index": 415,
+  "char": "世",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 37,
+  "alts": []
+ },
+ {
+  "index": 416,
+  "char": "紀",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "紀",
+   "杞",
+   "記",
+   "妃",
+   "鋩"
+  ]
+ },
+ {
+  "index": 417,
+  "char": "具",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 25,
+  "alts": []
+ },
+ {
+  "index": 418,
+  "char": "顧",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 50,
+  "alts": []
+ },
+ {
+  "index": 419,
+  "char": "弊",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 420,
+  "char": "登",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "登",
+   "豊",
+   "整",
+   "荳",
+   "疂"
+  ]
+ },
+ {
+  "index": 421,
+  "char": "録",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 46,
+  "alts": [
+   "緑",
+   "髞",
+   "録",
+   "縁",
+   "瞳"
+  ]
+ },
+ {
+  "index": 422,
+  "char": "将",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": [
+   "將",
+   "持",
+   "饅",
+   "勝",
+   "餞"
+  ]
+ },
+ {
+  "index": 423,
+  "char": "銅",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "黼",
+   "鉚",
+   "嬲",
+   "鏃",
+   "鍵"
+  ]
+ },
+ {
+  "index": 424,
+  "char": "像",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 13,
+  "alts": [
+   "掛",
+   "挺",
+   "披",
+   "餞",
+   "擬"
+  ]
+ },
+ {
+  "index": 425,
+  "char": "恋",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 24,
+  "alts": []
+ },
+ {
+  "index": 426,
+  "char": "副",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "繼",
+   "躑",
+   "繖",
+   "皺",
+   "蹶"
+  ]
+ },
+ {
+  "index": 427,
+  "char": "緒",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 46,
+  "alts": []
+ },
+ {
+  "index": 428,
+  "char": "時",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 357,
+  "alts": []
+ },
+ {
+  "index": 429,
+  "char": "月",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 194,
+  "alts": []
+ },
+ {
+  "index": 430,
+  "char": "曜",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 46,
+  "alts": [
+   "曜",
+   "唆",
+   "峻",
+   "曝",
+   "眠"
+  ]
+ },
+ {
+  "index": 431,
+  "char": "火",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": [
+   "火",
+   "大",
+   "犬",
+   "太",
+   "夫"
+  ]
+ },
+ {
+  "index": 432,
+  "char": "参",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 215,
+  "alts": [
+   "事",
+   "拿",
+   "拳",
+   "豢",
+   "幸"
+  ]
+ },
+ {
+  "index": 433,
+  "char": "府",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 242,
+  "alts": [
+   "辨",
+   "塒",
+   "鱒",
+   "桍",
+   "垪"
+  ]
+ },
+ {
+  "index": 434,
+  "char": "緊",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 435,
+  "char": "致",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 20,
+  "alts": []
+ },
+ {
+  "index": 436,
+  "char": "案",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 13,
+  "alts": []
+ },
+ {
+  "index": 437,
+  "char": "切",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 33,
+  "alts": [
+   "訳",
+   "択",
+   "鈬",
+   "齶",
+   "釈"
+  ]
+ },
+ {
+  "index": 438,
+  "char": "等",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 15,
+  "alts": [
+   "等",
+   "岑",
+   "專",
+   "専",
+   "嚀"
+  ]
+ },
+ {
+  "index": 439,
+  "char": "察",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 133,
+  "alts": []
+ },
+ {
+  "index": 440,
+  "char": "朝",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 921,
+  "alts": []
+ },
+ {
+  "index": 441,
+  "char": "露",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 912,
+  "alts": []
+ },
+ {
+  "index": 442,
+  "char": "栄",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 290,
+  "alts": [
+   "茉",
+   "栄",
+   "肇",
+   "粢",
+   "暈"
+  ]
+ },
+ {
+  "index": 443,
+  "char": "太",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 385,
+  "alts": []
+ },
+ {
+  "index": 444,
+  "char": "郎",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 384,
+  "alts": []
+ },
+ {
+  "index": 445,
+  "char": "台",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 16,
+  "alts": [
+   "台",
+   "計",
+   "銓",
+   "自",
+   "針"
+  ]
+ },
+ {
+  "index": 446,
+  "char": "聲",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 13,
+  "alts": [
+   "壊"
+  ]
+ },
+ {
+  "index": 447,
+  "char": "運",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 12,
+  "alts": [
+   "遠",
+   "崖",
+   "速",
+   "連",
+   "達"
+  ]
+ },
+ {
+  "index": 448,
+  "char": "絡",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 23,
+  "alts": [
+   "唐"
+  ]
+ },
+ {
+  "index": 449,
+  "char": "御",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 23,
+  "alts": [
+   "約",
+   "妁",
+   "胸",
+   "韵",
+   "鈞"
+  ]
+ },
+ {
+  "index": 450,
+  "char": "飯",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 18,
+  "alts": [
+   "東",
+   "束",
+   "柬",
+   "來",
+   "来"
+  ]
+ },
+ {
+  "index": 451,
+  "char": "急",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 32,
+  "alts": [
+   "忽",
+   "急",
+   "怠",
+   "悠",
+   "怱"
+  ]
+ },
+ {
+  "index": 452,
+  "char": "元",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 59,
+  "alts": [
+   "元",
+   "光",
+   "兄",
+   "紀",
+   "无"
+  ]
+ },
+ {
+  "index": 453,
+  "char": "組",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 27,
+  "alts": [
+   "班",
+   "絎",
+   "肌",
+   "艇",
+   "斑"
+  ]
+ },
+ {
+  "index": 454,
+  "char": "紆",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 12,
+  "alts": []
+ },
+ {
+  "index": 455,
+  "char": "員",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 216,
+  "alts": [
+   "餞",
+   "饑",
+   "膰",
+   "饅",
+   "蔬"
+  ]
+ },
+ {
+  "index": 456,
+  "char": "噂",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 457,
+  "char": "確",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 158,
+  "alts": [
+   "破",
+   "硫",
+   "確",
+   "瞳",
+   "礑"
+  ]
+ },
+ {
+  "index": 458,
+  "char": "認",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 146,
+  "alts": []
+ },
+ {
+  "index": 459,
+  "char": "吉",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 211,
+  "alts": []
+ },
+ {
+  "index": 460,
+  "char": "娘",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 23,
+  "alts": [
+   "股"
+  ]
+ },
+ {
+  "index": 461,
+  "char": "由",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 74,
+  "alts": []
+ },
+ {
+  "index": 462,
+  "char": "環",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 463,
+  "char": "境",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 12,
+  "alts": []
+ },
+ {
+  "index": 464,
+  "char": "転",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 13,
+  "alts": []
+ },
+ {
+  "index": 465,
+  "char": "換",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 466,
+  "char": "遇",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 467,
+  "char": "復",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 49,
+  "alts": []
+ },
+ {
+  "index": 468,
+  "char": "職",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 60,
+  "alts": []
+ },
+ {
+  "index": 469,
+  "char": "価",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "鐇",
+   "鏃",
+   "蟠",
+   "鐵",
+   "鑷"
+  ]
+ },
+ {
+  "index": 470,
+  "char": "倚",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 85,
+  "alts": []
+ },
+ {
+  "index": 471,
+  "char": "鳰",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 472,
+  "char": "頃",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 43,
+  "alts": []
+ },
+ {
+  "index": 473,
+  "char": "偶",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 25,
+  "alts": []
+ },
+ {
+  "index": 474,
+  "char": "然",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 70,
+  "alts": []
+ },
+ {
+  "index": 475,
+  "char": "限",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 28,
+  "alts": [
+   "閤",
+   "眠",
+   "瞰",
+   "関",
+   "擬"
+  ]
+ },
+ {
+  "index": 476,
+  "char": "路",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": [
+   "路",
+   "賂",
+   "餠",
+   "崗",
+   "鏃"
+  ]
+ },
+ {
+  "index": 477,
+  "char": "男",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 132,
+  "alts": [
+   "努",
+   "男",
+   "髣",
+   "贅",
+   "售"
+  ]
+ },
+ {
+  "index": 478,
+  "char": "過",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 69,
+  "alts": []
+ },
+ {
+  "index": 479,
+  "char": "了",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 29,
+  "alts": []
+ },
+ {
+  "index": 480,
+  "char": "戦",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 25,
+  "alts": []
+ },
+ {
+  "index": 481,
+  "char": "嫌",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 28,
+  "alts": []
+ },
+ {
+  "index": 482,
+  "char": "二",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 197,
+  "alts": [
+   "二",
+   "工",
+   "匸",
+   "ご",
+   "訌"
+  ]
+ },
+ {
+  "index": 483,
+  "char": "有",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 34,
+  "alts": []
+ },
+ {
+  "index": 484,
+  "char": "輩",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 37,
+  "alts": []
+ },
+ {
+  "index": 485,
+  "char": "辞",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 30,
+  "alts": []
+ },
+ {
+  "index": 486,
+  "char": "凄",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 487,
+  "char": "喜",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "真",
+   "喜",
+   "貪",
+   "襄",
+   "寞"
+  ]
+ },
+ {
+  "index": 488,
+  "char": "共",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "共",
+   "粍",
+   "銭",
+   "栽",
+   "践"
+  ]
+ },
+ {
+  "index": 489,
+  "char": "器",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 34,
+  "alts": []
+ },
+ {
+  "index": 490,
+  "char": "蘇",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "蘚",
+   "蘇",
+   "鮮",
+   "蚌",
+   "黻"
+  ]
+ },
+ {
+  "index": 491,
+  "char": "統",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "統",
+   "絖",
+   "紘",
+   "硫",
+   "絋"
+  ]
+ },
+ {
+  "index": 492,
+  "char": "奇",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 493,
+  "char": "穢",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 72,
+  "alts": [
+   "瘋",
+   "撞",
+   "擁",
+   "櫨",
+   "掩"
+  ]
+ },
+ {
+  "index": 494,
+  "char": "耐",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "躱"
+  ]
+ },
+ {
+  "index": 495,
+  "char": "震",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 496,
+  "char": "点",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 37,
+  "alts": []
+ },
+ {
+  "index": 497,
+  "char": "犠",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 498,
+  "char": "牲",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 499,
+  "char": "痛",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 11,
+  "alts": [
+   "痛",
+   "燐",
+   "廉",
+   "滿",
+   "癢"
+  ]
+ },
+ {
+  "index": 500,
+  "char": "機",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 14,
+  "alts": [
+   "鐡",
+   "鐵",
+   "織",
+   "纎",
+   "嫐"
+  ]
+ },
+ {
+  "index": 501,
+  "char": "搾",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "陣",
+   "搾",
+   "抔",
+   "拌",
+   "停"
+  ]
+ },
+ {
+  "index": 502,
+  "char": "納",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 28,
+  "alts": [
+   "納",
+   "齣",
+   "肭",
+   "蚋",
+   "訥"
+  ]
+ },
+ {
+  "index": 503,
+  "char": "保",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 20,
+  "alts": []
+ },
+ {
+  "index": 504,
+  "char": "奏",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "革",
+   "甚",
+   "蒹",
+   "棊",
+   "茱"
+  ]
+ },
+ {
+  "index": 505,
+  "char": "担",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "飯",
+   "骰",
+   "敗",
+   "篋",
+   "搬"
+  ]
+ },
+ {
+  "index": 506,
+  "char": "番",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 69,
+  "alts": []
+ },
+ {
+  "index": 507,
+  "char": "賈",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": []
+ },
+ {
+  "index": 508,
+  "char": "面",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 81,
+  "alts": [
+   "岻"
+  ]
+ },
+ {
+  "index": 509,
+  "char": "想",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 39,
+  "alts": []
+ },
+ {
+  "index": 510,
+  "char": "濃",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 55,
+  "alts": []
+ },
+ {
+  "index": 511,
+  "char": "皷",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 18,
+  "alts": [
+   "娯"
+  ]
+ },
+ {
+  "index": 512,
+  "char": "義",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "瞳",
+   "瘋",
+   "義",
+   "銓",
+   "嵐"
+  ]
+ },
+ {
+  "index": 513,
+  "char": "正",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 104,
+  "alts": [
+   "正",
+   "王",
+   "走",
+   "笙",
+   "玉"
+  ]
+ },
+ {
+  "index": 514,
+  "char": "俗",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 28,
+  "alts": [
+   "鍵",
+   "獅",
+   "鍜",
+   "鉚",
+   "鷯"
+  ]
+ },
+ {
+  "index": 515,
+  "char": "途",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 13,
+  "alts": []
+ },
+ {
+  "index": 516,
+  "char": "乗",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 12,
+  "alts": [
+   "寄",
+   "嵜",
+   "害",
+   "蹇",
+   "寨"
+  ]
+ },
+ {
+  "index": 517,
+  "char": "歩",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": [
+   "歩",
+   "事",
+   "拳",
+   "箏",
+   "幸"
+  ]
+ },
+ {
+  "index": 518,
+  "char": "悪",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 65,
+  "alts": []
+ },
+ {
+  "index": 519,
+  "char": "攸",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 4,
+  "alts": [
+   "攸",
+   "皎",
+   "栓",
+   "敗",
+   "找"
+  ]
+ },
+ {
+  "index": 520,
+  "char": "屠",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "撮"
+  ]
+ },
+ {
+  "index": 521,
+  "char": "余",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 21,
+  "alts": []
+ },
+ {
+  "index": 522,
+  "char": "十",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 22,
+  "alts": [
+   "｜",
+   "十",
+   "ｆ",
+   "＋",
+   "｛"
+  ]
+ },
+ {
+  "index": 523,
+  "char": "裏",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 20,
+  "alts": []
+ },
+ {
+  "index": 524,
+  "char": "偽",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 525,
+  "char": "都",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 56,
+  "alts": [
+   "突"
+  ]
+ },
+ {
+  "index": 526,
+  "char": "醜",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 26,
+  "alts": [
+   "慟",
+   "働",
+   "鶻",
+   "黴",
+   "鶺"
+  ]
+ },
+ {
+  "index": 527,
+  "char": "鬱",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 528,
+  "char": "棘",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 20,
+  "alts": []
+ },
+ {
+  "index": 529,
+  "char": "程",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 29,
+  "alts": []
+ },
+ {
+  "index": 530,
+  "char": "貞",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "賣",
+   "貞",
+   "貧",
+   "資",
+   "買"
+  ]
+ },
+ {
+  "index": 531,
+  "char": "欷",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "飲",
+   "欷",
+   "歓",
+   "飮",
+   "敏"
+  ]
+ },
+ {
+  "index": 532,
+  "char": "苦",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 29,
+  "alts": [
+   "苦",
+   "若",
+   "荅",
+   "苔",
+   "罟"
+  ]
+ },
+ {
+  "index": 533,
+  "char": "蔵",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": [
+   "巌",
+   "慮",
+   "厳",
+   "嵐",
+   "凰"
+  ]
+ },
+ {
+  "index": 534,
+  "char": "宣",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 535,
+  "char": "抵",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 536,
+  "char": "抗",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 537,
+  "char": "属",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 28,
+  "alts": [
+   "艤",
+   "膓",
+   "鐃",
+   "腸",
+   "餽"
+  ]
+ },
+ {
+  "index": 538,
+  "char": "遠",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 12,
+  "alts": []
+ },
+ {
+  "index": 539,
+  "char": "和",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 13,
+  "alts": []
+ },
+ {
+  "index": 540,
+  "char": "誘",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 541,
+  "char": "謝",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 37,
+  "alts": []
+ },
+ {
+  "index": 542,
+  "char": "求",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 9,
+  "alts": []
+ },
+ {
+  "index": 543,
+  "char": "俺",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 23,
+  "alts": []
+ },
+ {
+  "index": 544,
+  "char": "餤",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "皎",
+   "餤",
+   "鯰",
+   "餃",
+   "脱"
+  ]
+ },
+ {
+  "index": 545,
+  "char": "田",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 546,
+  "char": "容",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 82,
+  "alts": []
+ },
+ {
+  "index": 547,
+  "char": "警",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 128,
+  "alts": []
+ },
+ {
+  "index": 548,
+  "char": "廣",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "癰",
+   "輾",
+   "蜒",
+   "癢",
+   "軅"
+  ]
+ },
+ {
+  "index": 549,
+  "char": "換",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 43,
+  "alts": []
+ },
+ {
+  "index": 550,
+  "char": "念",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 28,
+  "alts": [
+   "念",
+   "蠢",
+   "盒",
+   "蠡",
+   "倉"
+  ]
+ },
+ {
+  "index": 551,
+  "char": "伴",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": [
+   "腹",
+   "鰒",
+   "篋",
+   "蹴",
+   "膣"
+  ]
+ },
+ {
+  "index": 552,
+  "char": "屈",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 22,
+  "alts": []
+ },
+ {
+  "index": 553,
+  "char": "辱",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 17,
+  "alts": []
+ },
+ {
+  "index": 554,
+  "char": "尋",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 57,
+  "alts": []
+ },
+ {
+  "index": 555,
+  "char": "闘",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 556,
+  "char": "狂",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": [
+   "技",
+   "挂",
+   "伎",
+   "按",
+   "控"
+  ]
+ },
+ {
+  "index": 557,
+  "char": "則",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 558,
+  "char": "麻",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 36,
+  "alts": []
+ },
+ {
+  "index": 559,
+  "char": "乱",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": [
+   "乱",
+   "亂",
+   "齔",
+   "扎",
+   "畠"
+  ]
+ },
+ {
+  "index": 560,
+  "char": "緩",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 18,
+  "alts": [
+   "懺",
+   "鐓",
+   "繼",
+   "懴",
+   "躑"
+  ]
+ },
+ {
+  "index": 561,
+  "char": "舞",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 10,
+  "alts": [
+   "努",
+   "勢",
+   "暼",
+   "筍",
+   "笥"
+  ]
+ },
+ {
+  "index": 562,
+  "char": "土",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "士",
+   "｜",
+   "ｆ",
+   "】",
+   "｛"
+  ]
+ },
+ {
+  "index": 563,
+  "char": "挙",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 16,
+  "alts": [
+   "庵",
+   "崖",
+   "座",
+   "庫",
+   "申"
+  ]
+ },
+ {
+  "index": 564,
+  "char": "全",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 45,
+  "alts": [
+   "全",
+   "仝",
+   "金",
+   "奎",
+   "企"
+  ]
+ },
+ {
+  "index": 565,
+  "char": "敏",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 566,
+  "char": "簡",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 19,
+  "alts": [
+   "攤",
+   "儺",
+   "搬",
+   "鶻",
+   "飾"
+  ]
+ },
+ {
+  "index": 567,
+  "char": "単",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 33,
+  "alts": [
+   "単",
+   "畊",
+   "寧",
+   "麻",
+   "申"
+  ]
+ },
+ {
+  "index": 568,
+  "char": "掛",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": [
+   "唐",
+   "済",
+   "癢",
+   "儀",
+   "倚"
+  ]
+ },
+ {
+  "index": 569,
+  "char": "弟",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 19,
+  "alts": [
+   "弟",
+   "萌",
+   "麝",
+   "截",
+   "骸"
+  ]
+ },
+ {
+  "index": 570,
+  "char": "都",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 17,
+  "alts": [
+   "継"
+  ]
+ },
+ {
+  "index": 571,
+  "char": "順",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 228,
+  "alts": [
+   "若",
+   "蒋",
+   "菽",
+   "萪",
+   "慕"
+  ]
+ },
+ {
+  "index": 572,
+  "char": "作",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 34,
+  "alts": []
+ },
+ {
+  "index": 573,
+  "char": "影",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 46,
+  "alts": []
+ },
+ {
+  "index": 574,
+  "char": "皸",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 44,
+  "alts": [
+   "響"
+  ]
+ },
+ {
+  "index": 575,
+  "char": "却",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 576,
+  "char": "議",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 18,
+  "alts": []
+ },
+ {
+  "index": 577,
+  "char": "閣",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 32,
+  "alts": [
+   "隠"
+  ]
+ },
+ {
+  "index": 578,
+  "char": "幼",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 579,
+  "char": "稚",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 580,
+  "char": "為",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 9,
+  "alts": []
+ },
+ {
+  "index": 581,
+  "char": "紳",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 582,
+  "char": "仲",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 15,
+  "alts": [
+   "仲",
+   "拌",
+   "件",
+   "胖",
+   "鰺"
+  ]
+ },
+ {
+  "index": 583,
+  "char": "覚",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 99,
+  "alts": [
+   "蔵"
+  ]
+ },
+ {
+  "index": 584,
+  "char": "暗",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 21,
+  "alts": []
+ },
+ {
+  "index": 585,
+  "char": "破",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": []
+ },
+ {
+  "index": 586,
+  "char": "鍵",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 48,
+  "alts": []
+ },
+ {
+  "index": 587,
+  "char": "開",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 43,
+  "alts": [
+   "関",
+   "閤",
+   "崗",
+   "開",
+   "閏"
+  ]
+ },
+ {
+  "index": 588,
+  "char": "労",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "労",
+   "奢",
+   "旁",
+   "努",
+   "髣"
+  ]
+ },
+ {
+  "index": 589,
+  "char": "沿",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": [
+   "明",
+   "擬",
+   "困",
+   "淋",
+   "孅"
+  ]
+ },
+ {
+  "index": 590,
+  "char": "移",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 126,
+  "alts": [
+   "修",
+   "條",
+   "拶",
+   "捗",
+   "餘"
+  ]
+ },
+ {
+  "index": 591,
+  "char": "篠",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 592,
+  "char": "扉",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 26,
+  "alts": []
+ },
+ {
+  "index": 593,
+  "char": "慣",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": [
+   "慣",
+   "償",
+   "懴",
+   "慎",
+   "惜"
+  ]
+ },
+ {
+  "index": 594,
+  "char": "否",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 37,
+  "alts": []
+ },
+ {
+  "index": 595,
+  "char": "席",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 32,
+  "alts": [
+   "席",
+   "巌",
+   "寤",
+   "廣",
+   "慮"
+  ]
+ },
+ {
+  "index": 596,
+  "char": "屋",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": [
+   "潔",
+   "瘰",
+   "縻",
+   "徹",
+   "僂"
+  ]
+ },
+ {
+  "index": 597,
+  "char": "六",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "∧",
+   "几",
+   "六",
+   "八",
+   "Λ"
+  ]
+ },
+ {
+  "index": 598,
+  "char": "葵",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 163,
+  "alts": []
+ },
+ {
+  "index": 599,
+  "char": "趣",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 600,
+  "char": "期",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 51,
+  "alts": []
+ },
+ {
+  "index": 601,
+  "char": "電",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 37,
+  "alts": []
+ },
+ {
+  "index": 602,
+  "char": "号",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 23,
+  "alts": [
+   "兮",
+   "号",
+   "牲",
+   "杪",
+   "秒"
+  ]
+ },
+ {
+  "index": 603,
+  "char": "声",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 23,
+  "alts": []
+ },
+ {
+  "index": 604,
+  "char": "箍",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 16,
+  "alts": [
+   "互"
+  ]
+ },
+ {
+  "index": 605,
+  "char": "識",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 28,
+  "alts": []
+ },
+ {
+  "index": 606,
+  "char": "功",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": [
+   "功",
+   "袍",
+   "匏",
+   "衲",
+   "物"
+  ]
+ },
+ {
+  "index": 607,
+  "char": "績",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "縱",
+   "蹤",
+   "饒",
+   "鏃",
+   "績"
+  ]
+ },
+ {
+  "index": 608,
+  "char": "腐",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 609,
+  "char": "界",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 27,
+  "alts": []
+ },
+ {
+  "index": 610,
+  "char": "益",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 611,
+  "char": "柚",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 612,
+  "char": "式",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": [
+   "計",
+   "針",
+   "紆",
+   "鮓",
+   "鮗"
+  ]
+ },
+ {
+  "index": 613,
+  "char": "筋",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 614,
+  "char": "措",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 7,
+  "alts": []
+ },
+ {
+  "index": 615,
+  "char": "放",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 65,
+  "alts": []
+ },
+ {
+  "index": 616,
+  "char": "馨",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 12,
+  "alts": []
+ },
+ {
+  "index": 617,
+  "char": "複",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 13,
+  "alts": [
+   "複",
+   "拑",
+   "撥",
+   "褂",
+   "梭"
+  ]
+ },
+ {
+  "index": 618,
+  "char": "雑",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": [
+   "雑",
+   "瞳",
+   "幢",
+   "鐵",
+   "雎"
+  ]
+ },
+ {
+  "index": 619,
+  "char": "丸",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "丸",
+   "扎",
+   "夂",
+   "夊",
+   "九"
+  ]
+ },
+ {
+  "index": 620,
+  "char": "示",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 38,
+  "alts": [
+   "示",
+   "繼",
+   "萠",
+   "癬",
+   "册"
+  ]
+ },
+ {
+  "index": 621,
+  "char": "汗",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 622,
+  "char": "嘩",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 623,
+  "char": "委",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 624,
+  "char": "頑",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 625,
+  "char": "固",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": [
+   "肩"
+  ]
+ },
+ {
+  "index": 626,
+  "char": "再",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 47,
+  "alts": []
+ },
+ {
+  "index": 627,
+  "char": "初",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 46,
+  "alts": [
+   "粗"
+  ]
+ },
+ {
+  "index": 628,
+  "char": "渋",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 629,
+  "char": "旨",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 630,
+  "char": "桜",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 19,
+  "alts": [
+   "桜",
+   "梭",
+   "餒",
+   "珱",
+   "侫"
+  ]
+ },
+ {
+  "index": 631,
+  "char": "蔭",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 19,
+  "alts": [
+   "織",
+   "疳",
+   "癈",
+   "難",
+   "攤"
+  ]
+ },
+ {
+  "index": 632,
+  "char": "神",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "抻",
+   "拌",
+   "棒",
+   "捧",
+   "褝"
+  ]
+ },
+ {
+  "index": 633,
+  "char": "茜",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 122,
+  "alts": []
+ },
+ {
+  "index": 634,
+  "char": "捜",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 51,
+  "alts": [
+   "性",
+   "操"
+  ]
+ },
+ {
+  "index": 635,
+  "char": "徒",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": [
+   "徒",
+   "旋",
+   "従",
+   "挑",
+   "綻"
+  ]
+ },
+ {
+  "index": 636,
+  "char": "師",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 76,
+  "alts": []
+ },
+ {
+  "index": 637,
+  "char": "匠",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 32,
+  "alts": []
+ },
+ {
+  "index": 638,
+  "char": "兄",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 54,
+  "alts": [
+   "兄",
+   "見",
+   "鉦",
+   "結",
+   "鈕"
+  ]
+ },
+ {
+  "index": 639,
+  "char": "服",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 16,
+  "alts": []
+ },
+ {
+  "index": 640,
+  "char": "果",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 44,
+  "alts": []
+ },
+ {
+  "index": 641,
+  "char": "唐",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 642,
+  "char": "学",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 37,
+  "alts": []
+ },
+ {
+  "index": 643,
+  "char": "共",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "共",
+   "其",
+   "糞",
+   "黄",
+   "真"
+  ]
+ },
+ {
+  "index": 644,
+  "char": "羨",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "羨",
+   "菌",
+   "痰",
+   "箘",
+   "豢"
+  ]
+ },
+ {
+  "index": 645,
+  "char": "邪",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 646,
+  "char": "魔",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 14,
+  "alts": []
+ },
+ {
+  "index": 647,
+  "char": "畭",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 97,
+  "alts": [
+   "酔"
+  ]
+ },
+ {
+  "index": 648,
+  "char": "綺",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 12,
+  "alts": []
+ },
+ {
+  "index": 649,
+  "char": "麗",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 14,
+  "alts": []
+ },
+ {
+  "index": 650,
+  "char": "隅",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 651,
+  "char": "索",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 652,
+  "char": "悩",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "悩",
+   "脳",
+   "蝓",
+   "鍼",
+   "脇"
+  ]
+ },
+ {
+  "index": 653,
+  "char": "推",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 39,
+  "alts": [
+   "撹",
+   "撥",
+   "崗",
+   "掖",
+   "擦"
+  ]
+ },
+ {
+  "index": 654,
+  "char": "勉",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 14,
+  "alts": [
+   "勉",
+   "舫",
+   "轆",
+   "醢",
+   "鯱"
+  ]
+ },
+ {
+  "index": 655,
+  "char": "迎",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 7,
+  "alts": []
+ },
+ {
+  "index": 656,
+  "char": "勾",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 35,
+  "alts": []
+ },
+ {
+  "index": 657,
+  "char": "留",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 91,
+  "alts": []
+ },
+ {
+  "index": 658,
+  "char": "悲",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 28,
+  "alts": []
+ },
+ {
+  "index": 659,
+  "char": "壮",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 660,
+  "char": "依",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 15,
+  "alts": []
+ },
+ {
+  "index": 661,
+  "char": "狭",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 24,
+  "alts": [
+   "昔",
+   "嘗",
+   "貧",
+   "許",
+   "賣"
+  ]
+ },
+ {
+  "index": 662,
+  "char": "鋭",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": [
+   "餃",
+   "蹤",
+   "脱",
+   "蹴",
+   "艇"
+  ]
+ },
+ {
+  "index": 663,
+  "char": "形",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": [
+   "堅"
+  ]
+ },
+ {
+  "index": 664,
+  "char": "歓",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 665,
+  "char": "遊",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "遊",
+   "避",
+   "盈",
+   "逝",
+   "澱"
+  ]
+ },
+ {
+  "index": 666,
+  "char": "路",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 19,
+  "alts": [
+   "宵",
+   "肓",
+   "育",
+   "寫",
+   "貲"
+  ]
+ },
+ {
+  "index": 667,
+  "char": "観",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "癜",
+   "繼",
+   "餠",
+   "儼",
+   "繖"
+  ]
+ },
+ {
+  "index": 668,
+  "char": "車",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 23,
+  "alts": []
+ },
+ {
+  "index": 669,
+  "char": "記",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 92,
+  "alts": []
+ },
+ {
+  "index": 670,
+  "char": "効",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": [
+   "効",
+   "劾",
+   "鵁",
+   "勍",
+   "勃"
+  ]
+ },
+ {
+  "index": 671,
+  "char": "率",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "寧",
+   "事",
+   "拳",
+   "亭",
+   "搴"
+  ]
+ },
+ {
+  "index": 672,
+  "char": "埜",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 50,
+  "alts": []
+ },
+ {
+  "index": 673,
+  "char": "轉",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 36,
+  "alts": [
+   "爺",
+   "漑",
+   "軈",
+   "織",
+   "廐"
+  ]
+ },
+ {
+  "index": 674,
+  "char": "亜",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 675,
+  "char": "蹶",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 40,
+  "alts": [
+   "蹶",
+   "獻",
+   "蠍",
+   "繼",
+   "鯨"
+  ]
+ },
+ {
+  "index": 676,
+  "char": "音",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 84,
+  "alts": []
+ },
+ {
+  "index": 677,
+  "char": "儺",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 38,
+  "alts": []
+ },
+ {
+  "index": 678,
+  "char": "銃",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 155,
+  "alts": []
+ },
+ {
+  "index": 679,
+  "char": "駆",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 15,
+  "alts": [
+   "駆",
+   "簓",
+   "躯",
+   "彫",
+   "緲"
+  ]
+ },
+ {
+  "index": 680,
+  "char": "導",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 13,
+  "alts": []
+ },
+ {
+  "index": 681,
+  "char": "仮",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 13,
+  "alts": [
+   "仮",
+   "髭",
+   "骰",
+   "鬣",
+   "餃"
+  ]
+ },
+ {
+  "index": 682,
+  "char": "説",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 41,
+  "alts": []
+ },
+ {
+  "index": 683,
+  "char": "加",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 16,
+  "alts": [
+   "舳",
+   "珈",
+   "踟",
+   "加",
+   "跏"
+  ]
+ },
+ {
+  "index": 684,
+  "char": "譲",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": [
+   "巍",
+   "朧",
+   "鵬",
+   "麹",
+   "綯"
+  ]
+ },
+ {
+  "index": 685,
+  "char": "防",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 53,
+  "alts": [
+   "防",
+   "削",
+   "関",
+   "閉",
+   "閤"
+  ]
+ },
+ {
+  "index": 686,
+  "char": "策",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 14,
+  "alts": [
+   "簸",
+   "儼",
+   "瞳",
+   "鏃",
+   "鑼"
+  ]
+ },
+ {
+  "index": 687,
+  "char": "施",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 688,
+  "char": "工",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 15,
+  "alts": []
+ },
+ {
+  "index": 689,
+  "char": "屑",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 19,
+  "alts": [
+   "崩"
+  ]
+ },
+ {
+  "index": 690,
+  "char": "刑",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 166,
+  "alts": []
+ },
+ {
+  "index": 691,
+  "char": "密",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 14,
+  "alts": []
+ },
+ {
+  "index": 692,
+  "char": "項",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 693,
+  "char": "純",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": []
+ },
+ {
+  "index": 694,
+  "char": "眩",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "眩",
+   "昧",
+   "眈",
+   "■",
+   "皎"
+  ]
+ },
+ {
+  "index": 695,
+  "char": "適",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "避",
+   "適",
+   "遍",
+   "迪",
+   "途"
+  ]
+ },
+ {
+  "index": 696,
+  "char": "起",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 60,
+  "alts": []
+ },
+ {
+  "index": 697,
+  "char": "瞬",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 10,
+  "alts": []
+ },
+ {
+  "index": 698,
+  "char": "肩",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 11,
+  "alts": []
+ },
+ {
+  "index": 699,
+  "char": "運",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 25,
+  "alts": [
+   "廛",
+   "崖",
+   "遯",
+   "邂",
+   "厘"
+  ]
+ },
+ {
+  "index": 700,
+  "char": "送",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 22,
+  "alts": [
+   "送",
+   "迭",
+   "透",
+   "迅",
+   "迷"
+  ]
+ },
+ {
+  "index": 701,
+  "char": "捨",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 7,
+  "alts": [
+   "捨",
+   "橇",
+   "掛",
+   "掖",
+   "陵"
+  ]
+ },
+ {
+  "index": 702,
+  "char": "深",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 23,
+  "alts": []
+ },
+ {
+  "index": 703,
+  "char": "樹",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": [
+   "戀",
+   "楸",
+   "緲",
+   "閤",
+   "熊"
+  ]
+ },
+ {
+  "index": 704,
+  "char": "瓶",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 705,
+  "char": "焼",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 706,
+  "char": "酎",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 707,
+  "char": "杯",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 7,
+  "alts": []
+ },
+ {
+  "index": 708,
+  "char": "帯",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": [
+   "雄"
+  ]
+ },
+ {
+  "index": 709,
+  "char": "醋",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 710,
+  "char": "映",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 68,
+  "alts": [
+   "吹",
+   "哨",
+   "帙",
+   "畸",
+   "畋"
+  ]
+ },
+ {
+  "index": 711,
+  "char": "鮭",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 712,
+  "char": "悔",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 12,
+  "alts": [
+   "惧"
+  ]
+ },
+ {
+  "index": 713,
+  "char": "李",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "凖",
+   "儁",
+   "孛",
+   "準",
+   "窄"
+  ]
+ },
+ {
+  "index": 714,
+  "char": "済",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 15,
+  "alts": [
+   "済",
+   "嗇",
+   "崙",
+   "瘡",
+   "濟"
+  ]
+ },
+ {
+  "index": 715,
+  "char": "毎",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 6,
+  "alts": [
+   "瞳",
+   "毎",
+   "髷",
+   "継",
+   "厳"
+  ]
+ },
+ {
+  "index": 716,
+  "char": "風",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "逮",
+   "速",
+   "逹",
+   "遷",
+   "崖"
+  ]
+ },
+ {
+  "index": 717,
+  "char": "嗚",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 718,
+  "char": "温",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "瘟",
+   "温",
+   "盧",
+   "榲",
+   "嵐"
+  ]
+ },
+ {
+  "index": 719,
+  "char": "際",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "孥",
+   "摩",
+   "岸",
+   "厚",
+   "擘"
+  ]
+ },
+ {
+  "index": 720,
+  "char": "夜",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 13,
+  "alts": []
+ },
+ {
+  "index": 721,
+  "char": "基",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 14,
+  "alts": []
+ },
+ {
+  "index": 722,
+  "char": "販",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 723,
+  "char": "徠",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 17,
+  "alts": [
+   "眛",
+   "妹",
+   "昧",
+   "味",
+   "眸"
+  ]
+ },
+ {
+  "index": 724,
+  "char": "儲",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "儲",
+   "鏃",
+   "鑪",
+   "謎",
+   "健"
+  ]
+ },
+ {
+  "index": 725,
+  "char": "国",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 17,
+  "alts": []
+ },
+ {
+  "index": 726,
+  "char": "試",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 15,
+  "alts": [
+   "試",
+   "誠",
+   "拭",
+   "誡",
+   "訊"
+  ]
+ },
+ {
+  "index": 727,
+  "char": "験",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 23,
+  "alts": [
+   "隙",
+   "険",
+   "瞼",
+   "陝",
+   "陂"
+  ]
+ },
+ {
+  "index": 728,
+  "char": "倍",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "倍",
+   "佶",
+   "俗",
+   "估",
+   "悋"
+  ]
+ },
+ {
+  "index": 729,
+  "char": "懸",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 730,
+  "char": "命",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 24,
+  "alts": []
+ },
+ {
+  "index": 731,
+  "char": "努",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "努",
+   "劈",
+   "髣",
+   "暼",
+   "臀"
+  ]
+ },
+ {
+  "index": 732,
+  "char": "釈",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 52,
+  "alts": []
+ },
+ {
+  "index": 733,
+  "char": "骼",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 5,
+  "alts": [
+   "骼",
+   "熟",
+   "鶻",
+   "商",
+   "雋"
+  ]
+ },
+ {
+  "index": 734,
+  "char": "模",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "穂"
+  ]
+ },
+ {
+  "index": 735,
+  "char": "卒",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": [
+   "卒",
+   "挙",
+   "筝",
+   "亊",
+   "事"
+  ]
+ },
+ {
+  "index": 736,
+  "char": "傷",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 737,
+  "char": "額",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "韻",
+   "繃",
+   "額",
+   "黼",
+   "餉"
+  ]
+ },
+ {
+  "index": 738,
+  "char": "星",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "皇",
+   "篁",
+   "■",
+   "星",
+   "趾"
+  ]
+ },
+ {
+  "index": 739,
+  "char": "含",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 740,
+  "char": "友",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 22,
+  "alts": [
+   "友",
+   "変",
+   "夐",
+   "矣",
+   "麦"
+  ]
+ },
+ {
+  "index": 741,
+  "char": "尊",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 5,
+  "alts": [
+   "尊",
+   "椁",
+   "哮",
+   "棒",
+   "楾"
+  ]
+ },
+ {
+  "index": 742,
+  "char": "敬",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 6,
+  "alts": [
+   "敬",
+   "敏",
+   "散",
+   "收",
+   "欹"
+  ]
+ },
+ {
+  "index": 743,
+  "char": "克",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": []
+ },
+ {
+  "index": 744,
+  "char": "教",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 60,
+  "alts": [
+   "橇",
+   "拠",
+   "撓",
+   "擣",
+   "據"
+  ]
+ },
+ {
+  "index": 745,
+  "char": "授",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 64,
+  "alts": [
+   "麝",
+   "軈",
+   "縟",
+   "磨",
+   "府"
+  ]
+ },
+ {
+  "index": 746,
+  "char": "粒",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 747,
+  "char": "巡",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "遯",
+   "巡",
+   "鑼",
+   "靂",
+   "還"
+  ]
+ },
+ {
+  "index": 748,
+  "char": "粧",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 14,
+  "alts": []
+ },
+ {
+  "index": 749,
+  "char": "細",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 10,
+  "alts": []
+ },
+ {
+  "index": 750,
+  "char": "雇",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 751,
+  "char": "死",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 50,
+  "alts": []
+ },
+ {
+  "index": 752,
+  "char": "赤",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 12,
+  "alts": [
+   "静",
+   "銖",
+   "靜",
+   "滕",
+   "辞"
+  ]
+ },
+ {
+  "index": 753,
+  "char": "憤",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "懴",
+   "慎",
+   "憤",
+   "懺",
+   "愴"
+  ]
+ },
+ {
+  "index": 754,
+  "char": "臓",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 131,
+  "alts": []
+ },
+ {
+  "index": 755,
+  "char": "握",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 15,
+  "alts": []
+ },
+ {
+  "index": 756,
+  "char": "踏",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "鞄",
+   "餡",
+   "箱",
+   "簓",
+   "廠"
+  ]
+ },
+ {
+  "index": 757,
+  "char": "級",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "級",
+   "搬",
+   "絞",
+   "篏",
+   "竸"
+  ]
+ },
+ {
+  "index": 758,
+  "char": "汚",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 17,
+  "alts": []
+ },
+ {
+  "index": 759,
+  "char": "憶",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 62,
+  "alts": []
+ },
+ {
+  "index": 760,
+  "char": "曲",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": [
+   "曲",
+   "■",
+   "鹵",
+   "齒",
+   "敝"
+  ]
+ },
+ {
+  "index": 761,
+  "char": "柄",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 11,
+  "alts": []
+ },
+ {
+  "index": 762,
+  "char": "逮",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 47,
+  "alts": []
+ },
+ {
+  "index": 763,
+  "char": "半",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 14,
+  "alts": []
+ },
+ {
+  "index": 764,
+  "char": "拗",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 25,
+  "alts": [
+   "髄",
+   "餽",
+   "餔",
+   "鵺",
+   "髑"
+  ]
+ },
+ {
+  "index": 765,
+  "char": "鑢",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "鑢",
+   "健",
+   "蛯",
+   "鰉",
+   "瞳"
+  ]
+ },
+ {
+  "index": 766,
+  "char": "小",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 24,
+  "alts": []
+ },
+ {
+  "index": 767,
+  "char": "危",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 34,
+  "alts": [
+   "危",
+   "匙",
+   "枇",
+   "瓧",
+   "佐"
+  ]
+ },
+ {
+  "index": 768,
+  "char": "肌",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 769,
+  "char": "脱",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 770,
+  "char": "普",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 19,
+  "alts": []
+ },
+ {
+  "index": 771,
+  "char": "愛",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 26,
+  "alts": []
+ },
+ {
+  "index": 772,
+  "char": "独",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": []
+ },
+ {
+  "index": 773,
+  "char": "剣",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 774,
+  "char": "楽",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 28,
+  "alts": [
+   "豢",
+   "秦",
+   "寨",
+   "楽",
+   "亳"
+  ]
+ },
+ {
+  "index": 775,
+  "char": "姉",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 22,
+  "alts": [
+   "姉",
+   "綽",
+   "鱇",
+   "罅",
+   "鯆"
+  ]
+ },
+ {
+  "index": 776,
+  "char": "澄",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 15,
+  "alts": []
+ },
+ {
+  "index": 777,
+  "char": "香",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 20,
+  "alts": []
+ },
+ {
+  "index": 778,
+  "char": "戸",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 779,
+  "char": "籍",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 780,
+  "char": "短",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 32,
+  "alts": [
+   "若",
+   "吝",
+   "岩",
+   "義",
+   "肴"
+  ]
+ },
+ {
+  "index": 781,
+  "char": "欺",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "欺",
+   "散",
+   "飲",
+   "敗",
+   "飮"
+  ]
+ },
+ {
+  "index": 782,
+  "char": "忠",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 783,
+  "char": "守",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 32,
+  "alts": [
+   "守",
+   "穿",
+   "寺",
+   "哮",
+   "咾"
+  ]
+ },
+ {
+  "index": 784,
+  "char": "搬",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 79,
+  "alts": [
+   "斫",
+   "掛",
+   "搬",
+   "崗",
+   "簸"
+  ]
+ },
+ {
+  "index": 785,
+  "char": "拒",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 786,
+  "char": "輪",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "繼",
+   "轎",
+   "鰤",
+   "轆",
+   "鮹"
+  ]
+ },
+ {
+  "index": 787,
+  "char": "免",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "免",
+   "兔",
+   "皃",
+   "灸",
+   "蒐"
+  ]
+ },
+ {
+  "index": 788,
+  "char": "疫",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "疫",
+   "痊",
+   "槿",
+   "俊",
+   "梭"
+  ]
+ },
+ {
+  "index": 789,
+  "char": "長",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 790,
+  "char": "黼",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "黼",
+   "剤",
+   "融",
+   "鶺",
+   "朗"
+  ]
+ },
+ {
+  "index": 791,
+  "char": "検",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 91,
+  "alts": []
+ },
+ {
+  "index": 792,
+  "char": "貧",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 4,
+  "alts": [
+   "貧",
+   "貰",
+   "蹂",
+   "拜",
+   "罧"
+  ]
+ },
+ {
+  "index": 793,
+  "char": "肴",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 33,
+  "alts": [
+   "肴",
+   "看",
+   "普",
+   "着",
+   "奢"
+  ]
+ },
+ {
+  "index": 794,
+  "char": "故",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 18,
+  "alts": []
+ },
+ {
+  "index": 795,
+  "char": "鍬",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 15,
+  "alts": [
+   "詳"
+  ]
+ },
+ {
+  "index": 796,
+  "char": "患",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 14,
+  "alts": []
+ },
+ {
+  "index": 797,
+  "char": "冗",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 14,
+  "alts": []
+ },
+ {
+  "index": 798,
+  "char": "町",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 12,
+  "alts": [
+   "啖",
+   "喰",
+   "吸",
+   "輳",
+   "啀"
+  ]
+ },
+ {
+  "index": 799,
+  "char": "眠",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "眠",
+   "馼",
+   "飮",
+   "馭",
+   "駁"
+  ]
+ },
+ {
+  "index": 800,
+  "char": "縅",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "縫",
+   "纖",
+   "磯",
+   "織",
+   "饒"
+  ]
+ },
+ {
+  "index": 801,
+  "char": "医",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 17,
+  "alts": [
+   "医",
+   "匿",
+   "匱",
+   "■",
+   "匣"
+  ]
+ },
+ {
+  "index": 802,
+  "char": "滷",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "滷",
+   "抽",
+   "痴",
+   "廸",
+   "鈿"
+  ]
+ },
+ {
+  "index": 803,
+  "char": "鮮",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 804,
+  "char": "倫",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 22,
+  "alts": []
+ },
+ {
+  "index": 805,
+  "char": "慎",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 12,
+  "alts": []
+ },
+ {
+  "index": 806,
+  "char": "賻",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 807,
+  "char": "織",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 14,
+  "alts": [
+   "織",
+   "纖",
+   "蠍",
+   "縫",
+   "繻"
+  ]
+ },
+ {
+  "index": 808,
+  "char": "蔽",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 809,
+  "char": "奴",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 810,
+  "char": "衣",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 8,
+  "alts": [
+   "衣",
+   "古",
+   "寂",
+   "六",
+   "蟲"
+  ]
+ },
+ {
+  "index": 811,
+  "char": "藝",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "装",
+   "籤",
+   "纂",
+   "藝",
+   "易"
+  ]
+ },
+ {
+  "index": 812,
+  "char": "険",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 23,
+  "alts": [
+   "険",
+   "陝",
+   "隙",
+   "崗",
+   "陳"
+  ]
+ },
+ {
+  "index": 813,
+  "char": "片",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 21,
+  "alts": [
+   "片",
+   "庁",
+   "疔",
+   "咋",
+   "Ｒ"
+  ]
+ },
+ {
+  "index": 814,
+  "char": "状",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 49,
+  "alts": []
+ },
+ {
+  "index": 815,
+  "char": "况",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 17,
+  "alts": [
+   "況"
+  ]
+ },
+ {
+  "index": 816,
+  "char": "鈍",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 817,
+  "char": "改",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 7,
+  "alts": [
+   "改",
+   "攸",
+   "傀",
+   "敗",
+   "愎"
+  ]
+ },
+ {
+  "index": 818,
+  "char": "徽",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "徽",
+   "撤",
+   "撒",
+   "檄",
+   "傲"
+  ]
+ },
+ {
+  "index": 819,
+  "char": "薄",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 820,
+  "char": "斫",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "斫",
+   "斷",
+   "癜",
+   "衛",
+   "飯"
+  ]
+ },
+ {
+  "index": 821,
+  "char": "室",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 24,
+  "alts": []
+ },
+ {
+  "index": 822,
+  "char": "西",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 36,
+  "alts": [
+   "鐡",
+   "饅",
+   "西",
+   "癧",
+   "蠏"
+  ]
+ },
+ {
+  "index": 823,
+  "char": "島",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 36,
+  "alts": [
+   "島",
+   "烏",
+   "斷",
+   "嶌",
+   "贔"
+  ]
+ },
+ {
+  "index": 824,
+  "char": "塢",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 825,
+  "char": "散",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": [
+   "散",
+   "敗",
+   "敢",
+   "批",
+   "飲"
+  ]
+ },
+ {
+  "index": 826,
+  "char": "饅",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "榛",
+   "椿",
+   "樟",
+   "檪",
+   "捧"
+  ]
+ },
+ {
+  "index": 827,
+  "char": "轂",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "新",
+   "影",
+   "轂",
+   "斟",
+   "鬆"
+  ]
+ },
+ {
+  "index": 828,
+  "char": "猪",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "祈"
+  ]
+ },
+ {
+  "index": 829,
+  "char": "滅",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 11,
+  "alts": []
+ },
+ {
+  "index": 830,
+  "char": "支",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": [
+   "支",
+   "文",
+   "攴",
+   "嵬",
+   "叉"
+  ]
+ },
+ {
+  "index": 831,
+  "char": "息",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": [
+   "怠",
+   "息",
+   "意",
+   "蠢",
+   "憙"
+  ]
+ },
+ {
+  "index": 832,
+  "char": "態",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 27,
+  "alts": [
+   "態",
+   "鏃",
+   "搬",
+   "嫐",
+   "巌"
+  ]
+ },
+ {
+  "index": 833,
+  "char": "遺",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 7,
+  "alts": []
+ },
+ {
+  "index": 834,
+  "char": "遺",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 835,
+  "char": "廊",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": [
+   "廊",
+   "搬",
+   "鰍",
+   "蠍",
+   "膨"
+  ]
+ },
+ {
+  "index": 836,
+  "char": "従",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 165,
+  "alts": []
+ },
+ {
+  "index": 837,
+  "char": "責",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": []
+ },
+ {
+  "index": 838,
+  "char": "杉",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 839,
+  "char": "論",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 98,
+  "alts": [
+   "踰",
+   "綸",
+   "誕",
+   "鏃",
+   "■"
+  ]
+ },
+ {
+  "index": 840,
+  "char": "會",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 12,
+  "alts": [
+   "姿",
+   "杳",
+   "妾",
+   "姜",
+   "霤"
+  ]
+ },
+ {
+  "index": 841,
+  "char": "北",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 842,
+  "char": "完",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 11,
+  "alts": []
+ },
+ {
+  "index": 843,
+  "char": "微",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 844,
+  "char": "妙",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 11,
+  "alts": []
+ },
+ {
+  "index": 845,
+  "char": "隣",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 846,
+  "char": "凶",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 22,
+  "alts": []
+ },
+ {
+  "index": 847,
+  "char": "紋",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 121,
+  "alts": [
+   "れ"
+  ]
+ },
+ {
+  "index": 848,
+  "char": "織",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 849,
+  "char": "展",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "襞",
+   "巌",
+   "篏",
+   "賍",
+   "鯱"
+  ]
+ },
+ {
+  "index": 850,
+  "char": "恠",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 20,
+  "alts": []
+ },
+ {
+  "index": 851,
+  "char": "鍍",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 852,
+  "char": "扶",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 22,
+  "alts": [
+   "拭"
+  ]
+ },
+ {
+  "index": 853,
+  "char": "跡",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 22,
+  "alts": []
+ },
+ {
+  "index": 854,
+  "char": "策",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 9,
+  "alts": []
+ },
+ {
+  "index": 855,
+  "char": "拳",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 58,
+  "alts": []
+ },
+ {
+  "index": 856,
+  "char": "袋",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 857,
+  "char": "矛",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 20,
+  "alts": []
+ },
+ {
+  "index": 858,
+  "char": "盾",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 20,
+  "alts": []
+ },
+ {
+  "index": 859,
+  "char": "牙",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 860,
+  "char": "傷",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 16,
+  "alts": [
+   "障"
+  ]
+ },
+ {
+  "index": 861,
+  "char": "械",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "械",
+   "絨",
+   "機",
+   "擁",
+   "槭"
+  ]
+ },
+ {
+  "index": 862,
+  "char": "農",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "農",
+   "麝",
+   "嗇",
+   "盡",
+   "盪"
+  ]
+ },
+ {
+  "index": 863,
+  "char": "異",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "曩",
+   "嚢",
+   "糞",
+   "異",
+   "黌"
+  ]
+ },
+ {
+  "index": 864,
+  "char": "収",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 865,
+  "char": "盤",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 6,
+  "alts": [
+   "盤",
+   "焜",
+   "涎",
+   "擬",
+   "挺"
+  ]
+ },
+ {
+  "index": 866,
+  "char": "晩",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 5,
+  "alts": [
+   "晩",
+   "崗",
+   "巉",
+   "畭",
+   "晦"
+  ]
+ },
+ {
+  "index": 867,
+  "char": "操",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 9,
+  "alts": []
+ },
+ {
+  "index": 868,
+  "char": "語",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": [
+   "鏃",
+   "跡",
+   "胼",
+   "銚",
+   "路"
+  ]
+ },
+ {
+  "index": 869,
+  "char": "甘",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 870,
+  "char": "位",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "位",
+   "矼",
+   "佼",
+   "皎",
+   "眩"
+  ]
+ },
+ {
+  "index": 871,
+  "char": "僚",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 872,
+  "char": "埃",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 873,
+  "char": "掃",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 874,
+  "char": "除",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 12,
+  "alts": []
+ },
+ {
+  "index": 875,
+  "char": "齡",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 876,
+  "char": "紅",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 29,
+  "alts": [
+   "奸",
+   "紆",
+   "好",
+   "妊",
+   "紵"
+  ]
+ },
+ {
+  "index": 877,
+  "char": "蔵",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "蔵",
+   "綫",
+   "廱",
+   "磯",
+   "饑"
+  ]
+ },
+ {
+  "index": 878,
+  "char": "朴",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 879,
+  "char": "類",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": [
+   "鬚",
+   "製",
+   "黐",
+   "躓",
+   "鏡"
+  ]
+ },
+ {
+  "index": 880,
+  "char": "疚",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "疚",
+   "疫",
+   "陂",
+   "篋",
+   "披"
+  ]
+ },
+ {
+  "index": 881,
+  "char": "專",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 882,
+  "char": "摘",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 883,
+  "char": "憩",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 884,
+  "char": "訪",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 17,
+  "alts": [
+   "道",
+   "遊",
+   "遣",
+   "逝",
+   "避"
+  ]
+ },
+ {
+  "index": 885,
+  "char": "六",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "六",
+   "犬",
+   "大",
+   "宍",
+   "穴"
+  ]
+ },
+ {
+  "index": 886,
+  "char": "演",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "廣",
+   "癢",
+   "痕",
+   "宸",
+   "廉"
+  ]
+ },
+ {
+  "index": 887,
+  "char": "饑",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": [
+   "腸",
+   "腦",
+   "膓",
+   "鞴",
+   "臆"
+  ]
+ },
+ {
+  "index": 888,
+  "char": "洗",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": [
+   "洗",
+   "疣",
+   "虎",
+   "廃",
+   "庶"
+  ]
+ },
+ {
+  "index": 889,
+  "char": "饒",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 4,
+  "alts": [
+   "饒",
+   "蹤",
+   "瞳",
+   "縱",
+   "鐵"
+  ]
+ },
+ {
+  "index": 890,
+  "char": "右",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "右",
+   "衣",
+   "若",
+   "翕",
+   "宕"
+  ]
+ },
+ {
+  "index": 891,
+  "char": "励",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 14,
+  "alts": [
+   "閉",
+   "関",
+   "閏",
+   "閤",
+   "閔"
+  ]
+ },
+ {
+  "index": 892,
+  "char": "會",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 8,
+  "alts": [
+   "會",
+   "貴",
+   "背",
+   "賚",
+   "育"
+  ]
+ },
+ {
+  "index": 893,
+  "char": "追",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 25,
+  "alts": [
+   "織"
+  ]
+ },
+ {
+  "index": 894,
+  "char": "及",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 9,
+  "alts": []
+ },
+ {
+  "index": 895,
+  "char": "躱",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 896,
+  "char": "縄",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 897,
+  "char": "控",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": [
+   "控",
+   "椌",
+   "掀",
+   "倥",
+   "瞭"
+  ]
+ },
+ {
+  "index": 898,
+  "char": "告",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 30,
+  "alts": [
+   "裁",
+   "哉",
+   "政",
+   "馥",
+   "跛"
+  ]
+ },
+ {
+  "index": 899,
+  "char": "鑑",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 900,
+  "char": "斑",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 25,
+  "alts": []
+ },
+ {
+  "index": 901,
+  "char": "慢",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 9,
+  "alts": []
+ },
+ {
+  "index": 902,
+  "char": "習",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": [
+   "鏗",
+   "欝",
+   "磐",
+   "體",
+   "暦"
+  ]
+ },
+ {
+  "index": 903,
+  "char": "頓",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 904,
+  "char": "几",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 905,
+  "char": "帳",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 32,
+  "alts": []
+ },
+ {
+  "index": 906,
+  "char": "緯",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 907,
+  "char": "字",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "字",
+   "宇",
+   "学",
+   "孚",
+   "芋"
+  ]
+ },
+ {
+  "index": 908,
+  "char": "秀",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 909,
+  "char": "簸",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 910,
+  "char": "民",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 911,
+  "char": "訴",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 49,
+  "alts": []
+ },
+ {
+  "index": 912,
+  "char": "訟",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 913,
+  "char": "五",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "五",
+   "互",
+   "豆",
+   "丑",
+   "韭"
+  ]
+ },
+ {
+  "index": 914,
+  "char": "兼",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "兼",
+   "家",
+   "奢",
+   "禾",
+   "峯"
+  ]
+ },
+ {
+  "index": 915,
+  "char": "烏",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "烏",
+   "鳥",
+   "嶌",
+   "島",
+   "趣"
+  ]
+ },
+ {
+  "index": 916,
+  "char": "処",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "処",
+   "賍",
+   "鏃",
+   "蛆",
+   "難"
+  ]
+ },
+ {
+  "index": 917,
+  "char": "敗",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 17,
+  "alts": [
+   "改",
+   "畋",
+   "欧",
+   "陂",
+   "攸"
+  ]
+ },
+ {
+  "index": 918,
+  "char": "娜",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 919,
+  "char": "箍",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 920,
+  "char": "倭",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 921,
+  "char": "伊",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 922,
+  "char": "骰",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "沢",
+   "骰",
+   "射",
+   "汎",
+   "肘"
+  ]
+ },
+ {
+  "index": 923,
+  "char": "曹",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 924,
+  "char": "羽",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 925,
+  "char": "矢",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "失",
+   "矢",
+   "欠",
+   "夂",
+   "笂"
+  ]
+ },
+ {
+  "index": 926,
+  "char": "角",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 927,
+  "char": "挑",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 928,
+  "char": "精",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 929,
+  "char": "裏",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 930,
+  "char": "庭",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": [
+   "庭",
+   "庇",
+   "鮭",
+   "■",
+   "竅"
+  ]
+ },
+ {
+  "index": 931,
+  "char": "締",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "鋤",
+   "勘",
+   "鵬",
+   "鍮",
+   "鵲"
+  ]
+ },
+ {
+  "index": 932,
+  "char": "腎",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 15,
+  "alts": []
+ },
+ {
+  "index": 933,
+  "char": "透",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 934,
+  "char": "析",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 935,
+  "char": "怡",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 8,
+  "alts": [
+   "怡",
+   "檢",
+   "凾",
+   "鏃",
+   "抬"
+  ]
+ },
+ {
+  "index": 936,
+  "char": "療",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "療",
+   "瘴",
+   "瘡",
+   "康",
+   "槍"
+  ]
+ },
+ {
+  "index": 937,
+  "char": "欠",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "欠",
+   "失",
+   "夂",
+   "矢",
+   "火"
+  ]
+ },
+ {
+  "index": 938,
+  "char": "欧",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 18,
+  "alts": []
+ },
+ {
+  "index": 939,
+  "char": "原",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "獻",
+   "鯡",
+   "騏",
+   "閤",
+   "蠍"
+  ]
+ },
+ {
+  "index": 940,
+  "char": "因",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 18,
+  "alts": [
+   "因",
+   "困",
+   "囚",
+   "囮",
+   "固"
+  ]
+ },
+ {
+  "index": 941,
+  "char": "交",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 16,
+  "alts": []
+ },
+ {
+  "index": 942,
+  "char": "叱",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 943,
+  "char": "咤",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 944,
+  "char": "激",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 11,
+  "alts": []
+ },
+ {
+  "index": 945,
+  "char": "禿",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "励"
+  ]
+ },
+ {
+  "index": 946,
+  "char": "資",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": []
+ },
+ {
+  "index": 947,
+  "char": "援",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 948,
+  "char": "腑",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 12,
+  "alts": [
+   "撫"
+  ]
+ },
+ {
+  "index": 949,
+  "char": "戒",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 950,
+  "char": "寢",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 7,
+  "alts": []
+ },
+ {
+  "index": 951,
+  "char": "管",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 30,
+  "alts": [
+   "暼",
+   "瞥",
+   "臀",
+   "贇",
+   "脣"
+  ]
+ },
+ {
+  "index": 952,
+  "char": "妝",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "妝",
+   "餤",
+   "餘",
+   "聽",
+   "敝"
+  ]
+ },
+ {
+  "index": 953,
+  "char": "布",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 7,
+  "alts": [
+   "布",
+   "畚",
+   "希",
+   "泰",
+   "有"
+  ]
+ },
+ {
+  "index": 954,
+  "char": "眼",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "掛",
+   "団",
+   "擯",
+   "陏",
+   "随"
+  ]
+ },
+ {
+  "index": 955,
+  "char": "品",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 18,
+  "alts": []
+ },
+ {
+  "index": 956,
+  "char": "窓",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "窓",
+   "慰",
+   "巌",
+   "意",
+   "憇"
+  ]
+ },
+ {
+  "index": 957,
+  "char": "町",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "町",
+   "叮",
+   "弯",
+   "腎",
+   "畔"
+  ]
+ },
+ {
+  "index": 958,
+  "char": "都",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 12,
+  "alts": []
+ },
+ {
+  "index": 959,
+  "char": "攻",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "施"
+  ]
+ },
+ {
+  "index": 960,
+  "char": "請",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 10,
+  "alts": []
+ },
+ {
+  "index": 961,
+  "char": "骸",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "骸",
+   "黻",
+   "軌",
+   "散",
+   "截"
+  ]
+ },
+ {
+  "index": 962,
+  "char": "規",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "魔",
+   "庵",
+   "班",
+   "撹",
+   "斑"
+  ]
+ },
+ {
+  "index": 963,
+  "char": "地",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 16,
+  "alts": []
+ },
+ {
+  "index": 964,
+  "char": "区",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "区",
+   "匡",
+   "医",
+   "匿",
+   "匯"
+  ]
+ },
+ {
+  "index": 965,
+  "char": "青",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "賣",
+   "責",
+   "青",
+   "資",
+   "胄"
+  ]
+ },
+ {
+  "index": 966,
+  "char": "鐚",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 967,
+  "char": "審",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": [
+   "信"
+  ]
+ },
+ {
+  "index": 968,
+  "char": "診",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 969,
+  "char": "謹",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 970,
+  "char": "樋",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 130,
+  "alts": []
+ },
+ {
+  "index": 971,
+  "char": "挂",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "挂",
+   "忤",
+   "往",
+   "疔",
+   "抂"
+  ]
+ },
+ {
+  "index": 972,
+  "char": "長",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 973,
+  "char": "簿",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "俸",
+   "捧",
+   "樺",
+   "棒",
+   "傳"
+  ]
+ },
+ {
+  "index": 974,
+  "char": "康",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "康",
+   "庫",
+   "唐",
+   "瘉",
+   "廣"
+  ]
+ },
+ {
+  "index": 975,
+  "char": "脳",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 976,
+  "char": "公",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "公",
+   "血",
+   "疽",
+   "会",
+   "盍"
+  ]
+ },
+ {
+  "index": 977,
+  "char": "秘",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 27,
+  "alts": []
+ },
+ {
+  "index": 978,
+  "char": "拵",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "拵",
+   "斫",
+   "橇",
+   "餠",
+   "蝣"
+  ]
+ },
+ {
+  "index": 979,
+  "char": "鶴",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 980,
+  "char": "政",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": [
+   "政",
+   "攸",
+   "硫",
+   "段",
+   "妝"
+  ]
+ },
+ {
+  "index": 981,
+  "char": "閥",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 982,
+  "char": "躍",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 983,
+  "char": "執",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 984,
+  "char": "刀",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 985,
+  "char": "踪",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 986,
+  "char": "退",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 13,
+  "alts": []
+ },
+ {
+  "index": 987,
+  "char": "轟",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "轟",
+   "姦",
+   "巖",
+   "典",
+   "巍"
+  ]
+ },
+ {
+  "index": 988,
+  "char": "症",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 989,
+  "char": "瞭",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 990,
+  "char": "逃",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 17,
+  "alts": [
+   "逃",
+   "遇",
+   "逓",
+   "透",
+   "違"
+  ]
+ },
+ {
+  "index": 991,
+  "char": "騒",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "沢"
+  ]
+ },
+ {
+  "index": 992,
+  "char": "怒",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 9,
+  "alts": []
+ },
+ {
+  "index": 993,
+  "char": "久",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 11,
+  "alts": [
+   "久",
+   "失",
+   "入",
+   "矢",
+   "先"
+  ]
+ },
+ {
+  "index": 994,
+  "char": "修",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "修",
+   "斷",
+   "絛",
+   "條",
+   "睫"
+  ]
+ },
+ {
+  "index": 995,
+  "char": "抄",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "抄",
+   "砂",
+   "捗",
+   "秒",
+   "杪"
+  ]
+ },
+ {
+  "index": 996,
+  "char": "拍",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 997,
+  "char": "泥",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 998,
+  "char": "紙",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": [
+   "紕",
+   "敏",
+   "毓",
+   "航",
+   "妣"
+  ]
+ },
+ {
+  "index": 999,
+  "char": "値",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "鏃",
+   "披",
+   "敏",
+   "縱",
+   "篏"
+  ]
+ },
+ {
+  "index": 1000,
+  "char": "掬",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 7,
+  "alts": []
+ },
+ {
+  "index": 1001,
+  "char": "狙",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "肌",
+   "雖",
+   "班",
+   "銚",
+   "蛆"
+  ]
+ },
+ {
+  "index": 1002,
+  "char": "歳",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 1003,
+  "char": "鵜",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 1004,
+  "char": "迫",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 9,
+  "alts": []
+ },
+ {
+  "index": 1005,
+  "char": "飾",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "飾",
+   "節",
+   "擦",
+   "捺",
+   "緲"
+  ]
+ },
+ {
+  "index": 1006,
+  "char": "股",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1007,
+  "char": "模",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 12,
+  "alts": []
+ },
+ {
+  "index": 1008,
+  "char": "図",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": [
+   "闘",
+   "墓"
+  ]
+ },
+ {
+  "index": 1009,
+  "char": "絞",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": [
+   "皎",
+   "絞",
+   "紋",
+   "歐",
+   "毓"
+  ]
+ },
+ {
+  "index": 1010,
+  "char": "紛",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1011,
+  "char": "脅",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 11,
+  "alts": []
+ },
+ {
+  "index": 1012,
+  "char": "皎",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 14,
+  "alts": [
+   "庇",
+   "位",
+   "掖",
+   "掩",
+   "掟"
+  ]
+ },
+ {
+  "index": 1013,
+  "char": "寧",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "亨",
+   "亭",
+   "甼",
+   "夢",
+   "奉"
+  ]
+ },
+ {
+  "index": 1014,
+  "char": "官",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 21,
+  "alts": [
+   "肓",
+   "宵",
+   "官",
+   "盲",
+   "賞"
+  ]
+ },
+ {
+  "index": 1015,
+  "char": "毛",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "毛",
+   "ｔ",
+   "七",
+   "る",
+   "韭"
+  ]
+ },
+ {
+  "index": 1016,
+  "char": "揃",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "機",
+   "攘",
+   "撻",
+   "接",
+   "醸"
+  ]
+ },
+ {
+  "index": 1017,
+  "char": "醋",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1018,
+  "char": "章",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1019,
+  "char": "侖",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "侖",
+   "瘴",
+   "唐",
+   "癜",
+   "儉"
+  ]
+ },
+ {
+  "index": 1020,
+  "char": "叩",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "叩",
+   "嚶",
+   "明",
+   "喞",
+   "啾"
+  ]
+ },
+ {
+  "index": 1021,
+  "char": "爺",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1022,
+  "char": "救",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "枚",
+   "敘",
+   "救",
+   "教",
+   "敦"
+  ]
+ },
+ {
+  "index": 1023,
+  "char": "妄",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1024,
+  "char": "暮",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "蟇",
+   "馨",
+   "暮",
+   "普",
+   "募"
+  ]
+ },
+ {
+  "index": 1025,
+  "char": "帽",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1026,
+  "char": "衝",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1027,
+  "char": "値",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 7,
+  "alts": []
+ },
+ {
+  "index": 1028,
+  "char": "刻",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 1029,
+  "char": "砲",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 12,
+  "alts": []
+ },
+ {
+  "index": 1030,
+  "char": "到",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "藤"
+  ]
+ },
+ {
+  "index": 1031,
+  "char": "兼",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 6,
+  "alts": [
+   "糸",
+   "紊",
+   "峯",
+   "素",
+   "彖"
+  ]
+ },
+ {
+  "index": 1032,
+  "char": "争",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "争",
+   "爭",
+   "箏",
+   "拳",
+   "事"
+  ]
+ },
+ {
+  "index": 1033,
+  "char": "監",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 1034,
+  "char": "候",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "候",
+   "鯲",
+   "鯱",
+   "鮠",
+   "餤"
+  ]
+ },
+ {
+  "index": 1035,
+  "char": "補",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 5,
+  "alts": [
+   "補",
+   "禎",
+   "袖",
+   "鱸",
+   "襠"
+  ]
+ },
+ {
+  "index": 1036,
+  "char": "真",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 94,
+  "alts": []
+ },
+ {
+  "index": 1037,
+  "char": "陣",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "陣",
+   "障",
+   "隙",
+   "陳",
+   "降"
+  ]
+ },
+ {
+  "index": 1038,
+  "char": "真",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1039,
+  "char": "捺",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 7,
+  "alts": []
+ },
+ {
+  "index": 1040,
+  "char": "融",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1041,
+  "char": "胎",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "払"
+  ]
+ },
+ {
+  "index": 1042,
+  "char": "迷",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 10,
+  "alts": []
+ },
+ {
+  "index": 1043,
+  "char": "惑",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 12,
+  "alts": [
+   "窗"
+  ]
+ },
+ {
+  "index": 1044,
+  "char": "唖",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "宛"
+  ]
+ },
+ {
+  "index": 1045,
+  "char": "歴",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "歴",
+   "麼",
+   "壁",
+   "■",
+   "鯲"
+  ]
+ },
+ {
+  "index": 1046,
+  "char": "荷",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": [
+   "荷",
+   "掎",
+   "揩",
+   "黹",
+   "拇"
+  ]
+ },
+ {
+  "index": 1047,
+  "char": "侃",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "侃",
+   "倶",
+   "僞",
+   "飢",
+   "似"
+  ]
+ },
+ {
+  "index": 1048,
+  "char": "遅",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1049,
+  "char": "虐",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": [
+   "避",
+   "遯",
+   "遵",
+   "靂",
+   "邂"
+  ]
+ },
+ {
+  "index": 1050,
+  "char": "胆",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1051,
+  "char": "文",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": [
+   "文",
+   "夂",
+   "叉",
+   "夊",
+   "乂"
+  ]
+ },
+ {
+  "index": 1052,
+  "char": "旬",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "旬",
+   "句",
+   "紺",
+   "匂",
+   "絎"
+  ]
+ },
+ {
+  "index": 1053,
+  "char": "読",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 13,
+  "alts": [
+   "跿",
+   "読",
+   "蹉",
+   "跛",
+   "説"
+  ]
+ },
+ {
+  "index": 1054,
+  "char": "姓",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1055,
+  "char": "素",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "棄"
+  ]
+ },
+ {
+  "index": 1056,
+  "char": "至",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 4,
+  "alts": [
+   "至",
+   "亜",
+   "杢",
+   "册",
+   "墾"
+  ]
+ },
+ {
+  "index": 1057,
+  "char": "七",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 240,
+  "alts": [
+   "七",
+   "も",
+   "虹",
+   "虻",
+   "蚣"
+  ]
+ },
+ {
+  "index": 1058,
+  "char": "芝",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 240,
+  "alts": [
+   "芝",
+   "乏",
+   "正",
+   "之",
+   "苫"
+  ]
+ },
+ {
+  "index": 1059,
+  "char": "慰",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "慰",
+   "蠍",
+   "憇",
+   "獸",
+   "璧"
+  ]
+ },
+ {
+  "index": 1060,
+  "char": "増",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "増",
+   "壞",
+   "憎",
+   "辮",
+   "燉"
+  ]
+ },
+ {
+  "index": 1061,
+  "char": "庁",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 1062,
+  "char": "廼",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 12,
+  "alts": []
+ },
+ {
+  "index": 1063,
+  "char": "闇",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1064,
+  "char": "匹",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1065,
+  "char": "烈",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1066,
+  "char": "卷",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "卷",
+   "巻",
+   "巷",
+   "春",
+   "呑"
+  ]
+ },
+ {
+  "index": 1067,
+  "char": "辿",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "辿",
+   "廸",
+   "迪",
+   "滷",
+   "澁"
+  ]
+ },
+ {
+  "index": 1068,
+  "char": "採",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "採",
+   "崗",
+   "接",
+   "捺",
+   "媒"
+  ]
+ },
+ {
+  "index": 1069,
+  "char": "略",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1070,
+  "char": "賛",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "贅",
+   "賛",
+   "暼",
+   "贊",
+   "貲"
+  ]
+ },
+ {
+  "index": 1071,
+  "char": "底",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1072,
+  "char": "低",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": [
+   "批",
+   "飮",
+   "低",
+   "戟",
+   "抵"
+  ]
+ },
+ {
+  "index": 1073,
+  "char": "盜",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "虫",
+   "血",
+   "由",
+   "曳",
+   "疽"
+  ]
+ },
+ {
+  "index": 1074,
+  "char": "駐",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1075,
+  "char": "己",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1076,
+  "char": "挟",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "挟",
+   "陝",
+   "険",
+   "陜",
+   "陳"
+  ]
+ },
+ {
+  "index": 1077,
+  "char": "鬼",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1078,
+  "char": "裕",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 1079,
+  "char": "寂",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 1080,
+  "char": "灰",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "灰",
+   "疣",
+   "仄",
+   "洗",
+   "比"
+  ]
+ },
+ {
+  "index": 1081,
+  "char": "寃",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1082,
+  "char": "帯",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1083,
+  "char": "瘡",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": [
+   "債",
+   "夷",
+   "倚",
+   "儀",
+   "橇"
+  ]
+ },
+ {
+  "index": 1084,
+  "char": "距",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1085,
+  "char": "離",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 1086,
+  "char": "摸",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1087,
+  "char": "捧",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "捧",
+   "欅",
+   "捺",
+   "棒",
+   "俸"
+  ]
+ },
+ {
+  "index": 1088,
+  "char": "罰",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 1089,
+  "char": "歪",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "豊",
+   "盖",
+   "遊",
+   "量",
+   "奎"
+  ]
+ },
+ {
+  "index": 1090,
+  "char": "課",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 13,
+  "alts": []
+ },
+ {
+  "index": 1091,
+  "char": "匿",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1092,
+  "char": "勢",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 11,
+  "alts": []
+ },
+ {
+  "index": 1093,
+  "char": "饂",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 1094,
+  "char": "概",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1095,
+  "char": "汗",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1096,
+  "char": "封",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1097,
+  "char": "鎖",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1098,
+  "char": "稔",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 4,
+  "alts": [
+   "稔",
+   "聽",
+   "聴",
+   "■",
+   "棯"
+  ]
+ },
+ {
+  "index": 1099,
+  "char": "研",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "研",
+   "斫",
+   "絣",
+   "妍",
+   "緋"
+  ]
+ },
+ {
+  "index": 1100,
+  "char": "才",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 1101,
+  "char": "嘲",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1102,
+  "char": "隔",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1103,
+  "char": "盗",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "盗",
+   "盜",
+   "韲",
+   "盃",
+   "盧"
+  ]
+ },
+ {
+  "index": 1104,
+  "char": "皮",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "皮",
+   "度",
+   "疣",
+   "虔",
+   "座"
+  ]
+ },
+ {
+  "index": 1105,
+  "char": "崗",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "肉",
+   "崗",
+   "内",
+   "府",
+   "典"
+  ]
+ },
+ {
+  "index": 1106,
+  "char": "武",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "腐"
+  ]
+ },
+ {
+  "index": 1107,
+  "char": "多",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1108,
+  "char": "停",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "停",
+   "儚",
+   "倅",
+   "序",
+   "俸"
+  ]
+ },
+ {
+  "index": 1109,
+  "char": "犲",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 9,
+  "alts": [
+   "犲",
+   "拌",
+   "Ｈ",
+   "鮗",
+   "紂"
+  ]
+ },
+ {
+  "index": 1110,
+  "char": "把",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1111,
+  "char": "辻",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1112,
+  "char": "褄",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1113,
+  "char": "唯",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1114,
+  "char": "揺",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1115,
+  "char": "娥",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1116,
+  "char": "暴",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1117,
+  "char": "序",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "停",
+   "陣",
+   "序",
+   "倅",
+   "陳"
+  ]
+ },
+ {
+  "index": 1118,
+  "char": "儺",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1119,
+  "char": "蠡",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 4,
+  "alts": [
+   "北",
+   "変",
+   "蠡",
+   "鉱",
+   "扎"
+  ]
+ },
+ {
+  "index": 1120,
+  "char": "珍",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "珍",
+   "庫",
+   "橡",
+   "陣",
+   "纔"
+  ]
+ },
+ {
+  "index": 1121,
+  "char": "媒",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1122,
+  "char": "痕",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1123,
+  "char": "耀",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": [
+   "餓",
+   "饒",
+   "鱶",
+   "饋",
+   "贖"
+  ]
+ },
+ {
+  "index": 1124,
+  "char": "縞",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "縞",
+   "槁",
+   "穢",
+   "橇",
+   "綸"
+  ]
+ },
+ {
+  "index": 1125,
+  "char": "筆",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1126,
+  "char": "嗅",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "嗅",
+   "喨",
+   "喰",
+   "哨",
+   "喋"
+  ]
+ },
+ {
+  "index": 1127,
+  "char": "寅",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1128,
+  "char": "術",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1129,
+  "char": "来",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "禾",
+   "来",
+   "米",
+   "末",
+   "漸"
+  ]
+ },
+ {
+  "index": 1130,
+  "char": "煤",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 1131,
+  "char": "班",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "班",
+   "蛆",
+   "艇",
+   "短",
+   "鯤"
+  ]
+ },
+ {
+  "index": 1132,
+  "char": "疎",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1133,
+  "char": "營",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "豢",
+   "營",
+   "籤",
+   "意",
+   "蕉"
+  ]
+ },
+ {
+  "index": 1134,
+  "char": "徹",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1135,
+  "char": "海",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": [
+   "海",
+   "攤",
+   "侮",
+   "悔",
+   "廉"
+  ]
+ },
+ {
+  "index": 1136,
+  "char": "航",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1137,
+  "char": "省",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "省",
+   "睿",
+   "眷",
+   "着",
+   "寰"
+  ]
+ },
+ {
+  "index": 1138,
+  "char": "懲",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 8,
+  "alts": [
+   "懲",
+   "慾",
+   "慰",
+   "戀",
+   "愍"
+  ]
+ },
+ {
+  "index": 1139,
+  "char": "肯",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1140,
+  "char": "既",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 1141,
+  "char": "述",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "述",
+   "迹",
+   "迷",
+   "遂",
+   "崖"
+  ]
+ },
+ {
+  "index": 1142,
+  "char": "降",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 5,
+  "alts": [
+   "降",
+   "崗",
+   "陣",
+   "障",
+   "陽"
+  ]
+ },
+ {
+  "index": 1143,
+  "char": "憑",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1144,
+  "char": "沢",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "敷"
+  ]
+ },
+ {
+  "index": 1145,
+  "char": "陥",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "陥",
+   "隘",
+   "險",
+   "瞼",
+   "■"
+  ]
+ },
+ {
+  "index": 1146,
+  "char": "量",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": []
+ },
+ {
+  "index": 1147,
+  "char": "絞",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "絞",
+   "較",
+   "鮫",
+   "餃",
+   "般"
+  ]
+ },
+ {
+  "index": 1148,
+  "char": "壁",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1149,
+  "char": "覗",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "覗",
+   "唳",
+   "棍",
+   "峻",
+   "嚇"
+  ]
+ },
+ {
+  "index": 1150,
+  "char": "薤",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1151,
+  "char": "冪",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "冪",
+   "纂",
+   "募",
+   "暴",
+   "幕"
+  ]
+ },
+ {
+  "index": 1152,
+  "char": "拓",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 5,
+  "alts": [
+   "拓",
+   "妬",
+   "斫",
+   "揃",
+   "佑"
+  ]
+ },
+ {
+  "index": 1153,
+  "char": "怒",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1154,
+  "char": "雄",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1155,
+  "char": "沈",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1156,
+  "char": "覧",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "覧",
+   "賢",
+   "覽",
+   "髱",
+   "嘗"
+  ]
+ },
+ {
+  "index": 1157,
+  "char": "侮",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1158,
+  "char": "塀",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1159,
+  "char": "差",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 1160,
+  "char": "祥",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 1161,
+  "char": "権",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 1162,
+  "char": "徐",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "徐",
+   "揄",
+   "偸",
+   "崗",
+   "鐓"
+  ]
+ },
+ {
+  "index": 1163,
+  "char": "末",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "末",
+   "来",
+   "素",
+   "禾",
+   "家"
+  ]
+ },
+ {
+  "index": 1164,
+  "char": "瞭",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1165,
+  "char": "誉",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1166,
+  "char": "減",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 10,
+  "alts": []
+ },
+ {
+  "index": 1167,
+  "char": "駄",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1168,
+  "char": "渉",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1169,
+  "char": "野",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1170,
+  "char": "蛮",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1171,
+  "char": "蔑",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1172,
+  "char": "猫",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1173,
+  "char": "酬",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "酬",
+   "醂",
+   "醺",
+   "醸",
+   "醵"
+  ]
+ },
+ {
+  "index": 1174,
+  "char": "丹",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "丹",
+   "辨",
+   "府",
+   "肘",
+   "段"
+  ]
+ },
+ {
+  "index": 1175,
+  "char": "詭",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1176,
+  "char": "脱",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": [
+   "餠",
+   "胼",
+   "躋",
+   "廚",
+   "腆"
+  ]
+ },
+ {
+  "index": 1177,
+  "char": "愉",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1178,
+  "char": "快",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1179,
+  "char": "肉",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 1180,
+  "char": "逸",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1181,
+  "char": "赴",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "赴",
+   "趁",
+   "肚",
+   "社",
+   "杜"
+  ]
+ },
+ {
+  "index": 1182,
+  "char": "捻",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "捻",
+   "捨",
+   "棯",
+   "徐",
+   "陰"
+  ]
+ },
+ {
+  "index": 1183,
+  "char": "豊",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "譽",
+   "饗",
+   "豊",
+   "讐",
+   "謦"
+  ]
+ },
+ {
+  "index": 1184,
+  "char": "科",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "科",
+   "料",
+   "斜",
+   "抖",
+   "將"
+  ]
+ },
+ {
+  "index": 1185,
+  "char": "更",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 1186,
+  "char": "僧",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1187,
+  "char": "鰓",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 8,
+  "alts": []
+ },
+ {
+  "index": 1188,
+  "char": "呵",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1189,
+  "char": "馬",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1190,
+  "char": "鹿",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1191,
+  "char": "償",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "償",
+   "俄",
+   "債",
+   "僖",
+   "儀"
+  ]
+ },
+ {
+  "index": 1192,
+  "char": "賄",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1193,
+  "char": "簸",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1194,
+  "char": "隙",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1195,
+  "char": "話",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1196,
+  "char": "嶇",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1197,
+  "char": "嘘",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1198,
+  "char": "慌",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1199,
+  "char": "註",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "註",
+   "百",
+   "計",
+   "肛",
+   "詮"
+  ]
+ },
+ {
+  "index": 1200,
+  "char": "喫",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "嚶",
+   "喫",
+   "噤",
+   "櫻",
+   "喟"
+  ]
+ },
+ {
+  "index": 1201,
+  "char": "折",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1202,
+  "char": "慘",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "慘",
+   "惨",
+   "搬",
+   "憮",
+   "崗"
+  ]
+ },
+ {
+  "index": 1203,
+  "char": "曖",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1204,
+  "char": "昧",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1205,
+  "char": "花",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 30,
+  "alts": [
+   "花",
+   "祉",
+   "荘",
+   "托",
+   "衽"
+  ]
+ },
+ {
+  "index": 1206,
+  "char": "薙",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1207,
+  "char": "涙",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1208,
+  "char": "他",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1209,
+  "char": "桂",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "桂",
+   "蛙",
+   "昼",
+   "袿",
+   "硅"
+  ]
+ },
+ {
+  "index": 1210,
+  "char": "拾",
+  "source": "okurigana",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "拾",
+   "抬",
+   "拵",
+   "捨",
+   "蹤"
+  ]
+ },
+ {
+  "index": 1211,
+  "char": "按",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "按",
+   "確",
+   "接",
+   "橦",
+   "櫁"
+  ]
+ },
+ {
+  "index": 1212,
+  "char": "赦",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1213,
+  "char": "玄",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1214,
+  "char": "胸",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "胸",
+   "綯",
+   "梅",
+   "痳",
+   "痲"
+  ]
+ },
+ {
+  "index": 1215,
+  "char": "天",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 1216,
+  "char": "怠",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1217,
+  "char": "凧",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1218,
+  "char": "奢",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 7,
+  "alts": [
+   "奢",
+   "會",
+   "箸",
+   "著",
+   "耆"
+  ]
+ },
+ {
+  "index": 1219,
+  "char": "跌",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "跌",
+   "餤",
+   "飮",
+   "趺",
+   "隙"
+  ]
+ },
+ {
+  "index": 1220,
+  "char": "肝",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1221,
+  "char": "撤",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "撤",
+   "挺",
+   "撒",
+   "擬",
+   "檄"
+  ]
+ },
+ {
+  "index": 1222,
+  "char": "獄",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1223,
+  "char": "頻",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1224,
+  "char": "催",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1225,
+  "char": "促",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1226,
+  "char": "系",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "系",
+   "聶",
+   "叢",
+   "嘉",
+   "崙"
+  ]
+ },
+ {
+  "index": 1227,
+  "char": "愕",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1228,
+  "char": "脇",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "悩",
+   "鍼",
+   "蝠",
+   "縊",
+   "鎰"
+  ]
+ },
+ {
+  "index": 1229,
+  "char": "貲",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1230,
+  "char": "檻",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1231,
+  "char": "葡",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1232,
+  "char": "豢",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "豢",
+   "寨",
+   "秦",
+   "羣",
+   "棊"
+  ]
+ },
+ {
+  "index": 1233,
+  "char": "戛",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "戛",
+   "夏",
+   "筧",
+   "亶",
+   "笈"
+  ]
+ },
+ {
+  "index": 1234,
+  "char": "悸",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "悖",
+   "悸",
+   "慘",
+   "停",
+   "陣"
+  ]
+ },
+ {
+  "index": 1235,
+  "char": "華",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1236,
+  "char": "墨",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "墨",
+   "册",
+   "璧",
+   "叟",
+   "兇"
+  ]
+ },
+ {
+  "index": 1237,
+  "char": "寳",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "寳",
+   "貫",
+   "貧",
+   "貪",
+   "貰"
+  ]
+ },
+ {
+  "index": 1238,
+  "char": "蛛",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "蛛",
+   "檪",
+   "株",
+   "橡",
+   "銖"
+  ]
+ },
+ {
+  "index": 1239,
+  "char": "万",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1240,
+  "char": "鼻",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "鼻",
+   "轟",
+   "姦",
+   "彝",
+   "募"
+  ]
+ },
+ {
+  "index": 1241,
+  "char": "俗",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1242,
+  "char": "暇",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1243,
+  "char": "劣",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1244,
+  "char": "粋",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1245,
+  "char": "愁",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1246,
+  "char": "漫",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1247,
+  "char": "娯",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "娯",
+   "轎",
+   "蠎",
+   "梹",
+   "纃"
+  ]
+ },
+ {
+  "index": 1248,
+  "char": "嫁",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1249,
+  "char": "遽",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "遇",
+   "送",
+   "述",
+   "遽",
+   "道"
+  ]
+ },
+ {
+  "index": 1250,
+  "char": "授",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "撹",
+   "佼",
+   "授",
+   "揆",
+   "撥"
+  ]
+ },
+ {
+  "index": 1251,
+  "char": "娑",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1252,
+  "char": "婆",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1253,
+  "char": "養",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1254,
+  "char": "寅",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1255,
+  "char": "哀",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1256,
+  "char": "群",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1257,
+  "char": "侠",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "侠",
+   "僕",
+   "僖",
+   "僂",
+   "伎"
+  ]
+ },
+ {
+  "index": 1258,
+  "char": "盧",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "盧",
+   "虚",
+   "鹵",
+   "■",
+   "直"
+  ]
+ },
+ {
+  "index": 1259,
+  "char": "朧",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "繼",
+   "朧",
+   "膓",
+   "糒",
+   "臓"
+  ]
+ },
+ {
+  "index": 1260,
+  "char": "炎",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "炎",
+   "奏",
+   "典",
+   "灸",
+   "臭"
+  ]
+ },
+ {
+  "index": 1261,
+  "char": "併",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1262,
+  "char": "繋",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 4,
+  "alts": [
+   "繋",
+   "繁",
+   "樊",
+   "絮",
+   "磐"
+  ]
+ },
+ {
+  "index": 1263,
+  "char": "咎",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1264,
+  "char": "禹",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1265,
+  "char": "千",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1266,
+  "char": "皆",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1267,
+  "char": "胱",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "挑",
+   "胱",
+   "喪",
+   "狭",
+   "狹"
+  ]
+ },
+ {
+  "index": 1268,
+  "char": "涯",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1269,
+  "char": "孤",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1270,
+  "char": "勿",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1271,
+  "char": "版",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "眠",
+   "抜",
+   "販",
+   "版",
+   "翫"
+  ]
+ },
+ {
+  "index": 1272,
+  "char": "湯",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 6,
+  "alts": []
+ },
+ {
+  "index": 1273,
+  "char": "效",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 3,
+  "alts": [
+   "拠",
+   "嵐",
+   "胤",
+   "旭",
+   "錐"
+  ]
+ },
+ {
+  "index": 1274,
+  "char": "船",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 3,
+  "alts": []
+ },
+ {
+  "index": 1275,
+  "char": "呂",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 20,
+  "alts": []
+ },
+ {
+  "index": 1276,
+  "char": "沙",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1277,
+  "char": "汰",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1278,
+  "char": "謫",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "謫",
+   "鶲",
+   "鐫",
+   "鷁",
+   "鸚"
+  ]
+ },
+ {
+  "index": 1279,
+  "char": "煙",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1280,
+  "char": "擬",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "挺",
+   "擬",
+   "梃",
+   "樅",
+   "雛"
+  ]
+ },
+ {
+  "index": 1281,
+  "char": "親",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 4,
+  "alts": [
+   "鎖",
+   "鰕",
+   "孅",
+   "鏃",
+   "鋲"
+  ]
+ },
+ {
+  "index": 1282,
+  "char": "蠍",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "蠍",
+   "攤",
+   "撼",
+   "瓣",
+   "檄"
+  ]
+ },
+ {
+  "index": 1283,
+  "char": "傾",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1284,
+  "char": "胞",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1285,
+  "char": "宿",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "癰",
+   "宿",
+   "癖",
+   "俗",
+   "宸"
+  ]
+ },
+ {
+  "index": 1286,
+  "char": "鵜",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1287,
+  "char": "野",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1288,
+  "char": "唳",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "唳",
+   "啖",
+   "喉",
+   "嚇",
+   "嘛"
+  ]
+ },
+ {
+  "index": 1289,
+  "char": "潟",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "潟",
+   "涎",
+   "海",
+   "撮",
+   "孅"
+  ]
+ },
+ {
+  "index": 1290,
+  "char": "即",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1291,
+  "char": "蝸",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1292,
+  "char": "妊",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "妊",
+   "狂",
+   "衽",
+   "抂",
+   "託"
+  ]
+ },
+ {
+  "index": 1293,
+  "char": "鯡",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "鯡",
+   "軈",
+   "軅",
+   "雕",
+   "鰻"
+  ]
+ },
+ {
+  "index": 1294,
+  "char": "幹",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "幹",
+   "絆",
+   "胖",
+   "鞐",
+   "軫"
+  ]
+ },
+ {
+  "index": 1295,
+  "char": "癒",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1296,
+  "char": "剰",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1297,
+  "char": "亜",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1298,
+  "char": "餃",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "皎",
+   "餃",
+   "鮫",
+   "絞",
+   "蛟"
+  ]
+ },
+ {
+  "index": 1299,
+  "char": "詮",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1300,
+  "char": "史",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "史",
+   "吏",
+   "変",
+   "売",
+   "能"
+  ]
+ },
+ {
+  "index": 1301,
+  "char": "吟",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "吟",
+   "哨",
+   "吽",
+   "畤",
+   "時"
+  ]
+ },
+ {
+  "index": 1302,
+  "char": "式",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "式",
+   "疚",
+   "鉱",
+   "貳",
+   "訛"
+  ]
+ },
+ {
+  "index": 1303,
+  "char": "叢",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "麝",
+   "群",
+   "爺",
+   "叢",
+   "雛"
+  ]
+ },
+ {
+  "index": 1304,
+  "char": "贖",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1305,
+  "char": "鐃",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "饒",
+   "鐃",
+   "鐓",
+   "饋",
+   "蟯"
+  ]
+ },
+ {
+  "index": 1306,
+  "char": "胖",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "胖",
+   "眸",
+   "絆",
+   "許",
+   "蟀"
+  ]
+ },
+ {
+  "index": 1307,
+  "char": "巖",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "避",
+   "巖",
+   "巌",
+   "靂",
+   "厳"
+  ]
+ },
+ {
+  "index": 1308,
+  "char": "蝣",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "蝣",
+   "緲",
+   "轣",
+   "癖",
+   "轍"
+  ]
+ },
+ {
+  "index": 1309,
+  "char": "撹",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "撹",
+   "挺",
+   "倪",
+   "疣",
+   "揆"
+  ]
+ },
+ {
+  "index": 1310,
+  "char": "餞",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "披",
+   "餞",
+   "竸",
+   "兢",
+   "厳"
+  ]
+ },
+ {
+  "index": 1311,
+  "char": "夕",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "ダ",
+   "歹",
+   "タ",
+   "癸",
+   "亨"
+  ]
+ },
+ {
+  "index": 1312,
+  "char": "尾",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1313,
+  "char": "核",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1314,
+  "char": "鉾",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1315,
+  "char": "瞼",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "瞼",
+   "皎",
+   "絵",
+   "眦",
+   "鯲"
+  ]
+ },
+ {
+  "index": 1316,
+  "char": "弾",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1317,
+  "char": "載",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1318,
+  "char": "飼",
+  "source": "okurigana",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "醗",
+   "鱒",
+   "嬲",
+   "辨",
+   "鷓"
+  ]
+ },
+ {
+  "index": 1319,
+  "char": "犬",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "犬",
+   "大",
+   "火",
+   "太",
+   "夫"
+  ]
+ },
+ {
+  "index": 1320,
+  "char": "哉",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1321,
+  "char": "乾",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1322,
+  "char": "山",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "由",
+   "山",
+   "血",
+   "出",
+   "凾"
+  ]
+ },
+ {
+  "index": 1323,
+  "char": "逐",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1324,
+  "char": "究",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "究",
+   "充",
+   "覚",
+   "党",
+   "完"
+  ]
+ },
+ {
+  "index": 1325,
+  "char": "架",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1326,
+  "char": "木",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "木",
+   "ネ",
+   "本",
+   "水",
+   "禾"
+  ]
+ },
+ {
+  "index": 1327,
+  "char": "脂",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1328,
+  "char": "鑛",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "鑛",
+   "鎖",
+   "韻",
+   "頷",
+   "朧"
+  ]
+ },
+ {
+  "index": 1329,
+  "char": "威",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1330,
+  "char": "富",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1331,
+  "char": "蟻",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "蟻",
+   "続",
+   "蝣",
+   "崗",
+   "瞶"
+  ]
+ },
+ {
+  "index": 1332,
+  "char": "郊",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1333,
+  "char": "荘",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 4,
+  "alts": []
+ },
+ {
+  "index": 1334,
+  "char": "駒",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1335,
+  "char": "模",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1336,
+  "char": "巣",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "巣",
+   "藥",
+   "贏",
+   "曩",
+   "嵐"
+  ]
+ },
+ {
+  "index": 1337,
+  "char": "儿",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "儿",
+   "丸",
+   "扎",
+   "札",
+   "乱"
+  ]
+ },
+ {
+  "index": 1338,
+  "char": "眉",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1339,
+  "char": "唾",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1340,
+  "char": "顕",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1341,
+  "char": "奮",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "奮",
+   "當",
+   "奩",
+   "童",
+   "量"
+  ]
+ },
+ {
+  "index": 1342,
+  "char": "摂",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1343,
+  "char": "讐",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1344,
+  "char": "玉",
+  "source": "ruby",
+  "confidence": "high",
+  "uses": 2,
+  "alts": []
+ },
+ {
+  "index": 1345,
+  "char": "託",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1346,
+  "char": "育",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "育",
+   "會",
+   "資",
+   "音",
+   "脊"
+  ]
+ },
+ {
+  "index": 1347,
+  "char": "嬉",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "鏃",
+   "嫉",
+   "癖",
+   "嬢",
+   "繻"
+  ]
+ },
+ {
+  "index": 1348,
+  "char": "衰",
+  "source": "reading",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": [
+   "衰",
+   "袞",
+   "食",
+   "嚢",
+   "貪"
+  ]
+ },
+ {
+  "index": 1349,
+  "char": "滞",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1350,
+  "char": "毒",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "毒",
+   "嗇",
+   "矗",
+   "巖",
+   "龕"
+  ]
+ },
+ {
+  "index": 1351,
+  "char": "遂",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 2,
+  "alts": [
+   "遂",
+   "逐",
+   "遅",
+   "達",
+   "違"
+  ]
+ },
+ {
+  "index": 1352,
+  "char": "酌",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1353,
+  "char": "機",
+  "source": "context",
+  "confidence": "medium",
+  "uses": 2,
+  "alts": [
+   "蝸",
+   "鏃",
+   "鍋",
+   "銚",
+   "継"
+  ]
+ },
+ {
+  "index": 1354,
+  "char": "Τ",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "Τ",
+   "Ｔ",
+   "『",
+   "】",
+   "｜"
+  ]
+ },
+ {
+  "index": 1355,
+  "char": "癡",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "癡",
+   "繼",
+   "殲",
+   "嶽",
+   "孅"
+  ]
+ },
+ {
+  "index": 1356,
+  "char": "悶",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1357,
+  "char": "璧",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1358,
+  "char": "陳",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "陳",
+   "陣",
+   "擽",
+   "隙",
+   "険"
+  ]
+ },
+ {
+  "index": 1359,
+  "char": "択",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 5,
+  "alts": []
+ },
+ {
+  "index": 1360,
+  "char": "嫉",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1361,
+  "char": "妬",
+  "source": "ruby",
+  "confidence": "medium",
+  "uses": 1,
+  "alts": []
+ },
+ {
+  "index": 1362,
+  "char": "疽",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "疽",
+   "痘",
+   "泡",
+   "疱",
+   "庖"
+  ]
+ },
+ {
+  "index": 1363,
+  "char": "寒",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 0,
+  "alts": [
+   "寒",
+   "寧",
+   "寨",
+   "崋",
+   "篳"
+  ]
+ },
+ {
+  "index": 1364,
+  "char": "彎",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 0,
+  "alts": [
+   "彎",
+   "背",
+   "鸞",
+   "噂",
+   "轡"
+  ]
+ },
+ {
+  "index": 1365,
+  "char": "粛",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 0,
+  "alts": [
+   "粛",
+   "湊",
+   "漢",
+   "澡",
+   "浹"
+  ]
+ },
+ {
+  "index": 1366,
+  "char": "肢",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 4,
+  "alts": [
+   "肢",
+   "陂",
+   "跂",
+   "鮟",
+   "技"
+  ]
+ },
+ {
+  "index": 1367,
+  "char": "緋",
+  "source": "bitmap",
+  "confidence": "low",
+  "uses": 1,
+  "alts": [
+   "緋",
+   "婦",
+   "嶮",
+   "縅",
+   "鯡"
+  ]
+ }
+]

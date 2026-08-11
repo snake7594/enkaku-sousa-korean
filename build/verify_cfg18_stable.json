@@ -1,0 +1,396 @@
+{
+  "schema": "enkaku-cfg18-stable-verification-v1",
+  "status": "pass",
+  "checks": {
+    "iso_size_matches_cfg17": true,
+    "iso_outside_archive_matches_cfg17": true,
+    "archive_matches_rebuilt": true,
+    "stream_matches_expected": true,
+    "stream_size_matches_reflow": true,
+    "all_text_matches": true,
+    "all_references_match": true,
+    "all_rows_encodable": true,
+    "no_overlapping_text_spans": true,
+    "no_foreign_characters": true,
+    "no_story_lines_over_width": true,
+    "cfg17_reference_model_reproduced_exactly": true,
+    "runtime_report_has_no_ref_conflicts": true
+  },
+  "iso": {
+    "path": "D:\\psp\\원격수사\\build\\Enkaku_Korean_CFG18_STABLE.iso",
+    "size": 739835904,
+    "sha256": "900f6815bd7e290c763f1a6c8f0ea1f9957b2b44948982b59083384ab214092c",
+    "base": "D:\\psp\\원격수사\\build\\Enkaku_Korean_RUNTIME_CFG17_SEMANTIC_REVIEW.iso",
+    "archive_lba": 15284,
+    "archive_size": 3221504,
+    "outside_archive_sha256": "18f9cb8814dc0be084abfc724292e7c55111a656cc12dba0729d7524308d32cd"
+  },
+  "archive": {
+    "sha256": "b6f7d79fe094a6a48fdde08febb1d37354456d51b55ce7aacf8b3bdb36f61167",
+    "packed_stream1_size": 585019
+  },
+  "stream": {
+    "path": "D:\\psp\\원격수사\\build\\stream1_ko_runtime_cfg18_stable.bin",
+    "size": 1685743,
+    "sha256": "80b70d8f42b1fc79ab26d43f613252ea2f422676c09d0f7773af695d86a474b8",
+    "detectable_blocks": 8822
+  },
+  "translation": {
+    "path": "D:\\psp\\원격수사\\build\\translation_ko_runtime_final.tsv",
+    "rows": 9626,
+    "usable_spans": 9626,
+    "encoding_failures": 0,
+    "overlaps": 0,
+    "text_mismatches": [],
+    "foreign_character_rows": [],
+    "story_lines_over_19": [],
+    "all_lines_over_19_count": 96,
+    "all_lines_over_19_sample": [
+      {
+        "offset": "0x0002b098",
+        "line": 1,
+        "characters": 29,
+        "text": "무죄를 쟁취할 수 있을지는 당신에게 달렸습니다...."
+      },
+      {
+        "offset": "0x000de988",
+        "line": 1,
+        "characters": 20,
+        "text": "살해 시각에 코우지는 라이트 블루에서"
+      },
+      {
+        "offset": "0x000de988",
+        "line": 3,
+        "characters": 21,
+        "text": "우선 그 알리바이 조사를 시작해 보자."
+      },
+      {
+        "offset": "0x000de9e0",
+        "line": 1,
+        "characters": 26,
+        "text": "경찰은 범행 시각으로 여겨지는 0시 44분 전에"
+      },
+      {
+        "offset": "0x000de9e0",
+        "line": 2,
+        "characters": 25,
+        "text": "코우지가 퇴장했다는 정보를 파악하고 있으므로,"
+      },
+      {
+        "offset": "0x000dea7b",
+        "line": 1,
+        "characters": 23,
+        "text": "하얀 탁의 이야기를 탕으로 경찰에 쌓아도,"
+      },
+      {
+        "offset": "0x000dea7b",
+        "line": 3,
+        "characters": 23,
+        "text": "우선은 아사츠유에서 둔 정보를 쌓아 보자."
+      },
+      {
+        "offset": "0x000deb0a",
+        "line": 1,
+        "characters": 25,
+        "text": "말다툼하고 있었던 것은 범행 시각으로 여겨지는"
+      },
+      {
+        "offset": "0x000deb90",
+        "line": 2,
+        "characters": 23,
+        "text": "콘도 형사는 사실을 나사 구부리지 않았다."
+      },
+      {
+        "offset": "0x000debee",
+        "line": 1,
+        "characters": 30,
+        "text": "「꽉에 응하고 있었기 때문에 권총에 지문이 붙어 있다」"
+      },
+      {
+        "offset": "0x000debee",
+        "line": 2,
+        "characters": 20,
+        "text": "에서는 의미가 통하지 않을 것이다. "
+      },
+      {
+        "offset": "0x000dec76",
+        "line": 2,
+        "characters": 23,
+        "text": "콘도 형사는 사실을 나사 구부리지 않았다."
+      },
+      {
+        "offset": "0x000dec76",
+        "line": 3,
+        "characters": 20,
+        "text": "분명한 물적 증거가 존재하기 때문에,"
+      },
+      {
+        "offset": "0x000ded00",
+        "line": 4,
+        "characters": 20,
+        "text": "분명한 물적 증거가 존재하기 때문에,"
+      },
+      {
+        "offset": "0x000ded94",
+        "line": 1,
+        "characters": 25,
+        "text": "「술에 취해 있었기 때문에 말다툼하고 있었다」"
+      },
+      {
+        "offset": "0x000ded94",
+        "line": 3,
+        "characters": 30,
+        "text": "라면, 경찰이 주장하는 「말다툼이 살해 동기가 되었다」"
+      },
+      {
+        "offset": "0x000ded94",
+        "line": 5,
+        "characters": 31,
+        "text": "여기는 말다툼을 하지 않았다고 부인하고 싶은 부분이지만…"
+      },
+      {
+        "offset": "0x000dee6c",
+        "line": 1,
+        "characters": 28,
+        "text": "말다툼이 있었다고 가정하는 것만으로는 의미가 없다."
+      },
+      {
+        "offset": "0x000def27",
+        "line": 1,
+        "characters": 28,
+        "text": "말다툼이 있었다고 가정하는 것만으로는 의미가 없다."
+      },
+      {
+        "offset": "0x000defcc",
+        "line": 2,
+        "characters": 22,
+        "text": " 한 번도 위를 떠나지 않았던 것일까? "
+      }
+    ]
+  },
+  "references": {
+    "total": 33371,
+    "selected_runtime_refs": 31467,
+    "typed_pointer_refs": 874,
+    "supplemental_refs": 194,
+    "excluded_false_refs": 3,
+    "mismatches": [],
+    "stats": {
+      "manifest_header": 11,
+      "manifest_inline": 24177,
+      "manifest_inline_kept": 24146,
+      "manifest_inline_dropped_inside_cfg_instruction": 10,
+      "manifest_inline_dropped_examples": [
+        [
+          440522,
+          256016,
+          440520,
+          12
+        ],
+        [
+          786649,
+          1441804,
+          786608,
+          12
+        ],
+        [
+          845839,
+          1441792,
+          845836,
+          14
+        ],
+        [
+          1002939,
+          1441792,
+          1002936,
+          14
+        ],
+        [
+          1035041,
+          1441792,
+          1035038,
+          14
+        ],
+        [
+          1302013,
+          1442005,
+          1302003,
+          3
+        ],
+        [
+          1399060,
+          1048576,
+          1399053,
+          12
+        ],
+        [
+          1441869,
+          786454,
+          1441866,
+          10
+        ],
+        [
+          1441902,
+          786454,
+          1441899,
+          10
+        ],
+        [
+          1441955,
+          786454,
+          1441952,
+          10
+        ]
+      ],
+      "manifest_inline_dropped_invalid_target": 21,
+      "manifest_inline_dropped_invalid_target_examples": [
+        [
+          231470,
+          1441924,
+          254
+        ],
+        [
+          923323,
+          1053203,
+          129
+        ],
+        [
+          945498,
+          1053203,
+          129
+        ],
+        [
+          980939,
+          1053203,
+          129
+        ],
+        [
+          986182,
+          1053203,
+          129
+        ],
+        [
+          996000,
+          1053203,
+          129
+        ],
+        [
+          1052143,
+          1053203,
+          129
+        ],
+        [
+          1094267,
+          1053203,
+          129
+        ],
+        [
+          1097834,
+          1053203,
+          129
+        ],
+        [
+          1131663,
+          1053203,
+          129
+        ],
+        [
+          1159702,
+          1053203,
+          129
+        ],
+        [
+          1167447,
+          309008,
+          21
+        ]
+      ],
+      "manifest_or_structural_refs_excluded": 3,
+      "supplemental_refs_added": 194,
+      "supplemental_refs_already_present": 0,
+      "excluded_ref_addresses": 3,
+      "pointer_array_refs_added": 245,
+      "runtime_refs_added": 8778,
+      "runtime_manifest_overrides": 0,
+      "runtime_manifest_override_examples": [],
+      "runtime_overlap_rejected": 0,
+      "runtime_overlap_rejected_examples": [],
+      "font_table_range": [
+        128,
+        175232
+      ],
+      "font_table_refs_rejected": 74,
+      "font_table_refs_rejected_examples": [
+        [
+          388,
+          212992,
+          "pointer_array"
+        ],
+        [
+          904,
+          357120,
+          "pointer_array"
+        ],
+        [
+          1664,
+          352256,
+          "pointer_array"
+        ],
+        [
+          6272,
+          286720,
+          "pointer_array"
+        ],
+        [
+          7555,
+          286720,
+          "pointer_array"
+        ],
+        [
+          8284,
+          212992,
+          "pointer_array"
+        ],
+        [
+          8540,
+          212992,
+          "pointer_array"
+        ],
+        [
+          13352,
+          199824,
+          "pointer_array"
+        ],
+        [
+          13356,
+          823296,
+          "pointer_array"
+        ],
+        [
+          19033,
+          353283,
+          "pointer_array"
+        ],
+        [
+          20616,
+          348160,
+          "pointer_array"
+        ],
+        [
+          20866,
+          212992,
+          "pointer_array"
+        ]
+      ],
+      "duplicate_or_conflicting_runtime_refs": [],
+      "total_refs": 33371
+    },
+    "correction_stats": {
+      "reference_corrections": "D:\\psp\\원격수사\\build\\runtime_reference_supplement_cfg17.json",
+      "supplemental_refs_requested": 194,
+      "excluded_ref_addresses_requested": 3,
+      "correction_basis": "user-tested CFG17 stream versus same-text current-manifest rebuild"
+    }
+  },
+  "emulator_launched": false
+}

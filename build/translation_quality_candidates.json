@@ -1,0 +1,3588 @@
+{
+ "schema": "enkaku_translation_quality_candidates_v1",
+ "pairs_checked": 9626,
+ "candidates": [
+  {
+   "index": "0x0003a58b",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\nこちらこそ、\\n配慮《はいりょ》が足りませんでした。",
+   "current_ko": "【노리코】\\n저야말로,\\n배려가 부족했습니다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0003a6ba",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n彼の弁護士である立場を抜《ぬ》きにして、\\n私はそう思っています。",
+   "current_ko": "【노리코】\\n코우지의 변호사라는 입장을 떠나서,\\n저는 그렇게 생각해요.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0003a7a5",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n私に言いにくかったら、\\n彼に直接言ってもらっても構いません。",
+   "current_ko": "【노리코】\\n저에게 말하기 어렵다면,\\n코우지에게 직접 말해 주셔도\\n괜찮습니다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0003adc5",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【ヘルパー】\\nはい……\\n現在はお２人となっております。",
+   "current_ko": "【가사도우미】\\n네……\\n현재는 두 분이 살고 계십니다.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0003c388",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\nはい。\\nお２人の顔が判別できれば\\nどんな写真でもかまいません。",
+   "current_ko": "【노리코】\\n네.\\n두 분을 구별할 수 있다면\\n어떤 사진이든 괜찮습니다.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0003c388",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\nはい。\\nお２人の顔が判別できれば\\nどんな写真でもかまいません。",
+   "current_ko": "【노리코】\\n네.\\n두 분을 구별할 수 있다면\\n어떤 사진이든 괜찮습니다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0003cb0d",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\nで、これが２人の写真。",
+   "current_ko": "【노리코】\\n그리고 이게 두 사람의 사진이야.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0003d5f9",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（気を引《ひ》き企《し》めないと……）",
+   "current_ko": "【노리코】\\n(정신을 바짝 차려야 해……)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0003d6a6",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（気を引《ひ》き企《し》めて\\n調査しないと）",
+   "current_ko": "【노리코】\\n(정신을 바짝 차리고\\n조사해야 해)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0003dddf",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（咐《ふ》き抜《ぬ》けが高い造りになってて、\\n空付が高く感じるわ）",
+   "current_ko": "【노리코】\\n(천장이 높게 뚫려 있어서\\n공간이 더 높게 느껴져)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0003df33",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（咐《ふ》き抜《ぬ》けが高くて、間るい……）",
+   "current_ko": "【노리코】\\n(천장이 높아서 밝네……)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0003efdb",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（観何度物が置いてあるわ。\\nさりげないインテリアにも\\n気を束《つか》っているのね）",
+   "current_ko": "【노리코】\\n(관엽식물이 장식되어 있네.\\n이런 소박한 인테리어에도\\n신경을 쓰고 있구나)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0003fec2",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（ま、参ったな……\\nまさか営業されるとは思ってなかったわ……）",
+   "current_ko": "【노리코】\\n(아, 당했네……\\n설마 영업을 당할 줄은 몰랐어……)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00040ea7",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【中川】\\n私は下《した》っ長《ぱ》ですからあまり感じなかったですが、\\n上の者たちは色々……っと！",
+   "current_ko": "【나카가와】\\n저는 말단이라 별로 느끼지\\n못했지만,\\n윗분들은 여러 가지…… 아차!",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00043952",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（気を引《ひ》き企《し》めて調査しないと）",
+   "current_ko": "【노리코】\\n(정신을 바짝 차리고 조사해야 해)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00043fb5",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（咐《ふ》き抜《ぬ》けが高くて、間るい……）",
+   "current_ko": "【노리코】\\n(천장이 높아서 밝네……)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0004431a",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（今日は白川朗代表に話を聞かないと\\nいけないわけよね……）",
+   "current_ko": "【노리코】\\n(오늘은 시라카와 사토루 대표에게\\n이야기를 꼭 들어야 하는 거지……)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000448a9",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n今日こそは水無副さんにお話を聞かないと……",
+   "current_ko": "【노리코】\\n오늘만큼은 미나즈키 씨에게\\n이야기를 꼭 들어야 해……",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00044b9b",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（良かった、今日はいたみたいで……\\n色々とお話を聞かないとね！）",
+   "current_ko": "【노리코】\\n(다행이다, 오늘은 있는\\n모양이네……\\n여러 이야기를 들어야지!)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0004762a",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n役元待遇《やくいんたいぐう》で復職か……\\nそこまで各内の評価が高いとは思わなかったな。\\nそりゃ、今の代表が承《よ》び戻《もど》すわけだ。",
+   "current_ko": "【코우지】\\n임원 대우로 복직이라……\\n그 정도로 회사 내 평판이 좋은\\n줄은\\n몰랐네.\\n그러니 현 대표가 다시 부른\\n거겠지.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00047e11",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\nそう考えれば、ＶＩＰルームの通路から出てきた\\n所長を見た水無副さんは２３恋１０分頃《ごろ》に\\nＶＩＰルームに入り、０恋頃《ごろ》に出たってことね。",
+   "current_ko": "【노리코】\\n그렇다면 VIP 룸 통로에서 나온\\n사람을 본 미나즈키 씨는 23시\\n10분쯤\\nVIP 룸에 들어가 자정 무렵\\n나왔다는\\n거네.",
+   "reason": "digits ['0', '10', '23'] in source vs ['10', '23'] in translation"
+  },
+  {
+   "index": "0x00049e7f",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\nいえ、違《ちが》います。\\n写真を１正屠《と》らせてもらいたいのですが？",
+   "current_ko": "【노리코】\\n아니요, 아닙니다.\\n사진을 한 장 찍어도 될까요?",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0004e9bb",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朗】\\nええ……\\nだから近所の子かもしれませんが……\\nあの子はこの部屋に慣れている。",
+   "current_ko": "【사토루】\\n네……\\n그러니 이웃집 아일 수도 있지만……\\n그 아이는 이 방에 익숙해져\\n있어요.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0004ea29",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朗】\\nしかし私には、仕事に注しかった一利順が\\nこの場に私生活を持《も》ち沽《こ》むとは思えないのですよね。",
+   "current_ko": "【사토루】\\n하지만 일에 엄격했던 이치로 씨가\\n이곳에 남의 아이를 데려올 거라고는\\n생각하기 어렵습니다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0004eec8",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\nなるほど。\\n水無副月曜の復職については、\\nちゃんと１ヶ副前から係いてたってわけだな。",
+   "current_ko": "【코우지】\\n그렇군.\\n미나즈키 코우지의 복직에 대해서는\\n제대로 한 달 전부터 알고 있었다는\\n거네.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0004f0cf",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nその朗も、まさかこんなことになるなんて\\n想像できなかったろう。",
+   "current_ko": "【코우지】\\n그 사토루 씨도, 설마 이런 일이\\n될\\n줄은\\n상상하지 못했겠지.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0004fa7c",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朗】\\nご存じかもしれませんが、\\n彼の父が御立した白川不係産を\\nここまで大きくしたのは彼の功績です。",
+   "current_ko": "【사토루】\\n아시겠지만,\\n아버지가 세운 시라카와 부동산을\\n여기까지 키운 것은 이치로 씨의\\n공적입니다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00050240",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朗】\\nええ、その通りです。\\nあれだけの実力の持ち主を放っておくのは\\nもったいないですから。",
+   "current_ko": "【사토루】\\n네, 맞습니다.\\n그 정도 실력자를 내버려 두는 건\\n아까우니까요.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000504c2",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朗】\\nそれであるなら、彼は無実です。\\nなぜなら彼の復職が具体化《ぐたいか》したのは、\\n１ヶ副くらい前ですから。",
+   "current_ko": "【사토루】\\n그렇다면 미나즈키 씨는 무죄입니다.\\n왜냐하면 미나즈키 씨의 복직이\\n구체화된\\n것은\\n한 달 전쯤이기 때문입니다.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00050789",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朗】\\n私はこの機会に２人が和婚するように\\n汗《あせ》を穢しました。",
+   "current_ko": "【사토루】\\n저는 이 기회에 두 분이 화해하도록\\n힘을 썼습니다.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000507ee",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朗】\\nその嘩《か》委《い》もあって、２人のあいだのわだかまりが婚け、\\n水無副順の復職も実現したのです。",
+   "current_ko": "【사토루】\\n그 덕분에 두 사람 사이의 앙금이\\n풀리고,\\n미나즈키 씨의 복직도 실현된\\n것입니다.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0005085f",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\n２人が和婚したのは事件のあった日だと\\n水無副さん本人から聞きました。",
+   "current_ko": "【노리코】\\n두 분이 화해한 건 사건 당일이라고\\n미나즈키 씨 본인에게 들었습니다.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000508cd",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朗】\\nええ……\\nあの日は私も同席しようと思っていたのですが、\\n一利順が自分１人でケジメをつけたいと。",
+   "current_ko": "【사토루】\\n네……\\n그날 저도 함께하려고 했지만,\\n이치로 씨가 혼자 매듭짓고 싶다고\\n했습니다.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00050a32",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朗】\\nそれはない、と断言できますよ。\\n先ほども申しましたが、\\n水無副順の復職は１ヶ副前から具体化《ぐたいか》していました。",
+   "current_ko": "【사토루】\\n그럴 리 없다고 단언할 수\\n있습니다.\\n아까도 말씀드렸지만,\\n미나즈키 씨의 복직은 한 달 전부터\\n구체화되어 있었습니다.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00050ad7",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朗】\\nその穢れで、あの日は２人で会っていたのです。\\nもしあの日にトラブルがあったとしたら、\\n水無副順は復職していなかったでしょう。",
+   "current_ko": "【사토루】\\n그런 흐름으로 그날 두 분은 만난\\n것입니다.\\n만약 그날 문제가 생겼다면,\\n미나즈키 씨는 복직하지 않았을\\n겁니다.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00050cbb",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朗】\\nしかし２人は１ヶ副前から復職するという方向で\\n意向が一幸《いっち》していましたし……",
+   "current_ko": "【사토루】\\n하지만 두 분은 한 달 전부터\\n복직한다는\\n방향으로\\n의견이 일치하고 있었고……",
+   "reason": "digits ['1', '2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00050d78",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\n１ヶ副前から復職が倚まっていたとのことでしたが\\nそれは具体的《ぐたいてき》にどのような過程で行われたのでしょう？",
+   "current_ko": "【노리코】\\n한 달 전부터 복직이 정해져\\n있었다고\\n하셨는데,\\n구체적으로 어떤 과정으로 진행된\\n건가요?",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00050ed2",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朗】\\n彼の復職を本気で提司し始めたのは、\\n１ヶ副前くらいです。",
+   "current_ko": "【사토루】\\n미나즈키 씨의 복직을 진지하게\\n제안하기\\n시작한 건,\\n한 달 전쯤입니다.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00051067",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朗】\\nその旨《むね》を一利順に話したら、\\n『すべて俺に明せておけ』と言ってくれて、\\nあの日２人で会ったという穢れです。",
+   "current_ko": "【사토루】\\n그 내용을 이치로 씨에게 말하자,\\n『모든 건 내게 맡겨 둬』라고\\n말했고,\\n그날 두 분이 만났다는 흐름입니다.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0005340a",
+   "rule": "term:アリバイ",
+   "category": "term",
+   "severity": "major",
+   "source_ja": "［アリバイについて］",
+   "current_ko": "[아리바이에 대해서]",
+   "reason": "source contains アリバイ; translation has none of 알리바이"
+  },
+  {
+   "index": "0x00053847",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【女性】\\nまったく、隅《すみ》におけないわねー",
+   "current_ko": "【여성】\\n정말, 제법인데~",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000543ab",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【女性】\\nまったく、隅《すみ》におけないわねー",
+   "current_ko": "【여성】\\n정말, 제법인데~",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0005a557",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\n（あっ、ちょうど２人がやってきたわ！）",
+   "current_ko": "【노리코】\\n(아, 그냥 두 사람이 왔어!)",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0005b0b5",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【葵】\\n国家試験の中でも最下関って言われている\\n曜法試験に合営しなくちゃならないんだから！",
+   "current_ko": "【아오이】\\n국가시험 중에서도 최난관이라고 하는\\n사법시험에 합격해야 하는걸!",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0005cd39",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n今まで手に入れた情報から酔理すれば、\\n卒業後にも２人のあいだに\\nなんらかの関係があったことがわかる！",
+   "current_ko": "【코우지】\\n지금까지 얻은 정보로 추리해 보면,\\n졸업 후에도 두 사람 사이에는 어떤\\n관계가 있었던 게 분명해!",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0005d61b",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\n２人の関係がわかれば、\\n真犯人の係機がわかるの？",
+   "current_ko": "【노리코】\\n두 사람의 관계를 알게 되면,\\n진범의 동기도 알 수 있나요?",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0005d82d",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nのぞみも、白川真了は\\n沼崎弁護士を卒敬してたって言ってた。\\nもしかしたら、なにか飯白い話が聞けるかもしれない。",
+   "current_ko": "【코우지】\\n노조미도 시라카와 신지가\\n누마사키 변호사를 선동하고 있었다고\\n했어.\\n어쩌면 재미있는 이야기를 들을 수\\n있을지도 몰라.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0005d8cf",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n沼崎弁護士に聞いてみてくれ……\\n２人の関係を。",
+   "current_ko": "【코우지】\\n누마사키 변호사에게 물어봐 줘……\\n두 사람의 관계를.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0005e8ce",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\nその中の１人はウチの所長ですね。\\nあとはどなたですか……？",
+   "current_ko": "【노리코】\\n그중 한 명은 우리 소장님이군요.\\n나머지는 누구인가요……?",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0005f263",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\nだけど、あの頃《ころ》は満得いかなかったなぁ……\\n自分は死んでもいいくらいの覚朗《かくご》で\\n仕事してたし……",
+   "current_ko": "【아사츠유】\\n하지만 그때는 납득하지 못했구나…\\n자신은 치아도 좋을 정도의 각오로\\n일하고 있었고…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0005f392",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\n冷赤に考えれば、\\n彼の判断は正しかったのかもしれないわ。\\n人付として卒敬できるかは別問題だけど。",
+   "current_ko": "【아사츠유】\\n냉정하게 생각하면 아야의 판결은\\n가혹했을지도 몰라.\\n인간적으로 존경할 수 있는지는\\n별개의\\n문제지만.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0005fad1",
+   "rule": "term:クビ",
+   "category": "term",
+   "severity": "major",
+   "source_ja": "【朝等】\\n彼はアタシが弁護士恋代のクライアントだったけど\\n心臓病を理由にクビになったわ。",
+   "current_ko": "【아사츠유】\\n아야는 어타시가 변호사 시대의\\n클라이언트였지만\\n심장병을 이유로 곰이 되었어.",
+   "reason": "source contains クビ; translation has none of 해고/잘리/짤리/목"
+  },
+  {
+   "index": "0x0005fc24",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朝等】\\n２人ともそこそこ知っている人だけど、\\n顧問弁護士《こもんべんごし》とクライアントの関係って\\nことくらいしか知らないわ。",
+   "current_ko": "【아사츠유】\\n두 사람 모두 거기 알고 있는\\n사람이지만,\\n고문 변호사와 클라이언트의 관계는\\n일 정도밖에 모른다.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0005fdb3",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朝等】\\nあの２人の性営を知っているとね。\\n沼崎さんはとにかく生真飯押な人でしょ？",
+   "current_ko": "【아사츠유】\\n그 두 사람의 성격은 알고 있지.\\n누마사키 씨는 어쨌든 매우 성실한\\n사람이잖아?",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0006082b",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朝等】\\nなら、ある程度は気がついてるんじゃない？\\n２人が裏で汚《よご》れたことをしてたって。",
+   "current_ko": "【아사츠유】\\n이라면 어느 정도는 눈치채고 있지\\n않나?\\n\\n두 사람이 용으로 더러운 일을 하고\\n있었다고.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0006110e",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\n病気を理由にクビを切られて……\\n本人は満得しなかったでしょうね。",
+   "current_ko": "【아사츠유】\\n병을 이유로 해고당해서……\\n본인은 납득하지 못했겠지요.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0006162f",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朝等】\\n実際、コウちゃんは１関逮捕《たいほ》されてるしね。\\nもっともあのときは１日で釈放《しゃくほう》されたけど。",
+   "current_ko": "【아사츠유】\\n실제, 코우짱은 1림 체포되고\\n있어. \\n가장 그때는 하루에 석방되었지만.",
+   "reason": "digits ['1', '1'] in source vs ['1'] in translation"
+  },
+  {
+   "index": "0x00061804",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\nどう……？\\n法子ちゃんとしては、\\nコウちゃんがそんな危ない仕事をしてるのはイヤ？",
+   "current_ko": "【아사츠유】\\n어떻게… \\n노리코 짱으로는,\\n코우짱가 그런 치명적인 일을 하고\\n있는\\n것은 이야?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000618f1",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\nフフ、正直でいいわ。\\nなら、コウちゃんにまっとうな仕事をさせるために\\n法子ちゃん、一憶脱《ひとはだぬ》いでくれる？",
+   "current_ko": "【아사츠유】\\n후후, 험직으로 좋다. \\n이라면, 코우짱에게 짙은 일을\\n시키기\\n위해서\\n노리코짱, 한 피부 벗어 준다?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00061b10",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【法子】\\n……なにか近藤刑事の俗みを握《にぎ》っているとか？",
+   "current_ko": "【노리코】\\n…",
+   "reason": "source 25 chars vs translation 4"
+  },
+  {
+   "index": "0x000633bf",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朝等】\\nまったく、あの子も１人でフラフラと……\\nまだ子どもなのに、\\n１人であんなところに行ったら危ないわよね！",
+   "current_ko": "【아사츠유】\\n전혀, 그 아이도 혼자서\\n훌라후라와…\\n아직 아이인데,\\n혼자서 그런 곳에 가면 치지\\n않을거야!",
+   "reason": "digits ['1', '1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00064f07",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朝等】\\n免疫若連欺《めんえきよくせいざい》を埜まなきゃいけないことと、\\n半年に１関検査を受けなくちゃいけないこと以外は\\n普通《ふつう》の生活そのものよ。",
+   "current_ko": "【아사츠유】\\n면역억제제를 먹어야 한다는 것과\\n반년에 한 번 검사를 받아야 한다는\\n것\\n외에는\\n그야말로 평범한 생활이야.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00064f07",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\n免疫若連欺《めんえきよくせいざい》を埜まなきゃいけないことと、\\n半年に１関検査を受けなくちゃいけないこと以外は\\n普通《ふつう》の生活そのものよ。",
+   "current_ko": "【아사츠유】\\n면역억제제를 먹어야 한다는 것과\\n반년에 한 번 검사를 받아야 한다는\\n것\\n외에는\\n그야말로 평범한 생활이야.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00065ca5",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n（心臓移度手搬を受けたもう１人は……？）",
+   "current_ko": "【코우지】\\n(심장 이식 수술을 맡은 또\\n하나는……?)",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00065d16",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n（２人とも付違《まちが》ってる！）",
+   "current_ko": "【코우지】\\n(두 사람 모두 잘못되어 있다!)",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00065d79",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n（１人は話の穢れでわかるだろう？\\n少し危機感を持たないとダメだな、オレも……）",
+   "current_ko": "【코우지】\\n(한사람은 이야기의 견해로 알겠지?\\n조금 치유감을 망치지 않으면 안\\n되는데,\\n나도…",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00065fb0",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nそしておふくろの心臓は誰《だれ》かに移度されたが、\\n家族であるオレは、誰《だれ》に移度されたのかは\\n教えてもらえなかった。",
+   "current_ko": "【코우지】\\n그리고 엄마의 심장은 누군가에게\\n이식됐지만,\\n가족인 나는 누구에게 이식됐는지\\n듣지\\n못했어.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000660bf",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……朝等さんが移度手搬を受けた恋期については\\n鍬《くわ》しくは知らない。",
+   "current_ko": "【코우지】\\n…\\n몹시 모른다.",
+   "reason": "source 35 chars vs translation 10"
+  },
+  {
+   "index": "0x00066621",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（冗談《じょうだん》だろ……？\\n人付って、こんな気争に死ぬのか……？）",
+   "current_ko": "【코우지】\\n(상담이겠지……?\\n인간이 이렇게 솔직한가...? )",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00067ec9",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n考えられないこともない。\\nいや、そう考えれば警察がオレに殺人の奴《ぬ》れ衣《ぎぬ》を\\n撃死に着せようとする説間がつく。",
+   "current_ko": "【코우지】\\n그럴 수도 있겠지.\\n그렇게 생각하면 경찰이 내게 살인의\\n누명을 억지로 씌우려 한다는 설명이\\n돼.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0006896d",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\nでも、今考えれば、\\nなんとなく思い当たるフシはあるんじゃないの？",
+   "current_ko": "【노리코】\\n에서도, 지금 생각하면,\\n어쩐지 무거운 치는 후시는 있는\\n것이\\n아냐?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00069dea",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\nあともう１人聞きたい人物がいます。\\n狭、こちらの師校に白川真了という生徒が\\n通っていたと思うのですが……",
+   "current_ko": "【노리코】\\n다시 한 분 더 여쭤보고 싶은 분이\\n있습니다.\\n자, 이 학교에 시라카와 신지라는\\n학생이 다녔다고 들었습니다만……",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0006a328",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\nあともう１人聞きたい人物がいます。\\n狭、こちらの師校に斉藤勝代という生徒が\\n通っていたと思うのですが……",
+   "current_ko": "【노리코】\\n다음으로 한 분 더 여쭤보고 싶은\\n분이 있습니다.\\n자, 이 학교에 사이토 가쓰요라는\\n학생이 다녔다고 생각합니다만……",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0006ab82",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\n２人は仲が良かったのでしょうか？",
+   "current_ko": "【노리코】\\n두 사람에게는 유타카가 더\\n좋았나요?",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0006adc1",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\nえっ……？\\nもしかして斉藤さんは\\n気がついてなかったんですか？",
+   "current_ko": "【노리코】\\n뭐...? \\n아마도 사이토 씨는\\n알지 못했을까요?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0006b134",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【西状】\\nええ。\\n２人とも良くできた子だったので、\\n本当に残念です。",
+   "current_ko": "【도요시마】\\n네. \\n두 사람 모두 잘 생긴 아이였기\\n때문에,\\n정말 승기입니다.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0006b9ef",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【彩業元】\\nいらっしゃいませ。\\nお１人様ですか？",
+   "current_ko": "【종업원】\\n환영 합니다.\\n한 사람입니까?",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0006bd1a",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【マスター】\\n先の事件の担当……と申しますと、\\n被疑者《ひぎしゃ》となった斉藤光志さんの\\n担当弁護士の方ですか？",
+   "current_ko": "[주인]\\n앞의 사건의 상당 ......라고\\n말하면,\\n피의자가 된 사이토 코우지의\\n상당 변호사입니까?",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x0006c2fc",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【マスター】\\nですので、\\nお渡《わた》しすることはできませんが……",
+   "current_ko": "【마스터】\\n이므로,\\n보는 것은 불가능합니다만…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0006e204",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【法子】\\n（……これは有《すご》いことになってるわね）",
+   "current_ko": "【노리코】\\n(…",
+   "reason": "source 22 chars vs translation 5"
+  },
+  {
+   "index": "0x0006e431",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（まだ調べないといけないものがあるわ）",
+   "current_ko": "【노리코】\\n(아직 조사해야 할 게 있어)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0006f106",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\nそうみたいね。\\n水谷さんは映ってないけど……",
+   "current_ko": "【노리코】\\n그런 것 같아요. \\n미스터. 미즈타니는 아직\\n안갔어...",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0007019d",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nでも、逆なんだ。\\nだからこそ\\n指紋《しもん》を扶《ふ》き蠧《と》らなければならないんだよ。",
+   "current_ko": "【코우지】\\n하지만 그 반대입니다. \\n그래서\\n지문을 보호해야 합니다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000733ee",
+   "rule": "term:アリバイ",
+   "category": "term",
+   "severity": "major",
+   "source_ja": "【光志】\\nそして０恋４４分に確実に証間できる\\nアリバイを作っておけば、\\n自分は容疑者《ようぎしゃ》から外れることができるからな。",
+   "current_ko": "【코우지】\\n그리고 0시 44분에 확실히 증명할\\n수\\n있는\\n아리바이를 만들어 두면,\\n자신은 용의자로부터 빠져나갈 수\\n있기\\n때문이야.",
+   "reason": "source contains アリバイ; translation has none of 알리바이"
+  },
+  {
+   "index": "0x000743f0",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【彩業元】\\nその人がオレに言ったっス。\\n『あの２人の口論を止めなくていいのか？』って。",
+   "current_ko": "【종업원】\\n그 사람이 나에게 말했어.\\n『그 두 명의 논쟁을 하지 않을 수\\n있을까? 』라고.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000748aa",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【法子】\\n……たしかにそれって口論とは違《ちが》いますね……",
+   "current_ko": "【노리코】\\n…",
+   "reason": "source 25 chars vs translation 4"
+  },
+  {
+   "index": "0x0007506b",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\nでも、昨日言ってましたよね？\\n外部効蹶と接続するときは、\\n係かさなければならないって。",
+   "current_ko": "【노리코】\\n하지만 어제 말했지? \\n외부 음원과 접제할 때는,\\n 움직여야 한다고.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00075ca7",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【彩業元】\\n１人は殺された人。\\n１人はその人の連れの、弁護士さん。",
+   "current_ko": "【종업원】\\n한 사람은 살해당한 사람.\\n한 사람은 그 사람의 동행인인\\n변호사 씨.",
+   "reason": "digits ['1', '1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00076013",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【彩業元】\\nハッキリとは覚えてないっス……",
+   "current_ko": "【종업원】\\n분명히는 기억하지 못했구나…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0007787a",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\nそんな……言いかけてやめないでくださいよ……",
+   "current_ko": "【노리코】\\n그런…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0007787a",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【法子】\\nそんな……言いかけてやめないでくださいよ……",
+   "current_ko": "【노리코】\\n그런…",
+   "reason": "source 24 chars vs translation 6"
+  },
+  {
+   "index": "0x00077d1b",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\nリモコンを使うと、盤線……というか、\\n上蹶ボタンを株《お》すと２慎ともついちゃうとか\\nそんなことにはならないんですか？",
+   "current_ko": "【노리코】\\n리모컨을 사용하면 혼선…… 아니,\\n전원 버튼을 누르면 두 대 모두\\n켜진다든지\\n그런 일은 없나요?",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00077da3",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【彩業元】\\nそれはないっス。\\nこのプレイヤー、\\n２改類の疚形に対応してるっスから。",
+   "current_ko": "【종업원】\\n그건 아니에요.\\n이 플레이어는\\n두 종류의 흔적에 대응하니까요.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000799f7",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【法子】\\n（……一応、写真を屠《と》っておこっと）",
+   "current_ko": "【노리코】\\n(…",
+   "reason": "source 20 chars vs translation 5"
+  },
+  {
+   "index": "0x0007c68a",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（まだ調べないといけないものがあるわ）",
+   "current_ko": "【노리코】\\n(아직 조사해야 할 게 있어)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0007d314",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【彩業元】\\nえーっと……\\nオレじゃわからないんで、マスターに聞いてくるっス。",
+   "current_ko": "【종업원】\\n음...\\n내가 몰라서 마스터에 넣어 왔어.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000800e6",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\nあぁ、間日の胸判のために、\\nちょっと書類を携理しないといけなくてね。",
+   "current_ko": "【신타로】\\n아, 내일 재판을 위해\\n조금 서류를 정리해야 해서 말이지.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000804bf",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\nあぁ、間日の胸判のために、\\nちょっと書類を携理しないといけなくてね。",
+   "current_ko": "【신타로】\\n아, 내일 재판을 위해\\n조금 서류를 정리해야 해서 말이지.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00082b6b",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\nそして２人で堂に入り、\\nそのままＶＩＰルームに入った……",
+   "current_ko": "【신타로】\\n그리고 둘이서 교에 들어가,\\n그대로 VIP룸에 들어갔다…",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0008358a",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\n被害者《ひがいしゃ》と水谷朝等さんが\\n狭からの知り合いだったという話を聞きました。\\n２人はどんな関係だったのかと……",
+   "current_ko": "【노리코】\\n피해자와 미즈타니 아사츠유씨가\\n자기로부터의 아는 것이었다고 하는\\n이야기를 두었습니다. \\n두 사람은 어떤 관계였는지...",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00083685",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\nはい。\\n容疑者《ようぎしゃ》の１人であると思っています。",
+   "current_ko": "【노리코】\\n네.\\n용의자 중 한 명이라고 무겁습니다.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00083b67",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\nそんなときは少なからずトラブルを計《かか》え沽《こ》むものでね。\\n小さなトラブルから大きな民事訴訟《みんじそしょう》まで、\\n彼女が１人で処理していたそうだ。",
+   "current_ko": "【신타로】\\n그럴 때는 적지 않고 트러블을\\n기쁘게\\n자아내는 것이네요. \\n작은 트러블부터 큰 민사 소송까지,\\n아야메가 혼자 역리하고 있었다고\\n한다.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00084cbb",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（先輩《せんぱい》も礒《いそが》しそうだから、\\n声を掛《か》けるのは控《ひか》えないと……）",
+   "current_ko": "【노리코】\\n(선배도 칭찬할 것 같으니까,\\n소리를 들이는 것은 삼가면…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0008532a",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\nあぁ、間日の胸判のために、\\nちょっと書類を携理しないといけなくてね。",
+   "current_ko": "【신타로】\\n아, 내일 재판을 위해\\n조금 서류를 정리해야 해서 말이지.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000884f9",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\nなら、当然ですよ。\\nそれだけ所長のことを信頼《しんらい》して\\n相談を持ちかけたんじゃないですか？",
+   "current_ko": "【노리코】\\n라면, 당연하네요. \\n그것만 소장을 신뢰하고\\n상담을 격려한 건가요?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00088e74",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\n被害者《ひがいしゃ》も一緒《いっしょ》に……？\\n２人はそんなに仲が良かったんですか？",
+   "current_ko": "【노리코】\\n피해자도 함께…\\n두 사람은 그렇게 풍부했습니까?",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000890f1",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\nでも、腎臓移度手搬《じんぞういしょくしゅじゅつ》のために渡欧《とおう》して、\\n手搬は失敗……\\nそれが原因で亡くなってしまったんだ。",
+   "current_ko": "[신타로]\\n에서도 신장 이식 수술을 위해\\n격유하고,\\n수술은 실패......\\n그것이 원인으로 죽어버렸어.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x00089ad9",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\n移度手搬の中でも、\\n腎臓移度《じんぞういしょく》は成功率が高いらしいじゃないか。\\n大丈夫《だいじょうぶ》、成功するよ。",
+   "current_ko": "【신타로】\\n이식 수술 중에서도\\n신장 이식은 성공률이 높다더군.\\n괜찮아, 성공할 거야.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00089fe7",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【真了】\\n……沼崎先生に話しておきたいことが\\nあるんです。",
+   "current_ko": "【신지】\\n…\\n있어요.",
+   "reason": "source 25 chars vs translation 7"
+  },
+  {
+   "index": "0x0008a190",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\nわかった、聞こうじゃないか。\\n話してくれ。",
+   "current_ko": "【신타로】\\n알았어, 둘까? \\n 말해줘.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0008a357",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【真了】\\nそんな引《ひ》っ沽《こ》み思司《じあん》の私の新界を高げてくれのが\\n勝代さんなんです。\\n桜蔭高校の２つ上の先輩《せんぱい》でした。",
+   "current_ko": "【신지】\\n그렇게 당겨 사안의 나의 세계를\\n높여\\n주는 것이\\n어머니씨입니다. \\n준텐 고등학교의 두 선배였습니다.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0008e76a",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（まだ調べないといけないものがあるわ）",
+   "current_ko": "【노리코】\\n(아직 조사해야 할 게 있어)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00091e07",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n……すみません、ちょっとよろしいですか？",
+   "current_ko": "【노리코】\\n…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00091e07",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【法子】\\n……すみません、ちょっとよろしいですか？",
+   "current_ko": "【노리코】\\n…",
+   "reason": "source 22 chars vs translation 4"
+  },
+  {
+   "index": "0x00092071",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\nえっと……５年前までこちらで撮いていた\\n斉藤勝代さんと、現在も通院中だと思われる\\n水谷朝等さんについてなんですが……",
+   "current_ko": "【노리코】\\n음…\\n사이토 카츠요 씨와 현재도 통원\\n중이라고\\n생각된다\\n미즈타니 아사츠유씨에\\n대해서입니다만…",
+   "reason": "digits ['5'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000925b6",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【術護師】\\nいいですよ、お２人のことについて\\nお話しましょう。",
+   "current_ko": "【간호자】\\n좋아요, 두 사람에 대해\\n 이야기합시다.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00092ed3",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\nはい、かまいませんよ。",
+   "current_ko": "【노리코】\\n네, 괜찮습니다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000931af",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\nはい、かまいませんよ。",
+   "current_ko": "【노리코】\\n네, 괜찮습니다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00094ae0",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【駅口】\\nですから、弁護士さんが考えてらっしゃるような決然《ぐうぜん》は\\n極めて少ないものと認識してください。",
+   "current_ko": "【히구치】\\n이므로, 변호사씨가 생각해 버리는\\n우연은\\n극히 적은 것으로 인식해 주세요.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000956be",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【駅口】\\n……ですが、斉藤さんは吉本さんに心臓を咫《あた》えられないか、\\n主怡耳の教授先生にずっと相談していたようです。",
+   "current_ko": "【히구치】\\n…\\n수치소의 교장 선생님에게 계속\\n상담하고\\n있던 것 같습니다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00095b11",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【駅口】\\nはい……\\n当然、院長派以外の者には内緒《ないしょ》で、ですが。",
+   "current_ko": "【히구치】\\n네……\\n당연, 원장파 이외의 사람에게는\\n비밀로,\\n하지만.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00099f6d",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\n（１人で来るのは初めてだなあ。\\nこういうところ……）",
+   "current_ko": "【노리코】\\n(혼자서 뱉는 것은 처음이구나.\\n이런 곳…",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0009acb5",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\n（色々なゲームがあるわね……\\n試しに１関やってみようかな……？）",
+   "current_ko": "【노리코】\\n(여러가지 게임이 있구나…\\n질서 한 숲을 보자 ... ...?\\n)",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0009ae22",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（コウジが結構得意だったな……\\n色んなぬいぐるみを蠧ってもらったのよね）",
+   "current_ko": "【노리코】\\n(코우지가 결막 특기였구나…\\n다양한 봉제 인형을 받았다.)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0009ae82",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n（……あ、あのぬいぐるみ、可愛いかも。\\n釈放《しゃくほう》されたらコウジにとってもらおうっと）",
+   "current_ko": "【노리코】\\n(……아, 그 봉제인형,\\n귀여울지도.\\n석방되면 코우지에게 받으세요)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0009b528",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……六方ふさがりだな。",
+   "current_ko": "【코우지】\\n…",
+   "reason": "source 13 chars vs translation 4"
+  },
+  {
+   "index": "0x0009b9cc",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n昨日、検事の蠧調べがあった。\\nただ、十《おどろ》くほどあっさり終わって\\n轟子《ひょうし》抜《ぬ》けだったけどな。",
+   "current_ko": "【코우지】\\n어제, 검사의 취조가 있었다. \\n단지, 굉장히 깨끗이 끝나고\\n박자 빠졌지만.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0009bd27",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n殺害現場となったＶＩＰルームにも\\n入ったけど、\\n結腸、なにも思い出せなかった……",
+   "current_ko": "【코우지】\\n살해 현장이 된 VIP룸에도\\n들어가 봤지만,\\n결국 아무것도 기억해 내지\\n못했어……",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0009dd2b",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n白川グループの顧問弁護士《こもんべんごし》なら、\\n当日、ＶＩＰルームで被害者《ひがいしゃ》と会う御題をしてた\\n人物の情報を知ってるかもしれないだろ？",
+   "current_ko": "【코우지】\\n시라카와 그룹의 고문 변호사라면,\\n당일, VIP룸에서 피해자와 만나는\\n긴자를 하고 있었다\\n인물의 정보를 알고 있을지도 몰라?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0009e24a",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nそのとき、オレは５久《さい》で、\\n父親が亡くなった理由とか、\\n具体的《ぐたいてき》な話は今まで知らなかった。",
+   "current_ko": "【코우지】\\n그 때, 나는 5개로,\\n아버지가 죽은 이유라든지,\\n구체적인 이야기는 지금까지 몰랐다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0009e3e2",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n……でも、\\nコウジはそんなこと\\n知らなかったんでしょ？",
+   "current_ko": "【노리코】\\n하지만,\\n코우지는 그런 일\\n몰랐어요?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0009ff4b",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n頼《たの》む、統《た》えてくれ。\\nこの件はうかつに係くと\\n今までの調査が落部ムダになりかねない。",
+   "current_ko": "【코우지】\\n부탁한다, 참아줘. \\n이 건은 가시로 움직이면\\n지금까지의 조사가 전부 낭비가 될\\n수\\n있다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000a126d",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n……切ないね。\\n設みを持って渡欧《とおう》しただろうに……",
+   "current_ko": "【노리코】\\n……안타깝네.\\n희망을 품고 유럽으로 갔을 텐데……",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000a221e",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……昨日の蠧調べで退職が帰ってきた。",
+   "current_ko": "【코우지】\\n…",
+   "reason": "source 20 chars vs translation 4"
+  },
+  {
+   "index": "0x000a36f5",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nこの件について、\\n警察はなにかを掬《つか》んでないか、\\n知りたい。",
+   "current_ko": "【코우지】\\n이 사건에 대해\\n경찰이 뭔가를 파악하고 있는지\\n알고 싶어.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000a5231",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nなにげない話なんだけど、\\nよくよく考えればたしかにおかしいんだよな。",
+   "current_ko": "【코우지】\\n무시한 이야기지만,\\n잘 잘 생각하면 확실히 이상해.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000a6da4",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\nでも、\\n少しは不安が恠えたんじゃない？",
+   "current_ko": "【노리코】\\n이라도,\\n조금은 불안을 집에 갈 수\\n있었잖아?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000a7d28",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\nへえ……！\\n仲良かったんだね、２人って。",
+   "current_ko": "【노리코】\\n헤에…\\n풍부했어, 둘이야.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000a9d19",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\nがんばろうぜ、２人で。",
+   "current_ko": "【코우지】\\n 힘내자, 둘이서.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000a9d7f",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\nうん、がんばろう、２人で……",
+   "current_ko": "【노리코】\\n응, 노력하자, 둘이서…",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000aa7ba",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\nウチの事務所の近くに高校があってさ。\\nそこにある探偵補安部《たんていくらぶ》の部元２人。",
+   "current_ko": "【코우지】\\n우리 사무소 근처에 고등학교가 하나\\n있는데,\\n거기 탐정 동아리 부원 두 명이야.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000aaa06",
+   "rule": "term:クビ",
+   "category": "term",
+   "severity": "major",
+   "source_ja": "【光志】\\nオレたちが計《かか》えてる依頼《いらい》に\\n深くクビを枚《つ》っ沽《こ》まないって条件で、\\n事務所への出入りを許可してるんだ。",
+   "current_ko": "【코우지】\\n저희가 맡은 의뢰에 깊이 관여하지\\n않는다는 조건으로,\\n사무소 출입을 허가하고 있어.",
+   "reason": "source contains クビ; translation has none of 해고/잘리/짤리/목"
+  },
+  {
+   "index": "0x000aac83",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\nでも今んとこ、\\n２人ともやる気痛々なんだけどね。",
+   "current_ko": "【코우지】\\n에서도 이젠 사촌,\\n두 사람 모두 동기부족이지만.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000aafb7",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\nああ、そうなんだよ。\\n２人の会話を聞いてたら、\\n意外な事実がわかったんでね。",
+   "current_ko": "【코우지】\\n 아, 맞아. \\n두명의 사화를 듣고 있으면,\\n의외의 사실을 알았어요.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000aba6f",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\nそれはいいとしてだ。\\nあの日１日なにをしてたのか\\n聞いたけど……",
+   "current_ko": "【코우지】\\n그것은 좋다고 한다. \\n그날 하루 무슨 일을 했는지\\n두었는데......",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000ac276",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nでも、\\nのぞみが向き合わなきゃいけない問題だ。\\nうまく濃《の》り皷《こ》えてくれればいいけどな。",
+   "current_ko": "【코우지】\\n에서도,\\n노조미가 마주해야 하는 문제다. \\n 잘 어둡게 하고 있어 주면\\n좋지만.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000acd7e",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n……切ないね。\\n設みを持って渡欧《とおう》しただろうに……",
+   "current_ko": "【노리코】\\n……안타깝네.\\n희망을 품고 유럽으로 갔을 텐데……",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000ad8e8",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\n……ということは、\\n被害者《ひがいしゃ》は２人の不倫《ふりん》を知っていた上で、\\n所長を顧問弁護士《こもんべんごし》にした……？",
+   "current_ko": "【노리코】\\n……라는 것은,\\n피해자는 두 사람의 불륜을 알고\\n있었고,\\n소장을 고문 변호사로 했다…",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000afbd2",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【七芝】\\nおかえり～\\n……って、帰って来ちゃダメじゃない！",
+   "current_ko": "【나나시바】\\n어서 봐~\\n…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000afe93",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n今日は検事の蠧調べに\\n行ってきたんだよね？\\nどうだった……？\\n……って聞くまでもないか……",
+   "current_ko": "【노리코】\\n오늘은 검사의 취조에\\n 다녀 왔지? \\n어땠어......? \\n…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000b0925",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n事実、殺害方法がわかった今でも、\\n真犯人を絞《しぼ》り切《き》れてない。",
+   "current_ko": "【코우지】\\n사실, 살해 방법을 알게 된\\n지금도,\\n진범을 특정하지 못했어.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000b098b",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nこの事件を生んだ文《やみ》……\\nそれと向かい合わなきゃいけない。",
+   "current_ko": "【코우지】\\n이 사건을 낳은 어둠… …\\n그것과 마주해야 한다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000b120d",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\n今までの調査は、\\n割と具体的《ぐたいてき》だったじゃない？",
+   "current_ko": "【노리코】\\n지금까지의 조사는,\\n축과 구체적이었잖아?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000b13c2",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n事務所内にあったプレイヤーを\\n係かした跡《あと》なんて、\\nなかなか気がつかないぞ？",
+   "current_ko": "【코우지】\\n사무소내에 있던 플레이어를\\n이동한 호랑이는,\\n꽤 몰라?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000b1427",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nだから警察を出《だ》し抜《ぬ》けたんだし、\\nあの写真を屠《と》ってきた恋点で、\\n法子の勝ちだよ。",
+   "current_ko": "【코우지】\\n그래서 경찰을 빠져나갔고,\\n저 사진을 찍어 온 시점에서,\\n노리코의 승리야.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000b2f9d",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nひとつ閣《かく》しごとがあると、\\n他にもあるんじゃないかって\\n勘《かん》ぐっちまうだろう！？",
+   "current_ko": "【코우지】\\n하나 각성이 있으면,\\n범에도 있잖아?\\n감구치마겠지! ?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000b3342",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n沼崎弁護士は、\\nオレたちのやり方に\\n芝成してくれたんじゃないのか！？",
+   "current_ko": "【코우지】\\n누마사키 변호사는,\\n저희들의 방식에\\n찬성해 주었잖아! ?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000b3480",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n法子も法子だ！\\n話してくれればいいじゃないか！",
+   "current_ko": "【코우지】\\n노리코도 노리코다! \\n말해주면 좋을까!",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000b568f",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\nそんな彼女がある日、\\nとんでもないものを発見した。\\n白川順の手記だ。",
+   "current_ko": "【신타로】\\n그런 아야 여자가 어느 날,\\n엉성한 것을 발견했다. \\n시라카와가와의 수기다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000b5717",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\nその手記には、\\n１人の男を殺したことが\\nほのめかされていた。\\nその男とは……順ならわかるね？",
+   "current_ko": "【신타로】\\n그 수기에는,\\n남자 한 명을 죽였다는 내용이\\n암시되어 있었어.\\n그 남자는…… 준이라면 알겠지?",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000b5d6a",
+   "rule": "term:人殺し",
+   "category": "term",
+   "severity": "blocker",
+   "source_ja": "【栄太郎】\\n彼女は賛《おび》えていたよ……\\nそれはそうだろう。\\n自分の夫が人殺しをしていた\\nわけだからね。",
+   "current_ko": "【신타로】\\n그녀는 겁에 질려 있었어……\\n그럴 만도 하지.\\n남편이 사람을 죽이고 있었던\\n거니까.",
+   "reason": "source contains 人殺し; translation has none of 살인/죽인/살인자"
+  },
+  {
+   "index": "0x000b5e51",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\n順には申し切ないが、\\n私たち２人はその事件を\\n振表せずにおくことに倚めた。",
+   "current_ko": "【신타로】\\n강에는 죄송하지만,\\n우리 둘은 그 사건을\\n모양 나타내지 않고 두는 것에\\n주저했다.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000b5f99",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\nうむ……そんなこともあり、\\n私は安代さんを１人にしておくのが\\n篠《しの》びなくなったんだ。",
+   "current_ko": "【신타로】\\n우무… … 그런 일도 있어,\\n나는 야스시로 씨를 혼자 유지한다.\\n시노비 사라졌다.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000b635b",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\n相談を受けていたとは言え、\\n白川順に内緒《ないしょ》で会っていた事は\\n事実だし……",
+   "current_ko": "【신타로】\\n상담을 하고 있었다고는 말할 수\\n있고,\\n시라카와가와에 비밀로 생각하고 있던\\n것은\\n사실이고…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000b7865",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\n彼はもしかしたら、\\nわざと不正の片捧を担《かつ》がせることで\\n私に罰《ばつ》を咫《あた》えていたのかもしれない。",
+   "current_ko": "【신타로】\\n아야는 어쩌면 일부러 불륜 누명을\\n씌워\\n나에게 벌을 주고 있었던 걸지도\\n몰라.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000b8278",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n被害者《ひがいしゃ》が最後に押撃《もくげき》された０恋前後から、\\n銃声《じゅうせい》が聞こえた０恋４４分までの\\nアリバイを樹らし合わせてみよう。",
+   "current_ko": "【코우지】\\n피해자가 마지막으로 목격된 시각부터\\n총성이 들린 0시 44분까지의\\n알리바이를 대조해 보자.",
+   "reason": "digits ['0', '0', '44'] in source vs ['0', '44'] in translation"
+  },
+  {
+   "index": "0x000b8952",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n被害者《ひがいしゃ》が最後に押撃《もくげき》された０恋前後から、\\n銃声《じゅうせい》が聞こえた０恋４４分までの\\nアリバイを樹らし合わせてみよう。",
+   "current_ko": "【코우지】\\n피해자가 마지막으로 목격된 시각부터\\n총성이 들린 0시 44분까지의\\n알리바이를 대조해 보자.",
+   "reason": "digits ['0', '0', '44'] in source vs ['0', '44'] in translation"
+  },
+  {
+   "index": "0x000ba434",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nしまった！\\n日曜は定料日だったな……\\n今度から気をつけないと。",
+   "current_ko": "【코우지】\\n젠장!\\n오늘은 정기휴일이었지……\\n이제부터는 주의해야겠어.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000ba4a7",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nしまった！\\n日曜と火曜は料日だったな……\\n今度から気をつけないと。",
+   "current_ko": "【코우지】\\n젠장!\\n일요일과 월요일은 휴일이었지……\\n이제부터는 주의해야겠어.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000bc1d1",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nあぁ、やってもらって構わないよ。",
+   "current_ko": "【코우지】\\n아, 해 줘도 괜찮아.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000bd3f3",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nまだまだ情報は足りないけどな。\\nでも着実に先に活んでる。",
+   "current_ko": "【코우지】\\n아직 아직 정보는 부족하지만. \\n에서도 꾸준히 앞으로 나아가고\\n있다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000be44d",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nしまった！\\n日曜は定料日だったな……\\n今度から気をつけないと。",
+   "current_ko": "【코우지】\\n젠장!\\n오늘은 정기휴일이었지……\\n이제부터는 주의해야겠어.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000be4c0",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nしまった！\\n日曜と火曜は料日だったな……\\n今度から気をつけないと。",
+   "current_ko": "【코우지】\\n젠장!\\n일요일과 월요일은 휴일이었지……\\n이제부터는 주의해야겠어.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000bfb6d",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nあぁ、やってもらって構わないよ。",
+   "current_ko": "【코우지】\\n아, 해 줘도 괜찮아.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000c137c",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\n水谷順から鍵《かぎ》を受け蠧り、\\n近藤順が鍵《かぎ》を開けた。",
+   "current_ko": "[신타로]\\n미즈타니가와에서 열쇠를 안고,\\n콘도강이 열쇠를 걸었다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000c144b",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\n危険だから自分１人で行く。\\n他の者はここで待機していろとね。",
+   "current_ko": "【신타로】\\n치명적이기 때문에 자신 혼자 간다.\\n범인은 여기서 기다려야 합니다.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000c1726",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【栄太郎】\\nしばらくして近藤順が\\nここは現場《げんじょう》画存《ほぞん》のために封鎖《ふうさ》するから\\n部屋の外に出るように指示した。",
+   "current_ko": "[신타로]\\n잠시 후 콘도강이\\n여기는 현장 보존을 위해 풍사하기\\n때문에\\n방 밖으로 나가도록 지시했다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000c1a25",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\nもう１人の吉本土香刑事《よしもとさやかけいじ》はまだ衣修の身だけど、\\n国家振務元試験をトップの成績で\\n合営した才女よ。",
+   "current_ko": "【노리코】\\n또 한 명인 요시모토 사야카 형사는\\n아직\\n신참이지만,\\n국가공무원 시험에 수석으로 합격한\\n재원이야.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000c2f6d",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【退職】\\n秘匿《ひとく》性《せい》の高い会議や紆ち合わせに\\n使われることを想定しているからだ。",
+   "current_ko": "[미우라]\\n부익성이 높은 사의나 가교에\\n고용되는 것을 총정하고 있기\\n때문이다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000c3121",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【退職】\\nどうかな。\\n口論のあと、\\nＶＩＰルームに帰って行く被害者《ひがいしゃ》が\\n入力した暗証番潔を盗《ぬす》み見た……",
+   "current_ko": "【미우라】\\n 어떨까. \\n구론 후,\\nVIP방으로 돌아가는 피해자가\\n입력한 비밀번호를 맹세했다...",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000c44f5",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【退職】\\n死因が銃撃《じゅうげき》によって\\n引き刑こされたことは間白だ。",
+   "current_ko": "[미우라]\\n치인이 총격에 의해\\n끌어당긴 것은 명백하다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000c5f69",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【近藤】\\nこの程度でか？\\n退職……お前のやり方は\\n手ぬるいんだよ。",
+   "current_ko": "【콘도】\\n이 정도로?\\n미우라… … 너의 방법은\\n손 미지근해.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000c6ec7",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【退職】\\n……これで蠧調べを\\n終わりにしたいところだが、\\n私はお前を怖問《じんもん》しなければならない\\n立場だ……",
+   "current_ko": "【미우라】\\n… … 이것으로 취조를\\n끝내고 싶은 곳이지만,\\n너를 심문해야\\n태장이다…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000c7c17",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【退職】\\nその際、グループのトップとして\\n白川一利が顔を出していたことも\\nしばしばある。",
+   "current_ko": "[미우라]\\n그 때, 그룹의 톱으로서\\n시라카와 이치로가 보고 있는 일도\\n흔히 있다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000c8a35",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【退職】\\n拳銃《けんじゅう》を持った犯人がいることを想定し、\\n当初は１人でＶＩＰルームに\\n入ったようだ。",
+   "current_ko": "【미우라】\\n권총을 탄 범인이 있는 것을\\n총정해,\\n당초는 혼자서 VIP룸에\\n 들어간 것 같다.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000cb2dc",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【退職】\\n……ようやく口を開いたか。",
+   "current_ko": "【미우라】\\n…",
+   "reason": "source 15 chars vs translation 4"
+  },
+  {
+   "index": "0x000cb345",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【退職】\\n胸判で無罪を勝ち蠧れるかも\\nしれないと思っているなら、\\nそんな期待は今のうちに\\n捨てておくことだな。",
+   "current_ko": "【미우라】\\n재판으로 무죄를 이길 수 있을지도\\n그렇다고 생각한다면,\\n그런 기대은 지금\\n버려 두는 것이다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000cca4f",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n（……前から思ってたけど\\n『吉本順』の一言で意思珍通《いしそつう》する\\nこの２人は\\nいったいどんな関係なんだろう？）",
+   "current_ko": "【코우지】\\n(……전부터 무거웠지만\\n「요시모토 강」의 한마디로 의중\\n소통한다\\n이 두 사람은\\n도대체 어떤 관계일까? )",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000cd23a",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【退職】\\nたしかお前の母、\\n斉藤勝代も心臓移度手搬を\\nしていたな？",
+   "current_ko": "[미우라]\\n확실히 너의 어머니,\\n사이토 가쓰요도 심장 이식 수술을\\n하고 있었구나?",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000d10b0",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n映像はオレの弁護士が持ってる。\\n証拠品《しょうこひん》として提出しようじゃないか。",
+   "current_ko": "【코우지】\\n발휘는 나의 변호사가 망하고 있다.\\n\\n증거품으로 제출하겠지?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000d18c3",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【退職】\\nお前が被害者《ひがいしゃ》と口論していたという押撃証言《もくげきしょうげん》がある。\\nこれは殺害係機につながりかねない話だ。\\nこれをどう説間するつもりだ？",
+   "current_ko": "【미우라】\\n네가 피해자와 말다툼하고 있었다는\\n목격 증언이 있다.\\n이것은 살해 동기로 이어질 수 있는\\n이야기다.\\n이걸 어떻게 설명할 거냐?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000d629a",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【退職】\\nほう……\\n今まで知らなかった、か。",
+   "current_ko": "【미우라】\\n쪽……\\n지금까지 몰랐던,?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000d638e",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【退職】\\nただし、お前が今までこの内容を\\n知らなかったという証拠《しょうこ》が存在すればな！",
+   "current_ko": "【미우라】\\n다만, 너가 지금까지 이 내용을\\n몰랐다는 증거가 존재하면!",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000d8226",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【退職】\\nこれによって、\\nそれぞれがアリバイの証人となり、\\n箍《たが》いにアリバイを形成している。",
+   "current_ko": "[미우라]\\n이것에 의해,\\n각각이 알리바이의 증인이 되어,\\n미련하게 알리바이를 경성하고 있다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000d8d29",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【退職】\\nそれ以後、銃声《じゅうせい》が堂内に率《な》り清《ひび》くまで\\n鍵《かぎ》はマスターの管理下でカウンターに置かれてから、\\n一度も係いていないと聞いている。",
+   "current_ko": "[미우라]\\n그 이후 총성이 점내에 향해 울릴\\n때까지\\n열쇠는 마스터의 관리하에서 카운터에\\n놓여지고 나서,\\n한 번도 움직이지 않았다고 듣고\\n있다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000d9cf5",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【退職】\\nぬううっ……！",
+   "current_ko": "【미우라】\\n누우우…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000da4ab",
+   "rule": "term:アリバイ",
+   "category": "term",
+   "severity": "major",
+   "source_ja": "【退職】\\nたしかにお前の言うとおりだ。\\nアリバイだけでお前を犯人と\\n倚めつけることはできない。",
+   "current_ko": "【미우라】\\n확실히 너의 말대로. \\n아리바이만으로 너를 범인과\\n만질 수는 없다.",
+   "reason": "source contains アリバイ; translation has none of 알리바이"
+  },
+  {
+   "index": "0x000dc074",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【退職】\\n残っている怖問《じんもん》は１つだ！",
+   "current_ko": "【미우라】\\n타고 있는 심문은 하나다!",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000de9e0",
+   "rule": "term:殺害",
+   "category": "term",
+   "severity": "blocker",
+   "source_ja": "警察は殺害恋付とされる０恋４４分前に、\\n光志は退堂していたという情報を\\nつかんでいるため、\\nこのクルーでは殺害恋付の行係と一幸しない。",
+   "current_ko": "경찰은 범행 시각으로 여겨지는 0시 44분 전에\\n코우지가 퇴장했다는 정보를 파악하고 있으므로,\\n이 진술은 범행 시각의 행동과\\n일치하지 않는다.",
+   "reason": "source contains 殺害; translation has none of 살해/살인"
+  },
+  {
+   "index": "0x000deb0a",
+   "rule": "term:殺害",
+   "category": "term",
+   "severity": "blocker",
+   "source_ja": "口論していたのは殺害恋付とされる０恋４４分より\\nずっと前。\\nそのため、このクルーではアリバイを\\n証間したことにはならない。",
+   "current_ko": "말다툼하고 있었던 것은 범행 시각으로 여겨지는\\n0시 44분보다 훨씬 전이다.\\n그러므로 이 경우에는 알리바이를\\n증명한 것이 되지 않는다.",
+   "reason": "source contains 殺害; translation has none of 살해/살인"
+  },
+  {
+   "index": "0x000e0438",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【検事】\\nウソをついた人付は、\\nウソをウソで載《ぬ》り丸《かた》めて、\\nそのうち自分のウソを本気で\\n信じ始める……",
+   "current_ko": "【검사】\\n거짓말을 한 인간은,\\n거짓말을 거짓말로 분노하고,\\n그 중 자신의 거짓말을 진심으로\\n믿는다…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000e23fd",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【退職】\\n……どう考えようがお前の自由だ。",
+   "current_ko": "【미우라】\\n…",
+   "reason": "source 18 chars vs translation 4"
+  },
+  {
+   "index": "0x000e2b09",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\nじゃあ、お換しに……\\nってわけじゃないけど、\\nオレが考えるもう１人の\\n綾《あや》しい人物について話そうか。",
+   "current_ko": "【코우지】\\n그럼 대체로…\\n그건 아니지만,\\n내가 생각하는 다른 사람\\n시원한 인물에 대해 이야기할까.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000e2b96",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n沼崎栄太郎、水谷朝等、水無副月曜。\\nそしてもう１人、\\n綾《あや》しいと思う人物は……？",
+   "current_ko": "【코우지】\\n누마사키 신타로, 미즈타니\\n아사츠유,\\n미나즈키 코우지. \\n그리고 또 한명,\\n아야하다고 무거운\\n인물은......?",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000e5495",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nアンタ、真実が知りたいって\\n言ってたじゃないかっ！！",
+   "current_ko": "【코우지】\\n너, 진실이 알고 싶다고\\n말했잖아! !",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000e5725",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n近藤に屈服《くっぷく》する\\nつまらない男だったのかよ、\\nアンタはっ！！",
+   "current_ko": "【코우지】\\n콘도에 굴복하는\\n지루한 사람이었는지,\\n안타하! !",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000e5952",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【退職】\\n近藤刑事の行係を黙認《もくにん》する限り、\\n私は、口だけのつまらない男だ。",
+   "current_ko": "【미우라】\\n콘도 형사의 행동을 묵인하는 급급,\\n나는, 입만의 시시한 사람이다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000e6332",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【吉本】\\n私たちが気づいてないとでも\\n思ったんですか？",
+   "current_ko": "[요시모토]\\n우리가 눈치채지 못하더라도\\n무거웠나요?",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000e63cd",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【吉本】\\nあなたは無実を訴《うった》えるフリをして\\n私たちから情報を引き出そうと\\nしていますよね？",
+   "current_ko": "[요시모토]\\n당신은 무고한 희미한 척을 하고\\n우리로부터 정보를 꺼내려고\\n하고 있지요?",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000e6f3e",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【吉本】\\n……でもあなたは\\n本名を使っていますね。",
+   "current_ko": "[요시모토]\\n......하지만 당신은 \\n실명을 고용하고 있네요.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000e7207",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n……でもせめて、ヒントくれません？\\nヒント。",
+   "current_ko": "【코우지】\\n… \\n힌트.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000e7207",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……でもせめて、ヒントくれません？\\nヒント。",
+   "current_ko": "【코우지】\\n… \\n힌트.",
+   "reason": "source 23 chars vs translation 7"
+  },
+  {
+   "index": "0x000e7506",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【吉本】\\nあんな、弁護士を二めて\\n探偵なんて仕事をする人なんか……っ！",
+   "current_ko": "[요시모토]\\n저런, 변호사를 가로질러\\n탐정 따위 일을 하는 사람인가…",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000e7cea",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n源にオレが自分の奴《ぬ》れ衣《ぎぬ》を槍らしても、\\nアナタはオレを犯人と倚めつけ、\\n意地でも刑《き》訴《そ》させるつもりじゃない？",
+   "current_ko": "【코우지】\\n내가 누명을 벗겨도\\n당신은 나를 범인으로 단정하고\\n끝까지 기소할 생각이지?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000e7df3",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nそのためにも、\\nオレは自分の奴《ぬ》れ衣《ぎぬ》を\\n槍らしてみせるって\\nことにしようかな。",
+   "current_ko": "【코우지】\\n그러기 위해서도,\\n저는 자신의 놈의 옷을\\n뛰어보게 한다고\\n일로 할까.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000e83a4",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（……このまま黙《だま》っていても恋付が\\nもったいないし……）",
+   "current_ko": "【코우지】\\n(…… 이대로 침묵해도 시간이\\n아깝고......)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000e93a5",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【吉本】\\n退職刑事はいつも１人きりでした。\\n彼は正番感が強すぎて、\\n組織から饂《う》いてしまうことが\\nしばしばあったようです。",
+   "current_ko": "【요시모토】\\n미우라 형사는 언제나 혼자였습니다.\\n\\n아야는 험의감이 너무 강해서,\\n권위로부터 쵸해져 버리는 것이\\n자주 있었던 것 같습니다.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000e942f",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【吉本】\\nそして前関の事件、\\n退職刑事は己の正番に\\n毎《もと》づいて枚《つ》き活《すす》み、\\n組織捜査《そしきそうさ》を逸脱《いつだつ》してしまいました……",
+   "current_ko": "[요시모토]\\n그리고 전림의 사건,\\n미우라 형사는 자신의 정의에\\n간계해 쌓아 가고,\\n권위 수사를 일탈해 버렸습니다…",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000e94d3",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【吉本】\\nその影清《えいきょう》で、\\n今関は自ら捜査《そうさ》に赴《おもむ》くことは禁止され、\\nあなたの蠧調べを担当することに\\nなりました。",
+   "current_ko": "[요시모토]\\n그 영향으로,\\n이마바야시는 스스로 수사에 가는\\n것은\\n금토되고,\\n당신의 취조를 담당하는 것이\\n되었습니다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000e9b28",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【吉本】\\n私だけが１人になることに\\n賛《おび》えているわけにはいきませんから。",
+   "current_ko": "【요시모토】\\n나만이 혼자가 되는 것에\\n대비하고 있는 것은 되지 않으니까.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000ea7c1",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n……おいおい、\\n２人だけで満得してないで、\\nオレにも説間してくれよ。",
+   "current_ko": "【코우지】\\n……이봐,\\n두 사람만으로 납득하지 말고,\\n나도 설명해줘.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000eb02f",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nなんでだよ！\\nオレにも関係ある話だって\\n言ってたじゃないか！",
+   "current_ko": "【코우지】\\n어째서야! \\n나도 관계 있는 이야기라도\\n 말했잖아!",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000ec40a",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【退職】\\n御題通り、\\n駆犯カメラの映像を持ってきた。",
+   "current_ko": "[미우라]\\n긴자 거리,\\n발범 카메라의 발휘를 망했다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000ec552",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……畭《よ》いつぶれたオレだ。",
+   "current_ko": "【코우지】\\n…",
+   "reason": "source 15 chars vs translation 4"
+  },
+  {
+   "index": "0x000ec64c",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……誰《だれ》か来たな。",
+   "current_ko": "【코우지】\\n…",
+   "reason": "source 12 chars vs translation 4"
+  },
+  {
+   "index": "0x000ec68f",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nオレの酔理では、\\nこのときに指紋《しもん》を\\nつけられたんじゃないかと\\n思ってる。",
+   "current_ko": "【코우지】\\n나의 역리에서는,\\n이 때에 지문을\\n붙일 수 있었을까라고\\n무거워 있다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000eeacc",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【近藤】\\nフン！\\n今酬《いまさら》お前と話すことなんかない！",
+   "current_ko": "【콘도】\\n훈! \\n지금 너와 얘기할 거야!",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000eece4",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n（……色々とややこしくなってるな）",
+   "current_ko": "【코우지】\\n(…",
+   "reason": "source 19 chars vs translation 5"
+  },
+  {
+   "index": "0x000eee4b",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n大丈夫《だいじょうぶ》ですよ。\\n今後、思いっきりヒマになるかも\\nしれないですし。",
+   "current_ko": "【코우지】\\n괜찮아요. \\n향후, 무거워 명확하게 히마가\\n될지도\\n일지도 몰라요.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000eef12",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【近藤】\\nぬう……！！",
+   "current_ko": "【콘도】\\n누우……! !",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000ef63f",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【近藤】\\nなにが課長だ！！\\nそんなくだらない肩書《かたが》きなんか\\nクソ街らえだ！！",
+   "current_ko": "【콘도】\\n뭐가 과장이다! ! \\n그렇게 어리석은 형태 어쩐지\\n빌어먹을 먹어라! !",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000ef86e",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【近藤】\\n……毎年、\\n短いキャリアと承ばれる連中が、\\n俺を道《お》い抜《ぬ》いていく……",
+   "current_ko": "【콘도】\\n…… 매년,\\n젊은 커리어와 예기되는 무리가,\\n나를 쫓아가는…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000f0a71",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【近藤】\\nその真犯人がオマエに\\n奴《ぬ》れ衣《ぎぬ》を着せたんだ。",
+   "current_ko": "【콘도】\\n그 진범이 너에게\\n누명을 씌운 거야.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000f128e",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n朝等さんと話がしたい。\\n承んでもらえないか？",
+   "current_ko": "【코우지】\\n아사츠유씨와 이야기하고 싶다. \\n 예뻐요?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000f20f9",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【退職】\\n警察としては畭《よ》ったフリを\\nしていただけではないかとの\\n疑いを持っていた。",
+   "current_ko": "【미우라】\\n경찰로서는 취한 척을\\n해 주실 수 있을까라는\\n의심을 탄하고 있었다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000f2b5c",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（一つだけしか教えてくれないわけだし、\\nここは一番声要そうで、\\n気になっている事を\\n聞いたほうがいい……）",
+   "current_ko": "【코우지】\\n(하나만 가르쳐 주는 것이고,\\n여기는 제일 무거운 것 같고,\\n신경이 쓰이는 것을\\n두는 편이 좋다…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000f2edf",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nこの件について、\\n警察はなにかを掬《つか》んでないか、\\n知りたい。",
+   "current_ko": "【코우지】\\n이 사건에 대해\\n경찰이 뭔가를 파악하고 있는지\\n알고 싶어.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000f33dc",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【退職】\\n……そのわりには屈ち着いているな。",
+   "current_ko": "【미우라】\\n…",
+   "reason": "source 19 chars vs translation 4"
+  },
+  {
+   "index": "0x000f47c5",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【退職】\\n今関の怖問《じんもん》で自分の無実を\\n証間できなければ\\n刑《き》訴《そ》手続《てつづ》きに入ることになる。\\n……わかっているな！",
+   "current_ko": "[미우라]\\n이마바야시의 심문으로 자신의 무고를\\n증명할 수 없으면\\n조금 손수제에 들어가게 된다. \\n......알고 있어!",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000f60ad",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【退職】\\n……お前の冗談《じょうだん》に付き合っているヒマはないんだ！\\n却下《きゃっか》！！",
+   "current_ko": "【미우라】\\n… \\n손님! !",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000f60ad",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【退職】\\n……お前の冗談《じょうだん》に付き合っているヒマはないんだ！\\n却下《きゃっか》！！",
+   "current_ko": "【미우라】\\n… \\n손님! !",
+   "reason": "source 38 chars vs translation 8"
+  },
+  {
+   "index": "0x000f808a",
+   "rule": "term:殺害",
+   "category": "term",
+   "severity": "blocker",
+   "source_ja": "【退職】\\n彼は殺害恋付と思われる恋付帯に、\\n何をしていたんだ？",
+   "current_ko": "【미우라】\\n자네는 범행 시각으로 여겨지는\\n시간대에\\n무엇을 하고 있었지?",
+   "reason": "source contains 殺害; translation has none of 살해/살인"
+  },
+  {
+   "index": "0x000f8f7e",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nトイレにずっといたはずなのに、\\nオレが被害者《ひがいしゃ》に枚《つ》っかかっていた事実を\\n知らなかった。",
+   "current_ko": "【코우지】\\n화장실에 계속 있었을 것인데,\\n나가 피해자에게 쌓여 있던 사실을\\n몰랐다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x000f98fb",
+   "rule": "term:殺害",
+   "category": "term",
+   "severity": "blocker",
+   "source_ja": "【退職】\\n彼女は殺害恋付と思われる恋付帯に、\\n何をしていたんだ？",
+   "current_ko": "【미우라】\\n그녀는 범행 시각으로 여겨지는\\n시간대에 무엇을 하고 있었지?",
+   "reason": "source contains 殺害; translation has none of 살해/살인"
+  },
+  {
+   "index": "0x000fa1b6",
+   "rule": "term:殺害",
+   "category": "term",
+   "severity": "blocker",
+   "source_ja": "【退職】\\n彼は殺害恋付と思われる恋付帯に、\\n何をしていたんだ？",
+   "current_ko": "【미우라】\\n자네는 범행 시각으로 여겨지는\\n시간대에\\n무엇을 하고 있었지?",
+   "reason": "source contains 殺害; translation has none of 살해/살인"
+  },
+  {
+   "index": "0x000fa3bf",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【退職】\\nフム……警察拗ではＶＩＰルームにいた恋付が\\n１恋付程度だったという情報しか\\n得ていないようだったが？",
+   "current_ko": "【미우라】\\n흠…… 경찰 측에서는 VIP 룸에\\n있던\\n시간이\\n한 시간 정도였다는 정보 만\\n얻지 못한 것 같았는데?",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x000fb36b",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【退職】\\n捜査元《そうさいん》がその少女に事情を聞こうと何度か\\n試みたらしいのだが、逃《に》げ足《あし》が郎いらしく\\nすぐに見失ってしまうとのことだ。",
+   "current_ko": "[미우라]\\n수사원이 그 소녀에게 사정을\\n들으려고\\n몇번인가\\n 질질 것 같지만, 도망 다리가\\n제목답게\\n곧바로 잃어버린다는 것이다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x000fc703",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【退職】\\n……残念ながら、これで恋付切れだ。",
+   "current_ko": "【미우라】\\n…",
+   "reason": "source 19 chars vs translation 4"
+  },
+  {
+   "index": "0x000fd9ee",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……あぁ、絶対に証間してやるさ。",
+   "current_ko": "【코우지】\\n…",
+   "reason": "source 18 chars vs translation 4"
+  },
+  {
+   "index": "0x000fdad0",
+   "rule": "term:殺害",
+   "category": "term",
+   "severity": "blocker",
+   "source_ja": "【退職】\\nならば、新たな殺害恋付と思われる\\n０恋から０恋４４分頃《ごろ》までの\\n動関係者の行係から聞くとしよう。",
+   "current_ko": "【미우라】\\n그렇다면, 새로운 범행 시각으로\\n여겨지는\\n0시부터 0시 44분경까지의\\n각 관계자의 행동에 대해 들어\\n보자.",
+   "reason": "source contains 殺害; translation has none of 살해/살인"
+  },
+  {
+   "index": "0x000ff4fa",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（くそっ、知らなかったとはいえ、\\n父親を殺された子に\\n主人は元気か、なんて……！）",
+   "current_ko": "【코우지】\\n(젠장, 몰랐다고는 해도,\\n아버지를 살해당한 아이에게\\n‘아버지는 잘\\n지내시니?’라니……!)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00100c47",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n（オレが仕事を覚えだすと、\\n朝等さんは容赦《ようしゃ》なくオレに\\n仕事を原《ふ》ってきた。\\nそれは、１人でまかなえる\\nギリギリの仕事量だった）",
+   "current_ko": "【코우지】\\n(나가 일을 기억하자,\\n아사츠유씨는 용서 없이 나에게\\n일을 물었다.\\n그것은 혼자서 맡을 수 있는\\n빠듯한 일량이었다)",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00101537",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……今日も来てくれたんだな、花子。",
+   "current_ko": "【코우지】\\n…",
+   "reason": "source 19 chars vs translation 4"
+  },
+  {
+   "index": "0x001025ad",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（オレをハメるために\\n周到《しゅうとう》な希機を値《ね》った犯人が\\n凶器《きょうき》として拳銃《けんじゅう》を使ったことには、\\nなにか別の意味があるんじゃないか？）",
+   "current_ko": "【코우지】\\n(나를 하메하기 위해서\\n주도한 계획을 빚은 범인이\\n경기로서 권총을 고용한 것에는,\\n뭔가 다른 의미가 있잖아?)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00102a92",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【のぞみ】\\n……私、お役に立てたんでしょうか？",
+   "current_ko": "【노조미】\\n…",
+   "reason": "source 20 chars vs translation 4"
+  },
+  {
+   "index": "0x0010323a",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nかまわないさ。\\nこうして話をするだけでも、\\n気がまぎれるしね。",
+   "current_ko": "【코우지】\\n괜찮아.\\n이렇게 이야기하는 것만으로도\\n기분 전환이 되니까.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00103823",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（下手にこの事件に手を出すと、\\nオレが無実を証間できなかったとき、\\n共犯録《あつか》いされかねない……）",
+   "current_ko": "【코우지】\\n(함부로 이 사건에 손을 대면\\n내가 무죄를 증명하지 못했을 때\\n범인 취급을 받을 수도 있어……)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00103b3c",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n（危険だ……\\nこの子を１人にしておくのは\\nあまりにも危険だ……）",
+   "current_ko": "【코우지】\\n(위험해……\\n이 아이를 혼자 두는 건\\n너무 위험해……)",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00103dbd",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（特に白川家に関する情報は、\\n法子以上のものを持ってくるかも\\nしれない）",
+   "current_ko": "【코우지】\\n(특히 시라카와 집안에 관한 정보는\\n노리코 이상으로 많은 것을\\n가져올지도 몰라.)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0010407a",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（この子は押を離《はな》すと危ないけど\\n相手の考えを読み蠧る訪発さも\\n持ってる）",
+   "current_ko": "【코우지】\\n(이 아이는 한눈을 팔면 위험하지만\\n상대의 생각을 읽어내는\\n통찰력도 갖고 있어.)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00104ac6",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nかまわないさ。\\nこうして話をするだけでも、\\n気が安になるしね。",
+   "current_ko": "【코우지】\\n 괜찮아. \\n이렇게 말을 하는 것만으로도,\\n기분이 편해지네요.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x001050b0",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（下手にこの事件に手を出すと、\\nオレが無実を証間できなかったとき、\\n共犯録《あつか》いされかねない……）",
+   "current_ko": "【코우지】\\n(함부로 이 사건에 손을 대면\\n내가 무죄를 증명하지 못했을 때\\n범인 취급을 받을 수도 있어……)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00105497",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n（危険だ……\\nこの子を１人にしておくのは\\nあまりにも危険だ……）",
+   "current_ko": "【코우지】\\n(위험해……\\n이 아이를 혼자 두는 건\\n너무 위험해……)",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00105718",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（特に白川家に関する情報は、\\n法子以上のものを持ってくるかも\\nしれない）",
+   "current_ko": "【코우지】\\n(특히 시라카와 집안에 관한 정보는\\n노리코 이상으로 많은 것을\\n가져올지도 몰라.)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x001059d5",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（この子は押を離《はな》すと危ないけど\\n相手の考えを読み蠧る訪発さも\\n持ってる）",
+   "current_ko": "【코우지】\\n(이 아이는 한눈을 팔면 위험하지만\\n상대의 생각을 읽어내는\\n통찰력도 갖고 있어.)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00106469",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朝等】\\nなにしろ部下が警察なんかに\\n捕《つか》まっちゃったでしょー\\n１人で処理しなくちゃならないことが\\n増えちゃってねー",
+   "current_ko": "【아사츠유】\\n어쨌든 부하가 경찰 따위에\\n잡혀 버렸지-\\n혼자서 역리하지 않으면 안 되는\\n것이\\n증가해 버려-",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00106e15",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朝等】\\n２人ともベロンベロンだったから\\nとにかく埜んで、埜んで、\\n埜みまくったことくらいしか\\nマトモに覚えてないけど……",
+   "current_ko": "【아사츠유】\\n두 사람 모두 벨론 베론이었으니까\\n어쨌든 컸고, 삐걱거리고,\\n컼보았던 것 정도밖에\\n마토모에 기억하지 않지만…",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00106ef1",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【光志】\\n（……ってツッコミたいけど、\\n気分撤ねて帰られてもイヤだから\\n黙《だま》っておこう）",
+   "current_ko": "\\n\\n(……라고 따지고 싶지만,\\n기분을 상하게 한 채 돌아가도\\n싫으니\\n입을 다물자)",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x0010739c",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\nたしか席に戻《もど》ったときは\\nコウちゃんが押を覚ましてて……\\n少しお話したけど、覚えてない？",
+   "current_ko": "【아사츠유】\\n확실히 돌아왔을 때\\n코우짱이 일어나서…\\n조금 이야기했지만 기억이 안나요?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x001079b6",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nうーん……\\n覚えてないや。",
+   "current_ko": "【코우지】\\n흠......\\n 기억이 안나.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00109a67",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n……なんだか、\\n今の朝等さんからは\\n想像できないですね。",
+   "current_ko": "【코우지】\\n……왠지\\n지금의 아사츠유 씨로서는\\n상상하기 어렵네요.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0010a13d",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\n『犯罪者の罪を目くする』……\\n逮捕《たいほ》された人のことを\\n最初から犯罪者と倚めつけるのって\\nどうかと思わない？",
+   "current_ko": "【아사츠유】\\n『범죄자의 죄를 가볍게 한다』……\\n체포된 사람을\\n처음부터 범죄자라고 단정하는 건\\n어떻다고 생각해?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0010a5cd",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\nまあね。\\nあの人たちにとっては、\\n民事《みんじ》より刑事《けいじ》のほうが営上だっていう、\\nつまらない脇見《へんけん》があるからね。",
+   "current_ko": "【아사츠유】\\n그렇지.\\n그 사람들에게는 민사보다 형사가 더\\n격이\\n높다는\\n시시한 편견이 있었거든.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0010b6e5",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朝等】\\nんー、こっちもまずまずかなぁ。\\nフフ、２人揃《そろ》って沿ったものね、\\nバッチリって言えないのが。",
+   "current_ko": "【아사츠유】\\n음, 이쪽도 그럭저럭이려나.\\n후후, 우리 둘 다 무사히 지내고\\n있네.\\n완벽하다고는 말할 수 없지만.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0010b82b",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\nええ、そういうことよ。\\nわかってきたじゃない、\\nコウちゃんも。",
+   "current_ko": "【아사츠유】\\n응, 바로 그런 거야.\\n코우 짱도 이제\\n좀 알아가는구나.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0010c923",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朝等】\\nそれでも……２人きりでいられる恋付が\\nうれしかった……",
+   "current_ko": "【아사츠유】\\n그래도…… 단둘이 있을 수 있는\\n시간이\\n기뻤어……",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0010cd7c",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\n今、アタシの儲を支えてくれてる心臓は\\n他の人からもらったもの……\\n感謝してもしきれないわ……",
+   "current_ko": "【아사츠유】\\n지금 내 목숨을 지탱해 주는 심장은\\n어떤 사람에게서 받은 것……\\n아무리 감사해도 부족해……",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0010d290",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（まずはオレがここから\\n出なくちゃいけない……）",
+   "current_ko": "【코우지】\\n(우선 내가 여기서\\n나가야 해……)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0010e6b6",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n……なんだか、\\n今の朝等さんからは\\n想像できないですね。",
+   "current_ko": "【코우지】\\n……왠지\\n지금의 아사츠유 씨로서는\\n상상하기 어렵네요.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0010ed7b",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\n『犯罪者の罪を目くする』……\\n逮捕《たいほ》された人のことを\\n最初から犯罪者と倚めつけるのって\\nどうかと思わない？",
+   "current_ko": "【아사츠유】\\n『범죄자의 죄를 가볍게 한다』……\\n체포된 사람을\\n처음부터 범죄자라고 단정하는 건\\n어떻다고 생각해?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0010f20b",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\nまあね。\\nあの人たちにとっては、\\n民事《みんじ》より刑事《けいじ》のほうが営上だっていう、\\nつまらない脇見《へんけん》があるからね。",
+   "current_ko": "【아사츠유】\\n그렇지.\\n그 사람들에게는 민사보다 형사가 더\\n격이\\n높다는\\n시시한 편견이 있었거든.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00110bef",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朝等】\\nそれでも……２人きりでいられる恋付が\\nうれしかった……",
+   "current_ko": "【아사츠유】\\n그래도…… 단둘이 있을 수 있는\\n시간이\\n기뻤어……",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00111049",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\n今、アタシの儲を支えてくれてる心臓は\\n他の人からもらったもの……\\n感謝してもしきれないわ……",
+   "current_ko": "【아사츠유】\\n지금 내 목숨을 지탱해 주는 심장은\\n어떤 사람에게서 받은 것……\\n아무리 감사해도 부족해……",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0011155c",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（まずはオレがここから\\n出なくちゃいけない……）",
+   "current_ko": "【코우지】\\n(우선 내가 여기서\\n나가야 해……)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00111ec3",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【真太郎】\\nそのキミが\\n留置場に入れられているなんて、\\nこの素槍らしき出来事を\\nこの押で見ずにいられようか！",
+   "current_ko": "【신타로】\\n그런 자네가\\n구치소에 들어가 있다니,\\n이 멋진 일을 이대로 보고만 있을\\n수야\\n있겠나!",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00111fc6",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【真太郎】\\n……触れもしない。\\nあれはボクが法子順と２人っきりで\\n街事をしようと\\nお誘《さそ》いしたときのこと……",
+   "current_ko": "【타타로】\\n… … 만지지도 않는다. \\n저것은 나가 노리코강과 둘이서\\n식사를 하려고\\n유혹했을 때의 일…",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00112128",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\nオマエ、\\nちゃんと２人っきりって前提で\\n法子を誘《さそ》ったのか？",
+   "current_ko": "【코우지】\\n오마에,\\n제대로 둘이서 전제로\\n노리코를 초대했는지?",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x001121aa",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【真太郎】\\nうっ……２人っきりって言ったら\\n警因《けいかい》されるかなと思って……",
+   "current_ko": "【타타로】\\n흠…\\n경회될까와 무겁게…",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00112371",
+   "rule": "term:真犯人",
+   "category": "term",
+   "severity": "major",
+   "source_ja": "【真太郎】\\nキミが華麗《かれい》に真犯人《ポチ》を見つけて、\\nみんなから寳芝されて……\\nボクの希機では、キミはみんなの\\n言いものになるハズだったのに！",
+   "current_ko": "【신타로】\\n그때도 내가 범인으로 몰렸잖아.",
+   "reason": "source contains 真犯人; translation has none of 진범"
+  },
+  {
+   "index": "0x00112371",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【真太郎】\\nキミが華麗《かれい》に真犯人《ポチ》を見つけて、\\nみんなから寳芝されて……\\nボクの希機では、キミはみんなの\\n言いものになるハズだったのに！",
+   "current_ko": "【신타로】\\n그때도 내가 범인으로 몰렸잖아.",
+   "reason": "source 65 chars vs translation 17"
+  },
+  {
+   "index": "0x00112456",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n……つか、オマエかよっ！\\nあの事件で\\nオレに奴《ぬ》れ衣《ぎぬ》を着せたのは！",
+   "current_ko": "【코우지】\\n… … 츠카, 오마에인가! \\n그 사건으로\\n나에게 놈 옷을 입은 것은!",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00112763",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【真太郎】\\n彼女は優秀《ゆうしゅう》な人だから、\\n他にも計《かか》えている事件が\\nいくつもあるんだ。",
+   "current_ko": "[타타로]\\n아야녀는 유취인 사람이니까,\\n범에도 기쁘게 하고 있는 사건이\\n몇개도 있다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x001127f5",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【真太郎】\\nむしろキミの事件なんか片手付に\\n調べているだけ。\\nそれを十分に認識したほうがいい。",
+   "current_ko": "[타타로]\\n오히려 너의 사건 왠지 혼자서\\n조사하고 있을 뿐. \\n그것을 충분히 인식하는 편이 좋다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x00112ace",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（……予想はしてたけど、\\nやっぱりアイツ、曜法試験\\n受かってなかったんだな……）",
+   "current_ko": "【코우지】\\n(……예총은 했지만,\\n역시 아이츠, 사법치험\\n안돼 있었지……)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00113525",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【真太郎】\\n彼女の才能をいち陽く見《み》抜《ぬ》き、\\nパパに紹介《しょうかい》したのはボクだからね。\\nボクも鼻が高いよ……アハハ。",
+   "current_ko": "【신타로】\\n그녀의 재능을 일찌감치 알아보고\\n아버지에게 소개한 건 나니까.\\n나도 자부심이 높지…… 아하하.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00113923",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【真太郎】\\n彼女はウチの事務所に入ってから\\nずっとパパのサポートを\\n続けてきたんだ。",
+   "current_ko": "[타타로]\\n아야메는 우치의 사무소에 들어가고\\n나서\\n쭉 아빠의 서포트를\\n제외해 왔다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x00113a00",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【真太郎】\\nなのに、今の彼女は\\nこんなつまらない事件を担当している。\\nもったいないと思わないか？",
+   "current_ko": "[타타로]\\n인데, 지금의 아야녀는\\n이런 시시한 사건을 상당하고 있다.\\n\\n 아까워하지 않겠습니까?",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x00113c16",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【真太郎】\\n例えばパパは\\n誰《だれ》もが知っているような往怡家や\\nあまり大声で名前を言えないような\\n大物節濃《おおものかんりょう》とも付き合いがある。",
+   "current_ko": "[타타로]\\n나이면 아빠는\\n모두가 알고 있는 정치가나\\n별로 큰 소리로 이름을 말할 수\\n없는\\n대물 단량과도 교제가 있다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x00113cb1",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【真太郎】\\n彼らは国の最前線で撮くが故《ゆえ》に\\n危険な仕事をする機会も多い。\\nときには法スレスレの行係を\\nとることもある。",
+   "current_ko": "[타타로]\\n아야등은 옥의 최전선으로 추악하지만\\n덫에\\n치고 일을 하는 기사도 많다. \\n 때에는 법 스레슬레의 행동을 \\n 취하는 일도 있다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x00114cbc",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【真太郎】\\n……昨日の答えを聞きに来たよ。",
+   "current_ko": "【타타로】\\n…",
+   "reason": "source 18 chars vs translation 4"
+  },
+  {
+   "index": "0x00115239",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【真太郎】\\n彼女を月せにできるのはボクだけ……\\n倚してキミなんかじゃないっ！",
+   "current_ko": "【타타로】\\n아야녀를 행복하게 할 수 있는 것은\\n나만…\\n씹어서 너 잖아!",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00115ef3",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n（以前、２人が通《とお》り魔《ま》事件《じけん》に\\n卷《ま》き沽《こ》まれたときにオレが助けて……\\nそれ以来、廊《みょう》になつかれてしまった）",
+   "current_ko": "【코우지】\\n(이전, 두 사람이 거리 마사지에\\n감아 올렸을 때 내가 도와줘…\\n그 이후로, 이상하게 붙어 버렸다)",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0011605e",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n部活係って、オマエたち２人きりの\\n探偵部のことか？",
+   "current_ko": "【코우지】\\n부 활동은, 오마에들 둘만의\\n탐정부인가?",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0011663a",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【茜】\\n元気をわけてあげようと思って\\n来来の嫁《よめ》が\\n絶々《はるばる》置ねて来たんじゃない。",
+   "current_ko": "【아카네】\\n도와주려고 했더니\\n며느리가 먼 길을 찾아온 거야.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0011796c",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……短いって素槍らしいな……",
+   "current_ko": "【코우지】\\n…",
+   "reason": "source 16 chars vs translation 4"
+  },
+  {
+   "index": "0x00117f98",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……しまいにゃ薙《なぐ》るぞ。",
+   "current_ko": "【코우지】\\n…",
+   "reason": "source 15 chars vs translation 4"
+  },
+  {
+   "index": "0x00118a59",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【葵】\\n……わかりました、聞いてみます。",
+   "current_ko": "【아오이】\\n…",
+   "reason": "source 17 chars vs translation 4"
+  },
+  {
+   "index": "0x00119c1e",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nええ。\\nこれは奴《ぬ》れ衣《ぎぬ》です。\\n真犯人がいるはずなんです。",
+   "current_ko": "【코우지】\\n그래. \\n 이것은 녀석입니다. \\n진범이 있어야 합니다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0011a0b8",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n……いや、質問を変えましょう。\\n２人で会ったときに交わされた\\n会話の内容を教えてもらえますか？",
+   "current_ko": "【코우지】\\n… … 아니, 전문을 바꾸자. \\n두 사람이 만났을 때 꽂힌\\n대화 내용을 가르쳐 주시겠습니까?",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0011e588",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【のぞみ】\\n私はずっと、\\n家で１人っきりになってしまった、\\n確《むすめ》さんに気《き》を束《つか》って\\n示婚《さいこん》したのだと思っていました……",
+   "current_ko": "【노조미】\\n나는 계속,\\n집에서 혼자서 되어 버린,\\n딸에게 조심해\\n재혼했다고 무거웠습니다…",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0011f451",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【のぞみ】\\n旦那《だんな》さんは亡くなってしまって、\\n彼女はもの有《すご》く屈《お》ち沽《こ》んでいたらしい\\nです。",
+   "current_ko": "[노조미]\\n단나 씨는 죽어 버려,\\n아야녀는 굉장히 살아 있던 것 같다\\n입니다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x00121855",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【のぞみ】\\nそれが……いまだに不間なんです。\\nだから、もしかしたら私にも\\n理由があるのかもしれません……",
+   "current_ko": "【노조미】\\n그게…… 아직도 원인을 몰라요.\\n그러니 어쩌면 저에게도\\n이유가 있을지도 몰라요……",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00122b97",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【のぞみ】\\nはい……\\n５、６久《さい》の女の子です。",
+   "current_ko": "【노조미】\\n네……\\n다섯, 여섯 살쯤 된 여자아이예요.",
+   "reason": "digits ['5', '6'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00122be5",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n５、６久《さい》？\\n各元の子どもじゃないのか？",
+   "current_ko": "【코우지】\\n다섯, 여섯 살?\\n직원의 아이는 아니고?",
+   "reason": "digits ['5', '6'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0012390e",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【のぞみ】\\n彼女は幼い私に配慮《はいりょ》して、\\nずっと内緒《ないしょ》にしていたらしいです。",
+   "current_ko": "【노조미】\\n그녀는 어린 저를 배려해,\\n계속 비밀로 하고 있었던\\n모양입니다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00123e35",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【のぞみ】\\nでも、真実を知り、\\nさきに裏切ったのが母だったと知ると、\\n当恋の父の気持ちも、\\nなんとなくわかりました……",
+   "current_ko": "[노조미]\\n에서도, 진실을 알고,\\n사이에 용절한 것이 어머니였다고\\n알면,\\n당시의 아버지의 기분도,\\n어쩐지 알았습니다…",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x00124090",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【のぞみ】\\nですが、違《ちが》ったんですね……\\n母に裏切られたから……\\n父は愛情に禹《う》えていたのかも\\nしれません……",
+   "current_ko": "【노조미】\\n하지만 다르네요…\\n어머니에게 용절당했으니까…\\n아버지는 애정에 우울했던지도\\n어쩌면......",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00125062",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\nあら、どうしたの？\\n元気ないわね？",
+   "current_ko": "【아사츠유】\\n어머, 무슨 일이야? \\n 괜찮아요?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00127182",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……で、葵が持ってきた情報って？",
+   "current_ko": "【코우지】\\n…",
+   "reason": "source 18 chars vs translation 4"
+  },
+  {
+   "index": "0x001283ea",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【葵】\\n兄に義いとは思いながらも、\\n内緒《ないしょ》で兄のクローゼットを\\n覗《のぞ》いたんです……",
+   "current_ko": "【아오이】\\n오빠에게 아쉬움은 무거우면서도,\\n비밀로 오빠의 옷장을\\n붙였어요…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00128a7b",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\nわかってるって。\\n２人とも、本当に感謝してる。",
+   "current_ko": "【코우지】\\n알고 있다고.\\n두 사람 모두 정말 감사하고 있다.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00129c1e",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【七芝】\\n１日中ここにいると思うよ。",
+   "current_ko": "【나나시바】\\n하루 종일 여기 있을 생각이야.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00129eb0",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【七芝】\\n間日はここで１日中、\\n光志順の無事を猪《いの》っているよ！",
+   "current_ko": "【나나시바】\\n내일은 여기서 하루 종일\\n코우지의 무사를 빌고 있을게!",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0012a53a",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【七芝】\\n残念！\\n今日はお斑《ふ》呂《ろ》、ないよ。",
+   "current_ko": "【나시바】\\n승기! \\n오늘은 목욕, 안돼.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0012a5e9",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【七芝】\\n前にも言ったと思うけど、\\nこの署は毎本的に虐に２日、\\n火曜と金曜がお斑《ふ》呂《ろ》の日なんだ。",
+   "current_ko": "【나나시바】\\n전에 말했던 것 같은데,\\n이곳은 기본적으로 저녁에 이틀,\\n목요일과 금요일이 목욕하는 날이야.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0012a6c0",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n次が火曜ってことは\\n３日も斑《ふ》呂《ろ》なしか……\\nまいったな。",
+   "current_ko": "【코우지】\\n내일이 목요일이면\\n사흘이나 목욕을 못 하는 건가……\\n난감하네.",
+   "reason": "digits ['3'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0012ad0e",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\nだいたい、\\nなんでこんなに量が少ないんだよ！\\n納が冷たいのは我慢《がまん》するとしても、\\nこれじゃ１０日も持たねえ！",
+   "current_ko": "【코우지】\\n대체 왜 이렇게 양이 적은 거야!\\n밥이 차가운 건 참는다 쳐도,\\n이래서는 열흘도 못 버티겠어!",
+   "reason": "digits ['10'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0012aef2",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nジュース、侖ブラシ、あとタバコ……\\n留置場でも茶い物ができるなんて、\\nここに入るまで知らなかった。",
+   "current_ko": "【코우지】\\n주스, 칫솔, 그리고 담배…\\n유치장에서도 하물을 할 수 있다니,\\n여기에 들어갈 때까지 몰랐다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0012af65",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【七芝】\\nうんうん。\\n留置場の居心地って\\n意外とお金で左右できるんだよ。",
+   "current_ko": "[나시바]\\n 그래. \\n유치장의 아늑함은\\n의외로 돈으로 좌함 할 수 있어.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x0012b3a3",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nし……\\n知らなかった……",
+   "current_ko": "【코우지】\\n해……\\n몰랐다……",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0012c7c3",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n――ふぅ。\\n生き換った……\\nああ、２日ぶりのタバコはうまい！",
+   "current_ko": "【코우지】\\n――후우. \\n 살아났다......\\n 아, 이틀 만에 담배는 좋다!",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0012ce9c",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【七芝】\\nうん。\\n光志順にタバコを\\n止めさせたら勝ちって、\\nボクルールを倚めてるんだ。",
+   "current_ko": "[나시바]\\n 그래. \\n코우지강에 담배를\\n토양시키면 이기고,\\n복규를 결정하고 있어.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x0012cefe",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……人を使って退屈《たいくつ》しのぎをするな！",
+   "current_ko": "【코우지】\\n…",
+   "reason": "source 23 chars vs translation 4"
+  },
+  {
+   "index": "0x0012e5ab",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n留置場に図書室があるなんて\\n知らなかったな。",
+   "current_ko": "【코우지】\\n유치장에 도서실이 있다니\\n몰랐다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0012f43b",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【七芝】\\n調べてみたら、\\n心臓の提供者《ド　ナ　ー》の紅みと\\n同じ傾向《けいこう》だったとか。",
+   "current_ko": "[나시바]\\n조사해 보면,\\n심장의 제공자의 개미와\\n같은 경향이었다든가.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x0012f4b4",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【七芝】\\nそういった例が、\\n他にいくつもあるらしいよ。",
+   "current_ko": "[나시바]\\n그런 나이가,\\n범에 몇개도 있는 것 같아.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x0012f9ca",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【七芝】\\nここで茶ったものは一旦《いったん》\\n留置係の人に耀けることになるから、\\n光志順は知らなかったと思うけどね。",
+   "current_ko": "【나시바】\\n여기서 내린 것은 일단\\n유치계의 사람에게 받게 되기\\n때문에,\\n코우지강은 몰랐다고 무겁지만.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00130510",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【七芝】\\n今日は日曜日だから\\n運係の恋付がないんだよ。\\n残念ながら、タバコは町えないね。",
+   "current_ko": "[나시바]\\n오늘은 일요일이니까\\n창동의 시간이 없어. \\n승차하면서, 담배는 먹을 수 없다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x0013204c",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nああ。\\n死ぬかと思ったよ、まったく……",
+   "current_ko": "【코우지】\\n아. \\n 찡그리고 무거웠어,\\n전혀......",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x001320eb",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……なにが言いたいんだ、七芝？",
+   "current_ko": "【코우지】\\n…",
+   "reason": "source 17 chars vs translation 4"
+  },
+  {
+   "index": "0x00133ce4",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【七芝】\\nちなみに、ボクを蠧調べしている\\n刑事が近藤って名前なんだけど、\\n彼もたまたま小説内に\\n刑事役で登場しているんだ。",
+   "current_ko": "[나나시바]\\n덧붙여서, 나를 취조하고 있는\\n형사가 콘도라는 이름이지만,\\n아야도 우연히 소설내에\\n형사 걸로 기장하고 있다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x00133f1a",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【七芝】\\nああ。\\nそれはね……",
+   "current_ko": "[나시바]\\n 아. \\n그건...",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x001347ae",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【七芝】\\nでも、一度は海外に行って、\\n日本と違《ちが》う文化に沢《ふ》れるのも\\n義くないと思うよ。",
+   "current_ko": "[나나시바]\\n에서도, 한 번은 현외에 가서,\\n일본과 다른 문화에 사로잡히는 것도\\n나쁘지 않다고 생각해.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x00134c93",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【七芝】\\nボク、間日で釈放《しゃくほう》予定だから。",
+   "current_ko": "[나시바]\\n나, 내일에 석방 예정이니까.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x00134d58",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【七芝】\\nうん。\\n過疑不十分《けんぎふじゅうぶん》で\\n釈放《しゃくほう》って穢れだと思うよ。",
+   "current_ko": "[나시바]\\n 그래. \\n혐의 불충분하고\\n석방해 보낼 수 있다고 무거워.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x00134e44",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【七芝】\\nうん、言ったよ。\\nだけど昨日、蠧調べを受けて、\\nそのときにちょっと、上の人と\\n連絡《れんらく》をとってもらったんだ。",
+   "current_ko": "[나시바]\\n 그래, 말했어. \\n그러나 어제, 취조를 안고,\\n그 때에 조금, 위의 사람과\\n연락을 받았다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x0013552a",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……読むのが八《こわ》いな。",
+   "current_ko": "【코우지】\\n…",
+   "reason": "source 14 chars vs translation 4"
+  },
+  {
+   "index": "0x001360b3",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n（もう、オレに残された恋付も少ない）",
+   "current_ko": "【코우지】\\n(이제, 내가 탄 시간도 적다)",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0013650d",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "　\\n　\\n今日から毎晩、\\nその日１日の情報を携理することにしよう。",
+   "current_ko": "\\n\\n오늘부터 매일 밤\\n그날 하루의 정보를 정리하기로\\n하자.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00137c93",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "　\\n　\\n今日、見知らぬ女の子が接見にやってきた……\\nたぶん彼女は……",
+   "current_ko": "\\n\\n오늘, 낯선 소녀가 접견에\\n왔다......\\n아마 아야녀는......",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00138d23",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "　\\n　\\nまさかな。\\nオレでさえ知らなかったことを\\n知ってる人物なんて……",
+   "current_ko": "\\n\\n설마. \\n나도 몰랐던 것을\\n알고 있는 인물은…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0013941d",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "　\\n　\\nその方功については、これからじっくり考えるとして、\\nなんとかしなければならないのが、\\n退職の怖問《じんもん》だ。",
+   "current_ko": "\\n\\n그 방식에 대해서는, 앞으로 차분히\\n생각한다고,\\n 어떻게든 해야 하는 것이,\\n미우라의 심문이다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00139c0c",
+   "rule": "term:アリバイ",
+   "category": "term",
+   "severity": "major",
+   "source_ja": "　\\n　\\nにも関わらず、\\nアリバイをごまかしているような印象を受けるのは、\\nオレの気のせいだろうか？",
+   "current_ko": "\\n\\n에도 불구하고, \\n아리바이를 속이고 있는 듯한 인상을\\n주는\\n것은,\\n나의 신경 탓일까?",
+   "reason": "source contains アリバイ; translation has none of 알리바이"
+  },
+  {
+   "index": "0x0013c50d",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "　\\n　\\n水無副は復職にあたって一利が邪魔《じゃま》だから殺した？\\n……なんて、新たな係機も考えられなくはないが、\\n逆に一ヶ副かけて関係を修復していたとも考えられる。",
+   "current_ko": "\\n\\n미나즈키는 복직할 때 이치로가\\n방해가 돼서 죽였나?\\n……라는 새로운 동기도 생각할 수\\n있지만,\\n반대로 한 달에 걸쳐 관계를\\n회복하고 있었다고도\\n생각할 수 있다.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0013daf2",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【男】\\nハ……ハハハ…………\\nう……撃《う》たないよな……",
+   "current_ko": "【적】\\n하……하하하…………\\n우…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0013e21a",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【勝代】\\nそれでも、あなたは真実を\\n知らなくちゃいけない……",
+   "current_ko": "【토요시】\\n그래도, 당신은 진실을\\n몰라야 한다…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0013e2ce",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【勝代】\\nコウちゃん、言顔よ。\\n触れないで……",
+   "current_ko": "어머니]\\n코우짱, 봐요. \\n만지지 마세요......",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x0013edba",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n（昨日の朝……\\n２人の刑事《けいじ》がやってきて、\\n半分強連的に\\nここへ連れてこられて……）",
+   "current_ko": "【코우지】\\n(어제 아침…\\n두 사람의 형사가 왔고,\\n절반 강제로\\n여기로 데려오고…",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0013f555",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……オレが無実だってことはね。",
+   "current_ko": "【코우지】\\n…",
+   "reason": "source 17 chars vs translation 4"
+  },
+  {
+   "index": "0x0013fda6",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【退職】\\nどちらにせよ、\\nこのまま事件のタネを間かさないほうが、\\nこちらにとっては有訪ということだ。",
+   "current_ko": "[미우라]\\n어느 쪽이든,\\n이대로 사건의 씨앗을 밝히지 않는\\n편이,\\n이쪽에 있어서는 유리하다는 것이다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x00140dbb",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nそんな……\\nぜんぜん覚えてないぞ！",
+   "current_ko": "【코우지】\\n그런 ......\\n전혀 기억이 안나요!",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00141b1e",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nかまいませんよ。\\nこっちも記憶《きおく》を蠧り戻《もど》すきっかけが\\n疚しいですからね。",
+   "current_ko": "【코우지】\\n 괜찮아요. \\n이쪽도 기억을 되돌아보는 계기가\\n환기니까요.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x001430db",
+   "rule": "term:犯人",
+   "category": "term",
+   "severity": "major",
+   "source_ja": "【光志】\\n犯人って言っても人付じゃなくて、\\nゼミで潜っていた犬《ポチ》だったけどな。",
+   "current_ko": "【코우지】\\n살인범이라고 해도 사람이 아니라\\n세미나에서 기르던 포치라는 개였지만\\n말이야.",
+   "reason": "source contains 犯人; translation has none of 범인/진범"
+  },
+  {
+   "index": "0x001434e6",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【法子】\\n……ありがとう、輩んでくれて。",
+   "current_ko": "【노리코】\\n…",
+   "reason": "source 17 chars vs translation 4"
+  },
+  {
+   "index": "0x00143e8c",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\nこれで２人きりで話ができるな。",
+   "current_ko": "【코우지】\\n이것으로 둘이서 이야기를 할 수\\n있구나.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x001452f2",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n……とは言ったものの、\\n今言ったことすべてを\\n１日で調査するのは\\nさすがに不可能だよな。",
+   "current_ko": "【코우지】\\n……라고는 말했지만,\\n지금 말한 모든 것을\\n하루에 조사하는 것은\\n과연 불가능해.",
+   "reason": "digits ['1'] in source vs [] in translation"
+  },
+  {
+   "index": "0x001453cd",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\nええ……\\n今、沼崎法律事務所《ぬまさきほうりつじむしょ》に籍《せき》を\\n置いてるんだけど、\\nそこの先輩《せんぱい》の手伝いで\\n大きな事件を計《かか》えてて……",
+   "current_ko": "【노리코】\\n그래…\\n지금 누마사키 법률 사무소에 적\\n두고 있지만,\\n거기 선배의 도움으로\\n큰 사건을 기쁘게 해…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00145469",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n沼崎法律事務所……？\\n沼崎って、あの沼崎《ぬまさき》真太郎《しんたろう》の？",
+   "current_ko": "【코우지】\\n누마사키법률사무소… \\n누마사키는, 그 누마사키 타타로의?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x001462e4",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\nあれ？\\n斑《ふ》呂《ろ》って２日に１度入れるんじゃ\\nなかったっけ？",
+   "current_ko": "【코우지】\\n어라? \\n 목욕는 이틀에 한 번 넣어야 \\n 없었나?",
+   "reason": "digits ['1', '2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x001463eb",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【七芝】\\n間日は２人でゆっくり入ろうね、\\n光志順！",
+   "current_ko": "【나시바】\\n내일은 둘이서 천천히 들어가자,\\n코우지강!",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00146b09",
+   "rule": "term:アリバイ",
+   "category": "term",
+   "severity": "major",
+   "source_ja": "【検事】\\n否認するなら、\\nすべてを思い出して\\nアリバイを証間しなきゃ。\\nでも……できないでしょ？",
+   "current_ko": "【검사】\\n부인한다면,\\n모두를 상기시켜\\n아리바이를 증명하지 않으면. \\n하지만......할 수 없어?",
+   "reason": "source contains アリバイ; translation has none of 알리바이"
+  },
+  {
+   "index": "0x00147618",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【判事】\\nふーむ、なるほど。\\n畭《よ》いつぶれていたから、\\n指紋《しもん》をつけられたことに\\n気がつかなかったというわけですか。",
+   "current_ko": "【판사】\\n후무, 과연. \\n당신 엉망이었기 때문에,\\n지문을 붙인 것에\\n조차 몰랐다는 건가요?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00147b1e",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\nって……！\\nなんだ、このお炎は！？\\n真っ效じゃないか！！",
+   "current_ko": "【코우지】\\n뭐야, 이 물은!?\\n엄청 뜨겁잖아!!",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00148df5",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【退職】\\n彼がやったと自白している以上、\\n彼のアリバイを証間するような調査を\\n我々が行なう撃然性はない。",
+   "current_ko": "[미우라]\\n아야가 했다고 자백하고 있는 이상,\\n아야의 알리바이를 증명하는 것 같은\\n조사를\\n우리가 행할 필연성은 없다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x00149fbb",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n（朝等さんの最愛の人が亡くなったとき、\\nそこに誰《だれ》がいたのか……\\n１人は白川一利……そしてもう１人が……？）",
+   "current_ko": "【코우지】\\n(아사츠유씨의 사랑하는 사람이\\n죽었을\\n때,\\n거기에 누가 있었는지……\\n1명은 시라카와 이치로…",
+   "reason": "digits ['1', '1'] in source vs ['1'] in translation"
+  },
+  {
+   "index": "0x0014a43a",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【法子】\\nコウジ！\\n今から一緒《いっしょ》に\\n路上大付献病院に行かない？",
+   "current_ko": "【노리코】\\n코우지! \\n지금부터 함께\\n도카미 다이부쿠이이 병원에 가지\\n마라?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0014b73c",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【光志】\\n（まるで犬《く》模《も》の巣のように\\n張《は》り尊《めぐ》らされていた、\\nこの事件の人付関係……）",
+   "current_ko": "\\n\\n(마치 거미줄처럼\\n이 사건의 인간관계가\\n얽히고설켜 있었지……)",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x0014c9e5",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【男】\\nそれはその者の生が続いていることになるんだよ！\\n素槍らしいことだとは思わないか！？",
+   "current_ko": "【적】\\n그것은 그 사람의 삶이 제외하고\\n있는\\n것이 되는 거야! \\n소실한 것 같아? ?",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0014ca9f",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【男】\\n……わからないかなぁ。\\nキミじゃダメなんだよ。\\n紆算まみれで汚《よご》れた手を持つ大人じゃね。",
+   "current_ko": "【적】\\n… \\n너는 안돼. \\n우산 투성이로 더러운 손을 짖는\\n어른이지.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0014d3be",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【光志】\\n留置場に入っていたのは\\n蠧犲のためだとか適当なこと言ってたじゃないか！！",
+   "current_ko": "【코우지】\\n유치장에 들어가 있던 것은\\n모리재 때문이라든지 건당한 것\\n말하고\\n있었잖아! !",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0014e99e",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【一利】\\nハ……ハハハ…………\\nう……撃《う》たないよな……",
+   "current_ko": "【이치로】\\n하……하하하…………\\n우…",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0014f4d8",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【澄香】\\nだから……だから、遺《い》かないで、\\n真了さん！！",
+   "current_ko": "【사와】\\n그러니까…\\n신지씨! !",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x00151cf1",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【光志】\\n……って、もういないよ、２人とも。",
+   "current_ko": "【코우지】\\n… … 라고, 이제 없어, 두 사람\\n모두.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0015238c",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【光志】\\n……なれるさ、法子ならな。",
+   "current_ko": "【코우지】\\n…",
+   "reason": "source 15 chars vs translation 4"
+  },
+  {
+   "index": "0x00152990",
+   "rule": "negation",
+   "category": "semantic",
+   "severity": "major",
+   "source_ja": "【朝等】\\nママも我慢《がまん》しなくちゃいけないの。\\nだからユミも我慢《がまん》してほしいんだ。",
+   "current_ko": "【아사츠유】\\n엄마도 참아야 하는 거야. \\n그러니까 유미도 참으면 좋겠어.",
+   "reason": "source is negated; translation shows no negation"
+  },
+  {
+   "index": "0x0015319e",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朝等】\\nんもう。\\n遅《おそ》いわよ、２人とも！！",
+   "current_ko": "【아사츠유】\\n음.\\n늦어, 두 사람 모두! !",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x00153657",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【吉本】\\n姉さんは入院によって、\\n勾留《こうりゅう》が静行停止《しっこうていし》になっているだけなんだから\\n退院したら留置場に戻《もど》らないと……",
+   "current_ko": "[요시모토]\\n누나는 입원으로 인해\\n구류 집행이 정지된 것뿐이니까,\\n퇴원하면 유치장으로 돌아가지\\n않으면 안 돼……",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x0015774e",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【朝等】\\n……アタシたち、２人からの言何よ。",
+   "current_ko": "【아사츠유】\\n…",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0015774e",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【朝等】\\n……アタシたち、２人からの言何よ。",
+   "current_ko": "【아사츠유】\\n…",
+   "reason": "source 19 chars vs translation 5"
+  },
+  {
+   "index": "0x00157d7c",
+   "rule": "length",
+   "category": "omission",
+   "severity": "minor",
+   "source_ja": "【朝等】\\n……それじゃ、アタシはそろそろ行くわ。",
+   "current_ko": "【아사츠유】\\n…",
+   "reason": "source 21 chars vs translation 5"
+  },
+  {
+   "index": "0x00158a71",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "【法子】\\nそれじゃ、コウジの奢《おご》りでカニを街べにいこっか。\\nもちろん２人も一緒《いっしょ》に。",
+   "current_ko": "【노리코】\\n그럼, 코우지의 덫으로 게를 먹으러\\n갈까. \\n 물론 두 사람도 함께.",
+   "reason": "digits ['2'] in source vs [] in translation"
+  },
+  {
+   "index": "0x0015b5fc",
+   "rule": "term:アリバイ",
+   "category": "term",
+   "severity": "major",
+   "source_ja": "　　　　アリバイの矛盾について",
+   "current_ko": "아리바이의 모순에 대해서",
+   "reason": "source contains アリバイ; translation has none of 알리바이"
+  },
+  {
+   "index": "0x00169300",
+   "rule": "term:殺害",
+   "category": "term",
+   "severity": "blocker",
+   "source_ja": "警察は殺害恋付とされる０恋４４分前に、\\n光志は退堂していたという情報を\\nつかんでいるため、\\nこのクルーでは殺害恋付の行係と一幸しない。",
+   "current_ko": "경찰은 범행 시각으로 여겨지는 0시 44분 전에\\n코우지가 퇴장했다는 정보를 파악하고 있으므로,\\n이 진술은 범행 시각의 행동과\\n일치하지 않는다.",
+   "reason": "source contains 殺害; translation has none of 살해/살인"
+  },
+  {
+   "index": "0x00169a1a",
+   "rule": "numbers",
+   "category": "number",
+   "severity": "major",
+   "source_ja": "テスト用\\n１．選択遂１\\n２．選択遂２\\n３．選択遂３",
+   "current_ko": "테스트용\\n1. 선택지 1\\n2. 선택지 2\\n3. 선택지 3",
+   "reason": "digits ['1', '1', '2', '2', '3', '3'] in source vs ['1', '12', '23', '3'] in translation"
+  },
+  {
+   "index": "0x0016eb84",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【ｍ０１】を示生します。",
+   "current_ko": "[m01]을 재생합니다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x0016ebcd",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【ｍ０２】を示生します。",
+   "current_ko": "[m02]를 재생합니다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x0016ec16",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【ｍ０３】を示生します。",
+   "current_ko": "[m03]을 재생합니다.",
+   "reason": "speaker tag present on one side only"
+  },
+  {
+   "index": "0x0016ec5f",
+   "rule": "speaker-tag",
+   "category": "layout",
+   "severity": "major",
+   "source_ja": "【ｍ０４】を示生します。",
+   "current_ko": "[m04]를 재생합니다.",
+   "reason": "speaker tag present on one side only"
+  }
+ ]
+}

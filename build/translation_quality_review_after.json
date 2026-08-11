@@ -1,0 +1,109 @@
+{
+ "schema": "enkaku_translation_quality_review_after_v1",
+ "input": "D:\\psp\\원격수사\\build\\translation_ko_semantic_checked.tsv",
+ "output": "D:\\psp\\원격수사\\build\\translation_ko_quality_checked.tsv",
+ "overrides": "D:\\psp\\원격수사\\font_extract\\translation_quality_overrides.json",
+ "rows": {
+  "ja": 9626,
+  "ko": 9626,
+  "indices_identical": true,
+  "duplicates": 0,
+  "missing": [],
+  "extra": []
+ },
+ "overrides_applied": 44,
+ "overrides_skipped": [],
+ "rows_changed": 44,
+ "rows_changed_unexpectedly": [],
+ "residual_characters": {
+  "kana": 0,
+  "cjk": 0,
+  "compat_jamo": 0,
+  "replacement": 0
+ },
+ "encoding_failures": 0,
+ "lines_over_width": 60,
+ "lines_over_width_sample": [
+  {
+   "index": "0x0002b098",
+   "chars": 29,
+   "line": "무죄를 쟁취할 수 있을지는 당신에게 달렸습니다...."
+  },
+  {
+   "index": "0x000388e3",
+   "chars": 20,
+   "line": "［피의자에게 다른 말을 하고 싶었다］"
+  },
+  {
+   "index": "0x00045517",
+   "chars": 20,
+   "line": "［피해자와 미즈타니 아사츠유의 관계］"
+  },
+  {
+   "index": "0x00045553",
+   "chars": 24,
+   "line": "［미나즈키 코우지와 시라카와 사토루의 관계］"
+  },
+  {
+   "index": "0x0005da41",
+   "chars": 24,
+   "line": "［이치로와 미즈타니 아사츠유의 관계에 대해］"
+  },
+  {
+   "index": "0x0005da60",
+   "chars": 23,
+   "line": "［이치로와 누마사키 신타로의 관계에 대해］"
+  },
+  {
+   "index": "0x0005daa0",
+   "chars": 23,
+   "line": "［이치로와 미나즈키 코우지의 관계에 대해］"
+  },
+  {
+   "index": "0x000d8226",
+   "chars": 21,
+   "line": "이로써 각자가 알리바이의 증인이 되어,"
+  },
+  {
+   "index": "0x000d8d29",
+   "chars": 20,
+   "line": "그 이후 총성이 가게 안에 울려 퍼질"
+  },
+  {
+   "index": "0x000de988",
+   "chars": 20,
+   "line": "살해 시각에 코우지는 라이트 블루에서"
+  },
+  {
+   "index": "0x000de9e0",
+   "chars": 26,
+   "line": "경찰은 범행 시각으로 여겨지는 0시 44분 전에"
+  },
+  {
+   "index": "0x000dea7b",
+   "chars": 23,
+   "line": "하얀 탁의 이야기를 탕으로 경찰에 쌓아도,"
+  },
+  {
+   "index": "0x000deb0a",
+   "chars": 25,
+   "line": "말다툼하고 있었던 것은 범행 시각으로 여겨지는"
+  },
+  {
+   "index": "0x000deb90",
+   "chars": 23,
+   "line": "콘도 형사는 사실을 나사 구부리지 않았다."
+  },
+  {
+   "index": "0x000debee",
+   "chars": 30,
+   "line": "「꽉에 응하고 있었기 때문에 권총에 지문이 붙어 있다」"
+  }
+ ],
+ "width_limit": 19,
+ "sha256": {
+  "translation_ko_quality_checked.tsv": "fd969b82bf4fa63ac248c0fc0203309d06f0c25c775671bb2ebb323968858bac",
+  "translation_quality_overrides.json": "7412a7e77d6721f76ad46ab635ab942d1be2e6908b508558c4fa734832782538"
+ },
+ "emulator_launched": false
+}

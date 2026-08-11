@@ -1,0 +1,36 @@
+{
+  "schema": "enkaku-semantic-iso-verification-v1",
+  "iso": "D:\\psp\\원격수사\\build\\Enkaku_Korean_RUNTIME_CFG17_SEMANTIC_REVIEW.iso",
+  "translation": "D:\\psp\\원격수사\\build\\translation_ko_semantic_checked.tsv",
+  "semantic_audit": "D:\\psp\\원격수사\\build\\translation_semantic_audit_cfg17.json",
+  "iso_size": 739835904,
+  "archive": {
+    "path": "/PSP_GAME/USRDIR/0000",
+    "lba": 15284,
+    "size": 3221504,
+    "matches_rebuilt_archive": true,
+    "sha256": "2b20c4570e39d9cb724c3a0c4518a943b6f6bf75f62a12d6dd0683dbed42f384"
+  },
+  "stream1": {
+    "packed_size": 585015,
+    "decompressed_size": 1685898,
+    "matches_expected_runtime_stream": true,
+    "sha256": "cf188e4d8a8606b94a25061b17fbf9de732f33713b90f054351364100f069199"
+  },
+  "text": {
+    "rows": 9626,
+    "usable_spans": 9626,
+    "failed": 0,
+    "overlap": 0,
+    "mapped_text_byte_mismatches": [],
+    "all_mapped_text_matches": true
+  },
+  "reference_rebuild": {
+    "reconstructed_without_reference_rewrite_size": 1685898,
+    "final_stream_size": 1685898,
+    "reference_audit_report": "D:\\psp\\원격수사\\build\\runtime_cfg17_semantic_report.json",
+    "selected_runtime_refs": 31467,
+    "duplicate_or_conflicting_runtime_refs": 0
+  },
+  "emulator_launched": false
+}

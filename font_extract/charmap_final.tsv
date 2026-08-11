@@ -1,0 +1,1369 @@
+index	char	source	confidence	uses	alts
+0	新	ruby	high	114	
+1	情	ruby	high	213	
+2	報	additional_context_confirmed	high	218	報
+3	入	additional_context_confirmed	high	241	入敗
+4	手	ruby	high	321	
+5	東	additional_context_confirmed	high	1	豢嵬東峯家
+6	京	additional_context_confirmed	high	1	京亰崑炊廩
+7	年	ruby	high	110	
+8	発	ruby	high	103	
+9	売	additional_context_confirmed	high	9	
+10	予	additional_context_confirmed	high	21	予矛下テチ
+11	定	additional_context_confirmed	high	125	
+12	無	additional_context_confirmed	high	248	
+13	罪	additional_context_confirmed	high	83	
+14	勝	context	medium	30	勝胼梼腓絣
+15	蠧	ruby	high	194	
+16	次	context	medium	41	犬大次実火
+17	第	context	medium	18	第骼萠簓撤
+18	午	context	medium	16	午乍千于竿
+19	前	additional_context_confirmed	high	528	■陂曲崗毆
+20	後	ruby	high	144	
+21	白	ruby	medium	539	
+22	川	additional_context_confirmed	high	567	川
+23	家	ruby	medium	102	置
+24	水	ruby	medium	359	
+25	谷	ruby	medium	189	
+26	探	ruby	high	107	
+27	偵	ruby	high	80	
+28	事	ruby	high	913	
+29	務	ruby	medium	133	
+30	所	ruby	high	281	
+31	高	context	medium	107	高姦龕窩轟
+32	校	context	medium	62	佼皎按撹授
+33	殺	additional_context_confirmed	high	209	
+34	害	ruby	high	250	
+35	現	ruby	medium	113	
+36	場	ruby	medium	189	塲
+37	沼	additional_context_confirmed	high	150	班甜鏃辧皺
+38	崎	additional_context_confirmed	high	153	崎畸峙嶢畤
+39	法	ruby	high	2353	
+40	律	context	medium	13	律絛脩修倖
+41	自	ruby	medium	274	斧
+42	宅	context	medium	13	宅毟宝疱庖
+43	註	context	medium	10	貧銓昔嘗跿
+44	都	context	medium	25	都鄒館飾鄰
+45	病	ruby	medium	85	
+46	院	context	medium	74	院皖陝皎時
+47	表	context	medium	69	表衣衰衷喪
+48	札	context	medium	3	札扎軋糺牝
+49	門	context	medium	10	門円閂鬥汽
+50	被	ruby	medium	255	蕪
+51	疑	ruby	high	128	
+52	者	ruby	high	451	
+53	人	ruby	high	970	
+54	黄	context	medium	19	梼畴棒髀鴨
+55	味	ruby	high	79	
+56	別	ruby	high	60	
+57	一	ruby	high	524	
+58	言	additional_context_confirmed	high	700	言
+59	考	ruby	medium	187	
+60	族	context	medium	25	族篏腋艘鰒
+61	構	context	medium	36	擣構擠橇横
+62	成	additional_context_confirmed	high	29	成戚威戌咸
+63	最	additional_context_confirmed	high	109	■畠贔畿曼
+64	近	ruby	high	335	
+65	変	context	medium	91	変麦寉党夐
+66	子	ruby	high	2485	
+67	立	additional_context_confirmed	high	125	立
+68	派	ruby	medium	26	
+69	貫	additional_context_confirmed	high	1	貰貫貧寳賃
+70	禄	additional_context_confirmed	high	1	禄録緑縁腺
+71	着	ruby	medium	64	都
+72	掛	context	medium	31	掛褂崗撈擾
+73	名	ruby	high	125	
+74	屋	ruby	high	52	
+75	頼	ruby	high	93	
+76	大	ruby	high	219	
+77	体	ruby	high	75	
+78	相	ruby	high	77	
+79	当	additional_context_confirmed	high	351	
+80	見	additional_context_confirmed	high	357	
+81	周	ruby	high	20	
+82	多	ruby	medium	47	
+83	金	ruby	medium	28	
+84	持	additional_context_confirmed	high	115	
+85	圧	ruby	high	3	
+86	倒	ruby	medium	14	撓
+87	私	context	medium	411	私軋粘亂粃
+88	弁	ruby	high	337	
+89	護	ruby	high	359	
+90	士	ruby	high	329	
+91	城	additional_context_confirmed	high	56	
+92	申	ruby	high	69	
+93	不	ruby	high	131	
+94	躾	ruby	high	2	
+95	遅	ruby	medium	3	恐
+96	少	context	medium	183	少争歩◆康
+97	話	ruby	medium	547	
+98	聞	additional_context_confirmed	high	502	関閤崗闘聞
+99	待	context	medium	163	持恃待侍掎
+100	女	context	medium	199	女枇套齔隹
+101	性	ruby	high	133	
+102	今	ruby	high	402	
+103	関	context	medium	61	■囲闘附崗
+104	件	ruby	high	384	
+105	斉	additional_context_confirmed	high	151	勇
+106	藤	ruby	medium	419	俯
+107	光	ruby	high	3276	
+108	志	ruby	high	3287	
+109	担	additional_context_confirmed	high	56	挺掛梃撥撹
+110	彼	context	medium	254	披彼疲筱篋
+111	実	ruby	medium	256	
+112	主	context	medium	60	主｜圭生杢
+113	張	ruby	medium	57	婆簸
+114	身	context	medium	70	身権葎種痩
+115	本	ruby	high	438	
+116	客	ruby	high	66	
+117	観	ruby	high	29	
+118	的	ruby	high	160	
+119	証	additional_context_confirmed	high	345	
+120	拠	ruby	high	136	
+121	出	ruby	high	262	
+122	真	ruby	high	340	
+123	犯	additional_context_confirmed	high	284	犯鉅蛆墾簓
+124	裏	context	medium	58	喪寰裏叢裹
+125	言	okurigana	medium	26	笑実笶芙奕
+126	絶	ruby	high	22	
+127	対	context	medium	80	対射紂材豺
+128	許	additional_context_confirmed	high	21	許詐胙忤胖
+129	知	additional_context_confirmed	high	259	
+130	協	context	medium	11	協鰛恊磁媼
+131	力	ruby	high	71	
+132	思	additional_context_confirmed	high	478	自思
+133	索	context	medium	3	崗鹵帛瘠攤
+134	条	context	medium	23	条粂糸峯集
+135	奥	ruby	medium	18	奧
+136	様	ruby	high	97	
+137	只	ruby	high	9	
+138	伺	reading	medium	28	伺何恟倆榊
+139	答	ruby	medium	46	
+140	範	ruby	high	9	
+141	囲	ruby	high	17	
+142	結	ruby	high	110	
+143	在	ruby	high	43	
+144	写	context	medium	29	写岑琴冪宰
+145	先	ruby	high	160	
+146	日	ruby	medium	640	
+147	接	ruby	medium	108	
+148	会	context	medium	161	会合麁僉金
+149	色	additional_context_confirmed	high	42	邑色皀魚た
+150	問	ruby	medium	184	闘
+151	題	context	medium	38	趙鐓餓題越
+152	行	ruby	high	311	
+153	気	additional_context_confirmed	high	314	木軌
+154	帰	additional_context_confirmed	high	73	緑縁鰻繕繙
+155	際	context	medium	34	際崗閤隰関
+156	質	context	medium	40	賓貲寳寶贇
+157	仕	ruby	medium	154	阯
+158	方	ruby	high	206	
+159	去	context	medium	21	去玄五夫査
+160	心	ruby	high	177	
+161	禁	ruby	high	8	
+162	止	additional_context_confirmed	high	37	
+163	通	ruby	medium	134	遠
+164	装	ruby	medium	11	
+165	物	ruby	high	156	
+166	反	additional_context_confirmed	high	54	
+167	応	ruby	high	56	
+168	違	additional_context_confirmed	high	138	画
+169	以	additional_context_confirmed	high	152	以蹼騏朕謀
+170	上	ruby	high	178	
+171	配	ruby	high	24	
+172	慮	ruby	high	13	
+173	足	additional_context_confirmed	high	27	足
+174	信	ruby	high	102	
+175	抜	additional_context_confirmed	high	14	奴
+176	教	additional_context_confirmed	high	103	教
+177	助	additional_context_confirmed	high	26	
+178	直	ruby	medium	113	
+179	捕	ruby	medium	64	掬乕
+180	伝	context	medium	53	伝阮挺肌斫
+181	旦	ruby	high	19	
+182	那	ruby	high	10	
+183	存	ruby	high	59	
+184	阿	context	medium	20	网同岡阿明
+185	痛	okurigana	medium	84	鏡膜鐵鋭饒
+186	亡	additional_context_confirmed	high	55	亡じ匸む仁
+187	美	ruby	high	40	
+188	左	ruby	medium	4	
+189	恵	ruby	high	27	
+190	書	context	medium	70	書盡晝盪豊
+191	佐	ruby	medium	25	
+192	嬢	ruby	high	29	
+193	例	ruby	high	24	
+194	遅	ruby	medium	18	臆
+195	逆	context	medium	26	逆述避鋩巫
+196	比	additional_context_confirmed	high	2	比庄齔化捻
+197	数	context	medium	33	數数妝教馼
+198	陽	context	medium	34	孳孥挙拏駢
+199	印	additional_context_confirmed	high	13	印槨国岡閙
+200	象	additional_context_confirmed	high	13	豢夐象躯彙
+201	優	ruby	high	26	
+202	他	additional_context_confirmed	high	50	鏃蹠蝓蛆鮠
+203	特	context	medium	66	持特將胖梓
+204	良	ruby	medium	73	
+205	誰	ruby	high	78	
+206	空	ruby	medium	13	
+207	絵	ruby	medium	5	
+208	能	context	medium	15	龜躯簓髷氣
+209	中	ruby	high	279	
+210	切	additional_context_confirmed	high	64	
+211	仇	ruby	high	3	
+212	視	ruby	medium	16	俟
+213	線	ruby	medium	11	
+214	冷	okurigana	medium	11	療褂瘴庫康
+215	関	additional_context_confirmed	high	271	
+216	是	ruby	high	7	
+217	非	ruby	medium	25	脊
+218	引	additional_context_confirmed	high	75	引
+219	経	ruby	high	39	
+220	束	ruby	medium	9	塚
+221	用	ruby	medium	93	
+222	黙	ruby	medium	32	玉
+223	父	additional_context_confirmed	high	67	父攵虻乂鋩
+224	願	ruby	medium	40	
+225	疚	okurigana	medium	21	飲飮批欲俄
+226	貸	additional_context_confirmed	high	12	貸貲錢瞥賃
+227	顔	additional_context_confirmed	high	57	繼鐓繃纖麟
+228	判	context	medium	71	判柯鷯枸物
+229	借	additional_context_confirmed	high	22	倍僭僧儕倩
+230	芯	ruby	medium	1	
+231	強	ruby	medium	43	
+232	調	okurigana	medium	354	躑鶲讖鷁識
+233	査	ruby	medium	203	作
+234	終	context	medium	84	終鮗許胖嶄
+235	綴	okurigana	medium	38	辺迢遐磁避
+236	失	ruby	high	95	
+237	礼	context	medium	65	扎礼札牝亂
+238	礒	ruby	medium	31	
+239	束	ruby	high	19	
+240	残	additional_context_confirmed	high	127	残桟賎棧找
+241	得	context	medium	78	黹得樗饅撈
+242	感	ruby	high	122	
+243	勝	additional_context_confirmed	high	57	
+244	代	ruby	medium	165	髏
+245	變	okurigana	medium	7	妻姜豊鏖會
+246	真	additional_context_confirmed	high	2	赤●春素恚
+247	昨	ruby	high	111	
+248	役	context	medium	28	役挽俛佼撹
+249	遡	reading	medium	1	遯遵纒遡纏
+250	母	additional_context_confirmed	high	70	饅瓣偐段母
+251	血	ruby	medium	8	
+252	縁	additional_context_confirmed	high	12	
+253	係	ruby	high	228	
+254	参	context	medium	24	參参●歙歉
+255	腸	context	medium	42	鞴韆鱒糒韃
+256	係	additional_context_confirmed	high	140	
+257	口	ruby	high	244	
+258	枢	ruby	medium	1	
+259	動	additional_context_confirmed	high	15	
+260	企	ruby	high	20	
+261	業	ruby	high	231	
+262	各	additional_context_confirmed	high	88	
+263	企	additional_context_confirmed	high	5	
+264	合	ruby	medium	157	
+265	社	additional_context_confirmed	high	5	衒斫挺擬撒
+266	重	context	medium	18	隹皇篁崔童
+267	向	ruby	medium	66	
+268	街	additional_context_confirmed	high	23	食倉責賣良
+269	孛	bitmap	low	2	豢孛髦璧炊
+270	向	additional_context_confirmed	high	5	
+271	食	additional_context_confirmed	high	3	
+272	堂	additional_context_confirmed	high	106	店唐眠斫貭
+273	外	ruby	high	181	
+274	機	ruby	high	64	
+275	店	additional_context_confirmed	high	47	負員賣賁麁
+276	受	context	medium	154	受斐曼誉譽
+277	付	context	medium	164	忖付ＨΗ餞
+278	咐	ruby	medium	5	
+279	造	context	medium	11	造遊道逝渣
+280	待	ruby	medium	299	間
+281	高	context	medium	18	広応庄仄炭
+282	沽	ruby	high	76	
+283	間	additional_context_confirmed	high	228	
+284	雰	ruby	high	8	
+285	住	context	medium	23	庄住侘俊佐
+286	明	additional_context_confirmed	high	33	
+287	丈	ruby	medium	47	条
+288	夫	ruby	high	47	
+289	安	ruby	medium	47	
+290	咫	ruby	medium	15	与
+291	部	ruby	high	162	
+292	署	context	medium	9	署箸謇奢詈
+293	来	context	medium	189	来來東柬兼
+294	承	ruby	high	16	
+295	署	additional_context_confirmed	high	31	抗梳柧拠輒
+296	来	additional_context_confirmed	high	1	
+297	承	additional_context_confirmed	high	57	
+298	形	ruby	high	30	
+299	斬	ruby	high	3	
+300	下	ruby	high	91	
+301	可	ruby	high	80	
+302	能	context	medium	79	能紕簓■蛆
+303	下	additional_context_confirmed	high	25	薙曝簸鬚幾
+304	可	additional_context_confirmed	high	11	夢孳蓼搴麥
+305	能	additional_context_confirmed	high	2	
+306	縮	ruby	high	3	
+307	雛	context	medium	2	嗇厳錐蔚巖
+308	置	context	medium	69	■匱直賣篋
+309	商	ruby	medium	8	
+310	談	ruby	high	28	
+311	置	additional_context_confirmed	high	4	詰訪誌詁詩
+312	何	context	medium	75	何俯餠辮拊
+313	度	context	medium	117	度廈虔窗厦
+314	訪	additional_context_confirmed	high	32	利軻村柯鶇
+315	何	additional_context_confirmed	high	57	豢萠麕鼈截
+316	度	additional_context_confirmed	high	115	植掖毓披檢
+317	利	additional_context_confirmed	high	166	
+318	給	context	medium	4	給絵胎鯰姶
+319	植	additional_context_confirmed	high	9	料科斜抖軒
+320	朗	additional_context_confirmed	high	102	聡
+321	刺	ruby	high	31	
+322	料	additional_context_confirmed	high	71	
+323	憧	reading	medium	12	憶愴慢惶憧
+324	内	ruby	high	152	
+325	纏	okurigana	medium	3	駅鈬釈釿訳
+326	便	ruby	medium	3	
+327	分	ruby	medium	251	
+328	綾	ruby	high	33	
+329	理	ruby	high	181	
+330	分	additional_context_confirmed	high	1	
+331	戴	ruby	medium	1	
+332	理	additional_context_confirmed	high	14	
+333	我	ruby	high	22	
+334	賭	context	medium	9	紲臆繚嫌戀
+335	御	additional_context_confirmed	high	49	設狡寂股毆
+336	化	ruby	high	34	
+337	希	context	medium	7	希肴毒斎番
+338	設	additional_context_confirmed	high	41	望璽璧悽攣
+339	算	context	medium	9	賣貰嘗弉貧
+340	希	additional_context_confirmed	high	65	計訃肚什肝
+341	望	additional_context_confirmed	high	30	
+342	算	additional_context_confirmed	high	32	隕崗萌險隴
+343	計	additional_context_confirmed	high	21	
+344	連	ruby	high	46	
+345	携	ruby	high	6	
+346	要	ruby	high	88	
+347	連	additional_context_confirmed	high	21	
+348	携	additional_context_confirmed	high	20	
+349	要	additional_context_confirmed	high	2	
+350	軟	ruby	medium	1	
+351	産	ruby	medium	5	
+352	提	ruby	medium	50	
+353	供	ruby	medium	18	
+354	素	ruby	high	31	
+355	槍	context	medium	17	暗哨嶢晴疇
+356	指	ruby	medium	149	剃
+357	営	context	medium	31	貲育實肯囂
+358	活	context	medium	14	活沽估橇瓲
+359	崋	ruby	medium	4	兼莪
+360	営	additional_context_confirmed	high	37	
+361	活	additional_context_confirmed	high	37	
+362	紹	ruby	high	10	
+363	介	ruby	high	10	
+364	進	additional_context_confirmed	high	25	帛弯累寓寫
+365	典	context	medium	2	典黄喪夷冓
+366	断	context	medium	29	断崗斷絎■
+367	常	additional_context_confirmed	high	15	
+368	選	ruby	medium	13	
+369	婚	ruby	high	24	
+370	居	ruby	high	18	
+371	選	additional_context_confirmed	high	7	
+372	婚	additional_context_confirmed	high	78	闘
+373	退	context	medium	917	三豆亙互湮
+374	職	context	medium	910	甫唐慮濾虜
+375	撃	ruby	medium	44	鵜
+376	三	additional_context_confirmed	high	4	簸
+377	浦	additional_context_confirmed	high	69	
+378	撃	additional_context_confirmed	high	53	必趁畆髟齢
+379	評	context	medium	10	許拌評胖譁
+380	根	ruby	high	17	
+381	必	additional_context_confirmed	high	10	庄住往眈陳
+382	意	ruby	high	139	
+383	長	context	medium	194	長跿貧員曼
+384	注	additional_context_confirmed	high	13	厳竸敏敵継
+385	腕	ruby	high	15	
+386	長	additional_context_confirmed	high	18	播
+387	触	okurigana	medium	31	忘岩起厳紜
+388	就	context	medium	8	硫肬碇蔵跿
+389	戻	reading	medium	83	炭慶斑庚臠
+390	生	ruby	high	257	
+391	続	context	medium	58	皎硫皖院饒
+392	思	okurigana	medium	3	走麦圭澎素
+393	像	context	medium	74	崗像嶐鹵愎
+394	勘	ruby	high	14	
+395	挨	ruby	high	17	
+396	拶	ruby	high	17	
+397	割	context	medium	12	刮割黼剖朗
+398	侏	bitmap	low	3	侏眛檪株橡
+399	伽	bitmap	low	1	伽剖踟枷餉
+400	始	ruby	medium	50	
+401	株	additional_context_confirmed	high	21	押
+402	設	additional_context_confirmed	high	2	槇模攅横樸
+403	同	ruby	high	90	
+404	押	additional_context_confirmed	high	112	
+405	横	additional_context_confirmed	high	8	饒饋穢饐橈
+406	極	ruby	high	16	
+407	目	additional_context_confirmed	high	26	
+408	声	ruby	high	112	
+409	腰	ruby	medium	1	
+410	貞	context	medium	7	賣員責貞賁
+411	声	additional_context_confirmed	high	67	
+412	古	bitmap	low	6	古占杏吉衣
+413	渡	ruby	high	42	
+414	使	context	medium	51	鋩紕鯲絎総
+415	新	additional_context_confirmed	high	37	
+416	紀	bitmap	low	1	紀杞記妃鋩
+417	具	ruby	high	25	
+418	顧	ruby	high	50	
+419	紀	additional_context_confirmed	high	4	
+420	登	context	medium	11	登豊整荳疂
+421	録	context	medium	46	緑髞録縁瞳
+422	将	context	medium	6	將持饅勝餞
+423	記	additional_context_confirmed	high	11	黼鉚嬲鏃鍵
+424	録	additional_context_confirmed	high	13	掛挺披餞擬
+425	恋	ruby	high	24	
+426	副	context	medium	3	繼躑繖皺蹶
+427	緒	ruby	high	46	
+428	恋	additional_context_confirmed	high	357	
+429	副	additional_context_confirmed	high	194	
+430	曜	context	medium	46	曜唆峻曝眠
+431	火	context	medium	8	火大犬太夫
+432	月	additional_context_confirmed	high	215	事拿拳豢幸
+433	曜	additional_context_confirmed	high	242	辨塒鱒桍垪
+434	金	additional_context_confirmed	high	5	
+435	幸	additional_context_confirmed	high	20	
+436	司	additional_context_confirmed	high	13	
+437	切	okurigana	medium	33	訳択鈬齶釈
+438	致	additional_context_confirmed	high	15	等岑專専嚀
+439	察	ruby	medium	133	
+440	朝	ruby	high	921	
+441	等	additional_context_confirmed	high	912	
+442	栄	context	medium	290	茉栄肇粢暈
+443	太	ruby	high	385	
+444	郎	ruby	high	384	
+445	慎	additional_context_confirmed	high	16	台計銓自針
+446	太	additional_context_confirmed	high	13	壊
+447	郎	additional_context_confirmed	high	12	遠崖速連達
+448	絡	ruby	medium	23	唐
+449	御	context	medium	23	約妁胸韵鈞
+450	題	additional_context_confirmed	high	18	東束柬來来
+451	急	context	medium	32	忽急怠悠怱
+452	元	context	medium	59	元光兄紀无
+453	組	context	medium	27	班絎肌艇斑
+454	紆	ruby	medium	12	
+455	元	additional_context_confirmed	high	216	餞饑膰饅蔬
+456	噂	ruby	high	5	
+457	確	context	medium	158	破硫確瞳礑
+458	認	ruby	high	146	
+459	吉	ruby	high	211	
+460	確	additional_context_confirmed	high	23	股
+461	由	ruby	medium	74	
+462	吉	additional_context_confirmed	high	4	
+463	境	ruby	high	12	
+464	由	additional_context_confirmed	high	13	
+465	換	ruby	medium	1	
+466	遇	ruby	high	5	
+467	復	ruby	medium	49	
+468	職	ruby	medium	60	
+469	価	context	medium	7	鐇鏃蟠鐵鑷
+470	倚	ruby	medium	85	
+471	鳰	ruby	medium	2	
+472	頃	ruby	high	43	
+473	決	additional_context_confirmed	high	25	
+474	然	ruby	high	70	
+475	限	context	medium	28	閤眠瞰関擬
+476	路	context	medium	10	路賂餠崗鏃
+477	男	context	medium	132	努男髣贅售
+478	過	ruby	high	69	
+479	了	ruby	high	29	
+480	戦	ruby	high	25	
+481	過	additional_context_confirmed	high	28	
+482	了	additional_context_confirmed	high	197	二工匸ご訌
+483	有	ruby	medium	34	
+484	輩	ruby	high	37	
+485	二	additional_context_confirmed	high	30	
+486	有	additional_context_confirmed	high	4	
+487	輩	additional_context_confirmed	high	4	真喜貪襄寞
+488	共	bitmap	low	1	共粍銭栽践
+489	器	ruby	high	34	
+490	蘇	reading	medium	2	蘚蘇鮮蚌黻
+491	兵	additional_context_confirmed	high	2	統絖紘硫絋
+492	器	additional_context_confirmed	high	3	
+493	穢	okurigana	medium	72	瘋撞擁櫨掩
+494	統	additional_context_confirmed	high	2	躱
+495	震	ruby	medium	1	
+496	点	ruby	high	37	
+497	犠	ruby	high	4	
+498	牲	ruby	high	4	
+499	痛	bitmap	low	11	痛燐廉滿癢
+500	機	context	medium	14	鐡鐵織纎嫐
+501	搾	bitmap	low	2	陣搾抔拌停
+502	満	additional_context_confirmed	high	28	納齣肭蚋訥
+503	画	additional_context_confirmed	high	20	
+504	拝	additional_context_confirmed	high	2	革甚蒹棊茱
+505	納	additional_context_confirmed	high	3	飯骰敗篋搬
+506	番	ruby	high	69	
+507	茶	additional_context_confirmed	high	9	
+508	飯	additional_context_confirmed	high	81	岻
+509	想	ruby	high	39	
+510	濃	ruby	high	55	
+511	皷	ruby	medium	18	娯
+512	番	additional_context_confirmed	high	11	瞳瘋義銓嵐
+513	正	context	medium	104	正王走笙玉
+514	俗	context	medium	28	鍵獅鍜鉚鷯
+515	途	ruby	high	13	
+516	乗	okurigana	medium	12	寄嵜害蹇寨
+517	歩	okurigana	medium	9	歩事拳箏幸
+518	義	additional_context_confirmed	high	65	
+519	正	additional_context_confirmed	high	4	攸皎栓敗找
+520	屠	ruby	medium	7	撮
+521	余	ruby	high	21	
+522	十	context	medium	22	｜十ｆ＋｛
+523	裏	ruby	high	20	
+524	悪	additional_context_confirmed	high	8	
+525	枚	additional_context_confirmed	high	56	突
+526	撮	additional_context_confirmed	high	26	慟働鶻黴鶺
+527	鬱	ruby	high	4	
+528	十	additional_context_confirmed	high	20	
+529	程	ruby	medium	29	
+530	貞	bitmap	low	1	賣貞貧資買
+531	欷	bitmap	low	1	飲欷歓飮敏
+532	苦	context	medium	29	苦若荅苔罟
+533	蔵	context	medium	8	巌慮厳嵐凰
+534	宣	ruby	high	4	
+535	抵	ruby	high	5	
+536	貢	additional_context_confirmed	high	8	
+537	献	additional_context_confirmed	high	28	艤膓鐃腸餽
+538	遠	ruby	high	12	
+539	和	ruby	high	13	
+540	誘	ruby	high	6	
+541	謝	ruby	medium	37	
+542	求	ruby	high	9	
+543	俺	ruby	medium	23	
+544	餤	bitmap	low	1	皎餤鯰餃脱
+545	田	ruby	medium	5	
+546	容	ruby	high	82	
+547	警	ruby	high	128	
+548	廣	okurigana	low	3	癰輾蜒癢軅
+549	換	ruby	high	43	
+550	念	additional_context_confirmed	high	28	念蠢盒蠡倉
+551	伴	okurigana	medium	5	腹鰒篋蹴膣
+552	屈	ruby	high	22	
+553	警	additional_context_confirmed	high	17	
+554	怖	additional_context_confirmed	high	57	
+555	闘	ruby	high	6	
+556	狂	okurigana	medium	5	技挂伎按控
+557	則	ruby	medium	3	
+558	屈	additional_context_confirmed	high	36	
+559	辱	additional_context_confirmed	high	8	乱亂齔扎畠
+560	緩	okurigana	medium	18	懺鐓繼懴躑
+561	舞	okurigana	low	10	努勢暼筍笥
+562	土	context	medium	11	士｜ｆ】｛
+563	挙	okurigana	medium	16	庵崖座庫申
+564	落	additional_context_confirmed	high	45	全仝金奎企
+565	乱	additional_context_confirmed	high	2	
+566	気	additional_context_confirmed	high	19	攤儺搬鶻飾
+567	争	additional_context_confirmed	high	33	単畊寧麻申
+568	土	additional_context_confirmed	high	10	唐済癢儀倚
+569	座	additional_context_confirmed	high	19	弟萌麝截骸
+570	全	additional_context_confirmed	high	17	継
+571	順	okurigana	medium	228	若蒋菽萪慕
+572	作	ruby	high	34	
+573	影	ruby	high	46	
+574	清	additional_context_confirmed	high	44	響
+575	却	ruby	high	3	
+576	議	ruby	medium	18	
+577	閣	ruby	medium	32	隠
+578	幼	ruby	medium	2	
+579	影	additional_context_confirmed	high	1	
+580	響	additional_context_confirmed	high	9	
+581	紳	ruby	medium	1	
+582	仲	context	medium	15	仲拌件胖鰺
+583	覚	ruby	medium	99	蔵
+584	暗	ruby	high	21	
+585	破	ruby	medium	10	
+586	鍵	ruby	high	48	
+587	開	context	medium	43	関閤崗開閏
+588	労	context	medium	11	労奢旁努髣
+589	沿	okurigana	medium	9	明擬困淋孅
+590	移	context	medium	126	修條拶捗餘
+591	篠	ruby	high	5	
+592	扉	ruby	high	26	
+593	慣	okurigana	medium	6	慣償懴慎惜
+594	否	ruby	medium	37	
+595	席	context	medium	32	席巌寤廣慮
+596	移	additional_context_confirmed	high	5	潔瘰縻徹僂
+597	六	context	medium	4	∧几六八Λ
+598	葵	ruby	high	163	
+599	趣	ruby	high	6	
+600	期	ruby	medium	51	
+601	上	additional_context_confirmed	high	37	
+602	潔	additional_context_confirmed	high	23	兮号牲杪秒
+603	八	additional_context_confirmed	high	23	
+604	箍	ruby	medium	16	互
+605	識	ruby	high	28	
+606	功	context	medium	8	功袍匏衲物
+607	績	context	medium	4	縱蹤饒鏃績
+608	腐	ruby	medium	1	
+609	界	ruby	high	27	
+610	互	additional_context_confirmed	high	4	
+611	柚	ruby	high	5	
+612	功	additional_context_confirmed	high	10	計針紆鮓鮗
+613	績	additional_context_confirmed	high	8	
+614	措	ruby	high	7	
+615	放	ruby	high	65	
+616	馨	ruby	high	12	
+617	譲	additional_context_confirmed	high	13	複拑撥褂梭
+618	雑	context	medium	9	雑瞳幢鐵雎
+619	丸	bitmap	low	2	丸扎夂夊九
+620	示	context	medium	38	示繼萠癬册
+621	汗	ruby	high	3	
+622	嘩	ruby	medium	1	
+623	委	ruby	medium	1	
+624	頑	ruby	high	6	
+625	丸	additional_context_confirmed	high	10	肩
+626	示	additional_context_confirmed	high	47	
+627	初	ruby	medium	46	粗
+628	渋	ruby	high	2	
+629	旨	ruby	high	6	
+630	桜	context	medium	19	桜梭餒珱侫
+631	蔭	context	medium	19	織疳癈難攤
+632	再	additional_context_confirmed	high	7	抻拌棒捧褝
+633	茜	ruby	medium	122	
+634	捜	ruby	medium	51	性操
+635	徒	context	medium	8	徒旋従挑綻
+636	師	ruby	high	76	
+637	匠	ruby	high	32	
+638	兄	okurigana	medium	54	兄見鉦結鈕
+639	服	ruby	medium	16	
+640	果	ruby	medium	44	
+641	唐	ruby	medium	2	
+642	師	additional_context_confirmed	high	37	
+643	共	context	medium	7	共其糞黄真
+644	母	additional_context_confirmed	high	2	羨菌痰箘豢
+645	邪	ruby	high	8	
+646	魔	ruby	high	14	
+647	畭	ruby	medium	97	酔
+648	綺	ruby	high	12	
+649	麗	ruby	high	14	
+650	隅	ruby	high	6	
+651	索	ruby	medium	2	
+652	悩	reading	medium	7	悩脳蝓鍼脇
+653	酔	additional_context_confirmed	high	39	撹撥崗掖擦
+654	勉	context	medium	14	勉舫轆醢鯱
+655	迎	ruby	high	7	
+656	勾	ruby	high	35	
+657	留	ruby	high	91	
+658	悲	ruby	medium	28	
+659	壮	ruby	medium	1	
+660	依	ruby	high	15	
+661	狭	okurigana	medium	24	昔嘗貧許賣
+662	鋭	reading	medium	8	餃蹤脱蹴艇
+663	留	additional_context_confirmed	high	5	堅
+664	歓	ruby	high	3	
+665	遊	okurigana	medium	7	遊避盈逝澱
+666	路	context	medium	19	宵肓育寫貲
+667	観	context	medium	3	癜繼餠儼繖
+668	車	ruby	medium	23	
+669	記	ruby	high	92	
+670	効	context	medium	10	効劾鵁勍勃
+671	率	context	medium	11	寧事拳亭搴
+672	埜	ruby	high	50	
+673	轉	okurigana	medium	36	爺漑軈織廐
+674	亜	ruby	high	4	
+675	蹶	bitmap	low	40	蹶獻蠍繼鯨
+676	効	additional_context_confirmed	high	84	
+677	率	additional_context_confirmed	high	38	
+678	銃	ruby	high	155	
+679	駆	bitmap	low	15	駆簓躯彫緲
+680	導	ruby	medium	13	
+681	源	additional_context_confirmed	high	13	仮髭骰鬣餃
+682	説	ruby	high	41	
+683	加	context	medium	16	舳珈踟加跏
+684	譲	context	medium	5	巍朧鵬麹綯
+685	駆	additional_context_confirmed	high	53	防削関閉閤
+686	策	context	medium	14	簸儼瞳鏃鑼
+687	施	ruby	medium	6	
+688	工	ruby	medium	15	
+689	屑	ruby	medium	19	崩
+690	刑	ruby	high	166	
+691	密	ruby	high	14	
+692	項	ruby	high	3	
+693	純	ruby	medium	9	
+694	眩	reading	medium	2	眩昧眈■皎
+695	適	context	medium	11	避適遍迪途
+696	刑	additional_context_confirmed	high	60	
+697	瞬	ruby	high	10	
+698	肩	ruby	high	11	
+699	運	context	medium	25	廛崖遯邂厘
+700	送	context	medium	22	送迭透迅迷
+701	捨	bitmap	low	7	捨橇掛掖陵
+702	深	ruby	medium	23	
+703	樹	context	medium	9	戀楸緲閤熊
+704	瓶	ruby	medium	1	
+705	焼	ruby	medium	1	
+706	酎	ruby	medium	1	
+707	捨	additional_context_confirmed	high	7	
+708	帯	ruby	medium	9	雄
+709	醋	ruby	medium	1	
+710	映	context	medium	68	吹哨帙畸畋
+711	鮭	ruby	high	8	
+712	悔	ruby	medium	12	惧
+713	李	context	medium	4	凖儁孛準窄
+714	済	context	medium	15	済嗇崙瘡濟
+715	毎	bitmap	low	6	瞳毎髷継厳
+716	風	context	medium	4	逮速逹遷崖
+717	嗚	ruby	high	2	
+718	悔	additional_context_confirmed	high	4	瘟温盧榲嵐
+719	際	context	medium	4	孥摩岸厚擘
+720	夜	ruby	medium	13	
+721	毎	additional_context_confirmed	high	14	
+722	達	additional_context_confirmed	high	1	
+723	徠	okurigana	medium	17	眛妹昧味眸
+724	儲	bitmap	low	1	儲鏃鑪謎健
+725	国	ruby	medium	17	
+726	試	context	medium	15	試誠拭誡訊
+727	験	context	medium	23	隙険瞼陝陂
+728	倍	context	medium	4	倍佶俗估悋
+729	懸	ruby	high	8	
+730	儲	additional_context_confirmed	high	24	
+731	努	context	medium	2	努劈髣暼臀
+732	釈	ruby	high	52	
+733	験	additional_context_confirmed	high	5	骼熟鶻商雋
+734	模	ruby	medium	11	穂
+735	卒	context	medium	6	卒挙筝亊事
+736	傷	ruby	medium	2	
+737	額	context	medium	3	韻繃額黼餉
+738	星	context	medium	3	皇篁■星趾
+739	関	additional_context_confirmed	high	8	
+740	友	context	medium	22	友変夐矣麦
+741	卒	additional_context_confirmed	high	5	尊椁哮棒楾
+742	敬	bitmap	low	6	敬敏散收欹
+743	克	ruby	medium	10	
+744	教	context	medium	60	橇拠撓擣據
+745	授	context	medium	64	麝軈縟磨府
+746	友	additional_context_confirmed	high	4	
+747	尊	additional_context_confirmed	high	4	遯巡鑼靂還
+748	敬	additional_context_confirmed	high	14	
+749	細	ruby	high	10	
+750	雇	ruby	high	6	
+751	死	ruby	high	50	
+752	赤	okurigana	medium	12	静銖靜滕辞
+753	憤	reading	medium	1	懴慎憤懺愴
+754	臓	ruby	high	131	
+755	握	ruby	high	15	
+756	雇	additional_context_confirmed	high	3	鞄餡箱簓廠
+757	級	context	medium	7	級搬絞篏竸
+758	汚	ruby	high	17	
+759	憶	ruby	high	62	
+760	曲	okurigana	medium	6	曲■鹵齒敝
+761	柄	ruby	high	11	
+762	逮	ruby	high	47	
+763	半	ruby	high	14	
+764	拗	okurigana	medium	25	髄餽餔鵺髑
+765	鑢	bitmap	low	2	鑢健蛯鰉瞳
+766	小	ruby	high	24	
+767	危	context	medium	34	危匙枇瓧佐
+768	憶	additional_context_confirmed	high	2	
+769	脱	ruby	high	5	
+770	普	ruby	high	19	
+771	愛	ruby	high	26	
+772	独	ruby	medium	9	
+773	剣	ruby	high	3	
+774	安	additional_context_confirmed	high	28	豢秦寨楽亳
+775	姉	okurigana	medium	22	姉綽鱇罅鯆
+776	澄	ruby	medium	15	
+777	香	ruby	medium	20	
+778	戸	ruby	high	3	
+779	籍	ruby	high	3	
+780	短	okurigana	medium	32	若吝岩義肴
+781	欺	bitmap	low	1	欺散飲敗飮
+782	忠	ruby	high	5	
+783	楽	additional_context_confirmed	high	32	守穿寺哮咾
+784	搬	bitmap	low	79	斫掛搬崗簸
+785	拒	ruby	high	4	
+786	香	additional_context_confirmed	high	7	繼轎鰤轆鮹
+787	免	bitmap	low	1	免兔皃灸蒐
+788	疫	bitmap	low	1	疫痊槿俊梭
+789	若	additional_context_confirmed	high	2	
+790	欺	additional_context_confirmed	high	1	黼剤融鶺朗
+791	検	ruby	medium	91	
+792	守	additional_context_confirmed	high	4	貧貰蹂拜罧
+793	術	additional_context_confirmed	high	33	肴看普着奢
+794	故	ruby	high	18	
+795	鍬	ruby	medium	15	詳
+796	患	ruby	high	14	
+797	冗	ruby	high	14	
+798	町	context	medium	12	啖喰吸輳啀
+799	眠	reading	medium	7	眠馼飮馭駁
+800	縅	reading	medium	2	縫纖磯織饒
+801	耳	additional_context_confirmed	high	17	医匿匱■匣
+802	看	additional_context_confirmed	high	3	滷抽痴廸鈿
+803	鮮	ruby	high	2	
+804	倫	ruby	high	22	
+805	慎	ruby	high	12	
+806	賻	ruby	high	3	
+807	織	context	medium	14	織纖蠍縫繻
+808	蔽	ruby	medium	2	
+809	奴	ruby	high	8	
+810	衣	bitmap	low	8	衣古寂六蟲
+811	油	additional_context_confirmed	high	3	装籤纂藝易
+812	険	context	medium	23	険陝隙崗陳
+813	片	context	medium	21	片庁疔咋Ｒ
+814	状	ruby	high	49	
+815	踏	additional_context_confirmed	high	17	況
+816	鈍	ruby	high	4	
+817	改	okurigana	low	7	改攸傀敗愎
+818	徽	bitmap	low	1	徽撤撒檄傲
+819	衣	additional_context_confirmed	high	8	
+820	斫	bitmap	low	1	斫斷癜衛飯
+821	室	ruby	medium	24	
+822	西	bitmap	low	36	鐡饅西癧蠏
+823	状	additional_context_confirmed	high	36	島烏斷嶌贔
+824	況	additional_context_confirmed	high	1	
+825	散	context	medium	5	散敗敢批飲
+826	改	additional_context_confirmed	high	3	榛椿樟檪捧
+827	技	additional_context_confirmed	high	1	新影轂斟鬆
+828	猪	ruby	medium	7	祈
+829	衛	additional_context_confirmed	high	11	
+830	支	context	medium	6	支文攴嵬叉
+831	豊	additional_context_confirmed	high	10	怠息意蠢憙
+832	島	additional_context_confirmed	high	27	態鏃搬嫐巌
+833	遺	ruby	high	7	
+834	遺	ruby	medium	3	
+835	廊	context	medium	10	廊搬鰍蠍膨
+836	彩	additional_context_confirmed	high	165	
+837	責	ruby	medium	10	
+838	杉	ruby	medium	1	
+839	論	context	medium	98	踰綸誕鏃■
+840	會	okurigana	medium	12	姿杳妾姜霤
+841	北	ruby	medium	1	
+842	完	ruby	high	11	
+843	微	ruby	high	8	
+844	廊	additional_context_confirmed	high	11	
+845	隣	ruby	high	6	
+846	凶	ruby	high	22	
+847	紋	ruby	medium	121	れ
+848	論	additional_context_confirmed	high	4	
+849	展	context	medium	2	襞巌篏賍鯱
+850	恠	ruby	high	20	
+851	完	additional_context_confirmed	high	6	
+852	扶	ruby	medium	22	拭
+853	跡	ruby	high	22	
+854	策	ruby	medium	9	
+855	拳	ruby	high	58	
+856	袋	ruby	high	3	
+857	矛	ruby	high	20	
+858	盾	ruby	high	20	
+859	牙	ruby	medium	1	
+860	傷	ruby	medium	16	障
+861	械	bitmap	low	1	械絨機擁槭
+862	農	bitmap	low	1	農麝嗇盡盪
+863	異	context	medium	2	曩嚢糞異黌
+864	収	ruby	high	8	
+865	盤	bitmap	low	6	盤焜涎擬挺
+866	晩	bitmap	low	5	晩崗巉畭晦
+867	操	ruby	high	9	
+868	語	context	medium	5	鏃跡胼銚路
+869	甘	ruby	high	6	
+870	械	additional_context_confirmed	high	7	位矼佼皎眩
+871	濃	additional_context_confirmed	high	5	
+872	異	additional_context_confirmed	high	4	
+873	掃	ruby	high	5	
+874	混	additional_context_confirmed	high	12	
+875	晩	additional_context_confirmed	high	4	
+876	紅	context	medium	29	奸紆好妊紵
+877	蔵	bitmap	low	1	蔵綫廱磯饑
+878	朴	ruby	medium	1	
+879	類	context	medium	10	鬚製黐躓鏡
+880	疚	bitmap	low	3	疚疫陂篋披
+881	專	ruby	medium	3	
+882	摘	ruby	high	3	
+883	憩	ruby	high	2	
+884	訪	okurigana	medium	17	道遊遣逝避
+885	好	additional_context_confirmed	high	2	六犬大宍穴
+886	蔵	additional_context_confirmed	high	2	廣癢痕宸廉
+887	饑	okurigana	medium	10	腸腦膓鞴臆
+888	洗	context	medium	8	洗疣虎廃庶
+889	後	additional_context_confirmed	high	4	饒蹤瞳縱鐵
+890	右	bitmap	low	3	右衣若翕宕
+891	励	okurigana	medium	14	閉関閏閤閔
+892	會	bitmap	low	8	會貴背賚育
+893	道	additional_context_confirmed	high	25	織
+894	穴	additional_context_confirmed	high	9	
+895	躱	ruby	high	4	
+896	縄	ruby	medium	1	
+897	控	reading	medium	6	控椌掀倥瞭
+898	胸	additional_context_confirmed	high	30	裁哉政馥跛
+899	鑑	ruby	medium	2	
+900	斑	ruby	high	25	
+901	慢	ruby	high	9	
+902	習	context	medium	6	鏗欝磐體暦
+903	頓	ruby	medium	1	
+904	几	ruby	medium	1	
+905	帳	ruby	medium	32	
+906	緯	ruby	high	4	
+907	字	context	medium	7	字宇学孚芋
+908	秀	ruby	high	4	
+909	簸	ruby	medium	1	
+910	民	ruby	high	6	
+911	訴	ruby	high	49	
+912	訟	ruby	high	2	
+913	五	context	medium	4	五互豆丑韭
+914	兼	bitmap	low	2	兼家奢禾峯
+915	烏	bitmap	low	1	烏鳥嶌島趣
+916	処	context	medium	7	処賍鏃蛆難
+917	敗	context	medium	17	改畋欧陂攸
+918	娜	ruby	high	3	
+919	箍	ruby	high	3	
+920	倭	ruby	high	3	
+921	伊	ruby	medium	2	
+922	五	additional_context_confirmed	high	1	沢骰射汎肘
+923	進	additional_context_confirmed	high	5	
+924	鳥	additional_context_confirmed	high	2	
+925	矢	bitmap	low	1	失矢欠夂笂
+926	角	ruby	medium	3	
+927	挑	ruby	high	5	
+928	精	ruby	high	6	
+929	裏	ruby	medium	1	
+930	庭	context	medium	6	庭庇鮭■竅
+931	沢	additional_context_confirmed	high	3	鋤勘鵬鍮鵲
+932	腎	ruby	medium	15	
+933	透	ruby	medium	3	
+934	件	additional_context_confirmed	high	3	
+935	怡	bitmap	low	8	怡檢凾鏃抬
+936	療	reading	medium	2	療瘴瘡康槍
+937	欠	okurigana	low	1	欠失夂矢火
+938	欧	ruby	high	18	
+939	原	context	medium	11	獻鯡騏閤蠍
+940	因	context	medium	18	因困囚囮固
+941	交	ruby	high	16	
+942	叱	ruby	medium	1	
+943	咤	ruby	medium	1	
+944	治	additional_context_confirmed	high	11	
+945	療	additional_context_confirmed	high	3	励
+946	欠	additional_context_confirmed	high	11	
+947	援	ruby	high	3	
+948	原	additional_context_confirmed	high	12	撫
+949	因	additional_context_confirmed	high	2	
+950	寢	ruby	high	7	
+951	管	context	medium	30	暼瞥臀贇脣
+952	妝	bitmap	low	1	妝餤餘聽敝
+953	布	bitmap	low	7	布畚希泰有
+954	眼	context	medium	3	掛団擯陏随
+955	品	ruby	high	18	
+956	窓	bitmap	low	2	窓慰巌意憇
+957	町	bitmap	low	3	町叮弯腎畔
+958	都	ruby	high	12	
+959	攻	ruby	medium	3	施
+960	管	additional_context_confirmed	high	10	
+961	鈴	additional_context_confirmed	high	2	骸黻軌散截
+962	布	additional_context_confirmed	high	3	魔庵班撹斑
+963	地	ruby	high	16	
+964	区	context	medium	2	区匡医匿匯
+965	窓	additional_context_confirmed	high	3	賣責青資胄
+966	町	additional_context_confirmed	high	6	
+967	審	ruby	medium	6	信
+968	診	ruby	high	5	
+969	謹	ruby	medium	1	
+970	駅	additional_context_confirmed	high	130	
+971	挂	bitmap	low	1	挂忤往疔抂
+972	長	ruby	medium	1	
+973	区	additional_context_confirmed	high	1	俸捧樺棒傳
+974	康	bitmap	low	1	康庫唐瘉廣
+975	脳	ruby	medium	6	
+976	振	additional_context_confirmed	high	11	公血疽会盍
+977	秘	ruby	high	27	
+978	拵	bitmap	low	1	拵斫橇餠蝣
+979	鶴	ruby	medium	1	
+980	往	additional_context_confirmed	high	5	政攸硫段妝
+981	閥	ruby	medium	2	
+982	簿	additional_context_confirmed	high	1	
+983	静	additional_context_confirmed	high	6	
+984	刀	ruby	medium	4	
+985	踪	ruby	high	2	
+986	退	ruby	high	13	
+987	招	additional_context_confirmed	high	1	轟姦巖典巍
+988	症	ruby	high	2	
+989	政	additional_context_confirmed	high	1	
+990	逃	reading	medium	17	逃遇逓透違
+991	騒	ruby	medium	3	沢
+992	怒	ruby	high	9	
+993	久	bitmap	low	11	久失入矢先
+994	修	context	medium	7	修斷絛條睫
+995	抄	bitmap	low	2	抄砂捗秒杪
+996	轟	additional_context_confirmed	high	1	
+997	泥	ruby	medium	5	
+998	紙	context	medium	8	紕敏毓航妣
+999	値	context	medium	3	鏃披敏縱篏
+1000	掬	ruby	high	7	
+1001	狙	reading	medium	4	肌雖班銚蛆
+1002	久	additional_context_confirmed	high	8	
+1003	鵜	ruby	high	5	
+1004	問	additional_context_confirmed	high	9	
+1005	飾	bitmap	low	1	飾節擦捺緲
+1006	股	ruby	high	2	
+1007	模	ruby	high	12	
+1008	図	ruby	medium	11	闘墓
+1009	絞	reading	medium	10	皎絞紋歐毓
+1010	紛	ruby	high	4	
+1011	脅	ruby	medium	11	
+1012	皎	okurigana	medium	14	庇位掖掩掟
+1013	寧	context	medium	3	亨亭甼夢奉
+1014	節	additional_context_confirmed	high	21	肓宵官盲賞
+1015	毛	reading	medium	1	毛ｔ七る韭
+1016	揃	reading	medium	7	機攘撻接醸
+1017	醋	ruby	high	2	
+1018	章	ruby	medium	1	
+1019	侖	bitmap	low	2	侖瘴唐癜儉
+1020	叩	reading	medium	3	叩嚶明喞啾
+1021	爺	ruby	medium	2	
+1022	救	context	medium	7	枚敘救教敦
+1023	妄	ruby	high	2	
+1024	暮	context	medium	3	蟇馨暮普募
+1025	帽	ruby	high	3	
+1026	衝	ruby	high	3	
+1027	値	ruby	high	7	
+1028	刻	ruby	high	6	
+1029	砲	ruby	high	12	
+1030	到	ruby	medium	3	藤
+1031	歯	additional_context_confirmed	high	6	糸紊峯素彖
+1032	争	okurigana	medium	4	争爭箏拳事
+1033	監	ruby	high	5	
+1034	候	bitmap	low	3	候鯲鯱鮠餤
+1035	補	bitmap	low	5	補禎袖鱸襠
+1036	真	ruby	high	94	
+1037	陣	reading	medium	3	陣障隙陳降
+1038	真	ruby	medium	4	
+1039	捺	ruby	high	7	
+1040	融	ruby	high	2	
+1041	胎	ruby	medium	3	払
+1042	迷	ruby	high	10	
+1043	惑	ruby	medium	12	窗
+1044	唖	ruby	medium	2	宛
+1045	歴	bitmap	low	2	歴麼壁■鯲
+1046	候	additional_context_confirmed	high	8	荷掎揩黹拇
+1047	補	additional_context_confirmed	high	1	侃倶僞飢似
+1048	太	additional_context_confirmed	high	2	
+1049	虐	context	medium	8	避遯遵靂邂
+1050	胆	ruby	high	2	
+1051	文	context	medium	6	文夂叉夊乂
+1052	旬	bitmap	low	2	旬句紺匂絎
+1053	読	okurigana	medium	13	跿読蹉跛説
+1054	姓	ruby	medium	2	
+1055	惑	additional_context_confirmed	high	7	棄
+1056	至	okurigana	low	4	至亜杢册墾
+1057	七	reading	medium	240	七も虹虻蚣
+1058	芝	reading	medium	240	芝乏正之苫
+1059	倶	additional_context_confirmed	high	2	慰蠍憇獸璧
+1060	増	bitmap	low	3	増壞憎辮燉
+1061	庁	ruby	medium	8	
+1062	廼	ruby	medium	12	
+1063	文	additional_context_confirmed	high	1	
+1064	句	additional_context_confirmed	high	1	
+1065	烈	ruby	medium	1	
+1066	卷	bitmap	low	3	卷巻巷春呑
+1067	辿	reading	medium	4	辿廸迪滷澁
+1068	採	context	medium	7	採崗接捺媒
+1069	七	additional_context_confirmed	high	1	
+1070	芝	additional_context_confirmed	high	3	贅賛暼贊貲
+1071	底	ruby	high	4	
+1072	増	additional_context_confirmed	high	6	批飮低戟抵
+1073	盜	okurigana	low	1	虫血由曳疽
+1074	駐	ruby	medium	1	
+1075	己	ruby	medium	2	
+1076	挟	reading	medium	1	挟陝険陜陳
+1077	鬼	ruby	high	4	
+1078	巻	additional_context_confirmed	high	5	
+1079	寂	ruby	high	5	
+1080	灰	bitmap	low	1	灰疣仄洗比
+1081	寃	ruby	high	4	
+1082	賛	additional_context_confirmed	high	2	
+1083	瘡	context	medium	3	債夷倚儀橇
+1084	悪	additional_context_confirmed	high	1	
+1085	離	ruby	high	5	
+1086	摸	ruby	high	4	
+1087	捧	bitmap	low	1	捧欅捺棒俸
+1088	罰	ruby	high	8	
+1089	歪	reading	medium	1	豊盖遊量奎
+1090	課	ruby	high	13	
+1091	匿	ruby	high	3	
+1092	氏	additional_context_confirmed	high	11	
+1093	饂	ruby	medium	6	
+1094	概	ruby	high	3	
+1095	汗	ruby	high	3	
+1096	封	ruby	medium	1	
+1097	鎖	ruby	medium	1	
+1098	稔	bitmap	low	4	稔聽聴■棯
+1099	衣	additional_context_confirmed	high	1	研斫絣妍緋
+1100	才	ruby	high	6	
+1101	嘲	ruby	medium	1	
+1102	隔	ruby	high	4	
+1103	盗	reading	medium	1	盗盜韲盃盧
+1104	授	additional_context_confirmed	high	3	皮度疣虔座
+1105	崗	bitmap	low	3	肉崗内府典
+1106	武	ruby	medium	4	腐
+1107	多	ruby	medium	1	
+1108	停	bitmap	low	2	停儚倅序俸
+1109	犲	bitmap	low	9	犲拌Ｈ鮗紂
+1110	聴	additional_context_confirmed	high	2	
+1111	新	additional_context_confirmed	high	3	
+1112	褄	ruby	high	3	
+1113	唯	ruby	high	3	
+1114	揺	ruby	high	4	
+1115	娥	ruby	medium	3	
+1116	冗	additional_context_confirmed	high	4	
+1117	談	additional_context_confirmed	high	1	停陣序倅陳
+1118	儺	ruby	high	3	
+1119	蠡	bitmap	low	4	北変蠡鉱扎
+1120	停	additional_context_confirmed	high	1	珍庫橡陣纔
+1121	材	additional_context_confirmed	high	1	
+1122	痕	ruby	medium	2	
+1123	耀	okurigana	medium	5	餓饒鱶饋贖
+1124	縞	bitmap	low	1	縞槁穢橇綸
+1125	筆	ruby	medium	2	
+1126	嗅	bitmap	low	1	嗅喨喰哨喋
+1127	寅	ruby	high	3	
+1128	術	ruby	high	2	
+1129	来	context	medium	4	禾来米末漸
+1130	煤	ruby	high	5	
+1131	加	additional_context_confirmed	high	2	班蛆艇短鯤
+1132	珍	additional_context_confirmed	high	1	
+1133	營	bitmap	low	2	豢營籤意蕉
+1134	徹	ruby	high	2	
+1135	海	context	medium	6	海攤侮悔廉
+1136	稿	additional_context_confirmed	high	1	
+1137	省	context	medium	4	省睿眷着寰
+1138	嗅	additional_context_confirmed	high	8	懲慾慰戀愍
+1139	肯	ruby	medium	4	
+1140	既	ruby	high	8	
+1141	述	bitmap	low	1	述迹迷遂崖
+1142	降	bitmap	low	5	降崗陣障陽
+1143	短	additional_context_confirmed	high	2	
+1144	沢	ruby	medium	2	敷
+1145	景	additional_context_confirmed	high	1	陥隘險瞼■
+1146	量	ruby	medium	7	
+1147	絞	bitmap	low	1	絞較鮫餃般
+1148	壁	ruby	medium	2	
+1149	覗	okurigana	low	2	覗唳棍峻嚇
+1150	役	additional_context_confirmed	high	1	
+1151	冪	bitmap	low	1	冪纂募暴幕
+1152	拓	bitmap	low	5	拓妬斫揃佑
+1153	載	additional_context_confirmed	high	1	
+1154	降	additional_context_confirmed	high	1	
+1155	沈	ruby	medium	1	
+1156	覧	bitmap	low	1	覧賢覽髱嘗
+1157	侮	ruby	medium	1	
+1158	塀	ruby	high	2	
+1159	般	additional_context_confirmed	high	6	
+1160	祥	ruby	high	5	
+1161	権	ruby	medium	5	
+1162	徐	bitmap	low	1	徐揄偸崗鐓
+1163	幕	additional_context_confirmed	high	1	末来素禾家
+1164	開	additional_context_confirmed	high	3	
+1165	誉	ruby	high	2	
+1166	減	ruby	medium	10	
+1167	駄	ruby	medium	1	
+1168	報	additional_context_confirmed	high	3	
+1169	野	ruby	medium	1	
+1170	蛮	ruby	medium	1	
+1171	蔑	ruby	medium	2	
+1172	猫	ruby	high	4	
+1173	酬	bitmap	low	1	酬醂醺醸醵
+1174	徐	additional_context_confirmed	high	1	丹辨府肘段
+1175	末	additional_context_confirmed	high	3	
+1176	脱	context	medium	5	餠胼躋廚腆
+1177	愉	ruby	medium	1	
+1178	快	ruby	medium	3	
+1179	肉	ruby	high	6	
+1180	逸	ruby	medium	1	
+1181	赴	bitmap	low	1	赴趁肚社杜
+1182	捻	reading	medium	1	捻捨棯徐陰
+1183	豊	context	medium	2	譽饗豊讐謦
+1184	科	bitmap	low	2	科料斜抖將
+1185	酬	additional_context_confirmed	high	6	
+1186	円	additional_context_confirmed	high	2	
+1187	鰓	ruby	high	8	
+1188	呵	ruby	medium	1	
+1189	馬	ruby	high	2	
+1190	鹿	ruby	high	2	
+1191	償	reading	medium	1	償俄債僖儀
+1192	賄	ruby	medium	1	
+1193	赴	additional_context_confirmed	high	1	
+1194	隙	ruby	medium	1	
+1195	話	ruby	high	3	
+1196	科	additional_context_confirmed	high	3	
+1197	嘘	ruby	high	3	
+1198	慌	ruby	medium	1	
+1199	註	bitmap	low	1	註百計肛詮
+1200	喫	reading	medium	1	嚶喫噤櫻喟
+1201	折	ruby	medium	1	
+1202	慘	reading	medium	1	慘惨搬憮崗
+1203	曖	ruby	high	2	
+1204	昧	ruby	high	2	
+1205	花	context	medium	30	花祉荘托衽
+1206	薙	ruby	high	2	
+1207	涙	ruby	high	2	
+1208	他	ruby	medium	1	
+1209	桂	bitmap	low	1	桂蛙昼袿硅
+1210	拾	okurigana	medium	2	拾抬拵捨蹤
+1211	何	additional_context_confirmed	high	3	按確接橦櫁
+1212	赦	ruby	medium	2	
+1213	玄	ruby	medium	1	
+1214	惨	additional_context_confirmed	high	3	胸綯梅痳痲
+1215	天	ruby	high	5	
+1216	怠	ruby	high	3	
+1217	凧	ruby	high	2	
+1218	奢	reading	medium	7	奢會箸著耆
+1219	跌	bitmap	low	1	跌餤飮趺隙
+1220	肝	ruby	high	2	
+1221	撤	bitmap	low	1	撤挺撒擬檄
+1222	獄	ruby	medium	1	
+1223	頻	ruby	high	4	
+1224	催	ruby	high	2	
+1225	促	ruby	high	3	
+1226	胸	additional_context_confirmed	high	2	系聶叢嘉崙
+1227	愕	ruby	high	4	
+1228	脇	context	medium	2	悩鍼蝠縊鎰
+1229	貲	ruby	high	2	
+1230	檻	ruby	high	2	
+1231	彼	additional_context_confirmed	high	4	
+1232	肝	additional_context_confirmed	high	2	豢寨秦羣棊
+1233	損	additional_context_confirmed	high	2	戛夏筧亶笈
+1234	悸	context	medium	2	悖悸慘停陣
+1235	華	ruby	high	3	
+1236	墨	bitmap	low	3	墨册璧叟兇
+1237	寳	bitmap	low	1	寳貫貧貪貰
+1238	蛛	bitmap	low	1	蛛檪株橡銖
+1239	万	ruby	medium	4	
+1240	鼻	bitmap	low	1	鼻轟姦彝募
+1241	俗	ruby	medium	1	
+1242	暇	ruby	medium	1	
+1243	劣	ruby	medium	1	
+1244	薬	additional_context_confirmed	high	2	
+1245	頃	additional_context_confirmed	high	2	
+1246	漫	ruby	high	2	
+1247	娯	bitmap	low	1	娯轎蠎梹纃
+1248	嫁	ruby	medium	2	
+1249	絶	additional_context_confirmed	high	1	遇送述遽道
+1250	殊	additional_context_confirmed	high	1	撹佼授揆撥
+1251	娑	ruby	medium	1	
+1252	鼻	additional_context_confirmed	high	1	
+1253	養	ruby	medium	1	
+1254	寅	ruby	medium	1	
+1255	哀	ruby	medium	1	
+1256	群	ruby	medium	1	
+1257	侠	bitmap	low	3	侠僕僖僂伎
+1258	盧	bitmap	low	1	盧虚鹵■直
+1259	娯	additional_context_confirmed	high	1	繼朧膓糒臓
+1260	炎	bitmap	low	1	炎奏典灸臭
+1261	遥	additional_context_confirmed	high	2	
+1262	投	additional_context_confirmed	high	4	繋繁樊絮磐
+1263	咎	ruby	high	2	
+1264	禹	ruby	high	2	
+1265	千	ruby	medium	1	
+1266	皆	ruby	medium	1	
+1267	胱	bitmap	low	3	挑胱喪狭狹
+1268	涯	ruby	medium	1	
+1269	君	additional_context_confirmed	high	1	
+1270	虚	additional_context_confirmed	high	1	
+1271	腸	additional_context_confirmed	high	1	眠抜販版翫
+1272	炎	additional_context_confirmed	high	6	
+1273	效	okurigana	low	3	拠嵐胤旭錐
+1274	繋	additional_context_confirmed	high	3	
+1275	呂	ruby	high	20	
+1276	沙	ruby	medium	1	
+1277	汰	ruby	medium	1	
+1278	謫	bitmap	low	1	謫鶲鐫鷁鸚
+1279	煙	ruby	high	4	
+1280	擬	bitmap	low	1	挺擬梃樅雛
+1281	親	context	medium	4	鎖鰕孅鏃鋲
+1282	蠍	bitmap	low	1	蠍攤撼瓣檄
+1283	傾	ruby	medium	1	
+1284	胞	ruby	medium	1	
+1285	宿	okurigana	low	1	癰宿癖俗宸
+1286	版	additional_context_confirmed	high	1	
+1287	野	ruby	medium	1	
+1288	熱	additional_context_confirmed	high	1	唳啖喉嚇嘛
+1289	潟	bitmap	low	1	潟涎海撮孅
+1290	即	ruby	medium	1	
+1291	蝸	ruby	medium	1	
+1292	妊	bitmap	low	1	妊狂衽抂託
+1293	訓	additional_context_confirmed	high	1	鯡軈軅雕鰻
+1294	幹	context	medium	2	幹絆胖鞐軫
+1295	煙	additional_context_confirmed	high	1	
+1296	剰	ruby	medium	1	
+1297	棚	additional_context_confirmed	high	1	
+1298	餃	bitmap	low	1	皎餃鮫絞蛟
+1299	詮	ruby	medium	2	
+1300	蘇	additional_context_confirmed	high	1	史吏変売能
+1301	吟	bitmap	low	1	吟哨吽畤時
+1302	式	bitmap	low	1	式疚鉱貳訛
+1303	喉	additional_context_confirmed	high	1	麝群爺叢雛
+1304	渇	additional_context_confirmed	high	2	
+1305	鐃	bitmap	low	2	饒鐃鐓饋蟯
+1306	胖	bitmap	low	1	胖眸絆許蟀
+1307	巖	bitmap	low	2	避巖巌靂厳
+1308	層	additional_context_confirmed	high	1	蝣緲轣癖轍
+1309	撹	bitmap	low	2	撹挺倪疣揆
+1310	餞	bitmap	low	1	披餞竸兢厳
+1311	夕	context	medium	2	ダ歹タ癸亨
+1312	尾	ruby	medium	1	
+1313	較	additional_context_confirmed	high	2	
+1314	鉾	ruby	medium	1	
+1315	癖	additional_context_confirmed	high	1	瞼皎絵眦鯲
+1316	吟	additional_context_confirmed	high	2	
+1317	画	additional_context_confirmed	high	1	
+1318	潜	additional_context_confirmed	high	1	醗鱒嬲辨鷓
+1319	犬	bitmap	low	1	犬大火太夫
+1320	錯	additional_context_confirmed	high	1	
+1321	絆	additional_context_confirmed	high	1	
+1322	避	additional_context_confirmed	high	1	由山血出凾
+1323	癖	additional_context_confirmed	high	1	
+1324	祝	additional_context_confirmed	high	1	究充覚党完
+1325	鼓	additional_context_confirmed	high	1	
+1326	木	bitmap	low	2	木ネ本水禾
+1327	脂	ruby	medium	1	
+1328	鑛	bitmap	low	1	鑛鎖韻頷朧
+1329	威	ruby	medium	1	
+1330	謎	additional_context_confirmed	high	1	
+1331	蟻	bitmap	low	1	蟻続蝣崗瞶
+1332	郊	ruby	high	2	
+1333	飼	additional_context_confirmed	high	4	
+1334	犬	additional_context_confirmed	high	1	
+1335	模	ruby	medium	1	
+1336	巣	bitmap	low	1	巣藥贏曩嵐
+1337	山	additional_context_confirmed	high	1	儿丸扎札乱
+1338	眉	ruby	medium	1	
+1339	究	additional_context_confirmed	high	1	
+1340	顕	ruby	high	2	
+1341	水	additional_context_confirmed	high	1	奮當奩童量
+1342	摂	ruby	medium	2	
+1343	頷	additional_context_confirmed	high	1	
+1344	玉	ruby	high	2	
+1345	託	ruby	medium	1	
+1346	賭	additional_context_confirmed	high	1	育會資音脊
+1347	嬉	reading	medium	1	鏃嫉癖嬢繻
+1348	衰	reading	medium	1	衰袞食嚢貪
+1349	蜘	additional_context_confirmed	high	1	
+1350	蛛	additional_context_confirmed	high	1	毒嗇矗巖龕
+1351	巣	additional_context_confirmed	high	2	遂逐遅達違
+1352	九	additional_context_confirmed	high	1	
+1353	機	context	medium	2	蝸鏃鍋銚継
+1354	Τ	bitmap	low	1	ΤＴ『】｜
+1355	癡	bitmap	low	1	癡繼殲嶽孅
+1356	心	additional_context_confirmed	high	1	
+1357	璧	ruby	medium	1	
+1358	陳	bitmap	low	1	陳陣擽隙険
+1359	択	ruby	medium	5	
+1360	嫉	ruby	medium	1	
+1361	守	additional_context_confirmed	high	1	
+1362	嬉	additional_context_confirmed	high	1	疽痘泡疱庖
+1363	寒	bitmap	low	0	寒寧寨崋篳
+1364	彎	bitmap	low	0	彎背鸞噂轡
+1365	促	additional_context_confirmed	high	0	粛湊漢澡浹
+1366	遂	additional_context_confirmed	high	4	肢陂跂鮟技
+1367	緋	bitmap	low	1	緋婦嶮縅鯡

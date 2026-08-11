@@ -1,0 +1,72 @@
+{
+ "schema": "enkaku_retranslation_batch_v1",
+ "queue": "build/retranslation_queue.json",
+ "batch": 4,
+ "note": "Every row here turns on 取り compounds that the old charmap broke into 蠧り. The verb is common enough that the damage reached 拭き取る, 取り付ける, 取りに来る, 取り戻す and 取り直す in a single slice, and the old Korean invented something different for each.",
+ "translations": [
+  {
+   "source_index": "0x000d34e0",
+   "source_ja": "【三浦】\\nだからＶＩＰルーム周りのドアには\\n指紋《しもん》を扶《ふ》き取《と》った跡《あと》があった。\\nお前が証拠《しょうこ》閣衛《いんめつ》を図《はか》ったからだろう？",
+   "old_translation": "【미우라】\\n그래서 VIP 룸 주위의 문에는\\n지문을 흔들어 삼키는 호랑이가\\n있었다. \\n당신이 증거 각멸을 도모했기\\n때문일까?",
+   "new_translation": "【미우라】\\n그래서 VIP 룸 주변 문에는\\n지문을 닦아낸 흔적이 있었다.\\n네가 증거 인멸을 꾀했기\\n때문이겠지?",
+   "reason": "拭き取った跡=닦아낸 흔적; the old line turned 跡 into 호랑이. 閣衛《いんめつ》=隠滅(인멸). お前 to a suspect is 너, not 당신.",
+   "confidence": 0.92
+  },
+  {
+   "source_index": "0x000d60d1",
+   "source_ja": "【三浦】\\nこれは立派に今回の事件の係機につながる。\\nこの事実を、どう釈間《しゃくめい》するつもりだ？",
+   "old_translation": "【미우라】\\n이것은 훌륭하게 이마바야시의 사건의\\n동기로 이어진다. \\n이 사실을 어떻게 해명할 거야?",
+   "new_translation": "【미우라】\\n이건 충분히 이번 사건의 동기로\\n이어진다.\\n이 사실을 어떻게 해명할 셈이지?",
+   "reason": "立派に here is 충분히, not 훌륭하게; 今回=이번.",
+   "confidence": 0.89
+  },
+  {
+   "source_index": "0x000d8142",
+   "source_ja": "【三浦】\\n今回、事件が発生したときに\\n現場にいた関係者が何人かいる。",
+   "old_translation": "【미우라】\\n이마바야시, 사건이 발생했을 때에\\n현장에 있던 관계자가 몇명 있다.",
+   "new_translation": "【미우라】\\n이번에 사건이 발생했을 때\\n현장에 있던 관계자가 몇 명 있다.",
+   "reason": "今回 was read as a name and left as a vocative.",
+   "confidence": 0.93
+  },
+  {
+   "source_index": "0x000d8bae",
+   "source_ja": "【三浦】\\n源にお前の言うとおり、\\nプレイヤーに外部効蹶が\\n取り付けられていたとしよう。",
+   "old_translation": "【미우라】\\n동생에게 너가 말했듯이,\\n플레이어에 외부 음원이\\n모르고 있었다고 하자.",
+   "new_translation": "【미우라】\\n가령 네 말대로,\\n플레이어에 외부 음원이\\n설치되어 있었다고 치자.",
+   "reason": "源に is 仮に(가령), rendered 동생에게; 取り付けられていた=설치되어 있었다, which the old line dropped as 모르고 있었다.",
+   "confidence": 0.85
+  },
+  {
+   "source_index": "0x000ede18",
+   "source_ja": "【三浦】\\n不正をバラされたくなければ、\\n書類を取りに来い、とね。",
+   "old_translation": "【미우라】\\n불험을 장미되고 싶지 않으면,\\n서미를 삼키게 맙소사.",
+   "new_translation": "【미우라】\\n부정을 폭로당하고 싶지 않으면\\n서류를 가지러 오라고 말이지.",
+   "reason": "バラされたくなければ=폭로당하고 싶지 않으면 - the old line read バラ as 장미(rose); 書類=서류, 取りに来い=가지러 오라.",
+   "confidence": 0.9
+  },
+  {
+   "source_index": "0x000edeb4",
+   "source_ja": "【三浦】\\nそして彼女が席を外しているときを狙《ねら》い、\\n近藤刑事がこの書類を取りに来た。",
+   "old_translation": "【미우라】\\n그리고 아야녀가 위를 벗고 있을\\n때를\\n노리고,\\n콘도 형사가 이 서미를 삼키게\\n쫓았다.",
+   "new_translation": "【미우라】\\n그리고 그녀가 자리를 비운 틈을 노려,\\n콘도 형사가 이 서류를 가지러 왔다.",
+   "reason": "席を外している=자리를 비우다, taken literally as 위를 벗고 있다; 彼女=그녀 rendered 아야녀.",
+   "confidence": 0.92
+  },
+  {
+   "source_index": "0x000ee04c",
+   "source_ja": "【三浦】\\nだから近藤刑事は撃死になって、\\nこの証拠《しょうこ》を取《と》り戻《もど》そうとした。",
+   "old_translation": "【미우라】\\n 그래서 콘도 형사는 필치가 되어,\\n이 증거를 되돌아보려고 했다.",
+   "new_translation": "【미우라】\\n그래서 콘도 형사는 필사적으로\\n이 증거를 되찾으려 했다.",
+   "reason": "撃死=必死(필사적), rendered 필치; 取り戻す=되찾다, not 되돌아보다.",
+   "confidence": 0.9
+  },
+  {
+   "source_index": "0x000f2328",
+   "source_ja": "【三浦】\\n……それともう一つ。\\nお前と被害者《ひがいしゃ》は口論というほどのことは\\nしていないこと。\\nこれも昨日、\\n近藤刑事が証言を取り恠した。",
+   "old_translation": "【미우라】\\n… … 그리고 또 하나. \\n너와 피해자는 구론이라고 할 정도의\\n일은\\n하고 있지 않는 것. \\n이것도 어제,\\n콘도 형사가 증언을 삼키고 집했다.",
+   "new_translation": "【미우라】\\n……그리고 또 하나.\\n너와 피해자는 말다툼이라 할 만한 일은\\n하지 않았다는 것.\\n이것도 어제\\n콘도 형사가 증언을 다시 받아냈다.",
+   "reason": "口論=말다툼, left as 구론; 証言を取り直した=증언을 다시 받다.",
+   "confidence": 0.87
+  }
+ ]
+}

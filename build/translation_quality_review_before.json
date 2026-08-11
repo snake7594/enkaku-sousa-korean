@@ -1,0 +1,87 @@
+{
+ "schema": "enkaku_translation_quality_baseline_v1",
+ "files": {
+  "script_full_ja.tsv": "D:\\psp\\원격수사\\font_extract\\script_full_ja.tsv",
+  "script_full_raw.tsv": "D:\\psp\\원격수사\\font_extract\\script_full_raw.tsv",
+  "translation_ko_semantic_checked.tsv": "D:\\psp\\원격수사\\build\\translation_ko_semantic_checked.tsv",
+  "translation_ko_clean.tsv": "D:\\psp\\원격수사\\build\\translation_ko_clean.tsv",
+  "korean_slots_full_clean.json": "D:\\psp\\원격수사\\build\\korean_slots_full_clean.json"
+ },
+ "physical_lines_minus_header": {
+  "script_full_ja.tsv": 9626,
+  "translation_ko_semantic_checked.tsv": 9653,
+  "translation_ko_clean.tsv": 9626,
+  "script_full_raw.tsv": 9626
+ },
+ "logical_rows": {
+  "ja": 9626,
+  "ko": 9626,
+  "prev": 9626,
+  "raw": 9626
+ },
+ "expected_rows_from_previous_reports": 9626,
+ "index_agreement": {
+  "identical_sets": true,
+  "source_without_translation": 0,
+  "translation_without_source": 0,
+  "duplicate_indices_ja": 0,
+  "duplicate_indices_ko": 0,
+  "misordered_positions": 0,
+  "source_without_translation_sample": [],
+  "translation_without_source_sample": []
+ },
+ "control_codes": {
+  "newline_count_mismatch": 2630,
+  "newline_count_mismatch_sample": [
+   "0x00038bdf",
+   "0x00039279",
+   "0x00039387",
+   "0x000393f8",
+   "0x000394ae",
+   "0x00039609",
+   "0x000399d0",
+   "0x00039a9e",
+   "0x00039b11",
+   "0x00039ce2",
+   "0x00039da1",
+   "0x00039ee0",
+   "0x00039f4b",
+   "0x0003a2cf",
+   "0x0003a48d",
+   "0x0003a7a5",
+   "0x0003ab64",
+   "0x0003ac46",
+   "0x0003afad",
+   "0x0003b013"
+  ],
+  "declared_line_count_mismatch": 8,
+  "declared_line_count_mismatch_sample": [
+   "0x000de988",
+   "0x000deb0a",
+   "0x000ded94",
+   "0x000df45e",
+   "0x000df5ae",
+   "0x000df6b4",
+   "0x000df76d",
+   "0x000dfb41"
+  ]
+ },
+ "residual_characters": {
+  "kana": 0,
+  "cjk": 0,
+  "compat_jamo": 0,
+  "replacement": 0,
+  "question_runs": 0
+ },
+ "residual_samples": {
+  "kana": [],
+  "cjk": [],
+  "compat_jamo": [],
+  "replacement": [],
+  "question_runs": []
+ },
+ "unencodable_rows": 0,
+ "unencodable_sample": [],
+ "changed_vs_translation_ko_clean": 424,
+ "emulator_launched": false
+}

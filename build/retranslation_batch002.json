@@ -1,0 +1,72 @@
+{
+ "schema": "enkaku_retranslation_batch_v1",
+ "queue": "build/retranslation_queue.json",
+ "batch": 2,
+ "note": "Two proper nouns surface here: 宮上銀座 is a place the old text broke into 路上観挙, and 播磨 is the doctor the old text called 교장 선생님. Both were invisible until the charmap was fixed.",
+ "translations": [
+  {
+   "source_index": "0x0005570c",
+   "source_ja": "【法子】\\n都内のタクシー会各を一つひとつ当たって、\\n宮上銀挙《みやかみぎんざ》からコウジのアパートまでの\\n乗車記録がないか調べてみる？",
+   "old_translation": "【노리코】\\n도내의 택시회사를 하나하나 맞추고,\\n도조 철자에서 코우지의 아파트까지의\\n농차 기록이 없는지 조사해 본다?",
+   "new_translation": "【노리코】\\n도내 택시 회사를 하나하나 찾아가서,\\n미야카미 긴자에서 코우지의 아파트까지\\n승차 기록이 없는지 알아볼까?",
+   "reason": "宮上銀挙 is the place name 宮上銀座 (미야카미 긴자); the old source read it as 路上観挙 and produced 도조 철자. 乗車記録=승차 기록, not 농차.",
+   "confidence": 0.88
+  },
+  {
+   "source_index": "0x0006ff61",
+   "source_ja": "【光志】\\n確かに三浦も指紋《しもん》を扶《ふ》き取《と》られた跡《あと》が\\nあるって言っていた……",
+   "old_translation": "【코우지】\\n확실히 미우라도 지문을 닦아낸\\n흔적이\\n있다고\\n말했었지……",
+   "new_translation": "【코우지】\\n확실히 미우라도 지문이 닦여 나간\\n흔적이 있다고\\n말했었지……",
+   "reason": "拭き取られた is passive - the prints were wiped, not that Miura wiped them.",
+   "confidence": 0.9
+  },
+  {
+   "source_index": "0x0008fe2d",
+   "source_ja": "【受付】\\n今副１１日の０恋から１恋にかけて、\\n宮上銀挙《みやかみぎんざ》から藤代町《ふじしろちょう》までの乗車記録があるかと\\n聞かれました。",
+   "old_translation": "【나카가와】\\n이번 달 11일의 0시부터 1시에\\n걸쳐,\\n도가미테츠자에서 후지요마치까지의\\n농차\\n기록이 있을까\\n들었습니다.",
+   "new_translation": "【접수원】\\n이번 달 11일 0시부터 1시 사이에\\n미야카미 긴자에서 후지시로초까지\\n승차 기록이 있느냐고\\n물으셨습니다.",
+   "reason": "Same place name; 藤代町 is 후지시로초, rendered 후지요마치. The speaker tag 受付 is 접수원, not the name 나카가와.",
+   "confidence": 0.85
+  },
+  {
+   "source_index": "0x000956be",
+   "source_ja": "【駅口】\\n……ですが、斉藤さんは吉本さんに心臓を咫《あた》えられないか、\\n主治耳の播磨先生にずっと相談していたようです。",
+   "old_translation": "【히구치】\\n…\\n수치소의 교장 선생님에게 계속\\n상담하고\\n있던 것 같습니다.",
+   "new_translation": "【히구치】\\n……하지만 사이토 씨는 요시모토 씨에게\\n심장을 줄 수 없겠냐고,\\n주치의인 하리마 선생님과 계속\\n상담하고 있었던 것 같습니다.",
+   "reason": "主治耳=主治医(주치의) and 播磨先生 is the doctor's name; the old line dropped the whole first clause and invented 수치소.",
+   "confidence": 0.87
+  },
+  {
+   "source_index": "0x00095865",
+   "source_ja": "【駅口】\\n播磨先生の腕《うで》は相当なもので、\\nこの病院の往治を係かすのに十分なものでした。",
+   "old_translation": "【히구치】\\n교장 선생님의 팔은 상당한 것으로,\\n이 병원의 정치를 움직이기에\\n충분했습니다.",
+   "new_translation": "【히구치】\\n하리마 선생님의 실력은 상당해서,\\n이 병원의 운영을 좌우하기에\\n충분했습니다.",
+   "reason": "腕 here is skill, not the limb; 往治 reads 経営/統治 - running the hospital.",
+   "confidence": 0.82
+  },
+  {
+   "source_index": "0x0009968e",
+   "source_ja": "【駅口】\\n播磨先生に看を売るなと必意され、\\n結局それから誰《だれ》にも話す機会がなく……\\n今、あなたに話したのが初めてです。",
+   "old_translation": "【히구치】\\n교장 선생님에게 한가하게 기름이나\\n팔지\\n말라고 꾸중을 듣고,\\n그 뒤로는 누구에게도 말할 기회가\\n없었습니다……\\n지금 당신에게 말한 것이\\n처음입니다.",
+   "new_translation": "【히구치】\\n하리마 선생님께 쓸데없는 참견은 말라고\\n주의를 받고,\\n그 뒤로는 누구에게도 말할 기회가\\n없었습니다……\\n지금 당신에게 말한 것이\\n처음입니다.",
+   "reason": "播磨 is the name, not 교장. 看を売る here is meddling; the old line read it as the idiom 油を売る (idling).",
+   "confidence": 0.78
+  },
+  {
+   "source_index": "0x0009ed06",
+   "source_ja": "【光志】\\nまあ、そう考えれば、\\n三浦の取調べはまだマシなのかもな。",
+   "old_translation": "【코우지】\\n뭐, 그렇게 생각하면\\n미우라의 조사는 아직 나은 편일지도\\n모르겠네.",
+   "new_translation": "【코우지】\\n뭐, 그렇게 생각하면\\n미우라의 취조는 그나마 나은 편일지도\\n모르겠네.",
+   "reason": "取調べ is 취조 specifically, not the general 조사.",
+   "confidence": 0.92
+  },
+  {
+   "source_index": "0x000a221e",
+   "source_ja": "【光志】\\n……昨日の取調べで三浦が帰ってきた。",
+   "old_translation": "【코우지】\\n…",
+   "new_translation": "【코우지】\\n……어제 취조에서 미우라가 돌아왔다.",
+   "reason": "The old translation was empty apart from an ellipsis - the line was lost entirely.",
+   "confidence": 0.85
+  }
+ ]
+}

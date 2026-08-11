@@ -1,0 +1,27 @@
+# Game data is never distributed -- the patch is applied to the user's own dump.
+*.iso
+iso_extract/
+build/*.bin
+build/textures/
+build/*.png
+font_extract/*.bin
+font_extract/*.png
+
+# Vendored third-party packages -- install them with pip instead of shipping 200 MB
+work/_analysis_vendor/
+
+# Regenerable intermediates
+__pycache__/
+*.pyc
+build/a_*
+build/s_*
+build/stream*
+
+# Large derived context files
+font_extract/translation_context_for_claude.json
+font_extract/translation_overrides.json
+
+# The patch itself is attached to the release, not committed
+*.xdelta
+
+dump/

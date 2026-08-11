@@ -1,0 +1,11 @@
+{
+  "logical_rows": 9626,
+  "physical_rows": 9626,
+  "residual_overrides": 67,
+  "semantic_overrides": 424,
+  "semantic_override_path": "D:\\psp\\원격수사\\font_extract\\translation_semantic_overrides.json",
+  "wrapped_story_rows": 280,
+  "max_dialogue_width": 19,
+  "japanese_or_cjk_residual_rows": [],
+  "malformed_physical_continuations": 0
+}

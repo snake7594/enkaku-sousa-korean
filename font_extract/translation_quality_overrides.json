@@ -1,0 +1,358 @@
+{
+ "schema": "enkaku_translation_quality_overrides_v1",
+ "note": "Each entry is conditioned on source_ja so it can only apply to the row it was written for. The Japanese itself is still damaged by unresolved charmap glyphs; the reconstruction behind each fix is given in reason. Speaker names are left as the existing file spells them - inventing a reading for an unverified name is out of scope for a quality pass.",
+ "overrides": [
+  {
+   "source_index": "0x0006bd1a",
+   "source_ja": "【マスター】\\n先の事件の担当……と申しますと、\\n被疑者《ひぎしゃ》となった斉藤光志さんの\\n担当弁護士の方ですか？",
+   "old_translation": "[주인]\\n앞의 사건의 상당 ......라고\\n말하면,\\n피의자가 된 사이토 코우지의\\n상당 변호사입니까?",
+   "new_translation": "【마스터】\\n지난 사건의 담당이라고 하시면,\\n피의자가 된 사이토 코우지 씨의\\n담당 변호사이신가요?",
+   "reason": "担当 rendered as 상당; speaker bracket was ASCII. マスター in a bar setting is 마스터.",
+   "confidence": 0.95
+  },
+  {
+   "source_index": "0x000890f1",
+   "source_ja": "【栄太郎】\\nでも、腎臓移度手搬《じんぞういしょくしゅじゅつ》のために渡欧《とおう》して、\\n手搬は失敗……\\nそれが原因で亡くなってしまったんだ。",
+   "old_translation": "[신타로]\\n에서도 신장 이식 수술을 위해\\n격유하고,\\n수술은 실패......\\n그것이 원인으로 죽어버렸어.",
+   "new_translation": "【신타로】\\n하지만 신장 이식 수술을 받으려고\\n유럽까지 건너갔는데,\\n수술은 실패…\\n그게 원인이 되어 세상을 떠났어.",
+   "reason": "移度手搬=移植手術, 渡欧=渡欧(유럽으로 건너감) mistranslated as 격유. Sentence-initial でも became 에서도.",
+   "confidence": 0.93
+  },
+  {
+   "source_index": "0x000c137c",
+   "source_ja": "【栄太郎】\\n水谷順から鍵《かぎ》を受け蠧り、\\n近藤順が鍵《かぎ》を開けた。",
+   "old_translation": "[신타로]\\n미즈타니가와에서 열쇠를 안고,\\n콘도강이 열쇠를 걸었다.",
+   "new_translation": "【신타로】\\n미즈타니 씨에게서 열쇠를 건네받아,\\n콘도 씨가 열쇠를 열었어.",
+   "reason": "受け蠧り=受け取り (건네받다), 開けた=열었다 not 걸었다. 順 is the honorific glyph, so 씨.",
+   "confidence": 0.92
+  },
+  {
+   "source_index": "0x000c1726",
+   "source_ja": "【栄太郎】\\nしばらくして近藤順が\\nここは現場《げんじょう》画存《ほぞん》のために封鎖《ふうさ》するから\\n部屋の外に出るように指示した。",
+   "old_translation": "[신타로]\\n잠시 후 콘도강이\\n여기는 현장 보존을 위해 풍사하기\\n때문에\\n방 밖으로 나가도록 지시했다.",
+   "new_translation": "【신타로】\\n잠시 후 콘도 씨가\\n여기는 현장 보존을 위해 막는다며\\n방 밖으로 나가라고 지시했어.",
+   "reason": "封鎖 was left as 풍사; 画存=保存. 봉쇄 avoided because 쇄 has no glyph, so the verb was reworded rather than the syllable substituted.",
+   "confidence": 0.92
+  },
+  {
+   "source_index": "0x000c2f6d",
+   "source_ja": "【退職】\\n秘匿《ひとく》性《せい》の高い会議や紆ち合わせに\\n使われることを想定しているからだ。",
+   "old_translation": "[미우라]\\n부익성이 높은 사의나 가교에\\n고용되는 것을 총정하고 있기\\n때문이다.",
+   "new_translation": "【미우라】\\n기밀성이 높은 회의나 협의에\\n쓰일 것을 상정하고 있기 때문이다.",
+   "reason": "秘匿性, 会議=회의, 紆ち合わせ=打ち合わせ(협의), 使われる=쓰이다 not 고용, 想定=상정. 비닉성 needs 닉, which has no glyph; 기밀성 carries the same sense.",
+   "confidence": 0.91
+  },
+  {
+   "source_index": "0x000c44f5",
+   "source_ja": "【退職】\\n死因が銃撃《じゅうげき》によって\\n引き刑こされたことは間白だ。",
+   "old_translation": "[미우라]\\n치인이 총격에 의해\\n끌어당긴 것은 명백하다.",
+   "new_translation": "【미우라】\\n사인이 총격으로 인한 것임은\\n명백하다.",
+   "reason": "死因=사인 rendered as 치인; 引き刑こされた=引き起こされた.",
+   "confidence": 0.94
+  },
+  {
+   "source_index": "0x000c7c17",
+   "source_ja": "【退職】\\nその際、グループのトップとして\\n白川一利が顔を出していたことも\\nしばしばある。",
+   "old_translation": "[미우라]\\n그 때, 그룹의 톱으로서\\n시라카와 이치로가 보고 있는 일도\\n흔히 있다.",
+   "new_translation": "【미우라】\\n그럴 때 그룹의 총수로서\\n시라카와 이치로가 모습을 보인 적도\\n종종 있다.",
+   "reason": "顔を出す=모습을 보이다(참석하다), not 보고 있다.",
+   "confidence": 0.92
+  },
+  {
+   "source_index": "0x000cd23a",
+   "source_ja": "【退職】\\nたしかお前の母、\\n斉藤勝代も心臓移度手搬を\\nしていたな？",
+   "old_translation": "[미우라]\\n확실히 너의 어머니,\\n사이토 가쓰요도 심장 이식 수술을\\n하고 있었구나?",
+   "new_translation": "【미우라】\\n분명 네 어머니,\\n사이토 가쓰요도 심장 이식 수술을\\n받았었지?",
+   "reason": "手術をしていた of a patient is 받았다, not 하고 있었다; たしか=분명.",
+   "confidence": 0.9
+  },
+  {
+   "source_index": "0x000d8226",
+   "source_ja": "【退職】\\nこれによって、\\nそれぞれがアリバイの証人となり、\\n箍《たが》いにアリバイを形成している。",
+   "old_translation": "[미우라]\\n이것에 의해,\\n각각이 알리바이의 증인이 되어,\\n미련하게 알리바이를 경성하고 있다.",
+   "new_translation": "【미우라】\\n이로써 각자가 알리바이의 증인이 되어,\\n서로의 알리바이를 성립시키고 있다.",
+   "reason": "箍い=互い(서로), rendered as 미련하게; 形成=성립/형성, rendered as 경성.",
+   "confidence": 0.94
+  },
+  {
+   "source_index": "0x000e6332",
+   "source_ja": "【吉本】\\n私たちが気づいてないとでも\\n思ったんですか？",
+   "old_translation": "[요시모토]\\n우리가 눈치채지 못하더라도\\n무거웠나요?",
+   "new_translation": "【요시모토】\\n우리가 눈치채지 못했을 거라고\\n생각하셨나요?",
+   "reason": "思った=생각하다 rendered as 무거웠다 (思/重 confusion); conditional ...とでも思った = ...거라고 생각했다.",
+   "confidence": 0.96
+  },
+  {
+   "source_index": "0x000e63cd",
+   "source_ja": "【吉本】\\nあなたは無実を訴《うった》えるフリをして\\n私たちから情報を引き出そうと\\nしていますよね？",
+   "old_translation": "[요시모토]\\n당신은 무고한 희미한 척을 하고\\n우리로부터 정보를 꺼내려고\\n하고 있지요?",
+   "new_translation": "【요시모토】\\n당신은 무죄를 호소하는 척하면서\\n우리에게서 정보를 캐내려 하고\\n있는 거죠?",
+   "reason": "訴える=호소하다 was dropped into 희미한; 引き出す=캐내다.",
+   "confidence": 0.94
+  },
+  {
+   "source_index": "0x000e6f3e",
+   "source_ja": "【吉本】\\n……でもあなたは\\n本名を使っていますね。",
+   "old_translation": "[요시모토]\\n......하지만 당신은 \\n실명을 고용하고 있네요.",
+   "new_translation": "【요시모토】\\n……하지만 당신은\\n본명을 쓰고 계시네요.",
+   "reason": "使う=쓰다 rendered as 고용하다; 本名=본명.",
+   "confidence": 0.96
+  },
+  {
+   "source_index": "0x000e7506",
+   "source_ja": "【吉本】\\nあんな、弁護士を二めて\\n探偵なんて仕事をする人なんか……っ！",
+   "old_translation": "[요시모토]\\n저런, 변호사를 가로질러\\n탐정 따위 일을 하는 사람인가…",
+   "new_translation": "【요시모토】\\n저런, 변호사를 그만두고\\n탐정 따위나 하는 사람은……!",
+   "reason": "二めて=辞めて(그만두다), rendered as 가로질러.",
+   "confidence": 0.91
+  },
+  {
+   "source_index": "0x000e94d3",
+   "source_ja": "【吉本】\\nその影清《えいきょう》で、\\n今関は自ら捜査《そうさ》に赴《おもむ》くことは禁止され、\\nあなたの蠧調べを担当することに\\nなりました。",
+   "old_translation": "[요시모토]\\n그 영향으로,\\n이마바야시는 스스로 수사에 가는\\n것은\\n금토되고,\\n당신의 취조를 담당하는 것이\\n되었습니다.",
+   "new_translation": "【요시모토】\\n그 영향으로\\n이마제키는 직접 수사에 나서는 것이\\n금지되어,\\n당신의 취조를 담당하게\\n되었습니다.",
+   "reason": "禁止 rendered as 금토; 赴く=나서다. 今関 read as 이마제키 for consistency with the kanji, flagged in the review.",
+   "confidence": 0.82
+  },
+  {
+   "source_index": "0x000ec40a",
+   "source_ja": "【退職】\\n御題通り、\\n駆犯カメラの映像を持ってきた。",
+   "old_translation": "[미우라]\\n긴자 거리,\\n발범 카메라의 발휘를 망했다.",
+   "new_translation": "【미우라】\\n요청한 대로,\\n방범 카메라 영상을 가져왔다.",
+   "reason": "駆犯=防犯(방범), 映像=영상, 持ってきた=가져왔다. The old line lost the sentence entirely.",
+   "confidence": 0.93
+  },
+  {
+   "source_index": "0x000f47c5",
+   "source_ja": "【退職】\\n今関の怖問《じんもん》で自分の無実を\\n証間できなければ\\n刑《き》訴《そ》手続《てつづ》きに入ることになる。\\n……わかっているな！",
+   "old_translation": "[미우라]\\n이마바야시의 심문으로 자신의 무고를\\n증명할 수 없으면\\n조금 손수제에 들어가게 된다. \\n......알고 있어!",
+   "new_translation": "【미우라】\\n이마제키의 심문에서 자신의 무죄를\\n증명하지 못하면\\n기소 절차에 들어가게 된다.\\n……알고 있겠지!",
+   "reason": "刑訴手続き=기소 절차, rendered as 조금 손수제.",
+   "confidence": 0.88
+  },
+  {
+   "source_index": "0x00106ef1",
+   "source_ja": "【光志】\\n（……ってツッコミたいけど、\\n気分撤ねて帰られてもイヤだから\\n黙《だま》っておこう）",
+   "old_translation": " \\n \\n(……라고 따지고 싶지만,\\n기분을 상하게 한 채 돌아가도\\n싫으니\\n입을 다물자)",
+   "new_translation": "【코우지】\\n(……라고 따지고 싶지만,\\n기분 상해서 가버려도 곤란하니\\n잠자코 있자)",
+   "reason": "The speaker tag was lost entirely, leaving two blank lines. 撤ねて=損ねて.",
+   "confidence": 0.93
+  },
+  {
+   "source_index": "0x00112763",
+   "source_ja": "【真太郎】\\n彼女は優秀《ゆうしゅう》な人だから、\\n他にも計《かか》えている事件が\\nいくつもあるんだ。",
+   "old_translation": "[타타로]\\n아야녀는 유취인 사람이니까,\\n범에도 기쁘게 하고 있는 사건이\\n몇개도 있다.",
+   "new_translation": "【타타로】\\n그녀는 유능한 사람이라,\\n그 밖에도 맡고 있는 사건이\\n여러 건 있어.",
+   "reason": "彼女=그녀 rendered as 아야녀; 優秀=유능; 計えている=抱えている(맡다); 他にも=그 밖에도.",
+   "confidence": 0.92
+  },
+  {
+   "source_index": "0x001127f5",
+   "source_ja": "【真太郎】\\nむしろキミの事件なんか片手付に\\n調べているだけ。\\nそれを十分に認識したほうがいい。",
+   "old_translation": "[타타로]\\n오히려 너의 사건 왠지 혼자서\\n조사하고 있을 뿐. \\n그것을 충분히 인식하는 편이 좋다.",
+   "new_translation": "【타타로】\\n오히려 네 사건 따위는 남는 시간에\\n조사하고 있을 뿐이야.\\n그걸 충분히 알아두는 게 좋아.",
+   "reason": "片手付=片手間, rendered as 혼자서; なんか=따위는. 짬짬이 needs 짬, which has no glyph, so the phrase was reworded.",
+   "confidence": 0.88
+  },
+  {
+   "source_index": "0x00113923",
+   "source_ja": "【真太郎】\\n彼女はウチの事務所に入ってから\\nずっとパパのサポートを\\n続けてきたんだ。",
+   "old_translation": "[타타로]\\n아야메는 우치의 사무소에 들어가고\\n나서\\n쭉 아빠의 서포트를\\n제외해 왔다.",
+   "new_translation": "【타타로】\\n그녀는 우리 사무소에 들어온 뒤로\\n줄곧 아버지를 보좌해\\n왔어.",
+   "reason": "続けてきた=계속해 왔다 rendered as 제외해 왔다 - the opposite; ウチ=우리(사무소).",
+   "confidence": 0.93
+  },
+  {
+   "source_index": "0x00113a00",
+   "source_ja": "【真太郎】\\nなのに、今の彼女は\\nこんなつまらない事件を担当している。\\nもったいないと思わないか？",
+   "old_translation": "[타타로]\\n인데, 지금의 아야녀는\\n이런 시시한 사건을 상당하고 있다. \\n \\n 아까워하지 않겠습니까?",
+   "new_translation": "【타타로】\\n그런데 지금 그녀는\\n이런 시시한 사건을 맡고 있어.\\n아깝다고 생각하지 않아?",
+   "reason": "担当 rendered as 상당; blank line and honorific level both wrong for this speaker.",
+   "confidence": 0.92
+  },
+  {
+   "source_index": "0x000d8d29",
+   "source_ja": "【退職】\\nそれ以後、銃声《じゅうせい》が堂内に率《な》り清《ひび》くまで\\n鍵《かぎ》はマスターの管理下でカウンターに置かれてから、\\n一度も係いていないと聞いている。",
+   "old_translation": "[미우라]\\n그 이후 총성이 점내에 향해 울릴\\n때까지\\n열쇠는 마스터의 관리하에서 카운터에\\n놓여지고 나서,\\n한 번도 움직이지 않았다고 듣고\\n있다.",
+   "new_translation": "【미우라】\\n그 이후 총성이 가게 안에 울려 퍼질\\n때까지\\n열쇠는 마스터의 관리 아래 카운터에\\n놓인 채,\\n한 번도 손대지 않았다고 들었다.",
+   "reason": "率り清く=鳴り響く(울려 퍼지다); 係いていない=触っていない(손대지 않다).",
+   "confidence": 0.85
+  },
+  {
+   "source_index": "0x000fb36b",
+   "source_ja": "【退職】\\n捜査元《そうさいん》がその少女に事情を聞こうと何度か\\n試みたらしいのだが、逃《に》げ足《あし》が郎いらしく\\nすぐに見失ってしまうとのことだ。",
+   "old_translation": "[미우라]\\n수사원이 그 소녀에게 사정을\\n들으려고\\n몇번인가\\n 질질 것 같지만, 도망 다리가\\n제목답게\\n곧바로 잃어버린다는 것이다.",
+   "new_translation": "【미우라】\\n수사원이 그 소녀에게 사정을 물으려고\\n몇 번인가 시도한 모양이지만,\\n달아나는 발이 빨라\\n금세 놓쳐버린다고 한다.",
+   "reason": "試みた=시도했다 was lost; 逃げ足が郎い=逃げ足が速い(달아나는 발이 빠르다), rendered as 제목답게.",
+   "confidence": 0.9
+  },
+  {
+   "source_index": "0x000e942f",
+   "source_ja": "【吉本】\\nそして前関の事件、\\n退職刑事は己の正番に\\n毎《もと》づいて枚《つ》き活《すす》み、\\n組織捜査《そしきそうさ》を逸脱《いつだつ》してしまいました……",
+   "old_translation": "[요시모토]\\n그리고 전림의 사건,\\n미우라 형사는 자신의 정의에\\n간계해 쌓아 가고,\\n권위 수사를 일탈해 버렸습니다…",
+   "new_translation": "【요시모토】\\n그리고 지난번 사건,\\n미우라 형사는 자신의 정의에\\n따라 밀고 나아가,\\n조직 수사를 일탈하고 말았습니다…",
+   "reason": "前関=前回(지난번); 毎づいて=基づいて; 枚き活み=突き進み; 組織捜査 rendered as 권위 수사.",
+   "confidence": 0.87
+  },
+  {
+   "source_index": "0x00113c16",
+   "source_ja": "【真太郎】\\n例えばパパは\\n誰《だれ》もが知っているような往怡家や\\nあまり大声で名前を言えないような\\n大物節濃《おおものかんりょう》とも付き合いがある。",
+   "old_translation": "[타타로]\\n나이면 아빠는\\n모두가 알고 있는 정치가나\\n별로 큰 소리로 이름을 말할 수\\n없는\\n대물 단량과도 교제가 있다.",
+   "new_translation": "【타타로】\\n예를 들어 아버지는\\n누구나 아는 정치가나\\n큰 소리로 이름을 말하기 어려운\\n거물 관료와도 친분이 있어.",
+   "reason": "例えば=예를 들어 rendered as 나이면; 大物節濃=大物官僚(거물 관료), rendered as 대물 단량.",
+   "confidence": 0.9
+  },
+  {
+   "source_index": "0x00113cb1",
+   "source_ja": "【真太郎】\\n彼らは国の最前線で撮くが故《ゆえ》に\\n危険な仕事をする機会も多い。\\nときには法スレスレの行係を\\nとることもある。",
+   "old_translation": "[타타로]\\n아야등은 옥의 최전선으로 추악하지만\\n덫에\\n치고 일을 하는 기사도 많다. \\n 때에는 법 스레슬레의 행동을 \\n 취하는 일도 있다.",
+   "new_translation": "【타타로】\\n그들은 나라의 최전선에서 일하기에\\n위험한 일을 할 기회도 많아.\\n때로는 법에 아슬아슬한 행위를\\n하기도 하지.",
+   "reason": "彼ら=그들 rendered as 아야등; 国=나라 as 옥; 撮く=働く(일하다) as 추악하다; 機会=기회 as 기사; スレスレ=아슬아슬.",
+   "confidence": 0.88
+  },
+  {
+   "source_index": "0x0011f451",
+   "source_ja": "【のぞみ】\\n旦那《だんな》さんは亡くなってしまって、\\n彼女はもの有《すご》く屈《お》ち沽《こ》んでいたらしい\\nです。",
+   "old_translation": "[노조미]\\n단나 씨는 죽어 버려,\\n아야녀는 굉장히 살아 있던 것 같다\\n입니다.",
+   "new_translation": "【노조미】\\n남편분은 돌아가셔서,\\n그녀는 몹시 상심해 있었던 것\\n같아요.",
+   "reason": "屈ち沽んで=落ち込んで(상심하다) became 살아 있던 - the opposite; 旦那さん=남편분; 彼女=그녀.",
+   "confidence": 0.92
+  },
+  {
+   "source_index": "0x00123e35",
+   "source_ja": "【のぞみ】\\nでも、真実を知り、\\nさきに裏切ったのが母だったと知ると、\\n当恋の父の気持ちも、\\nなんとなくわかりました……",
+   "old_translation": "[노조미]\\n에서도, 진실을 알고,\\n사이에 용절한 것이 어머니였다고\\n알면,\\n당시의 아버지의 기분도,\\n어쩐지 알았습니다…",
+   "new_translation": "【노조미】\\n하지만 진실을 알고,\\n먼저 배신한 쪽이 어머니였다는 걸 알자,\\n당시 아버지의 마음도\\n어쩐지 이해가 됐어요……",
+   "reason": "裏切った=배신했다 rendered as 용절한; さきに=먼저 as 사이에; sentence-initial でも as 에서도. なんとなく rendered 어쩐지 rather than 어렴풋이 because 풋 has no glyph.",
+   "confidence": 0.92
+  },
+  {
+   "source_index": "0x0012af65",
+   "source_ja": "【七芝】\\nうんうん。\\n留置場の居心地って\\n意外とお金で左右できるんだよ。",
+   "old_translation": "[나시바]\\n 그래. \\n유치장의 아늑함은\\n의외로 돈으로 좌함 할 수 있어.",
+   "new_translation": "【나나시바】\\n응응.\\n유치장이 얼마나 지낼 만한지는\\n의외로 돈으로 좌우할 수 있어.",
+   "reason": "左右 rendered as 좌함. 七芝 read ななしば, so 나나시바 - the file spells it both ways and section 4 asks for consistency.",
+   "confidence": 0.9
+  },
+  {
+   "source_index": "0x0012ce9c",
+   "source_ja": "【七芝】\\nうん。\\n光志順にタバコを\\n止めさせたら勝ちって、\\nボクルールを倚めてるんだ。",
+   "old_translation": "[나시바]\\n 그래. \\n코우지강에 담배를\\n토양시키면 이기고,\\n복규를 결정하고 있어.",
+   "new_translation": "【나나시바】\\n응.\\n코우지 씨한테 담배를 끊게 하면\\n내가 이기는 걸로,\\n나름의 규칙을 정해 뒀어.",
+   "reason": "止めさせたら=끊게 하면 rendered as 토양시키면; ボクルール=자기 나름의 규칙 as 복규.",
+   "confidence": 0.87
+  },
+  {
+   "source_index": "0x0012f43b",
+   "source_ja": "【七芝】\\n調べてみたら、\\n心臓の提供者《ド　ナ　ー》の紅みと\\n同じ傾向《けいこう》だったとか。",
+   "old_translation": "[나시바]\\n조사해 보면,\\n심장의 제공자의 개미와\\n같은 경향이었다든가.",
+   "new_translation": "【나나시바】\\n조사해 봤더니,\\n심장 기증자의 취향과\\n같은 경향이었대.",
+   "reason": "紅み=好み(취향) rendered as 개미; 提供者=기증자 in a transplant context.",
+   "confidence": 0.88
+  },
+  {
+   "source_index": "0x0012f4b4",
+   "source_ja": "【七芝】\\nそういった例が、\\n他にいくつもあるらしいよ。",
+   "old_translation": "[나시바]\\n그런 나이가,\\n범에 몇개도 있는 것 같아.",
+   "new_translation": "【나나시바】\\n그런 사례가\\n그 밖에도 여러 건 있대.",
+   "reason": "例=사례 rendered as 나이; 他に=그 밖에 as 범에. 여럿 avoided because 럿 has no glyph.",
+   "confidence": 0.93
+  },
+  {
+   "source_index": "0x00130510",
+   "source_ja": "【七芝】\\n今日は日曜日だから\\n運係の恋付がないんだよ。\\n残念ながら、タバコは町えないね。",
+   "old_translation": "[나시바]\\n오늘은 일요일이니까\\n창동의 시간이 없어. \\n승차하면서, 담배는 먹을 수 없다.",
+   "new_translation": "【나나시바】\\n오늘은 일요일이라\\n반입 접수가 없어.\\n아쉽지만 담배는 살 수 없어.",
+   "reason": "恋付=受付(접수); 町えない=買えない(살 수 없다) rendered as 먹을 수 없다; 残念ながら=아쉽지만 as 승차하면서.",
+   "confidence": 0.83
+  },
+  {
+   "source_index": "0x00133ce4",
+   "source_ja": "【七芝】\\nちなみに、ボクを蠧調べしている\\n刑事が近藤って名前なんだけど、\\n彼もたまたま小説内に\\n刑事役で登場しているんだ。",
+   "old_translation": "[나나시바]\\n덧붙여서, 나를 취조하고 있는\\n형사가 콘도라는 이름이지만,\\n아야도 우연히 소설내에\\n형사 걸로 기장하고 있다.",
+   "new_translation": "【나나시바】\\n덧붙이자면, 나를 취조하는\\n형사가 콘도라는 이름인데,\\n그도 우연히 소설 속에\\n형사 역으로 등장해.",
+   "reason": "彼も=그도 rendered as 아야도; 登場=등장 as 기장; 刑事役=형사 역 as 형사 걸.",
+   "confidence": 0.93
+  },
+  {
+   "source_index": "0x00133f1a",
+   "source_ja": "【七芝】\\nああ。\\nそれはね……",
+   "old_translation": "[나시바]\\n 아. \\n그건...",
+   "new_translation": "【나나시바】\\n아.\\n그건 말이야……",
+   "reason": "Bracket and speaker name; ellipsis restored to the script's full-width form.",
+   "confidence": 0.9
+  },
+  {
+   "source_index": "0x001347ae",
+   "source_ja": "【七芝】\\nでも、一度は海外に行って、\\n日本と違《ちが》う文化に沢《ふ》れるのも\\n義くないと思うよ。",
+   "old_translation": "[나나시바]\\n에서도, 한 번은 현외에 가서,\\n일본과 다른 문화에 사로잡히는 것도\\n나쁘지 않다고 생각해.",
+   "new_translation": "【나나시바】\\n하지만 한 번쯤 해외에 나가서\\n일본과 다른 문화를 접해 보는 것도\\n나쁘지 않다고 생각해.",
+   "reason": "海外=해외 rendered as 현외; 沢れる=触れる(접하다) as 사로잡히다; sentence-initial でも as 에서도.",
+   "confidence": 0.93
+  },
+  {
+   "source_index": "0x00134c93",
+   "source_ja": "【七芝】\\nボク、間日で釈放《しゃくほう》予定だから。",
+   "old_translation": "[나시바]\\n나, 내일에 석방 예정이니까.",
+   "new_translation": "【나나시바】\\n나, 내일 석방 예정이거든.",
+   "reason": "Bracket, speaker name, and a more natural particle.",
+   "confidence": 0.92
+  },
+  {
+   "source_index": "0x00134d58",
+   "source_ja": "【七芝】\\nうん。\\n過疑不十分《けんぎふじゅうぶん》で\\n釈放《しゃくほう》って穢れだと思うよ。",
+   "old_translation": "[나시바]\\n 그래. \\n혐의 불충분하고\\n석방해 보낼 수 있다고 무거워.",
+   "new_translation": "【나나시바】\\n응.\\n혐의 불충분으로\\n석방되는 흐름일 거야.",
+   "reason": "穢れ=流れ(흐름) and 思う=생각하다 both lost - 무거워 comes from 思/重 confusion.",
+   "confidence": 0.85
+  },
+  {
+   "source_index": "0x00134e44",
+   "source_ja": "【七芝】\\nうん、言ったよ。\\nだけど昨日、蠧調べを受けて、\\nそのときにちょっと、上の人と\\n連絡《れんらく》をとってもらったんだ。",
+   "old_translation": "[나시바]\\n 그래, 말했어. \\n그러나 어제, 취조를 안고,\\n그 때에 조금, 위의 사람과\\n연락을 받았다.",
+   "new_translation": "【나나시바】\\n응, 말했어.\\n그런데 어제 취조를 받으면서\\n그때 잠깐 윗사람과\\n연락을 취해 달라고 했어.",
+   "reason": "取調べを受けて=취조를 받으면서 rendered as 취조를 안고; 連絡をとってもらった=연락을 취해 달라고 했다.",
+   "confidence": 0.88
+  },
+  {
+   "source_index": "0x0013e2ce",
+   "source_ja": "【勝代】\\nコウちゃん、言顔よ。\\n触れないで……",
+   "old_translation": "어머니]\\n코우짱, 봐요. \\n만지지 마세요......",
+   "new_translation": "【가쓰요】\\n코우짱, 안 돼.\\n만지지 마……",
+   "reason": "The speaker is 勝代, already spelled 가쓰요 elsewhere in the file; the earlier pass had replaced the tag with 어머니 and left a stray bracket.",
+   "confidence": 0.86
+  },
+  {
+   "source_index": "0x0013fda6",
+   "source_ja": "【退職】\\nどちらにせよ、\\nこのまま事件のタネを間かさないほうが、\\nこちらにとっては有訪ということだ。",
+   "old_translation": "[미우라]\\n어느 쪽이든,\\n이대로 사건의 씨앗을 밝히지 않는\\n편이,\\n이쪽에 있어서는 유리하다는 것이다.",
+   "new_translation": "【미우라】\\n어느 쪽이든,\\n이대로 사건의 실마리를 밝히지 않는 편이\\n우리 쪽에는 유리하다는 뜻이다.",
+   "reason": "Bracket restored; タネ here is the lead rather than a literal seed.",
+   "confidence": 0.9
+  },
+  {
+   "source_index": "0x00148df5",
+   "source_ja": "【退職】\\n彼がやったと自白している以上、\\n彼のアリバイを証間するような調査を\\n我々が行なう撃然性はない。",
+   "old_translation": "[미우라]\\n아야가 했다고 자백하고 있는 이상,\\n아야의 알리바이를 증명하는 것 같은\\n조사를\\n우리가 행할 필연성은 없다.",
+   "new_translation": "【미우라】\\n그가 했다고 자백한 이상,\\n그의 알리바이를 증명할 만한 조사를\\n우리가 할 필연성은 없다.",
+   "reason": "彼=그 was rendered as 아야 in both places.",
+   "confidence": 0.94
+  },
+  {
+   "source_index": "0x0014b73c",
+   "source_ja": "【光志】\\n（まるで犬《く》模《も》の巣のように\\n張《は》り尊《めぐ》らされていた、\\nこの事件の人付関係……）",
+   "old_translation": " \\n \\n(마치 거미줄처럼\\n이 사건의 인간관계가\\n얽히고설켜 있었지……)",
+   "new_translation": "【코우지】\\n(마치 거미줄처럼\\n얽히고설켜 있던,\\n이 사건의 인간관계……)",
+   "reason": "The speaker tag was lost entirely, leaving two blank lines.",
+   "confidence": 0.93
+  },
+  {
+   "source_index": "0x00153657",
+   "source_ja": "【吉本】\\n姉さんは入院によって、\\n勾留《こうりゅう》が静行停止《しっこうていし》になっているだけなんだから\\n退院したら留置場に戻《もど》らないと……",
+   "old_translation": "[요시모토]\\n누나는 입원으로 인해\\n구류 집행이 정지된 것뿐이니까,\\n퇴원하면 유치장으로 돌아가지\\n않으면 안 돼……",
+   "new_translation": "【요시모토】\\n언니는 입원으로\\n구류 집행이 정지된 것뿐이니까,\\n퇴원하면 유치장으로 돌아가야 해……",
+   "reason": "Bracket restored. 姉さん from a female speaker is 언니; the sentence also reads more naturally as 돌아가야 해.",
+   "confidence": 0.82
+  }
+ ]
+}

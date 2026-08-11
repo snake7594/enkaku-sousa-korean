@@ -1,0 +1,8780 @@
+[
+ {
+  "base": [
+   50,
+   34,
+   52
+  ],
+  "reading": "がひがいしゃ",
+  "count": 170
+ },
+ {
+  "base": [
+   356,
+   847
+  ],
+  "reading": "かしもん",
+  "count": 102
+ },
+ {
+  "base": [
+   168
+  ],
+  "reading": "おちが",
+  "count": 91
+ },
+ {
+  "base": [
+   119,
+   120
+  ],
+  "reading": "かしょうこ",
+  "count": 90
+ },
+ {
+  "base": [
+   678,
+   408
+  ],
+  "reading": "かじゅうせい",
+  "count": 85
+ },
+ {
+  "base": [
+   205
+  ],
+  "reading": "おだれ",
+  "count": 77
+ },
+ {
+  "base": [
+   389
+  ],
+  "reading": "おもど",
+  "count": 73
+ },
+ {
+  "base": [
+   647
+  ],
+  "reading": "およ",
+  "count": 71
+ },
+ {
+  "base": [
+   282
+  ],
+  "reading": "おこ",
+  "count": 70
+ },
+ {
+  "base": [
+   669,
+   759
+  ],
+  "reading": "かきおく",
+  "count": 60
+ },
+ {
+  "base": [
+   75
+  ],
+  "reading": "おたの",
+  "count": 56
+ },
+ {
+  "base": [
+   554,
+   150
+  ],
+  "reading": "かじんもん",
+  "count": 54
+ },
+ {
+  "base": [
+   855,
+   678
+  ],
+  "reading": "かけんじゅう",
+  "count": 48
+ },
+ {
+  "base": [
+   50,
+   51,
+   52
+  ],
+  "reading": "がひぎしゃ",
+  "count": 45
+ },
+ {
+  "base": [
+   732,
+   615
+  ],
+  "reading": "かしゃくほう",
+  "count": 44
+ },
+ {
+  "base": [
+   76,
+   287,
+   288
+  ],
+  "reading": "がだいじょうぶ",
+  "count": 42
+ },
+ {
+  "base": [
+   57,
+   427
+  ],
+  "reading": "かいっしょ",
+  "count": 40
+ },
+ {
+  "base": [
+   586
+  ],
+  "reading": "おかぎ",
+  "count": 38
+ },
+ {
+  "base": [
+   418,
+   150,
+   88,
+   89,
+   90
+  ],
+  "reading": "ぎこもんべんごし",
+  "count": 37
+ },
+ {
+  "base": [
+   574
+  ],
+  "reading": "おひび",
+  "count": 34
+ },
+ {
+  "base": [
+   525
+  ],
+  "reading": "おつ",
+  "count": 33
+ },
+ {
+  "base": [
+   636,
+   637
+  ],
+  "reading": "かししょう",
+  "count": 32
+ },
+ {
+  "base": [
+   762,
+   179
+  ],
+  "reading": "かたいほ",
+  "count": 31
+ },
+ {
+  "base": [
+   138
+  ],
+  "reading": "おうかが",
+  "count": 28
+ },
+ {
+  "base": [
+   238
+  ],
+  "reading": "おいそが",
+  "count": 28
+ },
+ {
+  "base": [
+   328
+  ],
+  "reading": "おあや",
+  "count": 28
+ },
+ {
+  "base": [
+   677
+  ],
+  "reading": "おな",
+  "count": 27
+ },
+ {
+  "base": [
+   73,
+   321
+  ],
+  "reading": "かめいし",
+  "count": 26
+ },
+ {
+  "base": [
+   72
+  ],
+  "reading": "おか",
+  "count": 25
+ },
+ {
+  "base": [
+   573
+  ],
+  "reading": "おかげ",
+  "count": 25
+ },
+ {
+  "base": [
+   15
+  ],
+  "reading": "おと",
+  "count": 24
+ },
+ {
+  "base": [
+   404,
+   375
+  ],
+  "reading": "かもくげき",
+  "count": 22
+ },
+ {
+  "base": [
+   479,
+   372
+  ],
+  "reading": "かりょうかい",
+  "count": 22
+ },
+ {
+  "base": [
+   696
+  ],
+  "reading": "おき",
+  "count": 22
+ },
+ {
+  "base": [
+   911
+  ],
+  "reading": "おそ",
+  "count": 22
+ },
+ {
+  "base": [
+   473,
+   474
+  ],
+  "reading": "かぐうぜん",
+  "count": 21
+ },
+ {
+  "base": [
+   577
+  ],
+  "reading": "おかく",
+  "count": 21
+ },
+ {
+  "base": [
+   603
+  ],
+  "reading": "おこわ",
+  "count": 21
+ },
+ {
+  "base": [
+   280,
+   168
+  ],
+  "reading": "かまちが",
+  "count": 21
+ },
+ {
+  "base": [
+   413
+  ],
+  "reading": "おわた",
+  "count": 20
+ },
+ {
+  "base": [
+   145,
+   484
+  ],
+  "reading": "かせんぱい",
+  "count": 20
+ },
+ {
+  "base": [
+   523
+  ],
+  "reading": "おうら",
+  "count": 19
+ },
+ {
+  "base": [
+   546,
+   51,
+   52
+  ],
+  "reading": "がようぎしゃ",
+  "count": 19
+ },
+ {
+  "base": [
+   852
+  ],
+  "reading": "おふ",
+  "count": 19
+ },
+ {
+  "base": [
+   239
+  ],
+  "reading": "おつか",
+  "count": 18
+ },
+ {
+  "base": [
+   592
+  ],
+  "reading": "おとびら",
+  "count": 18
+ },
+ {
+  "base": [
+   218
+  ],
+  "reading": "おひ",
+  "count": 17
+ },
+ {
+  "base": [
+   460
+  ],
+  "reading": "おむすめ",
+  "count": 17
+ },
+ {
+  "base": [
+   472
+  ],
+  "reading": "おころ",
+  "count": 17
+ },
+ {
+  "base": [
+   528
+  ],
+  "reading": "おおどろ",
+  "count": 17
+ },
+ {
+  "base": [
+   93,
+   804
+  ],
+  "reading": "かふりん",
+  "count": 17
+ },
+ {
+  "base": [
+   846,
+   489
+  ],
+  "reading": "かきょうき",
+  "count": 17
+ },
+ {
+  "base": [
+   413,
+   938
+  ],
+  "reading": "かとおう",
+  "count": 17
+ },
+ {
+  "base": [
+   343
+  ],
+  "reading": "おかか",
+  "count": 16
+ },
+ {
+  "base": [
+   511
+  ],
+  "reading": "おこ",
+  "count": 16
+ },
+ {
+  "base": [
+   900
+  ],
+  "reading": "おふ",
+  "count": 16
+ },
+ {
+  "base": [
+   1275
+  ],
+  "reading": "おろ",
+  "count": 16
+ },
+ {
+  "base": [
+   179
+  ],
+  "reading": "おつか",
+  "count": 15
+ },
+ {
+  "base": [
+   344,
+   448
+  ],
+  "reading": "かれんらく",
+  "count": 15
+ },
+ {
+  "base": [
+   570
+  ],
+  "reading": "おつ",
+  "count": 15
+ },
+ {
+  "base": [
+   417,
+   77,
+   118
+  ],
+  "reading": "がぐたいてき",
+  "count": 15
+ },
+ {
+  "base": [
+   656,
+   657
+  ],
+  "reading": "かこうりゅう",
+  "count": 15
+ },
+ {
+  "base": [
+   679
+  ],
+  "reading": "おか",
+  "count": 15
+ },
+ {
+  "base": [
+   689
+  ],
+  "reading": "おくず",
+  "count": 15
+ },
+ {
+  "base": [
+   583,
+   320
+  ],
+  "reading": "かかくご",
+  "count": 15
+ },
+ {
+  "base": [
+   260,
+   261
+  ],
+  "reading": "かきぎょう",
+  "count": 14
+ },
+ {
+  "base": [
+   290
+  ],
+  "reading": "おあた",
+  "count": 14
+ },
+ {
+  "base": [
+   546,
+   51
+  ],
+  "reading": "かようぎ",
+  "count": 14
+ },
+ {
+  "base": [
+   634,
+   233
+  ],
+  "reading": "かそうさ",
+  "count": 14
+ },
+ {
+  "base": [
+   770,
+   163
+  ],
+  "reading": "かふつう",
+  "count": 14
+ },
+ {
+  "base": [
+   276
+  ],
+  "reading": "おう",
+  "count": 13
+ },
+ {
+  "base": [
+   277
+  ],
+  "reading": "おつ",
+  "count": 13
+ },
+ {
+  "base": [
+   797,
+   310
+  ],
+  "reading": "かじょうだん",
+  "count": 13
+ },
+ {
+  "base": [
+   814,
+   815
+  ],
+  "reading": "かじょうきょう",
+  "count": 13
+ },
+ {
+  "base": [
+   175
+  ],
+  "reading": "おぬ",
+  "count": 12
+ },
+ {
+  "base": [
+   222
+  ],
+  "reading": "おだま",
+  "count": 12
+ },
+ {
+  "base": [
+   395,
+   396
+  ],
+  "reading": "かあいさつ",
+  "count": 12
+ },
+ {
+  "base": [
+   327,
+   472
+  ],
+  "reading": "おごろ",
+  "count": 12
+ },
+ {
+  "base": [
+   552,
+   553,
+   118
+  ],
+  "reading": "がくつじょくてき",
+  "count": 12
+ },
+ {
+  "base": [
+   604
+  ],
+  "reading": "おたが",
+  "count": 12
+ },
+ {
+  "base": [
+   648,
+   649
+  ],
+  "reading": "かきれい",
+  "count": 12
+ },
+ {
+  "base": [
+   336,
+   748
+  ],
+  "reading": "かけしょう",
+  "count": 12
+ },
+ {
+  "base": [
+   75
+  ],
+  "reading": "おたよ",
+  "count": 12
+ },
+ {
+  "base": [
+   795
+  ],
+  "reading": "おくわ",
+  "count": 12
+ },
+ {
+  "base": [
+   626,
+   369
+  ],
+  "reading": "かさいこん",
+  "count": 12
+ },
+ {
+  "base": [
+   119,
+   120,
+   955
+  ],
+  "reading": "がしょうこひん",
+  "count": 12
+ },
+ {
+  "base": [
+   222,
+   977
+  ],
+  "reading": "かもくひ",
+  "count": 12
+ },
+ {
+  "base": [
+   323
+  ],
+  "reading": "おあこが",
+  "count": 11
+ },
+ {
+  "base": [
+   210
+  ],
+  "reading": "おき",
+  "count": 11
+ },
+ {
+  "base": [
+   755
+  ],
+  "reading": "おにぎ",
+  "count": 11
+ },
+ {
+  "base": [
+   98
+  ],
+  "reading": "おき",
+  "count": 11
+ },
+ {
+  "base": [
+   853
+  ],
+  "reading": "おあと",
+  "count": 11
+ },
+ {
+  "base": [
+   857,
+   858
+  ],
+  "reading": "かむじゅん",
+  "count": 11
+ },
+ {
+  "base": [
+   1007
+  ],
+  "reading": "おも",
+  "count": 11
+ },
+ {
+  "base": [
+   3
+  ],
+  "reading": "おい",
+  "count": 10
+ },
+ {
+  "base": [
+   294,
+   129
+  ],
+  "reading": "かしょうち",
+  "count": 10
+ },
+ {
+  "base": [
+   424
+  ],
+  "reading": "おあつか",
+  "count": 10
+ },
+ {
+  "base": [
+   425,
+   53
+  ],
+  "reading": "かこいびと",
+  "count": 10
+ },
+ {
+  "base": [
+   275
+  ],
+  "reading": "おま",
+  "count": 10
+ },
+ {
+  "base": [
+   481
+  ],
+  "reading": "おぎら",
+  "count": 10
+ },
+ {
+  "base": [
+   174,
+   75
+  ],
+  "reading": "かしんらい",
+  "count": 10
+ },
+ {
+  "base": [
+   634
+  ],
+  "reading": "おさが",
+  "count": 10
+ },
+ {
+  "base": [
+   698
+  ],
+  "reading": "おかた",
+  "count": 10
+ },
+ {
+  "base": [
+   805,
+   411
+  ],
+  "reading": "かしんちょう",
+  "count": 10
+ },
+ {
+  "base": [
+   347,
+   332
+  ],
+  "reading": "かせいぎょ",
+  "count": 10
+ },
+ {
+  "base": [
+   385
+  ],
+  "reading": "おうで",
+  "count": 10
+ },
+ {
+  "base": [
+   958
+  ],
+  "reading": "おつ",
+  "count": 10
+ },
+ {
+  "base": [
+   1009
+  ],
+  "reading": "おしぼ",
+  "count": 10
+ },
+ {
+  "base": [
+   990
+  ],
+  "reading": "おに",
+  "count": 10
+ },
+ {
+  "base": [
+   656,
+   657,
+   600,
+   280
+  ],
+  "reading": "きこうりゅうきかん",
+  "count": 10
+ },
+ {
+  "base": [
+   194
+  ],
+  "reading": "おおそ",
+  "count": 9
+ },
+ {
+  "base": [
+   153
+  ],
+  "reading": "おき",
+  "count": 9
+ },
+ {
+  "base": [
+   362,
+   363
+  ],
+  "reading": "かしょうかい",
+  "count": 9
+ },
+ {
+  "base": [
+   380,
+   120
+  ],
+  "reading": "かこんきょ",
+  "count": 9
+ },
+ {
+  "base": [
+   401
+  ],
+  "reading": "おお",
+  "count": 9
+ },
+ {
+  "base": [
+   796
+  ],
+  "reading": "おわずら",
+  "count": 9
+ },
+ {
+  "base": [
+   573,
+   574
+  ],
+  "reading": "かえいきょう",
+  "count": 9
+ },
+ {
+  "base": [
+   404,
+   375,
+   119,
+   58
+  ],
+  "reading": "きもくげきしょうげん",
+  "count": 9
+ },
+ {
+  "base": [
+   911
+  ],
+  "reading": "おうった",
+  "count": 9
+ },
+ {
+  "base": [
+   1011
+  ],
+  "reading": "おおど",
+  "count": 9
+ },
+ {
+  "base": [
+   53,
+   634
+  ],
+  "reading": "かひとさが",
+  "count": 9
+ },
+ {
+  "base": [
+   140,
+   141
+  ],
+  "reading": "かはんい",
+  "count": 8
+ },
+ {
+  "base": [
+   181,
+   182
+  ],
+  "reading": "かだんな",
+  "count": 8
+ },
+ {
+  "base": [
+   142,
+   369
+  ],
+  "reading": "かけっこん",
+  "count": 8
+ },
+ {
+  "base": [
+   510
+  ],
+  "reading": "おの",
+  "count": 8
+ },
+ {
+  "base": [
+   481
+  ],
+  "reading": "おきら",
+  "count": 8
+ },
+ {
+  "base": [
+   662
+  ],
+  "reading": "おするど",
+  "count": 8
+ },
+ {
+  "base": [
+   711
+  ],
+  "reading": "おさけ",
+  "count": 8
+ },
+ {
+  "base": [
+   739
+  ],
+  "reading": "おふく",
+  "count": 8
+ },
+ {
+  "base": [
+   809
+  ],
+  "reading": "おぬ",
+  "count": 8
+ },
+ {
+  "base": [
+   810
+  ],
+  "reading": "おぎぬ",
+  "count": 8
+ },
+ {
+  "base": [
+   280
+  ],
+  "reading": "おま",
+  "count": 8
+ },
+ {
+  "base": [
+   1042,
+   1043
+  ],
+  "reading": "かめいわく",
+  "count": 8
+ },
+ {
+  "base": [
+   1187
+  ],
+  "reading": "おえら",
+  "count": 8
+ },
+ {
+  "base": [
+   137,
+   102
+  ],
+  "reading": "かただいま",
+  "count": 7
+ },
+ {
+  "base": [
+   216
+  ],
+  "reading": "おぜ",
+  "count": 7
+ },
+ {
+  "base": [
+   217
+  ],
+  "reading": "おひ",
+  "count": 7
+ },
+ {
+  "base": [
+   0,
+   370
+  ],
+  "reading": "かしんきょ",
+  "count": 7
+ },
+ {
+  "base": [
+   428,
+   472
+  ],
+  "reading": "おごろ",
+  "count": 7
+ },
+ {
+  "base": [
+   515,
+   209
+  ],
+  "reading": "かとちゅう",
+  "count": 7
+ },
+ {
+  "base": [
+   21,
+   22
+  ],
+  "reading": "かあのひと",
+  "count": 7
+ },
+ {
+  "base": [
+   446
+  ],
+  "reading": "おこわ",
+  "count": 7
+ },
+ {
+  "base": [
+   57,
+   435
+  ],
+  "reading": "かいっち",
+  "count": 7
+ },
+ {
+  "base": [
+   645,
+   646
+  ],
+  "reading": "かじゃま",
+  "count": 7
+ },
+ {
+  "base": [
+   712
+  ],
+  "reading": "おくや",
+  "count": 7
+ },
+ {
+  "base": [
+   57,
+   390,
+   729,
+   730
+  ],
+  "reading": "きいっしょうけんめい",
+  "count": 7
+ },
+ {
+  "base": [
+   168,
+   39
+  ],
+  "reading": "かいほう",
+  "count": 7
+ },
+ {
+  "base": [
+   843,
+   844
+  ],
+  "reading": "かびみょう",
+  "count": 7
+ },
+ {
+  "base": [
+   678
+  ],
+  "reading": "おじゅう",
+  "count": 7
+ },
+ {
+  "base": [
+   932,
+   754,
+   590,
+   316,
+   4,
+   784
+  ],
+  "reading": "くじんぞういしょくしゅじゅつ",
+  "count": 7
+ },
+ {
+  "base": [
+   558
+  ],
+  "reading": "おお",
+  "count": 7
+ },
+ {
+  "base": [
+   992
+  ],
+  "reading": "おおこ",
+  "count": 7
+ },
+ {
+  "base": [
+   1002
+  ],
+  "reading": "おさい",
+  "count": 7
+ },
+ {
+  "base": [
+   1039
+  ],
+  "reading": "おなつ",
+  "count": 7
+ },
+ {
+  "base": [
+   86
+  ],
+  "reading": "おたお",
+  "count": 7
+ },
+ {
+  "base": [
+   656,
+   657,
+   1062,
+   383
+  ],
+  "reading": "きこうりゅうえんちょう",
+  "count": 7
+ },
+ {
+  "base": [
+   1218
+  ],
+  "reading": "おおご",
+  "count": 7
+ },
+ {
+  "base": [
+   135,
+   136
+  ],
+  "reading": "かおくさま",
+  "count": 6
+ },
+ {
+  "base": [
+   171,
+   172
+  ],
+  "reading": "かはいりょ",
+  "count": 6
+ },
+ {
+  "base": [
+   284
+  ],
+  "reading": "おふん",
+  "count": 6
+ },
+ {
+  "base": [
+   141
+  ],
+  "reading": "おい",
+  "count": 6
+ },
+ {
+  "base": [
+   168,
+   539,
+   242
+  ],
+  "reading": "がいわかん",
+  "count": 6
+ },
+ {
+  "base": [
+   616
+  ],
+  "reading": "おか",
+  "count": 6
+ },
+ {
+  "base": [
+   650
+  ],
+  "reading": "おすみ",
+  "count": 6
+ },
+ {
+  "base": [
+   652
+  ],
+  "reading": "おなや",
+  "count": 6
+ },
+ {
+  "base": [
+   57,
+   181
+  ],
+  "reading": "かいったん",
+  "count": 6
+ },
+ {
+  "base": [
+   408
+  ],
+  "reading": "おごえ",
+  "count": 6
+ },
+ {
+  "base": [
+   57,
+   697
+  ],
+  "reading": "かいっしゅん",
+  "count": 6
+ },
+ {
+  "base": [
+   828
+  ],
+  "reading": "おいの",
+  "count": 6
+ },
+ {
+  "base": [
+   252
+  ],
+  "reading": "おえん",
+  "count": 6
+ },
+ {
+  "base": [
+   80
+  ],
+  "reading": "おみ",
+  "count": 6
+ },
+ {
+  "base": [
+   869
+  ],
+  "reading": "おあま",
+  "count": 6
+ },
+ {
+  "base": [
+   893,
+   894
+  ],
+  "reading": "かついきゅう",
+  "count": 6
+ },
+ {
+  "base": [
+   333,
+   901
+  ],
+  "reading": "かがまん",
+  "count": 6
+ },
+ {
+  "base": [
+   948
+  ],
+  "reading": "おふ",
+  "count": 6
+ },
+ {
+  "base": [
+   950
+  ],
+  "reading": "おね",
+  "count": 6
+ },
+ {
+  "base": [
+   660,
+   75
+  ],
+  "reading": "かいらい",
+  "count": 6
+ },
+ {
+  "base": [
+   508,
+   605
+  ],
+  "reading": "かめんしき",
+  "count": 6
+ },
+ {
+  "base": [
+   1000
+  ],
+  "reading": "おつか",
+  "count": 6
+ },
+ {
+  "base": [
+   1016
+  ],
+  "reading": "おそろ",
+  "count": 6
+ },
+ {
+  "base": [
+   8,
+   1029
+  ],
+  "reading": "かはっぽう",
+  "count": 6
+ },
+ {
+  "base": [
+   162
+  ],
+  "reading": "おと",
+  "count": 6
+ },
+ {
+  "base": [
+   176,
+   1092
+  ],
+  "reading": "かせんせい",
+  "count": 6
+ },
+ {
+  "base": [
+   1093
+  ],
+  "reading": "おう",
+  "count": 6
+ },
+ {
+  "base": [
+   690,
+   28
+  ],
+  "reading": "かけいじ",
+  "count": 6
+ },
+ {
+  "base": [
+   990
+  ],
+  "reading": "おのが",
+  "count": 6
+ },
+ {
+  "base": [
+   1179
+  ],
+  "reading": "おにく",
+  "count": 6
+ },
+ {
+  "base": [
+   220
+  ],
+  "reading": "おつか",
+  "count": 5
+ },
+ {
+  "base": [
+   263
+  ],
+  "reading": "おし",
+  "count": 5
+ },
+ {
+  "base": [
+   354,
+   367
+  ],
+  "reading": "かすてき",
+  "count": 5
+ },
+ {
+  "base": [
+   394,
+   88
+  ],
+  "reading": "かかんべん",
+  "count": 5
+ },
+ {
+  "base": [
+   418,
+   116,
+   1,
+   2
+  ],
+  "reading": "きこきゃくじょうほう",
+  "count": 5
+ },
+ {
+  "base": [
+   435
+  ],
+  "reading": "おいた",
+  "count": 5
+ },
+ {
+  "base": [
+   456
+  ],
+  "reading": "おうわさ",
+  "count": 5
+ },
+ {
+  "base": [
+   538,
+   172
+  ],
+  "reading": "かえんりょ",
+  "count": 5
+ },
+ {
+  "base": [
+   540
+  ],
+  "reading": "おさそ",
+  "count": 5
+ },
+ {
+  "base": [
+   360,
+   555
+  ],
+  "reading": "かかくとう",
+  "count": 5
+ },
+ {
+  "base": [
+   591
+  ],
+  "reading": "おしの",
+  "count": 5
+ },
+ {
+  "base": [
+   599,
+   55
+  ],
+  "reading": "かしゅみ",
+  "count": 5
+ },
+ {
+  "base": [
+   611
+  ],
+  "reading": "おゆず",
+  "count": 5
+ },
+ {
+  "base": [
+   343
+  ],
+  "reading": "おいだ",
+  "count": 5
+ },
+ {
+  "base": [
+   629
+  ],
+  "reading": "おむね",
+  "count": 5
+ },
+ {
+  "base": [
+   26,
+   27
+  ],
+  "reading": "かたんてい",
+  "count": 5
+ },
+ {
+  "base": [
+   625
+  ],
+  "reading": "おこ",
+  "count": 5
+ },
+ {
+  "base": [
+   485
+  ],
+  "reading": "おじ",
+  "count": 5
+ },
+ {
+  "base": [
+   758
+  ],
+  "reading": "およご",
+  "count": 5
+ },
+ {
+  "base": [
+   799
+  ],
+  "reading": "おねむ",
+  "count": 5
+ },
+ {
+  "base": [
+   851
+  ],
+  "reading": "おと",
+  "count": 5
+ },
+ {
+  "base": [
+   873,
+   874
+  ],
+  "reading": "かそうじ",
+  "count": 5
+ },
+ {
+  "base": [
+   819
+  ],
+  "reading": "おうす",
+  "count": 5
+ },
+ {
+  "base": [
+   897
+  ],
+  "reading": "おひか",
+  "count": 5
+ },
+ {
+  "base": [
+   39,
+   923,
+   609
+  ],
+  "reading": "がほうそうかい",
+  "count": 5
+ },
+ {
+  "base": [
+   57,
+   404
+  ],
+  "reading": "かひとめ",
+  "count": 5
+ },
+ {
+  "base": [
+   734
+  ],
+  "reading": "おぼ",
+  "count": 5
+ },
+ {
+  "base": [
+   932,
+   754
+  ],
+  "reading": "かじんぞう",
+  "count": 5
+ },
+ {
+  "base": [
+   614
+  ],
+  "reading": "おそ",
+  "count": 5
+ },
+ {
+  "base": [
+   549
+  ],
+  "reading": "おかえ",
+  "count": 5
+ },
+ {
+  "base": [
+   524,
+   73
+  ],
+  "reading": "かぎめい",
+  "count": 5
+ },
+ {
+  "base": [
+   960,
+   542
+  ],
+  "reading": "かせいきゅう",
+  "count": 5
+ },
+ {
+  "base": [
+   382,
+   1008,
+   118
+  ],
+  "reading": "がいとてき",
+  "count": 5
+ },
+ {
+  "base": [
+   660,
+   183
+  ],
+  "reading": "かいぞん",
+  "count": 5
+ },
+ {
+  "base": [
+   758,
+   496
+  ],
+  "reading": "かおてん",
+  "count": 5
+ },
+ {
+  "base": [
+   1079
+  ],
+  "reading": "おさび",
+  "count": 5
+ },
+ {
+  "base": [
+   1130
+  ],
+  "reading": "おすす",
+  "count": 5
+ },
+ {
+  "base": [
+   893
+  ],
+  "reading": "おお",
+  "count": 5
+ },
+ {
+  "base": [
+   93,
+   1160,
+   28
+  ],
+  "reading": "がふしょうじ",
+  "count": 5
+ },
+ {
+  "base": [
+   762,
+   179,
+   814
+  ],
+  "reading": "がたいほじょう",
+  "count": 5
+ },
+ {
+  "base": [
+   8,
+   1029,
+   676
+  ],
+  "reading": "がはっぽうおん",
+  "count": 5
+ },
+ {
+  "base": [
+   278
+  ],
+  "reading": "おふ",
+  "count": 4
+ },
+ {
+  "base": [
+   371
+  ],
+  "reading": "おなぞ",
+  "count": 4
+ },
+ {
+  "base": [
+   417,
+   77,
+   336
+  ],
+  "reading": "がぐたいか",
+  "count": 4
+ },
+ {
+  "base": [
+   297
+  ],
+  "reading": "およ",
+  "count": 4
+ },
+ {
+  "base": [
+   535,
+   536
+  ],
+  "reading": "かていこう",
+  "count": 4
+ },
+ {
+  "base": [
+   552,
+   553
+  ],
+  "reading": "かくつじょく",
+  "count": 4
+ },
+ {
+  "base": [
+   344,
+   448,
+   145
+  ],
+  "reading": "がれんらくさき",
+  "count": 4
+ },
+ {
+  "base": [
+   153,
+   220
+  ],
+  "reading": "かきづか",
+  "count": 4
+ },
+ {
+  "base": [
+   674
+  ],
+  "reading": "おあ",
+  "count": 4
+ },
+ {
+  "base": [
+   687
+  ],
+  "reading": "おほどこ",
+  "count": 4
+ },
+ {
+  "base": [
+   746
+  ],
+  "reading": "おつぶ",
+  "count": 4
+ },
+ {
+  "base": [
+   747
+  ],
+  "reading": "おめぐ",
+  "count": 4
+ },
+ {
+  "base": [
+   770,
+   341
+  ],
+  "reading": "かふだん",
+  "count": 4
+ },
+ {
+  "base": [
+   508,
+   86
+  ],
+  "reading": "かめんどう",
+  "count": 4
+ },
+ {
+  "base": [
+   425,
+   771
+  ],
+  "reading": "かれんあい",
+  "count": 4
+ },
+ {
+  "base": [
+   848
+  ],
+  "reading": "おお",
+  "count": 4
+ },
+ {
+  "base": [
+   298,
+   853
+  ],
+  "reading": "かけいせき",
+  "count": 4
+ },
+ {
+  "base": [
+   872
+  ],
+  "reading": "おほこり",
+  "count": 4
+ },
+ {
+  "base": [
+   219,
+   906
+  ],
+  "reading": "かけいい",
+  "count": 4
+ },
+ {
+  "base": [
+   627,
+   425
+  ],
+  "reading": "かはつこい",
+  "count": 4
+ },
+ {
+  "base": [
+   940,
+   252
+  ],
+  "reading": "かいんねん",
+  "count": 4
+ },
+ {
+  "base": [
+   796,
+   52
+  ],
+  "reading": "かかんじゃ",
+  "count": 4
+ },
+ {
+  "base": [
+   93,
+   967
+  ],
+  "reading": "かふしん",
+  "count": 4
+ },
+ {
+  "base": [
+   324,
+   427
+  ],
+  "reading": "かないしょ",
+  "count": 4
+ },
+ {
+  "base": [
+   1001
+  ],
+  "reading": "おねら",
+  "count": 4
+ },
+ {
+  "base": [
+   1004
+  ],
+  "reading": "おせま",
+  "count": 4
+ },
+ {
+  "base": [
+   1010,
+   236
+  ],
+  "reading": "かふんしつ",
+  "count": 4
+ },
+ {
+  "base": [
+   2
+  ],
+  "reading": "おむく",
+  "count": 4
+ },
+ {
+  "base": [
+   682,
+   176
+  ],
+  "reading": "かせっきょう",
+  "count": 4
+ },
+ {
+  "base": [
+   394,
+   168
+  ],
+  "reading": "かかんちが",
+  "count": 4
+ },
+ {
+  "base": [
+   1027
+  ],
+  "reading": "おね",
+  "count": 4
+ },
+ {
+  "base": [
+   521,
+   1078
+  ],
+  "reading": "かよゆう",
+  "count": 4
+ },
+ {
+  "base": [
+   1081,
+   13
+  ],
+  "reading": "かえんざい",
+  "count": 4
+ },
+ {
+  "base": [
+   1086
+  ],
+  "reading": "おも",
+  "count": 4
+ },
+ {
+  "base": [
+   850
+  ],
+  "reading": "おけ",
+  "count": 4
+ },
+ {
+  "base": [
+   1055
+  ],
+  "reading": "おす",
+  "count": 4
+ },
+ {
+  "base": [
+   256,
+   1114
+  ],
+  "reading": "かどうよう",
+  "count": 4
+ },
+ {
+  "base": [
+   152,
+   580
+  ],
+  "reading": "かこうい",
+  "count": 4
+ },
+ {
+  "base": [
+   93,
+   79,
+   762,
+   179
+  ],
+  "reading": "きふとうたいほ",
+  "count": 4
+ },
+ {
+  "base": [
+   782,
+   377
+  ],
+  "reading": "かちゅうこく",
+  "count": 4
+ },
+ {
+  "base": [
+   1172
+  ],
+  "reading": "おねこ",
+  "count": 4
+ },
+ {
+  "base": [
+   1223,
+   270
+  ],
+  "reading": "かひんぱん",
+  "count": 4
+ },
+ {
+  "base": [
+   1227,
+   474
+  ],
+  "reading": "かがくぜん",
+  "count": 4
+ },
+ {
+  "base": [
+   690,
+   28,
+   28,
+   104
+  ],
+  "reading": "きけいじじけん",
+  "count": 4
+ },
+ {
+  "base": [
+   1231
+  ],
+  "reading": "おほ",
+  "count": 4
+ },
+ {
+  "base": [
+   57,
+   404,
+   734
+  ],
+  "reading": "がひとめぼ",
+  "count": 4
+ },
+ {
+  "base": [
+   161,
+   1279
+  ],
+  "reading": "かきんえん",
+  "count": 4
+ },
+ {
+  "base": [
+   165
+  ],
+  "reading": "おぶつ",
+  "count": 4
+ },
+ {
+  "base": [
+   1281,
+   953,
+   13
+  ],
+  "reading": "がはんぷざい",
+  "count": 4
+ },
+ {
+  "base": [
+   85,
+   86
+  ],
+  "reading": "かあっとう",
+  "count": 3
+ },
+ {
+  "base": [
+   211
+  ],
+  "reading": "おかたき",
+  "count": 3
+ },
+ {
+  "base": [
+   299,
+   0
+  ],
+  "reading": "かざんしん",
+  "count": 3
+ },
+ {
+  "base": [
+   462,
+   463
+  ],
+  "reading": "かかんきょう",
+  "count": 3
+ },
+ {
+  "base": [
+   248,
+   455,
+   99,
+   466
+  ],
+  "reading": "きやくいんたいぐう",
+  "count": 3
+ },
+ {
+  "base": [
+   312,
+   428,
+   472
+  ],
+  "reading": "おごろ",
+  "count": 3
+ },
+ {
+  "base": [
+   527
+  ],
+  "reading": "おうつ",
+  "count": 3
+ },
+ {
+  "base": [
+   575,
+   300
+  ],
+  "reading": "かきゃっか",
+  "count": 3
+ },
+ {
+  "base": [
+   84
+  ],
+  "reading": "おも",
+  "count": 3
+ },
+ {
+  "base": [
+   655
+  ],
+  "reading": "おむか",
+  "count": 3
+ },
+ {
+  "base": [
+   666,
+   170,
+   667,
+   563
+  ],
+  "reading": "きみやかみぎんざ",
+  "count": 3
+ },
+ {
+  "base": [
+   697,
+   280
+  ],
+  "reading": "かしゅんかん",
+  "count": 3
+ },
+ {
+  "base": [
+   345,
+   708
+  ],
+  "reading": "かけいたい",
+  "count": 3
+ },
+ {
+  "base": [
+   372,
+   750
+  ],
+  "reading": "かかいこ",
+  "count": 3
+ },
+ {
+  "base": [
+   751,
+   690
+  ],
+  "reading": "かしけい",
+  "count": 3
+ },
+ {
+  "base": [
+   122,
+   773
+  ],
+  "reading": "かしんけん",
+  "count": 3
+ },
+ {
+  "base": [
+   7,
+   472
+  ],
+  "reading": "おごろ",
+  "count": 3
+ },
+ {
+  "base": [
+   93,
+   804,
+   78,
+   4
+  ],
+  "reading": "きふりんあいて",
+  "count": 3
+ },
+ {
+  "base": [
+   806
+  ],
+  "reading": "おふ",
+  "count": 3
+ },
+ {
+  "base": [
+   20,
+   484
+  ],
+  "reading": "かこうはい",
+  "count": 3
+ },
+ {
+  "base": [
+   816,
+   242
+  ],
+  "reading": "かどんかん",
+  "count": 3
+ },
+ {
+  "base": [
+   834
+  ],
+  "reading": "おい",
+  "count": 3
+ },
+ {
+  "base": [
+   520,
+   573
+  ],
+  "reading": "かさつえい",
+  "count": 3
+ },
+ {
+  "base": [
+   4,
+   856
+  ],
+  "reading": "かてぶくろ",
+  "count": 3
+ },
+ {
+  "base": [
+   404,
+   375,
+   52
+  ],
+  "reading": "がもくげきしゃ",
+  "count": 3
+ },
+ {
+  "base": [
+   7,
+   875
+  ],
+  "reading": "かねんれい",
+  "count": 3
+ },
+ {
+  "base": [
+   273,
+   291,
+   3,
+   131,
+   386,
+   66
+  ],
+  "reading": "くがいぶにゅうりょくたんし",
+  "count": 3
+ },
+ {
+  "base": [
+   356,
+   882
+  ],
+  "reading": "かしてき",
+  "count": 3
+ },
+ {
+  "base": [
+   520
+  ],
+  "reading": "おと",
+  "count": 3
+ },
+ {
+  "base": [
+   201,
+   908
+  ],
+  "reading": "かゆうしゅう",
+  "count": 3
+ },
+ {
+  "base": [
+   919
+  ],
+  "reading": "おこ",
+  "count": 3
+ },
+ {
+  "base": [
+   920
+  ],
+  "reading": "おわ",
+  "count": 3
+ },
+ {
+  "base": [
+   418
+  ],
+  "reading": "おかえり",
+  "count": 3
+ },
+ {
+  "base": [
+   750
+  ],
+  "reading": "おやと",
+  "count": 3
+ },
+ {
+  "base": [
+   448
+  ],
+  "reading": "おから",
+  "count": 3
+ },
+ {
+  "base": [
+   401,
+   864
+  ],
+  "reading": "かおうしゅう",
+  "count": 3
+ },
+ {
+  "base": [
+   346,
+   960
+  ],
+  "reading": "かようせい",
+  "count": 3
+ },
+ {
+  "base": [
+   92
+  ],
+  "reading": "おもう",
+  "count": 3
+ },
+ {
+  "base": [
+   525,
+   474
+  ],
+  "reading": "かとつぜん",
+  "count": 3
+ },
+ {
+  "base": [
+   119,
+   120,
+   577,
+   829
+  ],
+  "reading": "きしょうこいんめつ",
+  "count": 3
+ },
+ {
+  "base": [
+   367,
+   1003
+  ],
+  "reading": "かかたきう",
+  "count": 3
+ },
+ {
+  "base": [
+   894
+  ],
+  "reading": "おおよ",
+  "count": 3
+ },
+ {
+  "base": [
+   170
+  ],
+  "reading": "おあ",
+  "count": 3
+ },
+ {
+  "base": [
+   1037,
+   209,
+   80,
+   1038
+  ],
+  "reading": "きじんちゅうみま",
+  "count": 3
+ },
+ {
+  "base": [
+   314
+  ],
+  "reading": "おき",
+  "count": 3
+ },
+ {
+  "base": [
+   74
+  ],
+  "reading": "おや",
+  "count": 3
+ },
+ {
+  "base": [
+   163
+  ],
+  "reading": "おとお",
+  "count": 3
+ },
+ {
+  "base": [
+   927,
+   480,
+   118
+  ],
+  "reading": "がちょうせんてき",
+  "count": 3
+ },
+ {
+  "base": [
+   121
+  ],
+  "reading": "おだ",
+  "count": 3
+ },
+ {
+  "base": [
+   394
+  ],
+  "reading": "おかん",
+  "count": 3
+ },
+ {
+  "base": [
+   1095
+  ],
+  "reading": "おあせ",
+  "count": 3
+ },
+ {
+  "base": [
+   375
+  ],
+  "reading": "おう",
+  "count": 3
+ },
+ {
+  "base": [
+   577,
+   829
+  ],
+  "reading": "かいんめつ",
+  "count": 3
+ },
+ {
+  "base": [
+   1111,
+   1112
+  ],
+  "reading": "かつじつま",
+  "count": 3
+ },
+ {
+  "base": [
+   1113,
+   57
+  ],
+  "reading": "かゆいいつ",
+  "count": 3
+ },
+ {
+  "base": [
+   173
+  ],
+  "reading": "おあ",
+  "count": 3
+ },
+ {
+  "base": [
+   1115
+  ],
+  "reading": "おが",
+  "count": 3
+ },
+ {
+  "base": [
+   1127
+  ],
+  "reading": "おとら",
+  "count": 3
+ },
+ {
+  "base": [
+   376
+  ],
+  "reading": "おはじ",
+  "count": 3
+ },
+ {
+  "base": [
+   4,
+   391
+  ],
+  "reading": "かてつづ",
+  "count": 3
+ },
+ {
+  "base": [
+   20,
+   712
+  ],
+  "reading": "かこうかい",
+  "count": 3
+ },
+ {
+  "base": [
+   157
+  ],
+  "reading": "おし",
+  "count": 3
+ },
+ {
+  "base": [
+   1175,
+   88
+  ],
+  "reading": "かきべん",
+  "count": 3
+ },
+ {
+  "base": [
+   102,
+   1185
+  ],
+  "reading": "かいまさら",
+  "count": 3
+ },
+ {
+  "base": [
+   928,
+   57,
+   707
+  ],
+  "reading": "がせいいっぱい",
+  "count": 3
+ },
+ {
+  "base": [
+   1195
+  ],
+  "reading": "おわ",
+  "count": 3
+ },
+ {
+  "base": [
+   1196
+  ],
+  "reading": "おく",
+  "count": 3
+ },
+ {
+  "base": [
+   1197
+  ],
+  "reading": "おうそ",
+  "count": 3
+ },
+ {
+  "base": [
+   116,
+   117,
+   118
+  ],
+  "reading": "がきゃっかんてき",
+  "count": 3
+ },
+ {
+  "base": [
+   634,
+   233,
+   274,
+   215
+  ],
+  "reading": "きそうさきかん",
+  "count": 3
+ },
+ {
+  "base": [
+   1216,
+   901
+  ],
+  "reading": "かたいまん",
+  "count": 3
+ },
+ {
+  "base": [
+   440,
+   441
+  ],
+  "reading": "かあさつゆ",
+  "count": 3
+ },
+ {
+  "base": [
+   122
+  ],
+  "reading": "おま",
+  "count": 3
+ },
+ {
+  "base": [
+   147,
+   80,
+   234,
+   479
+  ],
+  "reading": "きせっけんしゅうりょう",
+  "count": 3
+ },
+ {
+  "base": [
+   508,
+   573
+  ],
+  "reading": "かおもかげ",
+  "count": 3
+ },
+ {
+  "base": [
+   1262
+  ],
+  "reading": "おつな",
+  "count": 3
+ },
+ {
+  "base": [
+   986,
+   552
+  ],
+  "reading": "かたいくつ",
+  "count": 3
+ },
+ {
+  "base": [
+   966
+  ],
+  "reading": "おつ",
+  "count": 3
+ },
+ {
+  "base": [
+   157,
+   28,
+   761
+  ],
+  "reading": "がしごとがら",
+  "count": 3
+ },
+ {
+  "base": [
+   58
+  ],
+  "reading": "おい",
+  "count": 3
+ },
+ {
+  "base": [
+   56,
+   1333,
+   963
+  ],
+  "reading": "がべっそうち",
+  "count": 3
+ },
+ {
+  "base": [
+   458,
+   605
+  ],
+  "reading": "かにんしき",
+  "count": 3
+ },
+ {
+  "base": [
+   194,
+   1028
+  ],
+  "reading": "かちこく",
+  "count": 3
+ },
+ {
+  "base": [
+   93,
+   94
+  ],
+  "reading": "かぶしつけ",
+  "count": 2
+ },
+ {
+  "base": [
+   181,
+   182,
+   136
+  ],
+  "reading": "がだんなさま",
+  "count": 2
+ },
+ {
+  "base": [
+   189
+  ],
+  "reading": "おえ",
+  "count": 2
+ },
+ {
+  "base": [
+   23
+  ],
+  "reading": "おうち",
+  "count": 2
+ },
+ {
+  "base": [
+   192
+  ],
+  "reading": "おじょう",
+  "count": 2
+ },
+ {
+  "base": [
+   305,
+   306
+  ],
+  "reading": "かぎょうしゅく",
+  "count": 2
+ },
+ {
+  "base": [
+   332,
+   262
+  ],
+  "reading": "かおんしゃ",
+  "count": 2
+ },
+ {
+  "base": [
+   344,
+   345
+  ],
+  "reading": "かれんけい",
+  "count": 2
+ },
+ {
+  "base": [
+   419,
+   262
+  ],
+  "reading": "かへいしゃ",
+  "count": 2
+ },
+ {
+  "base": [
+   434,
+   113
+  ],
+  "reading": "かきんちょう",
+  "count": 2
+ },
+ {
+  "base": [
+   294,
+   129,
+   435
+  ],
+  "reading": "がしょうちいた",
+  "count": 2
+ },
+ {
+  "base": [
+   76,
+   260,
+   261
+  ],
+  "reading": "がだいきぎょう",
+  "count": 2
+ },
+ {
+  "base": [
+   486,
+   385
+  ],
+  "reading": "かすごうで",
+  "count": 2
+ },
+ {
+  "base": [
+   490
+  ],
+  "reading": "およみがえ",
+  "count": 2
+ },
+ {
+  "base": [
+   497,
+   498
+  ],
+  "reading": "かぎせい",
+  "count": 2
+ },
+ {
+  "base": [
+   158
+  ],
+  "reading": "おかた",
+  "count": 2
+ },
+ {
+  "base": [
+   524
+  ],
+  "reading": "おいつわ",
+  "count": 2
+ },
+ {
+  "base": [
+   534,
+   377
+  ],
+  "reading": "かせんこく",
+  "count": 2
+ },
+ {
+  "base": [
+   565,
+   242
+  ],
+  "reading": "かびんかん",
+  "count": 2
+ },
+ {
+  "base": [
+   481
+  ],
+  "reading": "おいや",
+  "count": 2
+ },
+ {
+  "base": [
+   584,
+   222
+  ],
+  "reading": "かあんもく",
+  "count": 2
+ },
+ {
+  "base": [
+   621
+  ],
+  "reading": "おあせ",
+  "count": 2
+ },
+ {
+  "base": [
+   644
+  ],
+  "reading": "おうらや",
+  "count": 2
+ },
+ {
+  "base": [
+   100
+  ],
+  "reading": "おヒ",
+  "count": 2
+ },
+ {
+  "base": [
+   101
+  ],
+  "reading": "おト",
+  "count": 2
+ },
+ {
+  "base": [
+   598
+  ],
+  "reading": "おあおい",
+  "count": 2
+ },
+ {
+  "base": [
+   663
+  ],
+  "reading": "おかた",
+  "count": 2
+ },
+ {
+  "base": [
+   664,
+   655
+  ],
+  "reading": "かかんげい",
+  "count": 2
+ },
+ {
+  "base": [
+   694
+  ],
+  "reading": "おまぶ",
+  "count": 2
+ },
+ {
+  "base": [
+   459,
+   115
+  ],
+  "reading": "かよしもと",
+  "count": 2
+ },
+ {
+  "base": [
+   778,
+   779
+  ],
+  "reading": "かこせき",
+  "count": 2
+ },
+ {
+  "base": [
+   425,
+   771,
+   242,
+   1
+  ],
+  "reading": "きれんあいかんじょう",
+  "count": 2
+ },
+ {
+  "base": [
+   785,
+   126,
+   166,
+   167
+  ],
+  "reading": "ききょぜつはんのう",
+  "count": 2
+ },
+ {
+  "base": [
+   274,
+   691,
+   28,
+   692
+  ],
+  "reading": "ききみつじこう",
+  "count": 2
+ },
+ {
+  "base": [
+   800
+  ],
+  "reading": "おおど",
+  "count": 2
+ },
+ {
+  "base": [
+   36
+  ],
+  "reading": "おば",
+  "count": 2
+ },
+ {
+  "base": [
+   406,
+   386
+  ],
+  "reading": "かきょくたん",
+  "count": 2
+ },
+ {
+  "base": [
+   418,
+   150
+  ],
+  "reading": "かこもん",
+  "count": 2
+ },
+ {
+  "base": [
+   53,
+   761
+  ],
+  "reading": "かひとがら",
+  "count": 2
+ },
+ {
+  "base": [
+   386
+  ],
+  "reading": "おはた",
+  "count": 2
+ },
+ {
+  "base": [
+   486
+  ],
+  "reading": "おすご",
+  "count": 2
+ },
+ {
+  "base": [
+   53,
+   573
+  ],
+  "reading": "かひとかげ",
+  "count": 2
+ },
+ {
+  "base": [
+   844
+  ],
+  "reading": "おみょう",
+  "count": 2
+ },
+ {
+  "base": [
+   403,
+   871
+  ],
+  "reading": "かどうりょう",
+  "count": 2
+ },
+ {
+  "base": [
+   163
+  ],
+  "reading": "おどお",
+  "count": 2
+ },
+ {
+  "base": [
+   322,
+   883,
+   30
+  ],
+  "reading": "がきゅうけいじょ",
+  "count": 2
+ },
+ {
+  "base": [
+   359
+  ],
+  "reading": "おか",
+  "count": 2
+ },
+ {
+  "base": [
+   113
+  ],
+  "reading": "おば",
+  "count": 2
+ },
+ {
+  "base": [
+   895
+  ],
+  "reading": "おこら",
+  "count": 2
+ },
+ {
+  "base": [
+   910,
+   28,
+   911,
+   912
+  ],
+  "reading": "きみんじそしょう",
+  "count": 2
+ },
+ {
+  "base": [
+   758
+  ],
+  "reading": "おきたな",
+  "count": 2
+ },
+ {
+  "base": [
+   918
+  ],
+  "reading": "おな",
+  "count": 2
+ },
+ {
+  "base": [
+   932,
+   754,
+   590,
+   316
+  ],
+  "reading": "きじんぞういしょく",
+  "count": 2
+ },
+ {
+  "base": [
+   547,
+   949
+  ],
+  "reading": "かけいかい",
+  "count": 2
+ },
+ {
+  "base": [
+   106,
+   244,
+   957
+  ],
+  "reading": "がふじしろちょう",
+  "count": 2
+ },
+ {
+  "base": [
+   525,
+   585,
+   257
+  ],
+  "reading": "がとっぱこう",
+  "count": 2
+ },
+ {
+  "base": [
+   64,
+   845
+  ],
+  "reading": "かきんりん",
+  "count": 2
+ },
+ {
+  "base": [
+   194
+  ],
+  "reading": "おおく",
+  "count": 2
+ },
+ {
+  "base": [
+   236,
+   985
+  ],
+  "reading": "かしっそう",
+  "count": 2
+ },
+ {
+  "base": [
+   712
+  ],
+  "reading": "おく",
+  "count": 2
+ },
+ {
+  "base": [
+   988,
+   193
+  ],
+  "reading": "かしょうれい",
+  "count": 2
+ },
+ {
+  "base": [
+   322,
+   968
+  ],
+  "reading": "かきゅうしん",
+  "count": 2
+ },
+ {
+  "base": [
+   165,
+   991
+  ],
+  "reading": "かぶっそう",
+  "count": 2
+ },
+ {
+  "base": [
+   1006
+  ],
+  "reading": "おこ",
+  "count": 2
+ },
+ {
+  "base": [
+   382
+  ],
+  "reading": "おい",
+  "count": 2
+ },
+ {
+  "base": [
+   1008
+  ],
+  "reading": "おと",
+  "count": 2
+ },
+ {
+  "base": [
+   1017
+  ],
+  "reading": "おす",
+  "count": 2
+ },
+ {
+  "base": [
+   1020
+  ],
+  "reading": "おたた",
+  "count": 2
+ },
+ {
+  "base": [
+   1023,
+   509
+  ],
+  "reading": "かもうそう",
+  "count": 2
+ },
+ {
+  "base": [
+   1025,
+   66
+  ],
+  "reading": "かぼうし",
+  "count": 2
+ },
+ {
+  "base": [
+   1026,
+   375,
+   118
+  ],
+  "reading": "がしょうげきてき",
+  "count": 2
+ },
+ {
+  "base": [
+   67
+  ],
+  "reading": "おた",
+  "count": 2
+ },
+ {
+  "base": [
+   1040,
+   163
+  ],
+  "reading": "かゆうづう",
+  "count": 2
+ },
+ {
+  "base": [
+   895
+  ],
+  "reading": "おた",
+  "count": 2
+ },
+ {
+  "base": [
+   842,
+   479
+  ],
+  "reading": "かかんりょう",
+  "count": 2
+ },
+ {
+  "base": [
+   646
+  ],
+  "reading": "おま",
+  "count": 2
+ },
+ {
+  "base": [
+   1048
+  ],
+  "reading": "おおそ",
+  "count": 2
+ },
+ {
+  "base": [
+   76,
+   1050
+  ],
+  "reading": "かだいたん",
+  "count": 2
+ },
+ {
+  "base": [
+   57,
+   386
+  ],
+  "reading": "かいったん",
+  "count": 2
+ },
+ {
+  "base": [
+   1059
+  ],
+  "reading": "おなぐさ",
+  "count": 2
+ },
+ {
+  "base": [
+   1067
+  ],
+  "reading": "おたど",
+  "count": 2
+ },
+ {
+  "base": [
+   71
+  ],
+  "reading": "おつ",
+  "count": 2
+ },
+ {
+  "base": [
+   626,
+   369,
+   78,
+   4
+  ],
+  "reading": "きさいこんあいて",
+  "count": 2
+ },
+ {
+  "base": [
+   174,
+   75,
+   215,
+   253
+  ],
+  "reading": "きしんらいかんけい",
+  "count": 2
+ },
+ {
+  "base": [
+   992
+  ],
+  "reading": "おど",
+  "count": 2
+ },
+ {
+  "base": [
+   1077
+  ],
+  "reading": "おおに",
+  "count": 2
+ },
+ {
+  "base": [
+   1082
+  ],
+  "reading": "おおび",
+  "count": 2
+ },
+ {
+  "base": [
+   57,
+   181,
+   389
+  ],
+  "reading": "がいったんもど",
+  "count": 2
+ },
+ {
+  "base": [
+   1094,
+   346
+  ],
+  "reading": "かがいよう",
+  "count": 2
+ },
+ {
+  "base": [
+   28,
+   1,
+   1098,
+   15
+  ],
+  "reading": "きじじょうちょうしゅ",
+  "count": 2
+ },
+ {
+  "base": [
+   977,
+   1091
+  ],
+  "reading": "かひとく",
+  "count": 2
+ },
+ {
+  "base": [
+   1106
+  ],
+  "reading": "おぶ",
+  "count": 2
+ },
+ {
+  "base": [
+   50
+  ],
+  "reading": "おかぶ",
+  "count": 2
+ },
+ {
+  "base": [
+   678,
+   375
+  ],
+  "reading": "かじゅうげき",
+  "count": 2
+ },
+ {
+  "base": [
+   1110,
+   755
+  ],
+  "reading": "かはあく",
+  "count": 2
+ },
+ {
+  "base": [
+   1118
+  ],
+  "reading": "おな",
+  "count": 2
+ },
+ {
+  "base": [
+   1041
+  ],
+  "reading": "おはら",
+  "count": 2
+ },
+ {
+  "base": [
+   1128
+  ],
+  "reading": "おすべ",
+  "count": 2
+ },
+ {
+  "base": [
+   50,
+   377
+  ],
+  "reading": "かひこく",
+  "count": 2
+ },
+ {
+  "base": [
+   1134,
+   1071,
+   118
+  ],
+  "reading": "がてっていてき",
+  "count": 2
+ },
+ {
+  "base": [
+   690,
+   1088
+  ],
+  "reading": "かけいばつ",
+  "count": 2
+ },
+ {
+  "base": [
+   1140
+  ],
+  "reading": "おすで",
+  "count": 2
+ },
+ {
+  "base": [
+   1106
+  ],
+  "reading": "おぷ",
+  "count": 2
+ },
+ {
+  "base": [
+   174,
+   1143,
+   101
+  ],
+  "reading": "がしんぴょうせい",
+  "count": 2
+ },
+ {
+  "base": [
+   732,
+   283
+  ],
+  "reading": "かしゃくめい",
+  "count": 2
+ },
+ {
+  "base": [
+   538,
+   1102,
+   867,
+   572
+  ],
+  "reading": "きえんかくそうさ",
+  "count": 2
+ },
+ {
+  "base": [
+   1033,
+   212
+  ],
+  "reading": "かかんし",
+  "count": 2
+ },
+ {
+  "base": [
+   689,
+   446
+  ],
+  "reading": "かほうかい",
+  "count": 2
+ },
+ {
+  "base": [
+   1158
+  ],
+  "reading": "おへい",
+  "count": 2
+ },
+ {
+  "base": [
+   73,
+   1165
+  ],
+  "reading": "かめいよ",
+  "count": 2
+ },
+ {
+  "base": [
+   795,
+   749
+  ],
+  "reading": "かしょうさい",
+  "count": 2
+ },
+ {
+  "base": [
+   766,
+   1186
+  ],
+  "reading": "かこぞう",
+  "count": 2
+ },
+ {
+  "base": [
+   1189
+  ],
+  "reading": "おば",
+  "count": 2
+ },
+ {
+  "base": [
+   1190
+  ],
+  "reading": "おか",
+  "count": 2
+ },
+ {
+  "base": [
+   634,
+   233,
+   170
+  ],
+  "reading": "がそうさじょう",
+  "count": 2
+ },
+ {
+  "base": [
+   1176,
+   458,
+   762,
+   179
+  ],
+  "reading": "きごにんたいほ",
+  "count": 2
+ },
+ {
+  "base": [
+   417,
+   77,
+   73
+  ],
+  "reading": "がぐたいめい",
+  "count": 2
+ },
+ {
+  "base": [
+   173
+  ],
+  "reading": "おあし",
+  "count": 2
+ },
+ {
+  "base": [
+   1203,
+   1204
+  ],
+  "reading": "かあいまい",
+  "count": 2
+ },
+ {
+  "base": [
+   33
+  ],
+  "reading": "おや",
+  "count": 2
+ },
+ {
+  "base": [
+   672
+  ],
+  "reading": "おの",
+  "count": 2
+ },
+ {
+  "base": [
+   1206
+  ],
+  "reading": "おなぐ",
+  "count": 2
+ },
+ {
+  "base": [
+   1207
+  ],
+  "reading": "おなみだ",
+  "count": 2
+ },
+ {
+  "base": [
+   1003
+  ],
+  "reading": "おう",
+  "count": 2
+ },
+ {
+  "base": [
+   1085
+  ],
+  "reading": "おはな",
+  "count": 2
+ },
+ {
+  "base": [
+   1217
+  ],
+  "reading": "おたこ",
+  "count": 2
+ },
+ {
+  "base": [
+   1224,
+   1225
+  ],
+  "reading": "かさいそく",
+  "count": 2
+ },
+ {
+  "base": [
+   836,
+   28
+  ],
+  "reading": "かじゅうじ",
+  "count": 2
+ },
+ {
+  "base": [
+   547,
+   439,
+   1014,
+   871
+  ],
+  "reading": "きけいさつかんりょう",
+  "count": 2
+ },
+ {
+  "base": [
+   484,
+   121
+  ],
+  "reading": "かはいしゅつ",
+  "count": 2
+ },
+ {
+  "base": [
+   868,
+   419
+  ],
+  "reading": "かごへい",
+  "count": 2
+ },
+ {
+  "base": [
+   690,
+   28,
+   898,
+   228
+  ],
+  "reading": "きけいじさいばん",
+  "count": 2
+ },
+ {
+  "base": [
+   745
+  ],
+  "reading": "おみが",
+  "count": 2
+ },
+ {
+  "base": [
+   267
+  ],
+  "reading": "おこう",
+  "count": 2
+ },
+ {
+  "base": [
+   910,
+   28,
+   28,
+   104
+  ],
+  "reading": "きみんじじけん",
+  "count": 2
+ },
+ {
+  "base": [
+   166,
+   536
+  ],
+  "reading": "かはんこう",
+  "count": 2
+ },
+ {
+  "base": [
+   910,
+   28
+  ],
+  "reading": "かみんじ",
+  "count": 2
+ },
+ {
+  "base": [
+   1228,
+   80
+  ],
+  "reading": "かへんけん",
+  "count": 2
+ },
+ {
+  "base": [
+   624
+  ],
+  "reading": "おがん",
+  "count": 2
+ },
+ {
+  "base": [
+   1229
+  ],
+  "reading": "おし",
+  "count": 2
+ },
+ {
+  "base": [
+   78,
+   79,
+   758
+  ],
+  "reading": "おきたな",
+  "count": 2
+ },
+ {
+  "base": [
+   1230
+  ],
+  "reading": "おおり",
+  "count": 2
+ },
+ {
+  "base": [
+   256,
+   1234
+  ],
+  "reading": "かどうき",
+  "count": 2
+ },
+ {
+  "base": [
+   41,
+   1116,
+   41,
+   1055
+  ],
+  "reading": "きじぼうじき",
+  "count": 2
+ },
+ {
+  "base": [
+   945
+  ],
+  "reading": "おはげ",
+  "count": 2
+ },
+ {
+  "base": [
+   3
+  ],
+  "reading": "おはい",
+  "count": 2
+ },
+ {
+  "base": [
+   1036,
+   443,
+   444
+  ],
+  "reading": "がしんたろう",
+  "count": 2
+ },
+ {
+  "base": [
+   1235,
+   649
+  ],
+  "reading": "かかれい",
+  "count": 2
+ },
+ {
+  "base": [
+   404
+  ],
+  "reading": "おめ",
+  "count": 2
+ },
+ {
+  "base": [
+   1119,
+   1236,
+   176,
+   1092
+  ],
+  "reading": "かせんせい",
+  "count": 2
+ },
+ {
+  "base": [
+   941,
+   1168
+  ],
+  "reading": "かこうしょう",
+  "count": 2
+ },
+ {
+  "base": [
+   1245,
+   860,
+   136
+  ],
+  "reading": "がしゅうしょうさま",
+  "count": 2
+ },
+ {
+  "base": [
+   1246,
+   1100
+  ],
+  "reading": "かまんざい",
+  "count": 2
+ },
+ {
+  "base": [
+   1066
+  ],
+  "reading": "おま",
+  "count": 2
+ },
+ {
+  "base": [
+   1248
+  ],
+  "reading": "およめ",
+  "count": 2
+ },
+ {
+  "base": [
+   284,
+   141,
+   153
+  ],
+  "reading": "がふんいき",
+  "count": 2
+ },
+ {
+  "base": [
+   624,
+   113
+  ],
+  "reading": "かがんば",
+  "count": 2
+ },
+ {
+  "base": [
+   1263
+  ],
+  "reading": "おとが",
+  "count": 2
+ },
+ {
+  "base": [
+   1264
+  ],
+  "reading": "おう",
+  "count": 2
+ },
+ {
+  "base": [
+   1152
+  ],
+  "reading": "おひら",
+  "count": 2
+ },
+ {
+  "base": [
+   232,
+   233,
+   158,
+   612
+  ],
+  "reading": "きかんがえかた",
+  "count": 2
+ },
+ {
+  "base": [
+   132
+  ],
+  "reading": "おおも",
+  "count": 2
+ },
+ {
+  "base": [
+   167,
+   947
+  ],
+  "reading": "かおうえん",
+  "count": 2
+ },
+ {
+  "base": [
+   57,
+   506,
+   900,
+   1275
+  ],
+  "reading": "きいちばんぶろ",
+  "count": 2
+ },
+ {
+  "base": [
+   481,
+   51,
+   93,
+   522,
+   327
+  ],
+  "reading": "ぎけんぎふじゅうぶん",
+  "count": 2
+ },
+ {
+  "base": [
+   761
+  ],
+  "reading": "おえ",
+  "count": 2
+ },
+ {
+  "base": [
+   105,
+   106
+  ],
+  "reading": "かさいとう",
+  "count": 2
+ },
+ {
+  "base": [
+   107,
+   108
+  ],
+  "reading": "かこうじ",
+  "count": 2
+ },
+ {
+  "base": [
+   1313,
+   160
+  ],
+  "reading": "かかくしん",
+  "count": 2
+ },
+ {
+  "base": [
+   1316
+  ],
+  "reading": "おたま",
+  "count": 2
+ },
+ {
+  "base": [
+   160,
+   119
+  ],
+  "reading": "かしんしょう",
+  "count": 2
+ },
+ {
+  "base": [
+   1332,
+   273
+  ],
+  "reading": "かこうがい",
+  "count": 2
+ },
+ {
+  "base": [
+   113
+  ],
+  "reading": "おは",
+  "count": 2
+ },
+ {
+  "base": [
+   157,
+   261
+  ],
+  "reading": "かしわざ",
+  "count": 2
+ },
+ {
+  "base": [
+   1340,
+   143,
+   336
+  ],
+  "reading": "がけんざいか",
+  "count": 2
+ },
+ {
+  "base": [
+   1342,
+   329
+  ],
+  "reading": "かせつり",
+  "count": 2
+ },
+ {
+  "base": [
+   1344
+  ],
+  "reading": "おだま",
+  "count": 2
+ },
+ {
+  "base": [
+   983,
+   152,
+   1353,
+   10
+  ],
+  "reading": "きしっこうゆうよ",
+  "count": 2
+ },
+ {
+  "base": [
+   833,
+   955
+  ],
+  "reading": "かいひん",
+  "count": 2
+ },
+ {
+  "base": [
+   69,
+   70
+  ],
+  "reading": "かかんろく",
+  "count": 1
+ },
+ {
+  "base": [
+   76,
+   65,
+   95
+  ],
+  "reading": "おおそ",
+  "count": 1
+ },
+ {
+  "base": [
+   189
+  ],
+  "reading": "おめぐ",
+  "count": 1
+ },
+ {
+  "base": [
+   187
+  ],
+  "reading": "おみ",
+  "count": 1
+ },
+ {
+  "base": [
+   191
+  ],
+  "reading": "おさ",
+  "count": 1
+ },
+ {
+  "base": [
+   192,
+   136
+  ],
+  "reading": "かじょうさま",
+  "count": 1
+ },
+ {
+  "base": [
+   230
+  ],
+  "reading": "おしん",
+  "count": 1
+ },
+ {
+  "base": [
+   105
+  ],
+  "reading": "おお",
+  "count": 1
+ },
+ {
+  "base": [
+   106
+  ],
+  "reading": "おふ",
+  "count": 1
+ },
+ {
+  "base": [
+   243
+  ],
+  "reading": "おく",
+  "count": 1
+ },
+ {
+  "base": [
+   244
+  ],
+  "reading": "おろ",
+  "count": 1
+ },
+ {
+  "base": [
+   249
+  ],
+  "reading": "おさかのぼ",
+  "count": 1
+ },
+ {
+  "base": [
+   251,
+   252
+  ],
+  "reading": "かけつえん",
+  "count": 1
+ },
+ {
+  "base": [
+   215,
+   253
+  ],
+  "reading": "かかんけい",
+  "count": 1
+ },
+ {
+  "base": [
+   209,
+   258
+  ],
+  "reading": "かちゅうすう",
+  "count": 1
+ },
+ {
+  "base": [
+   259
+  ],
+  "reading": "おかく",
+  "count": 1
+ },
+ {
+  "base": [
+   270,
+   271
+  ],
+  "reading": "かはんじょう",
+  "count": 1
+ },
+ {
+  "base": [
+   296
+  ],
+  "reading": "おい",
+  "count": 1
+ },
+ {
+  "base": [
+   66
+  ],
+  "reading": "おす",
+  "count": 1
+ },
+ {
+  "base": [
+   209,
+   22
+  ],
+  "reading": "かなかがわ",
+  "count": 1
+ },
+ {
+  "base": [
+   329
+  ],
+  "reading": "おり",
+  "count": 1
+ },
+ {
+  "base": [
+   330,
+   331
+  ],
+  "reading": "かちょうだい",
+  "count": 1
+ },
+ {
+  "base": [
+   349,
+   350
+  ],
+  "reading": "かじゅうなん",
+  "count": 1
+ },
+ {
+  "base": [
+   359,
+   286
+  ],
+  "reading": "かけんにん",
+  "count": 1
+ },
+ {
+  "base": [
+   166,
+   375
+  ],
+  "reading": "かはんげき",
+  "count": 1
+ },
+ {
+  "base": [
+   376
+  ],
+  "reading": "おは",
+  "count": 1
+ },
+ {
+  "base": [
+   4,
+   385
+  ],
+  "reading": "かしゅわん",
+  "count": 1
+ },
+ {
+  "base": [
+   300
+  ],
+  "reading": "おした",
+  "count": 1
+ },
+ {
+  "base": [
+   386
+  ],
+  "reading": "おぱ",
+  "count": 1
+ },
+ {
+  "base": [
+   21,
+   22,
+   320
+  ],
+  "reading": "がしらかわさとる",
+  "count": 1
+ },
+ {
+  "base": [
+   244,
+   47,
+   388,
+   286,
+   395,
+   396
+  ],
+  "reading": "かあいさつ",
+  "count": 1
+ },
+ {
+  "base": [
+   260,
+   261,
+   280
+  ],
+  "reading": "がきぎょうかん",
+  "count": 1
+ },
+ {
+  "base": [
+   259,
+   260,
+   261
+  ],
+  "reading": "がかくきぎょう",
+  "count": 1
+ },
+ {
+  "base": [
+   403,
+   90
+  ],
+  "reading": "かどうし",
+  "count": 1
+ },
+ {
+  "base": [
+   165,
+   409
+  ],
+  "reading": "かものごし",
+  "count": 1
+ },
+ {
+  "base": [
+   349
+  ],
+  "reading": "おやわ",
+  "count": 1
+ },
+ {
+  "base": [
+   247,
+   102
+  ],
+  "reading": "かさっこん",
+  "count": 1
+ },
+ {
+  "base": [
+   158,
+   326
+  ],
+  "reading": "かほうべん",
+  "count": 1
+ },
+ {
+  "base": [
+   436,
+   324,
+   435
+  ],
+  "reading": "おいた",
+  "count": 1
+ },
+ {
+  "base": [
+   236,
+   237,
+   435
+  ],
+  "reading": "おいた",
+  "count": 1
+ },
+ {
+  "base": [
+   76,
+   260,
+   261
+  ],
+  "reading": "がきぎょう",
+  "count": 1
+ },
+ {
+  "base": [
+   153,
+   327,
+   464,
+   465
+  ],
+  "reading": "ききぶんてんかん",
+  "count": 1
+ },
+ {
+  "base": [
+   471
+  ],
+  "reading": "おにお",
+  "count": 1
+ },
+ {
+  "base": [
+   492,
+   175
+  ],
+  "reading": "かきばつ",
+  "count": 1
+ },
+ {
+  "base": [
+   494,
+   495,
+   101
+  ],
+  "reading": "がたいしんせい",
+  "count": 1
+ },
+ {
+  "base": [
+   79,
+   474,
+   171,
+   172
+  ],
+  "reading": "かはいりょ",
+  "count": 1
+ },
+ {
+  "base": [
+   519,
+   520
+  ],
+  "reading": "おと",
+  "count": 1
+ },
+ {
+  "base": [
+   527,
+   45
+  ],
+  "reading": "かうつびょう",
+  "count": 1
+ },
+ {
+  "base": [
+   530,
+   531
+  ],
+  "reading": "かこうけん",
+  "count": 1
+ },
+ {
+  "base": [
+   102,
+   472
+  ],
+  "reading": "かいまごろ",
+  "count": 1
+ },
+ {
+  "base": [
+   554
+  ],
+  "reading": "おたず",
+  "count": 1
+ },
+ {
+  "base": [
+   168,
+   166
+  ],
+  "reading": "かいはん",
+  "count": 1
+ },
+ {
+  "base": [
+   573,
+   574,
+   131
+  ],
+  "reading": "がえいきょうりょく",
+  "count": 1
+ },
+ {
+  "base": [
+   578,
+   579
+  ],
+  "reading": "かようち",
+  "count": 1
+ },
+ {
+  "base": [
+   166,
+   557,
+   152,
+   580
+  ],
+  "reading": "きはんそくこうい",
+  "count": 1
+ },
+ {
+  "base": [
+   581,
+   90,
+   118
+  ],
+  "reading": "がしんしてき",
+  "count": 1
+ },
+ {
+  "base": [
+   95
+  ],
+  "reading": "おおそ",
+  "count": 1
+ },
+ {
+  "base": [
+   608,
+   160
+  ],
+  "reading": "かふしん",
+  "count": 1
+ },
+ {
+  "base": [
+   131,
+   614
+  ],
+  "reading": "かちからぞ",
+  "count": 1
+ },
+ {
+  "base": [
+   294,
+   129
+  ],
+  "reading": "きじゅうじゅうしょうち",
+  "count": 1
+ },
+ {
+  "base": [
+   622
+  ],
+  "reading": "おか",
+  "count": 1
+ },
+ {
+  "base": [
+   623
+  ],
+  "reading": "おい",
+  "count": 1
+ },
+ {
+  "base": [
+   624,
+   625
+  ],
+  "reading": "かがんこ",
+  "count": 1
+ },
+ {
+  "base": [
+   628
+  ],
+  "reading": "おしぶ",
+  "count": 1
+ },
+ {
+  "base": [
+   479,
+   294
+  ],
+  "reading": "かりょうしょう",
+  "count": 1
+ },
+ {
+  "base": [
+   630,
+   631,
+   31,
+   32
+  ],
+  "reading": "きおうかこうこう",
+  "count": 1
+ },
+ {
+  "base": [
+   641,
+   525
+  ],
+  "reading": "かとうとつ",
+  "count": 1
+ },
+ {
+  "base": [
+   630,
+   631,
+   31,
+   438,
+   642,
+   32
+  ],
+  "reading": "くおうかこうとうがっこう",
+  "count": 1
+ },
+ {
+  "base": [
+   634,
+   651
+  ],
+  "reading": "かそうさく",
+  "count": 1
+ },
+ {
+  "base": [
+   515,
+   386
+  ],
+  "reading": "かとたん",
+  "count": 1
+ },
+ {
+  "base": [
+   121
+  ],
+  "reading": "おで",
+  "count": 1
+ },
+ {
+  "base": [
+   658,
+   659,
+   242
+  ],
+  "reading": "がひそうかん",
+  "count": 1
+ },
+ {
+  "base": [
+   88,
+   89,
+   90
+  ],
+  "reading": "がべんごし",
+  "count": 1
+ },
+ {
+  "base": [
+   660,
+   75,
+   53
+  ],
+  "reading": "がいらいにん",
+  "count": 1
+ },
+ {
+  "base": [
+   274,
+   691
+  ],
+  "reading": "かきみつ",
+  "count": 1
+ },
+ {
+  "base": [
+   28,
+   692
+  ],
+  "reading": "かじこう",
+  "count": 1
+ },
+ {
+  "base": [
+   704
+  ],
+  "reading": "おびん",
+  "count": 1
+ },
+ {
+  "base": [
+   705,
+   706
+  ],
+  "reading": "かしょうちゅう",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   707
+  ],
+  "reading": "おぱい",
+  "count": 1
+ },
+ {
+  "base": [
+   142,
+   255,
+   647
+  ],
+  "reading": "およ",
+  "count": 1
+ },
+ {
+  "base": [
+   709
+  ],
+  "reading": "おす",
+  "count": 1
+ },
+ {
+  "base": [
+   308
+  ],
+  "reading": "おお",
+  "count": 1
+ },
+ {
+  "base": [
+   274
+  ],
+  "reading": "おき",
+  "count": 1
+ },
+ {
+  "base": [
+   717
+  ],
+  "reading": "おあ",
+  "count": 1
+ },
+ {
+  "base": [
+   720,
+   194
+  ],
+  "reading": "かよるおそ",
+  "count": 1
+ },
+ {
+  "base": [
+   163,
+   722
+  ],
+  "reading": "かつうはん",
+  "count": 1
+ },
+ {
+  "base": [
+   724
+  ],
+  "reading": "おもう",
+  "count": 1
+ },
+ {
+  "base": [
+   78,
+   79,
+   717
+  ],
+  "reading": "おあ",
+  "count": 1
+ },
+ {
+  "base": [
+   734
+  ],
+  "reading": "おほ",
+  "count": 1
+ },
+ {
+  "base": [
+   336,
+   748,
+   178
+  ],
+  "reading": "がけしょうなお",
+  "count": 1
+ },
+ {
+  "base": [
+   753
+  ],
+  "reading": "おいきどお",
+  "count": 1
+ },
+ {
+  "base": [
+   142,
+   61,
+   758
+  ],
+  "reading": "おきたな",
+  "count": 1
+ },
+ {
+  "base": [
+   663,
+   165
+  ],
+  "reading": "かかたぶつ",
+  "count": 1
+ },
+ {
+  "base": [
+   280,
+   761
+  ],
+  "reading": "かあいだがら",
+  "count": 1
+ },
+ {
+  "base": [
+   103,
+   762,
+   179
+  ],
+  "reading": "かたいほ",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   768,
+   769
+  ],
+  "reading": "がひとはだぬ",
+  "count": 1
+ },
+ {
+  "base": [
+   769,
+   213
+  ],
+  "reading": "かだっせん",
+  "count": 1
+ },
+ {
+  "base": [
+   776,
+   777
+  ],
+  "reading": "かすみか",
+  "count": 1
+ },
+ {
+  "base": [
+   781
+  ],
+  "reading": "おあざむ",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   707
+  ],
+  "reading": "かいっぱい",
+  "count": 1
+ },
+ {
+  "base": [
+   787,
+   788,
+   789,
+   347,
+   790
+  ],
+  "reading": "ぎめんえきよくせいざい",
+  "count": 1
+ },
+ {
+  "base": [
+   803,
+   283
+  ],
+  "reading": "かせんめい",
+  "count": 1
+ },
+ {
+  "base": [
+   577,
+   808
+  ],
+  "reading": "かいんぺい",
+  "count": 1
+ },
+ {
+  "base": [
+   655,
+   264
+  ],
+  "reading": "かげいごう",
+  "count": 1
+ },
+ {
+  "base": [
+   816
+  ],
+  "reading": "おにぶ",
+  "count": 1
+ },
+ {
+  "base": [
+   824
+  ],
+  "reading": "おう",
+  "count": 1
+ },
+ {
+  "base": [
+   82,
+   826,
+   82,
+   827
+  ],
+  "reading": "きたしゅたさい",
+  "count": 1
+ },
+ {
+  "base": [
+   41,
+   829
+  ],
+  "reading": "かじめつ",
+  "count": 1
+ },
+ {
+  "base": [
+   838,
+   545
+  ],
+  "reading": "かすぎた",
+  "count": 1
+ },
+ {
+  "base": [
+   76,
+   65,
+   528
+  ],
+  "reading": "おおどろ",
+  "count": 1
+ },
+ {
+  "base": [
+   95,
+   306
+  ],
+  "reading": "かきょうしゅく",
+  "count": 1
+ },
+ {
+  "base": [
+   78,
+   79,
+   174,
+   75
+  ],
+  "reading": "かしんらい",
+  "count": 1
+ },
+ {
+  "base": [
+   841
+  ],
+  "reading": "おきた",
+  "count": 1
+ },
+ {
+  "base": [
+   188,
+   845
+  ],
+  "reading": "かひだりどなり",
+  "count": 1
+ },
+ {
+  "base": [
+   336,
+   748,
+   821
+  ],
+  "reading": "がけしょうしつ",
+  "count": 1
+ },
+ {
+  "base": [
+   859,
+   91
+  ],
+  "reading": "かがじょう",
+  "count": 1
+ },
+ {
+  "base": [
+   273,
+   291,
+   3,
+   131,
+   386,
+   66,
+   219,
+   461
+  ],
+  "reading": "けがいぶにゅうりょくたんしけいゆ",
+  "count": 1
+ },
+ {
+  "base": [
+   168
+  ],
+  "reading": "おい",
+  "count": 1
+ },
+ {
+  "base": [
+   539
+  ],
+  "reading": "おわ",
+  "count": 1
+ },
+ {
+  "base": [
+   242
+  ],
+  "reading": "おかん",
+  "count": 1
+ },
+ {
+  "base": [
+   37,
+   38,
+   88,
+   89,
+   90
+  ],
+  "reading": "がせんせい",
+  "count": 1
+ },
+ {
+  "base": [
+   862
+  ],
+  "reading": "おこ",
+  "count": 1
+ },
+ {
+  "base": [
+   102,
+   866,
+   799
+  ],
+  "reading": "おねむ",
+  "count": 1
+ },
+ {
+  "base": [
+   543
+  ],
+  "reading": "おおれ",
+  "count": 1
+ },
+ {
+  "base": [
+   79,
+   506
+  ],
+  "reading": "かとうばん",
+  "count": 1
+ },
+ {
+  "base": [
+   386,
+   66
+  ],
+  "reading": "かたんし",
+  "count": 1
+ },
+ {
+  "base": [
+   354,
+   878
+  ],
+  "reading": "かそぼく",
+  "count": 1
+ },
+ {
+  "base": [
+   586,
+   885
+  ],
+  "reading": "かかぎあな",
+  "count": 1
+ },
+ {
+  "base": [
+   584
+  ],
+  "reading": "おぐら",
+  "count": 1
+ },
+ {
+  "base": [
+   57
+  ],
+  "reading": "おひと",
+  "count": 1
+ },
+ {
+  "base": [
+   819,
+   584
+  ],
+  "reading": "かうすぐら",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   613,
+   896
+  ],
+  "reading": "がひとすじなわ",
+  "count": 1
+ },
+ {
+  "base": [
+   899
+  ],
+  "reading": "おかがみ",
+  "count": 1
+ },
+ {
+  "base": [
+   348,
+   903
+  ],
+  "reading": "かせいとん",
+  "count": 1
+ },
+ {
+  "base": [
+   904,
+   905,
+   508
+  ],
+  "reading": "がきちょうめん",
+  "count": 1
+ },
+ {
+  "base": [
+   73
+  ],
+  "reading": "おな",
+  "count": 1
+ },
+ {
+  "base": [
+   909
+  ],
+  "reading": "おは",
+  "count": 1
+ },
+ {
+  "base": [
+   766,
+   460
+  ],
+  "reading": "かこむすめ",
+  "count": 1
+ },
+ {
+  "base": [
+   146,
+   525,
+   474
+  ],
+  "reading": "かとつぜん",
+  "count": 1
+ },
+ {
+  "base": [
+   525,
+   474,
+   678,
+   408
+  ],
+  "reading": "きとつぜんじゅうせい",
+  "count": 1
+ },
+ {
+  "base": [
+   921,
+   922,
+   31,
+   32
+  ],
+  "reading": "きいさわこうこう",
+  "count": 1
+ },
+ {
+  "base": [
+   309,
+   261,
+   609
+  ],
+  "reading": "がしょうぎょうかい",
+  "count": 1
+ },
+ {
+  "base": [
+   64,
+   815,
+   2,
+   377
+  ],
+  "reading": "ききんきょうほうこく",
+  "count": 1
+ },
+ {
+  "base": [
+   763,
+   327,
+   797,
+   310
+  ],
+  "reading": "かじょうだん",
+  "count": 1
+ },
+ {
+  "base": [
+   93,
+   274,
+   481
+  ],
+  "reading": "がふきげん",
+  "count": 1
+ },
+ {
+  "base": [
+   604,
+   926
+  ],
+  "reading": "かごかく",
+  "count": 1
+ },
+ {
+  "base": [
+   927
+  ],
+  "reading": "おいど",
+  "count": 1
+ },
+ {
+  "base": [
+   627
+  ],
+  "reading": "おそ",
+  "count": 1
+ },
+ {
+  "base": [
+   929
+  ],
+  "reading": "おうら",
+  "count": 1
+ },
+ {
+  "base": [
+   580,
+   53
+  ],
+  "reading": "かひととなり",
+  "count": 1
+ },
+ {
+  "base": [
+   454
+  ],
+  "reading": "おう",
+  "count": 1
+ },
+ {
+  "base": [
+   933,
+   934,
+   935,
+   936
+  ],
+  "reading": "きとうせきちりょう",
+  "count": 1
+ },
+ {
+  "base": [
+   492,
+   844
+  ],
+  "reading": "かきみょう",
+  "count": 1
+ },
+ {
+  "base": [
+   933,
+   934
+  ],
+  "reading": "かとうせき",
+  "count": 1
+ },
+ {
+  "base": [
+   132,
+   436
+  ],
+  "reading": "かじあん",
+  "count": 1
+ },
+ {
+  "base": [
+   942,
+   943,
+   944,
+   945
+  ],
+  "reading": "きしったげきれい",
+  "count": 1
+ },
+ {
+  "base": [
+   946,
+   83,
+   947,
+   177
+  ],
+  "reading": "きしきんえんじょ",
+  "count": 1
+ },
+ {
+  "base": [
+   785,
+   126
+  ],
+  "reading": "かきょぜつ",
+  "count": 1
+ },
+ {
+  "base": [
+   169,
+   170,
+   354,
+   508
+  ],
+  "reading": "かしらふ",
+  "count": 1
+ },
+ {
+  "base": [
+   320
+  ],
+  "reading": "おさと",
+  "count": 1
+ },
+ {
+  "base": [
+   309,
+   9,
+   761
+  ],
+  "reading": "がしょうばいがら",
+  "count": 1
+ },
+ {
+  "base": [
+   959
+  ],
+  "reading": "おせ",
+  "count": 1
+ },
+ {
+  "base": [
+   238
+  ],
+  "reading": "おいそ",
+  "count": 1
+ },
+ {
+  "base": [
+   966
+  ],
+  "reading": "おひた",
+  "count": 1
+ },
+ {
+  "base": [
+   93,
+   969,
+   805
+  ],
+  "reading": "がふきんしん",
+  "count": 1
+ },
+ {
+  "base": [
+   238
+  ],
+  "reading": "おせわ",
+  "count": 1
+ },
+ {
+  "base": [
+   972
+  ],
+  "reading": "おなが",
+  "count": 1
+ },
+ {
+  "base": [
+   796,
+   52,
+   73,
+   973
+  ],
+  "reading": "きかんじゃめいぼ",
+  "count": 1
+ },
+ {
+  "base": [
+   970,
+   257
+  ],
+  "reading": "かひぐち",
+  "count": 1
+ },
+ {
+  "base": [
+   835,
+   300
+  ],
+  "reading": "かろうか",
+  "count": 1
+ },
+ {
+  "base": [
+   975,
+   751
+  ],
+  "reading": "かのうし",
+  "count": 1
+ },
+ {
+  "base": [
+   111,
+   687
+  ],
+  "reading": "かじっし",
+  "count": 1
+ },
+ {
+  "base": [
+   979
+  ],
+  "reading": "おつる",
+  "count": 1
+ },
+ {
+  "base": [
+   68,
+   981
+  ],
+  "reading": "かはばつ",
+  "count": 1
+ },
+ {
+  "base": [
+   259,
+   68,
+   981
+  ],
+  "reading": "がかくはばつ",
+  "count": 1
+ },
+ {
+  "base": [
+   982,
+   696
+  ],
+  "reading": "かやっき",
+  "count": 1
+ },
+ {
+  "base": [
+   983,
+   984,
+   20
+  ],
+  "reading": "がしっとうご",
+  "count": 1
+ },
+ {
+  "base": [
+   987
+  ],
+  "reading": "おとどろ",
+  "count": 1
+ },
+ {
+  "base": [
+   219,
+   478,
+   935,
+   936
+  ],
+  "reading": "きけいかちりょう",
+  "count": 1
+ },
+ {
+  "base": [
+   322,
+   968,
+   146
+  ],
+  "reading": "がきゅうしんび",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   404,
+   989,
+   474
+  ],
+  "reading": "きいちもくりょうぜん",
+  "count": 1
+ },
+ {
+  "base": [
+   80,
+   990
+  ],
+  "reading": "かみのが",
+  "count": 1
+ },
+ {
+  "base": [
+   983,
+   984
+  ],
+  "reading": "かしっとう",
+  "count": 1
+ },
+ {
+  "base": [
+   744,
+   745,
+   178,
+   513
+  ],
+  "reading": "きはりまなおただ",
+  "count": 1
+ },
+ {
+  "base": [
+   127,
+   480,
+   360,
+   555
+  ],
+  "reading": "きたいせんかくとう",
+  "count": 1
+ },
+ {
+  "base": [
+   996,
+   66
+  ],
+  "reading": "かひょうし",
+  "count": 1
+ },
+ {
+  "base": [
+   13,
+   814,
+   458,
+   594
+  ],
+  "reading": "きざいじょうにんぴ",
+  "count": 1
+ },
+ {
+  "base": [
+   860,
+   34,
+   435,
+   751,
+   13
+  ],
+  "reading": "ぎしょうがいちしざい",
+  "count": 1
+ },
+ {
+  "base": [
+   997,
+   647
+  ],
+  "reading": "かでいすい",
+  "count": 1
+ },
+ {
+  "base": [
+   168,
+   39,
+   152,
+   580
+  ],
+  "reading": "きいほうこうい",
+  "count": 1
+ },
+ {
+  "base": [
+   1012
+  ],
+  "reading": "おな",
+  "count": 1
+ },
+ {
+  "base": [
+   536,
+   576
+  ],
+  "reading": "かこうぎ",
+  "count": 1
+ },
+ {
+  "base": [
+   991
+  ],
+  "reading": "おさわ",
+  "count": 1
+ },
+ {
+  "base": [
+   50,
+   34
+  ],
+  "reading": "かひがい",
+  "count": 1
+ },
+ {
+  "base": [
+   494
+  ],
+  "reading": "おた",
+  "count": 1
+ },
+ {
+  "base": [
+   1015,
+   481
+  ],
+  "reading": "かけぎら",
+  "count": 1
+ },
+ {
+  "base": [
+   1018
+  ],
+  "reading": "おあき",
+  "count": 1
+ },
+ {
+  "base": [
+   482,
+   1002,
+   7,
+   170
+  ],
+  "reading": "きにさいとしうえ",
+  "count": 1
+ },
+ {
+  "base": [
+   221,
+   382,
+   81,
+   1030
+  ],
+  "reading": "きよういしゅうとう",
+  "count": 1
+ },
+ {
+  "base": [
+   785,
+   594
+  ],
+  "reading": "かきょひ",
+  "count": 1
+ },
+ {
+  "base": [
+   1033,
+   212,
+   300
+  ],
+  "reading": "がかんしか",
+  "count": 1
+ },
+ {
+  "base": [
+   1041,
+   852
+  ],
+  "reading": "かふっしょく",
+  "count": 1
+ },
+ {
+  "base": [
+   1044
+  ],
+  "reading": "おあ",
+  "count": 1
+ },
+ {
+  "base": [
+   1046,
+   279
+  ],
+  "reading": "かにづく",
+  "count": 1
+ },
+ {
+  "base": [
+   26,
+   27,
+   1047,
+   774,
+   291
+  ],
+  "reading": "ぎたんていくらぶ",
+  "count": 1
+ },
+ {
+  "base": [
+   966
+  ],
+  "reading": "おびた",
+  "count": 1
+ },
+ {
+  "base": [
+   153,
+   287
+  ],
+  "reading": "かきじょう",
+  "count": 1
+ },
+ {
+  "base": [
+   1038
+  ],
+  "reading": "おま",
+  "count": 1
+ },
+ {
+  "base": [
+   1054
+  ],
+  "reading": "おせい",
+  "count": 1
+ },
+ {
+  "base": [
+   386,
+   118
+  ],
+  "reading": "かたんてき",
+  "count": 1
+ },
+ {
+  "base": [
+   564,
+   291,
+   1055
+  ],
+  "reading": "おす",
+  "count": 1
+ },
+ {
+  "base": [
+   524,
+   164
+  ],
+  "reading": "かぎそう",
+  "count": 1
+ },
+ {
+  "base": [
+   93,
+   967,
+   242
+  ],
+  "reading": "がふしんかん",
+  "count": 1
+ },
+ {
+  "base": [
+   178,
+   147,
+   959,
+   375
+  ],
+  "reading": "きちょくせつこうげき",
+  "count": 1
+ },
+ {
+  "base": [
+   547,
+   439,
+   292
+  ],
+  "reading": "がココ",
+  "count": 1
+ },
+ {
+  "base": [
+   1063
+  ],
+  "reading": "おやみ",
+  "count": 1
+ },
+ {
+  "base": [
+   1064,
+   367
+  ],
+  "reading": "かひってき",
+  "count": 1
+ },
+ {
+  "base": [
+   231,
+   1065
+  ],
+  "reading": "かきょうれつ",
+  "count": 1
+ },
+ {
+  "base": [
+   160,
+   128
+  ],
+  "reading": "かこころもと",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   313,
+   525
+  ],
+  "reading": "おつ",
+  "count": 1
+ },
+ {
+  "base": [
+   854,
+   1069
+  ],
+  "reading": "かさくりゃく",
+  "count": 1
+ },
+ {
+  "base": [
+   1074,
+   668,
+   36
+  ],
+  "reading": "がちゅうしゃじょう",
+  "count": 1
+ },
+ {
+  "base": [
+   359
+  ],
+  "reading": "おが",
+  "count": 1
+ },
+ {
+  "base": [
+   41,
+   1075,
+   362,
+   363
+  ],
+  "reading": "きじこしょうかい",
+  "count": 1
+ },
+ {
+  "base": [
+   1076
+  ],
+  "reading": "おはさ",
+  "count": 1
+ },
+ {
+  "base": [
+   135
+  ],
+  "reading": "おおく",
+  "count": 1
+ },
+ {
+  "base": [
+   1084,
+   1085
+  ],
+  "reading": "かきょり",
+  "count": 1
+ },
+ {
+  "base": [
+   478
+  ],
+  "reading": "おあやま",
+  "count": 1
+ },
+ {
+  "base": [
+   109
+  ],
+  "reading": "おかつ",
+  "count": 1
+ },
+ {
+  "base": [
+   1088
+  ],
+  "reading": "おばつ",
+  "count": 1
+ },
+ {
+  "base": [
+   1089
+  ],
+  "reading": "おゆが",
+  "count": 1
+ },
+ {
+  "base": [
+   1091,
+   73
+  ],
+  "reading": "かとくめい",
+  "count": 1
+ },
+ {
+  "base": [
+   35,
+   36
+  ],
+  "reading": "かげんじょう",
+  "count": 1
+ },
+ {
+  "base": [
+   503,
+   183
+  ],
+  "reading": "かほぞん",
+  "count": 1
+ },
+ {
+  "base": [
+   1096,
+   1097
+  ],
+  "reading": "かふうさ",
+  "count": 1
+ },
+ {
+  "base": [
+   373,
+   374,
+   513,
+   174,
+   690,
+   28
+  ],
+  "reading": "くみうらまさのぶけいじ",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   1090
+  ],
+  "reading": "かいっか",
+  "count": 1
+ },
+ {
+  "base": [
+   459,
+   115,
+   568,
+   777,
+   690,
+   28
+  ],
+  "reading": "くよしもとさやかけいじ",
+  "count": 1
+ },
+ {
+  "base": [
+   41,
+   1101
+  ],
+  "reading": "かじちょう",
+  "count": 1
+ },
+ {
+  "base": [
+   101
+  ],
+  "reading": "おせい",
+  "count": 1
+ },
+ {
+  "base": [
+   1102,
+   1085
+  ],
+  "reading": "かかくり",
+  "count": 1
+ },
+ {
+  "base": [
+   1103
+  ],
+  "reading": "おぬす",
+  "count": 1
+ },
+ {
+  "base": [
+   64,
+   106
+  ],
+  "reading": "かこんどう",
+  "count": 1
+ },
+ {
+  "base": [
+   743,
+   187
+  ],
+  "reading": "かかつみ",
+  "count": 1
+ },
+ {
+  "base": [
+   1107
+  ],
+  "reading": "おおお",
+  "count": 1
+ },
+ {
+  "base": [
+   1117
+  ],
+  "reading": "おともな",
+  "count": 1
+ },
+ {
+  "base": [
+   547,
+   439,
+   1118
+  ],
+  "reading": "おな",
+  "count": 1
+ },
+ {
+  "base": [
+   860,
+   34,
+   435,
+   751
+  ],
+  "reading": "きしょうがいちし",
+  "count": 1
+ },
+ {
+  "base": [
+   1011,
+   1004
+  ],
+  "reading": "かきょうはく",
+  "count": 1
+ },
+ {
+  "base": [
+   552
+  ],
+  "reading": "おくっ",
+  "count": 1
+ },
+ {
+  "base": [
+   1120
+  ],
+  "reading": "おめずら",
+  "count": 1
+ },
+ {
+  "base": [
+   418,
+   116
+  ],
+  "reading": "かクライアント",
+  "count": 1
+ },
+ {
+  "base": [
+   170,
+   36,
+   260,
+   261
+  ],
+  "reading": "きじょうじょうきぎょう",
+  "count": 1
+ },
+ {
+  "base": [
+   1121,
+   77
+  ],
+  "reading": "かばいたい",
+  "count": 1
+ },
+ {
+  "base": [
+   1122,
+   853
+  ],
+  "reading": "かこんせき",
+  "count": 1
+ },
+ {
+  "base": [
+   165,
+   119
+  ],
+  "reading": "かぶっしょう",
+  "count": 1
+ },
+ {
+  "base": [
+   105,
+   106,
+   108,
+   317
+  ],
+  "reading": "きおやじ",
+  "count": 1
+ },
+ {
+  "base": [
+   939,
+   1124
+  ],
+  "reading": "かげんこう",
+  "count": 1
+ },
+ {
+  "base": [
+   1125,
+   853,
+   899,
+   11
+  ],
+  "reading": "きひっせきかんてい",
+  "count": 1
+ },
+ {
+  "base": [
+   1126
+  ],
+  "reading": "おか",
+  "count": 1
+ },
+ {
+  "base": [
+   470
+  ],
+  "reading": "おき",
+  "count": 1
+ },
+ {
+  "base": [
+   696,
+   911,
+   19
+  ],
+  "reading": "がきそまえ",
+  "count": 1
+ },
+ {
+  "base": [
+   382,
+   132,
+   1132,
+   163
+  ],
+  "reading": "きいしそつう",
+  "count": 1
+ },
+ {
+  "base": [
+   415,
+   280
+  ],
+  "reading": "かせけん",
+  "count": 1
+ },
+ {
+  "base": [
+   382,
+   55,
+   702
+  ],
+  "reading": "がいみしん",
+  "count": 1
+ },
+ {
+  "base": [
+   413,
+   1136
+  ],
+  "reading": "かとこう",
+  "count": 1
+ },
+ {
+  "base": [
+   218,
+   680
+  ],
+  "reading": "かいんどう",
+  "count": 1
+ },
+ {
+  "base": [
+   93
+  ],
+  "reading": "おふ",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   313,
+   1139,
+   11
+  ],
+  "reading": "かこうてい",
+  "count": 1
+ },
+ {
+  "base": [
+   372,
+   732
+  ],
+  "reading": "かかいしゃく",
+  "count": 1
+ },
+ {
+  "base": [
+   1144
+  ],
+  "reading": "おさわ",
+  "count": 1
+ },
+ {
+  "base": [
+   1008
+  ],
+  "reading": "おはか",
+  "count": 1
+ },
+ {
+  "base": [
+   1145
+  ],
+  "reading": "おおとしい",
+  "count": 1
+ },
+ {
+  "base": [
+   511
+  ],
+  "reading": "おご",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   1147,
+   116
+  ],
+  "reading": "がいっぱんきゃく",
+  "count": 1
+ },
+ {
+  "base": [
+   1026,
+   256,
+   118
+  ],
+  "reading": "がしょうどうてき",
+  "count": 1
+ },
+ {
+  "base": [
+   525,
+   8,
+   118
+  ],
+  "reading": "がとっぱつてき",
+  "count": 1
+ },
+ {
+  "base": [
+   1102
+  ],
+  "reading": "おへだ",
+  "count": 1
+ },
+ {
+  "base": [
+   244,
+   1125
+  ],
+  "reading": "かだいひつ",
+  "count": 1
+ },
+ {
+  "base": [
+   1150
+  ],
+  "reading": "おにら",
+  "count": 1
+ },
+ {
+  "base": [
+   1153
+  ],
+  "reading": "おぬ",
+  "count": 1
+ },
+ {
+  "base": [
+   625
+  ],
+  "reading": "おかた",
+  "count": 1
+ },
+ {
+  "base": [
+   1154,
+   88
+  ],
+  "reading": "かゆうべん",
+  "count": 1
+ },
+ {
+  "base": [
+   1155,
+   222
+  ],
+  "reading": "かちんもく",
+  "count": 1
+ },
+ {
+  "base": [
+   109,
+   79,
+   690,
+   28
+  ],
+  "reading": "きたんとうけいじ",
+  "count": 1
+ },
+ {
+  "base": [
+   1157,
+   553
+  ],
+  "reading": "かぶじょく",
+  "count": 1
+ },
+ {
+  "base": [
+   541,
+   13
+  ],
+  "reading": "かしゃざい",
+  "count": 1
+ },
+ {
+  "base": [
+   394,
+   277
+  ],
+  "reading": "かかんづ",
+  "count": 1
+ },
+ {
+  "base": [
+   634,
+   233,
+   814,
+   815
+  ],
+  "reading": "きそうさじょうきょう",
+  "count": 1
+ },
+ {
+  "base": [
+   583
+  ],
+  "reading": "おざ",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   506,
+   328
+  ],
+  "reading": "おあや",
+  "count": 1
+ },
+ {
+  "base": [
+   577,
+   808,
+   688,
+   572
+  ],
+  "reading": "きいんぺいこうさく",
+  "count": 1
+ },
+ {
+  "base": [
+   301
+  ],
+  "reading": "おか",
+  "count": 1
+ },
+ {
+  "base": [
+   212
+  ],
+  "reading": "おし",
+  "count": 1
+ },
+ {
+  "base": [
+   336
+  ],
+  "reading": "おか",
+  "count": 1
+ },
+ {
+  "base": [
+   400
+  ],
+  "reading": "おはじ",
+  "count": 1
+ },
+ {
+  "base": [
+   1164
+  ],
+  "reading": "おあきら",
+  "count": 1
+ },
+ {
+  "base": [
+   166,
+   536,
+   118
+  ],
+  "reading": "がはんこうてき",
+  "count": 1
+ },
+ {
+  "base": [
+   552,
+   639
+  ],
+  "reading": "かくっぷく",
+  "count": 1
+ },
+ {
+  "base": [
+   222,
+   458
+  ],
+  "reading": "かもくにん",
+  "count": 1
+ },
+ {
+  "base": [
+   0,
+   803
+  ],
+  "reading": "かしんせん",
+  "count": 1
+ },
+ {
+  "base": [
+   12,
+   1167,
+   257
+  ],
+  "reading": "がむだぐち",
+  "count": 1
+ },
+ {
+  "base": [
+   1004,
+   131
+  ],
+  "reading": "かはくりょく",
+  "count": 1
+ },
+ {
+  "base": [
+   941,
+   1168,
+   784
+  ],
+  "reading": "がこうしょうじゅつ",
+  "count": 1
+ },
+ {
+  "base": [
+   383
+  ],
+  "reading": "おた",
+  "count": 1
+ },
+ {
+  "base": [
+   1169,
+   1170
+  ],
+  "reading": "かやばん",
+  "count": 1
+ },
+ {
+  "base": [
+   468,
+   261,
+   1171,
+   212
+  ],
+  "reading": "きしょくぎょうべっし",
+  "count": 1
+ },
+ {
+  "base": [
+   2,
+   1173
+  ],
+  "reading": "かほうしゅう",
+  "count": 1
+ },
+ {
+  "base": [
+   123,
+   53,
+   424
+  ],
+  "reading": "おあつか",
+  "count": 1
+ },
+ {
+  "base": [
+   93,
+   1177,
+   1178
+  ],
+  "reading": "がふゆかい",
+  "count": 1
+ },
+ {
+  "base": [
+   491,
+   347
+  ],
+  "reading": "かとうせい",
+  "count": 1
+ },
+ {
+  "base": [
+   434,
+   113,
+   242
+  ],
+  "reading": "がきんちょうかん",
+  "count": 1
+ },
+ {
+  "base": [
+   721
+  ],
+  "reading": "おもと",
+  "count": 1
+ },
+ {
+  "base": [
+   361
+  ],
+  "reading": "おすす",
+  "count": 1
+ },
+ {
+  "base": [
+   453,
+   807,
+   634,
+   233
+  ],
+  "reading": "きそしきそうさ",
+  "count": 1
+ },
+ {
+  "base": [
+   1180,
+   769
+  ],
+  "reading": "かいつだつ",
+  "count": 1
+ },
+ {
+  "base": [
+   1181
+  ],
+  "reading": "おおもむ",
+  "count": 1
+ },
+ {
+  "base": [
+   1033,
+   212,
+   248
+  ],
+  "reading": "がかんしやく",
+  "count": 1
+ },
+ {
+  "base": [
+   115,
+   104,
+   50,
+   34,
+   52
+  ],
+  "reading": "がひがいしゃ",
+  "count": 1
+ },
+ {
+  "base": [
+   1182
+  ],
+  "reading": "おひね",
+  "count": 1
+ },
+ {
+  "base": [
+   708
+  ],
+  "reading": "おお",
+  "count": 1
+ },
+ {
+  "base": [
+   698,
+   190
+  ],
+  "reading": "かかたが",
+  "count": 1
+ },
+ {
+  "base": [
+   76,
+   332,
+   30
+  ],
+  "reading": "がおおごしょ",
+  "count": 1
+ },
+ {
+  "base": [
+   541,
+   237,
+   83
+  ],
+  "reading": "がしゃれいきん",
+  "count": 1
+ },
+ {
+  "base": [
+   204,
+   160
+  ],
+  "reading": "かりょうしん",
+  "count": 1
+ },
+ {
+  "base": [
+   1188,
+   837
+  ],
+  "reading": "かかしゃく",
+  "count": 1
+ },
+ {
+  "base": [
+   209,
+   515,
+   763,
+   386
+  ],
+  "reading": "きちゅうとはんぱ",
+  "count": 1
+ },
+ {
+  "base": [
+   407,
+   1171
+  ],
+  "reading": "かけいべつ",
+  "count": 1
+ },
+ {
+  "base": [
+   13
+  ],
+  "reading": "おつみ",
+  "count": 1
+ },
+ {
+  "base": [
+   1191
+  ],
+  "reading": "おつぐな",
+  "count": 1
+ },
+ {
+  "base": [
+   207
+  ],
+  "reading": "おえ",
+  "count": 1
+ },
+ {
+  "base": [
+   217
+  ],
+  "reading": "おせ",
+  "count": 1
+ },
+ {
+  "base": [
+   4,
+   761
+  ],
+  "reading": "かてがら",
+  "count": 1
+ },
+ {
+  "base": [
+   864,
+   1192,
+   13
+  ],
+  "reading": "がしゅうわいざい",
+  "count": 1
+ },
+ {
+  "base": [
+   434,
+   451,
+   762,
+   179
+  ],
+  "reading": "ききんきゅうたいほ",
+  "count": 1
+ },
+ {
+  "base": [
+   1193
+  ],
+  "reading": "おは",
+  "count": 1
+ },
+ {
+  "base": [
+   1194,
+   280
+  ],
+  "reading": "かすきま",
+  "count": 1
+ },
+ {
+  "base": [
+   19,
+   1044
+  ],
+  "reading": "おあて",
+  "count": 1
+ },
+ {
+  "base": [
+   280,
+   634
+  ],
+  "reading": "おさが",
+  "count": 1
+ },
+ {
+  "base": [
+   660,
+   474
+  ],
+  "reading": "かいぜん",
+  "count": 1
+ },
+ {
+  "base": [
+   79,
+   146,
+   647
+  ],
+  "reading": "およ",
+  "count": 1
+ },
+ {
+  "base": [
+   600
+  ],
+  "reading": "おご",
+  "count": 1
+ },
+ {
+  "base": [
+   845
+  ],
+  "reading": "おとなり",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   506,
+   174,
+   75
+  ],
+  "reading": "かしんらい",
+  "count": 1
+ },
+ {
+  "base": [
+   1198
+  ],
+  "reading": "おあわ",
+  "count": 1
+ },
+ {
+  "base": [
+   1030,
+   71
+  ],
+  "reading": "かとうちゃく",
+  "count": 1
+ },
+ {
+  "base": [
+   1200
+  ],
+  "reading": "おきっ",
+  "count": 1
+ },
+ {
+  "base": [
+   428,
+   1201
+  ],
+  "reading": "かときおり",
+  "count": 1
+ },
+ {
+  "base": [
+   634,
+   233,
+   455
+  ],
+  "reading": "がそうさいん",
+  "count": 1
+ },
+ {
+  "base": [
+   76,
+   257,
+   1020
+  ],
+  "reading": "おたた",
+  "count": 1
+ },
+ {
+  "base": [
+   1202
+  ],
+  "reading": "おみじ",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   53,
+   460
+  ],
+  "reading": "がひとりむすめ",
+  "count": 1
+ },
+ {
+  "base": [
+   58
+  ],
+  "reading": "おごと",
+  "count": 1
+ },
+ {
+  "base": [
+   1208
+  ],
+  "reading": "おた",
+  "count": 1
+ },
+ {
+  "base": [
+   194,
+   506
+  ],
+  "reading": "かおそばん",
+  "count": 1
+ },
+ {
+  "base": [
+   26,
+   27,
+   1211,
+   261
+  ],
+  "reading": "きたんていかぎょう",
+  "count": 1
+ },
+ {
+  "base": [
+   546,
+   1212
+  ],
+  "reading": "かようしゃ",
+  "count": 1
+ },
+ {
+  "base": [
+   1213,
+   215
+  ],
+  "reading": "かげんかん",
+  "count": 1
+ },
+ {
+  "base": [
+   81,
+   1030
+  ],
+  "reading": "かしゅうとう",
+  "count": 1
+ },
+ {
+  "base": [
+   76,
+   664,
+   655
+  ],
+  "reading": "がだいかんげい",
+  "count": 1
+ },
+ {
+  "base": [
+   478,
+   944
+  ],
+  "reading": "かかげき",
+  "count": 1
+ },
+ {
+  "base": [
+   1220,
+   754
+  ],
+  "reading": "かかんぞう",
+  "count": 1
+ },
+ {
+  "base": [
+   518,
+   646
+  ],
+  "reading": "かあくま",
+  "count": 1
+ },
+ {
+  "base": [
+   1215,
+   725
+  ],
+  "reading": "かてんごく",
+  "count": 1
+ },
+ {
+  "base": [
+   963,
+   1222
+  ],
+  "reading": "かじごく",
+  "count": 1
+ },
+ {
+  "base": [
+   23
+  ],
+  "reading": "おち",
+  "count": 1
+ },
+ {
+  "base": [
+   445,
+   900,
+   57,
+   478
+  ],
+  "reading": "きたいふういっか",
+  "count": 1
+ },
+ {
+  "base": [
+   497,
+   498,
+   52
+  ],
+  "reading": "がぎせいしゃ",
+  "count": 1
+ },
+ {
+  "base": [
+   209
+  ],
+  "reading": "おなか",
+  "count": 1
+ },
+ {
+  "base": [
+   53,
+   1016
+  ],
+  "reading": "おそろ",
+  "count": 1
+ },
+ {
+  "base": [
+   37,
+   38,
+   442,
+   443,
+   444,
+   88,
+   89,
+   90
+  ],
+  "reading": "がせんせい",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   313,
+   395,
+   396
+  ],
+  "reading": "かあいさつ",
+  "count": 1
+ },
+ {
+  "base": [
+   367
+  ],
+  "reading": "おかたき",
+  "count": 1
+ },
+ {
+  "base": [
+   203,
+   1238,
+   572,
+   221
+  ],
+  "reading": "きとくしゅさよう",
+  "count": 1
+ },
+ {
+  "base": [
+   489
+  ],
+  "reading": "おうつわ",
+  "count": 1
+ },
+ {
+  "base": [
+   1241,
+   165
+  ],
+  "reading": "かぞくぶつ",
+  "count": 1
+ },
+ {
+  "base": [
+   76,
+   165,
+   1014,
+   871
+  ],
+  "reading": "きおおものかんりょう",
+  "count": 1
+ },
+ {
+  "base": [
+   794
+  ],
+  "reading": "おゆえ",
+  "count": 1
+ },
+ {
+  "base": [
+   1220,
+   160
+  ],
+  "reading": "かかんじん",
+  "count": 1
+ },
+ {
+  "base": [
+   1242
+  ],
+  "reading": "おひま",
+  "count": 1
+ },
+ {
+  "base": [
+   201,
+   1243
+  ],
+  "reading": "かゆうれつ",
+  "count": 1
+ },
+ {
+  "base": [
+   693,
+   1244
+  ],
+  "reading": "かじゅんすい",
+  "count": 1
+ },
+ {
+  "base": [
+   41
+  ],
+  "reading": "おおの",
+  "count": 1
+ },
+ {
+  "base": [
+   633
+  ],
+  "reading": "おあかね",
+  "count": 1
+ },
+ {
+  "base": [
+   1247,
+   774
+  ],
+  "reading": "かごらく",
+  "count": 1
+ },
+ {
+  "base": [
+   632,
+   38,
+   633
+  ],
+  "reading": "がかんざきあかね",
+  "count": 1
+ },
+ {
+  "base": [
+   24,
+   12,
+   429,
+   598
+  ],
+  "reading": "きみなづきあおい",
+  "count": 1
+ },
+ {
+  "base": [
+   28,
+   104
+  ],
+  "reading": "かじけん",
+  "count": 1
+ },
+ {
+  "base": [
+   123,
+   53,
+   424
+  ],
+  "reading": "がはんにんあつか",
+  "count": 1
+ },
+ {
+  "base": [
+   1251,
+   1252
+  ],
+  "reading": "かしゃば",
+  "count": 1
+ },
+ {
+  "base": [
+   829,
+   82
+  ],
+  "reading": "かめった",
+  "count": 1
+ },
+ {
+  "base": [
+   460
+  ],
+  "reading": "おこ",
+  "count": 1
+ },
+ {
+  "base": [
+   51,
+   1043
+  ],
+  "reading": "かぎわく",
+  "count": 1
+ },
+ {
+  "base": [
+   93,
+   804,
+   215,
+   253
+  ],
+  "reading": "きふりんかんけい",
+  "count": 1
+ },
+ {
+  "base": [
+   387
+  ],
+  "reading": "おわす",
+  "count": 1
+ },
+ {
+  "base": [
+   298,
+   80
+  ],
+  "reading": "かがたみ",
+  "count": 1
+ },
+ {
+  "base": [
+   176,
+   1253,
+   1090,
+   529
+  ],
+  "reading": "ききょうようかてい",
+  "count": 1
+ },
+ {
+  "base": [
+   881,
+   959
+  ],
+  "reading": "かせんこう",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   1094
+  ],
+  "reading": "かいちがい",
+  "count": 1
+ },
+ {
+  "base": [
+   1043
+  ],
+  "reading": "おまど",
+  "count": 1
+ },
+ {
+  "base": [
+   1254
+  ],
+  "reading": "おとら",
+  "count": 1
+ },
+ {
+  "base": [
+   301,
+   1255,
+   509
+  ],
+  "reading": "がかわいそう",
+  "count": 1
+ },
+ {
+  "base": [
+   59,
+   172
+  ],
+  "reading": "かこうりょ",
+  "count": 1
+ },
+ {
+  "base": [
+   145,
+   80
+  ],
+  "reading": "かせんけん",
+  "count": 1
+ },
+ {
+  "base": [
+   283
+  ],
+  "reading": "おめい",
+  "count": 1
+ },
+ {
+  "base": [
+   175,
+   1256
+  ],
+  "reading": "かばつぐん",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   515
+  ],
+  "reading": "かいちず",
+  "count": 1
+ },
+ {
+  "base": [
+   425
+  ],
+  "reading": "おこい",
+  "count": 1
+ },
+ {
+  "base": [
+   932,
+   754,
+   45
+  ],
+  "reading": "がじんぞうびょう",
+  "count": 1
+ },
+ {
+  "base": [
+   53,
+   688,
+   933,
+   934
+  ],
+  "reading": "きじんこうとうせき",
+  "count": 1
+ },
+ {
+  "base": [
+   1258,
+   251,
+   101,
+   1259,
+   1260
+  ],
+  "reading": "ぎきょけつせいちょうえん",
+  "count": 1
+ },
+ {
+  "base": [
+   1261,
+   8
+  ],
+  "reading": "かへいはつ",
+  "count": 1
+ },
+ {
+  "base": [
+   794,
+   53
+  ],
+  "reading": "かこじん",
+  "count": 1
+ },
+ {
+  "base": [
+   763,
+   327,
+   1164
+  ],
+  "reading": "おあきら",
+  "count": 1
+ },
+ {
+  "base": [
+   88,
+   89,
+   90
+  ],
+  "reading": "がせんせい",
+  "count": 1
+ },
+ {
+  "base": [
+   1265,
+   1159,
+   1239,
+   56
+  ],
+  "reading": "きせんさばんべつ",
+  "count": 1
+ },
+ {
+  "base": [
+   682,
+   176,
+   471
+  ],
+  "reading": "がせっきょうくさ",
+  "count": 1
+ },
+ {
+  "base": [
+   729
+  ],
+  "reading": "おか",
+  "count": 1
+ },
+ {
+  "base": [
+   1266
+  ],
+  "reading": "おみな",
+  "count": 1
+ },
+ {
+  "base": [
+   483,
+   610
+  ],
+  "reading": "かゆうえき",
+  "count": 1
+ },
+ {
+  "base": [
+   1267
+  ],
+  "reading": "おせば",
+  "count": 1
+ },
+ {
+  "base": [
+   477
+  ],
+  "reading": "おヒト",
+  "count": 1
+ },
+ {
+  "base": [
+   1215,
+   1268,
+   1269,
+   772
+  ],
+  "reading": "きてんがいこどく",
+  "count": 1
+ },
+ {
+  "base": [
+   137
+  ],
+  "reading": "おただ",
+  "count": 1
+ },
+ {
+  "base": [
+   1235
+  ],
+  "reading": "おはな",
+  "count": 1
+ },
+ {
+  "base": [
+   1270,
+   77
+  ],
+  "reading": "かもったい",
+  "count": 1
+ },
+ {
+  "base": [
+   1149
+  ],
+  "reading": "おのぞ",
+  "count": 1
+ },
+ {
+  "base": [
+   289,
+   351
+  ],
+  "reading": "かあんざん",
+  "count": 1
+ },
+ {
+  "base": [
+   828,
+   224
+  ],
+  "reading": "かきがん",
+  "count": 1
+ },
+ {
+  "base": [
+   459
+  ],
+  "reading": "おきち",
+  "count": 1
+ },
+ {
+  "base": [
+   924
+  ],
+  "reading": "おは",
+  "count": 1
+ },
+ {
+  "base": [
+   948
+  ],
+  "reading": "おぶ",
+  "count": 1
+ },
+ {
+  "base": [
+   1276
+  ],
+  "reading": "おさ",
+  "count": 1
+ },
+ {
+  "base": [
+   1277
+  ],
+  "reading": "おた",
+  "count": 1
+ },
+ {
+  "base": [
+   76,
+   238
+  ],
+  "reading": "かおおいそが",
+  "count": 1
+ },
+ {
+  "base": [
+   463,
+   466
+  ],
+  "reading": "かきょうぐう",
+  "count": 1
+ },
+ {
+  "base": [
+   329,
+   552
+  ],
+  "reading": "かりくつ",
+  "count": 1
+ },
+ {
+  "base": [
+   56,
+   104,
+   762,
+   179
+  ],
+  "reading": "かたいほ",
+  "count": 1
+ },
+ {
+  "base": [
+   1211
+  ],
+  "reading": "おかせ",
+  "count": 1
+ },
+ {
+  "base": [
+   1282
+  ],
+  "reading": "おたな",
+  "count": 1
+ },
+ {
+  "base": [
+   206,
+   948
+  ],
+  "reading": "かからぶ",
+  "count": 1
+ },
+ {
+  "base": [
+   1283,
+   267
+  ],
+  "reading": "かけいこう",
+  "count": 1
+ },
+ {
+  "base": [
+   749,
+   1284
+  ],
+  "reading": "かさいぼう",
+  "count": 1
+ },
+ {
+  "base": [
+   1286
+  ],
+  "reading": "おう",
+  "count": 1
+ },
+ {
+  "base": [
+   1287
+  ],
+  "reading": "おの",
+  "count": 1
+ },
+ {
+  "base": [
+   507
+  ],
+  "reading": "おか",
+  "count": 1
+ },
+ {
+  "base": [
+   1288
+  ],
+  "reading": "おのど",
+  "count": 1
+ },
+ {
+  "base": [
+   1289
+  ],
+  "reading": "おかわ",
+  "count": 1
+ },
+ {
+  "base": [
+   1290,
+   139
+  ],
+  "reading": "かそくとう",
+  "count": 1
+ },
+ {
+  "base": [
+   1021
+  ],
+  "reading": "おじ",
+  "count": 1
+ },
+ {
+  "base": [
+   629
+  ],
+  "reading": "おうま",
+  "count": 1
+ },
+ {
+  "base": [
+   1291
+  ],
+  "reading": "おか",
+  "count": 1
+ },
+ {
+  "base": [
+   927,
+   480,
+   814
+  ],
+  "reading": "がちょうせんじょう",
+  "count": 1
+ },
+ {
+  "base": [
+   1148
+  ],
+  "reading": "おかべ",
+  "count": 1
+ },
+ {
+  "base": [
+   232,
+   66,
+   1292
+  ],
+  "reading": "おくる",
+  "count": 1
+ },
+ {
+  "base": [
+   547,
+   439,
+   170,
+   1293,
+   291
+  ],
+  "reading": "ぎけいさつじょうそうぶ",
+  "count": 1
+ },
+ {
+  "base": [
+   547,
+   439,
+   1061
+  ],
+  "reading": "がけいさつちょう",
+  "count": 1
+ },
+ {
+  "base": [
+   1295,
+   71
+  ],
+  "reading": "かゆちゃく",
+  "count": 1
+ },
+ {
+  "base": [
+   478,
+   1296,
+   166,
+   167
+  ],
+  "reading": "きかじょうはんのう",
+  "count": 1
+ },
+ {
+  "base": [
+   76,
+   535
+  ],
+  "reading": "かたいてい",
+  "count": 1
+ },
+ {
+  "base": [
+   1297
+  ],
+  "reading": "おあ",
+  "count": 1
+ },
+ {
+  "base": [
+   1272,
+   1274
+  ],
+  "reading": "かゆぶね",
+  "count": 1
+ },
+ {
+  "base": [
+   257,
+   948
+  ],
+  "reading": "かくちぶ",
+  "count": 1
+ },
+ {
+  "base": [
+   1144
+  ],
+  "reading": "おふ",
+  "count": 1
+ },
+ {
+  "base": [
+   763,
+   174,
+   763,
+   51
+  ],
+  "reading": "きはんしんはんぎ",
+  "count": 1
+ },
+ {
+  "base": [
+   381
+  ],
+  "reading": "おつ",
+  "count": 1
+ },
+ {
+  "base": [
+   247,
+   720
+  ],
+  "reading": "かゆうべ",
+  "count": 1
+ },
+ {
+  "base": [
+   1312,
+   152
+  ],
+  "reading": "かびこう",
+  "count": 1
+ },
+ {
+  "base": [
+   209
+  ],
+  "reading": "おちゅう",
+  "count": 1
+ },
+ {
+  "base": [
+   142,
+   640
+  ],
+  "reading": "かけっか",
+  "count": 1
+ },
+ {
+  "base": [
+   21,
+   22
+  ],
+  "reading": "かしらかわ",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   317
+  ],
+  "reading": "かいちろう",
+  "count": 1
+ },
+ {
+  "base": [
+   1314
+  ],
+  "reading": "おほこ",
+  "count": 1
+ },
+ {
+  "base": [
+   213,
+   134,
+   1122
+  ],
+  "reading": "がせんじょうこん",
+  "count": 1
+ },
+ {
+  "base": [
+   1166,
+   407
+  ],
+  "reading": "かげんけい",
+  "count": 1
+ },
+ {
+  "base": [
+   377
+  ],
+  "reading": "おつ",
+  "count": 1
+ },
+ {
+  "base": [
+   67,
+   119
+  ],
+  "reading": "かりっしょう",
+  "count": 1
+ },
+ {
+  "base": [
+   222,
+   977,
+   1161
+  ],
+  "reading": "がもくひけん",
+  "count": 1
+ },
+ {
+  "base": [
+   669,
+   1317
+  ],
+  "reading": "かきさい",
+  "count": 1
+ },
+ {
+  "base": [
+   39,
+   66
+  ],
+  "reading": "かのりこ",
+  "count": 1
+ },
+ {
+  "base": [
+   814,
+   815,
+   119,
+   120
+  ],
+  "reading": "きじょうきょうしょうこ",
+  "count": 1
+ },
+ {
+  "base": [
+   1320
+  ],
+  "reading": "おかな",
+  "count": 1
+ },
+ {
+  "base": [
+   1321,
+   707
+  ],
+  "reading": "かかんぱい",
+  "count": 1
+ },
+ {
+  "base": [
+   87,
+   368,
+   88,
+   89,
+   53
+  ],
+  "reading": "ぎしせんべんごにん",
+  "count": 1
+ },
+ {
+  "base": [
+   179
+  ],
+  "reading": "おとら",
+  "count": 1
+ },
+ {
+  "base": [
+   1323,
+   57
+  ],
+  "reading": "かちくいち",
+  "count": 1
+ },
+ {
+  "base": [
+   1307
+  ],
+  "reading": "おさ",
+  "count": 1
+ },
+ {
+  "base": [
+   209,
+   515
+  ],
+  "reading": "かちゅうと",
+  "count": 1
+ },
+ {
+  "base": [
+   763,
+   386
+  ],
+  "reading": "かはんぱ",
+  "count": 1
+ },
+ {
+  "base": [
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30
+  ],
+  "reading": "ぐみずたにたんていじむしょ",
+  "count": 1
+ },
+ {
+  "base": [
+   24,
+   25
+  ],
+  "reading": "かみずたに",
+  "count": 1
+ },
+ {
+  "base": [
+   37,
+   38,
+   39,
+   40,
+   28,
+   29,
+   30
+  ],
+  "reading": "ぐぬまさきほうりつじむしょ",
+  "count": 1
+ },
+ {
+  "base": [
+   779
+  ],
+  "reading": "おせき",
+  "count": 1
+ },
+ {
+  "base": [
+   37,
+   38
+  ],
+  "reading": "かぬまさき",
+  "count": 1
+ },
+ {
+  "base": [
+   1057,
+   1058
+  ],
+  "reading": "かななしば",
+  "count": 1
+ },
+ {
+  "base": [
+   921,
+   429
+  ],
+  "reading": "かいつき",
+  "count": 1
+ },
+ {
+  "base": [
+   329,
+   461
+  ],
+  "reading": "かりゆう",
+  "count": 1
+ },
+ {
+  "base": [
+   758,
+   468
+  ],
+  "reading": "かおしょく",
+  "count": 1
+ },
+ {
+  "base": [
+   1325,
+   206
+  ],
+  "reading": "かかくう",
+  "count": 1
+ },
+ {
+  "base": [
+   966
+  ],
+  "reading": "おつか",
+  "count": 1
+ },
+ {
+  "base": [
+   791,
+   28
+  ],
+  "reading": "かけんじ",
+  "count": 1
+ },
+ {
+  "base": [
+   656,
+   657,
+   960,
+   542
+  ],
+  "reading": "きこうりゅうせいきゅう",
+  "count": 1
+ },
+ {
+  "base": [
+   215,
+   290
+  ],
+  "reading": "かかんよ",
+  "count": 1
+ },
+ {
+  "base": [
+   846,
+   152
+  ],
+  "reading": "かきょうこう",
+  "count": 1
+ },
+ {
+  "base": [
+   656,
+   657,
+   156,
+   150
+  ],
+  "reading": "きこうりゅうしつもん",
+  "count": 1
+ },
+ {
+  "base": [
+   0,
+   957,
+   964
+  ],
+  "reading": "がしんまちく",
+  "count": 1
+ },
+ {
+  "base": [
+   106,
+   244
+  ],
+  "reading": "かふじしろ",
+  "count": 1
+ },
+ {
+  "base": [
+   1327,
+   621
+  ],
+  "reading": "かあぶらあせ",
+  "count": 1
+ },
+ {
+  "base": [
+   857,
+   858,
+   496
+  ],
+  "reading": "がむじゅんてん",
+  "count": 1
+ },
+ {
+  "base": [
+   345,
+   708,
+   601,
+   97
+  ],
+  "reading": "きけいたいでんわ",
+  "count": 1
+ },
+ {
+  "base": [
+   1328
+  ],
+  "reading": "おうなづ",
+  "count": 1
+ },
+ {
+  "base": [
+   150
+  ],
+  "reading": "おと",
+  "count": 1
+ },
+ {
+  "base": [
+   642,
+   52,
+   768
+  ],
+  "reading": "ががくしゃはだ",
+  "count": 1
+ },
+ {
+  "base": [
+   1161,
+   1329
+  ],
+  "reading": "かけんい",
+  "count": 1
+ },
+ {
+  "base": [
+   1330
+  ],
+  "reading": "おとみ",
+  "count": 1
+ },
+ {
+  "base": [
+   570,
+   294
+  ],
+  "reading": "かけいしょう",
+  "count": 1
+ },
+ {
+  "base": [
+   1331
+  ],
+  "reading": "おか",
+  "count": 1
+ },
+ {
+  "base": [
+   1334
+  ],
+  "reading": "おく",
+  "count": 1
+ },
+ {
+  "base": [
+   1335
+  ],
+  "reading": "おも",
+  "count": 1
+ },
+ {
+  "base": [
+   120,
+   496
+  ],
+  "reading": "かきょてん",
+  "count": 1
+ },
+ {
+  "base": [
+   56,
+   1333
+  ],
+  "reading": "かべっそう",
+  "count": 1
+ },
+ {
+  "base": [
+   983,
+   984,
+   801
+  ],
+  "reading": "がしっとうい",
+  "count": 1
+ },
+ {
+  "base": [
+   352,
+   353,
+   52
+  ],
+  "reading": "がていきょうしゃ",
+  "count": 1
+ },
+ {
+  "base": [
+   1338,
+   1339
+  ],
+  "reading": "かまゆつば",
+  "count": 1
+ },
+ {
+  "base": [
+   1225
+  ],
+  "reading": "おうなが",
+  "count": 1
+ },
+ {
+  "base": [
+   30,
+   1299
+  ],
+  "reading": "かしょせん",
+  "count": 1
+ },
+ {
+  "base": [
+   769
+  ],
+  "reading": "おだっ",
+  "count": 1
+ },
+ {
+  "base": [
+   467,
+   1343
+  ],
+  "reading": "かふくしゅう",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   517,
+   194
+  ],
+  "reading": "おおそ",
+  "count": 1
+ },
+ {
+  "base": [
+   893,
+   853
+  ],
+  "reading": "かついせき",
+  "count": 1
+ },
+ {
+  "base": [
+   428,
+   280,
+   1211
+  ],
+  "reading": "がじかんかせ",
+  "count": 1
+ },
+ {
+  "base": [
+   142,
+   1345
+  ],
+  "reading": "かけったく",
+  "count": 1
+ },
+ {
+  "base": [
+   690,
+   29,
+   30
+  ],
+  "reading": "がけいむしょ",
+  "count": 1
+ },
+ {
+  "base": [
+   1347
+  ],
+  "reading": "おうれ",
+  "count": 1
+ },
+ {
+  "base": [
+   1304,
+   13
+  ],
+  "reading": "かしょくざい",
+  "count": 1
+ },
+ {
+  "base": [
+   390
+  ],
+  "reading": "おき",
+  "count": 1
+ },
+ {
+  "base": [
+   508
+  ],
+  "reading": "おじ",
+  "count": 1
+ },
+ {
+  "base": [
+   736
+  ],
+  "reading": "おきず",
+  "count": 1
+ },
+ {
+  "base": [
+   1348
+  ],
+  "reading": "おおとろ",
+  "count": 1
+ },
+ {
+  "base": [
+   169,
+   170,
+   218
+  ],
+  "reading": "おひ",
+  "count": 1
+ },
+ {
+  "base": [
+   1062
+  ],
+  "reading": "おの",
+  "count": 1
+ },
+ {
+  "base": [
+   983,
+   152,
+   1108,
+   162
+  ],
+  "reading": "きしっこうていし",
+  "count": 1
+ },
+ {
+  "base": [
+   628,
+   1349
+  ],
+  "reading": "かじゅうたい",
+  "count": 1
+ },
+ {
+  "base": [
+   373,
+   374,
+   145,
+   484
+  ],
+  "reading": "かせんぱい",
+  "count": 1
+ },
+ {
+  "base": [
+   503,
+   732,
+   92,
+   960
+  ],
+  "reading": "きほしゃくしんせい",
+  "count": 1
+ },
+ {
+  "base": [
+   13,
+   814
+  ],
+  "reading": "かざいじょう",
+  "count": 1
+ },
+ {
+  "base": [
+   33,
+   53,
+   1129,
+   1351
+  ],
+  "reading": "きさつじんみすい",
+  "count": 1
+ },
+ {
+  "base": [
+   1,
+   814,
+   1352,
+   1146
+  ],
+  "reading": "きじょうじょうしゃくりょう",
+  "count": 1
+ },
+ {
+  "base": [
+   372
+  ],
+  "reading": "おと",
+  "count": 1
+ },
+ {
+  "base": [
+   356,
+   847
+  ],
+  "reading": "かそれ",
+  "count": 1
+ },
+ {
+  "base": [
+   685,
+   332,
+   854
+  ],
+  "reading": "がぼうぎょさく",
+  "count": 1
+ },
+ {
+  "base": [
+   789
+  ],
+  "reading": "おおさ",
+  "count": 1
+ },
+ {
+  "base": [
+   867
+  ],
+  "reading": "おあやつ",
+  "count": 1
+ },
+ {
+  "base": [
+   1011,
+   1004,
+   601,
+   97
+  ],
+  "reading": "ききょうはくでんわ",
+  "count": 1
+ },
+ {
+  "base": [
+   57,
+   1356,
+   71
+  ],
+  "reading": "がひともんちゃく",
+  "count": 1
+ },
+ {
+  "base": [
+   842,
+   1357
+  ],
+  "reading": "かかんぺき",
+  "count": 1
+ },
+ {
+  "base": [
+   1358
+  ],
+  "reading": "おくじ",
+  "count": 1
+ },
+ {
+  "base": [
+   1351
+  ],
+  "reading": "おと",
+  "count": 1
+ },
+ {
+  "base": [
+   769,
+   1025
+  ],
+  "reading": "かだつぼう",
+  "count": 1
+ },
+ {
+  "base": [
+   564,
+   474,
+   194
+  ],
+  "reading": "おおそ",
+  "count": 1
+ },
+ {
+  "base": [
+   368,
+   1359
+  ],
+  "reading": "かせんたく",
+  "count": 1
+ },
+ {
+  "base": [
+   1360,
+   1361
+  ],
+  "reading": "かしっと",
+  "count": 1
+ },
+ {
+  "base": [
+   492,
+   466
+  ],
+  "reading": "かきぐう",
+  "count": 1
+ },
+ {
+  "base": [
+   152,
+   158,
+   93,
+   283
+  ],
+  "reading": "きゆくえふめい",
+  "count": 1
+ }
+]

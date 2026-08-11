@@ -1,0 +1,3408 @@
+{
+  "schema": "enkaku_translation_semantic_overrides_v1",
+  "generated_from": [
+    "build\\translation_ko_clean.tsv",
+    "font_extract\\script_full_ja.tsv",
+    "build\\translation_semantic_audit_cfg16.json"
+  ],
+  "policy": {
+    "only_high_confidence": true,
+    "speaker_tags_preserved_unless_the_source_sentence_is_narration": true,
+    "remaining_kanji_review_is_not_silently_resolved": true
+  },
+  "count": 424,
+  "overrides": [
+    {
+      "offset": "0x00047b38",
+      "source": "【光志】\\n自分の不訪になるようなことまですべて話してくれたけど、\\n客観的な証言、証拠《しょうこ》が出ない限り、\\n信用はできない……",
+      "old_korean": "【코우지】\\n자신에게 불리할 만한 일까지\\n모두 말해 줬지만,\\n객관적인 증거가 나오지 않는 한\\n믿을\\n수는 없어……",
+      "korean": "【코우지】\n자신에게 불리할 만한 일까지\n모두 말해 줬지만,\n객관적인 증언이나 증거가 나오지 않는 한\n믿을 수는 없어……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00047c40",
+      "source": "【光志】\\n水無副が言ってた、\\nＶＩＰルームの通路を出てきた男ってのは、\\nおそらく沼崎弁護士のことだろう。",
+      "old_korean": "【코우지】\\n미나즈키가 말한,\\nVIP 룸 통로에서 나오는 걸\\n봤다는\\n녀석은,\\n아마 미우라 형사를 말하는 거겠지.",
+      "korean": "【코우지】\n미나즈키가 말한,\nVIP룸 통로에서 나오는 걸 봤다는\n남자는, 아마 누마사키 변호사를\n말하는 거겠지.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00047ce4",
+      "source": "【光志】\\nたしか沼崎弁護士は２３恋過ぎに現場に着いて、\\nＶＩＰルームで５分くらい\\n紆ち合わせをしたって言ってたよな？",
+      "old_korean": "【코우지】\\n확실히 미우라 형사는 23시 무렵\\n현장에\\n도착해,\\nVIP 룸에서 5분 정도\\n만나기로 했다고 말했지?",
+      "korean": "【코우지】\n확실히 누마사키 변호사는 23시 무렵\n현장에 도착해,\nVIP룸에서 5분 정도\n만나고 있었다고 했지?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00047d6d",
+      "source": "【光志】\\nざっくりと考えて、\\n堂に入りＶＩＰルームに入る手続きをして、\\n沼崎弁護士が出て行くまで御１０分と考えよう。",
+      "old_korean": "【코우지】\\n대략적으로 생각해서,\\n처음 VIP 룸에 들어가기 위한\\n준비를\\n하고\\n미우라 형사가 나갈 때까지 대략\\n10분이라고 치자.",
+      "korean": "【코우지】\n대략적으로 생각해서,\n홀에 들어가 VIP룸에 들어가기 위한\n절차를 밟고,\n누마사키 변호사가 나갈 때까지 대략\n10분이라고 치자.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0004803f",
+      "source": "【光志】\\n沼崎弁護士は何恋頃《ごろ》にＶＩＰルームを\\n出たんだろう？",
+      "old_korean": "【코우지】\\n미우라 형사는 몇 시쯤 VIP 룸을\\n나왔을까?",
+      "korean": "【코우지】\n누마사키 변호사는 몇 시쯤 VIP룸을\n나왔을까?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000517ec",
+      "source": "【法子】\\nあの……\\n桜蔭高校の生徒さんですよね？",
+      "old_korean": "【노리코】\\n저…\\n준텐 고등학교의 생선이군요?",
+      "korean": "【노리코】\n저……\n준텐 고등학교 학생이시죠?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00051d3c",
+      "source": "【法子】\\n事件当日、お兄さんが着ていた服って\\nわかりますか？",
+      "old_korean": "【노리코】\\n사건 당일, 엄마가 입고 있던 옷은\\n알겠습니까?",
+      "korean": "【노리코】\\n사건 당일, 오빠가 입고 있던 옷은\\n알겠습니까?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00051e4f",
+      "source": "【茜】\\nわからないんなら、\\n調べればいいじゃん！\\nお兄さんに直接聞くとかさ！",
+      "old_korean": "【아카네】\\n모르면\\n조사하면 되잖아!\\n엄마한테 직접 물어보든가!",
+      "korean": "【아카네】\\n모르면\\n조사하면 되잖아!\\n오빠한테 직접 물어보든가!",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00052494",
+      "source": "【法子】\\nううん、掛《か》かってこなかったわ。\\nやっぱり聞きにくかったのか、\\nそれともお兄さんが家にいなかったか……",
+      "old_korean": "【노리코】\\n응, 걸려 오지 않았어. \\n역시 듣기 어려웠는지,\\n 아니면 엄마가 집에 없었는지…",
+      "korean": "【노리코】\\n응, 걸려 오지 않았어. \\n역시 듣기 어려웠는지,\\n 아니면 오빠가 집에 없었는지…",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0005398e",
+      "source": "【女子高生】\\n殺人事件からペットの捜索《そうさく》まで、\\nお悩《なや》みごと、なんでも婚倚しちゃいます！！",
+      "old_korean": "【여고생】\\n야인 사건으로부터 애완동물의\\n수색까지,\\n아니, 뭐든지 해결해 버립니다! !",
+      "korean": "【여고생】\n살인 사건부터 애완동물 수색까지,\n온갖 고민을 말끔히 해결해 드립니다!!",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00054689",
+      "source": "【法子】\\nマイペースな人ですので、\\n勾留《こうりゅう》されている悲壮感《ひそうかん》みたいなものは\\nあまりないですね。",
+      "old_korean": "【노리코】\\n마이 페이스인 사람이므로,\\n상어지고 있는 비참감 같은 것은\\n별로 없네요.",
+      "korean": "【노리코】\n마이페이스인 사람이니까,\n구류되어 있는 비참함 같은 건\n별로 느끼지 않나 보네요.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00059108",
+      "source": "【法子】\\nお兄さんの趣味《しゅみ》ってなんですか？",
+      "old_korean": "【노리코】\\n엄마의 취미는 무엇입니까?",
+      "korean": "【노리코】\\n오빠의 취미는 무엇입니까?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000592e3",
+      "source": "【茜】\\nとにかくテレビに向かってるよね、\\n葵のお兄さんって。",
+      "old_korean": "【아카네】\\n어쨌든 텔레비전으로 향하고 있지요,\\n아오이의 엄마는.",
+      "korean": "【아카네】\\n어쨌든 텔레비전으로 향하고 있지요,\\n아오이의 오빠는.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0005947c",
+      "source": "【法子】\\nわかりました。\\nお兄さんはモニターの前にいることが\\n多いってことですね。",
+      "old_korean": "【노리코】\\n알았습니다. \\n엄마는 모니터 앞에 있는 것이 \\n많다는 것이군요.",
+      "korean": "【노리코】\\n알았습니다. \\n오빠는 모니터 앞에 있는 것이 \\n많다는 것이군요.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00059500",
+      "source": "【葵】\\n兄はモニターの前にいることが\\n多いです。",
+      "old_korean": "【아오이】\\n어머니는 모니터 앞에있을 수\\n있습니다.\\n많습니다.",
+      "korean": "【아오이】\\n오빠는 모니터 앞에있을 수\\n있습니다.\\n많습니다.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00059566",
+      "source": "【法子】\\nお兄さんはどんな性営なんですか？",
+      "old_korean": "【노리코】\\n어머니는 어떤 성각 무엇입니까?",
+      "korean": "【노리코】\\n오빠는 어떤 성각 무엇입니까?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000596cd",
+      "source": "【茜】\\nああ、わかるなぁ……\\n葵のお兄さんだからあんまり義く言いたくないけど、\\nアタシもちょっと八《こわ》い感じはするよ。",
+      "old_korean": "【아카네】\\n아, 알겠구나…\\n아오이의 엄마이기 때문에 그렇게\\n나쁘게\\n말하고 싶지는 않지만,\\n어타시도 조금 촉촉한 느낌은 할게.",
+      "korean": "【아카네】\\n아, 알겠구나…\\n아오이의 오빠이기 때문에 그렇게\\n나쁘게\\n말하고 싶지는 않지만,\\n어타시도 조금 촉촉한 느낌은 할게.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0005974e",
+      "source": "【茜】\\n葵の部屋で話してても、\\n枚然お兄さんの部屋から鮭《さけ》び声《ごえ》が聞こえたりするし。",
+      "old_korean": "【아카네】\\n아오이의 방에서 이야기해도,\\n적연히 엄마의 방으로부터 술소리가\\n들리기도 하고.",
+      "korean": "【아카네】\\n아오이의 방에서 이야기해도,\\n적연히 오빠의 방으로부터 술소리가\\n들리기도 하고.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00059888",
+      "source": "【葵】\\n兄はとにかく店《ま》けず過《ぎら》いなんです。\\n狭からなんですけど……",
+      "old_korean": "【아오이】\\n어머니는 어쨌든 실수하지 않고\\n싫어요. \\n자기부터입니다만…",
+      "korean": "【아오이】\\n오빠는 어쨌든 실수하지 않고\\n싫어요. \\n자기부터입니다만…",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000598f0",
+      "source": "【茜】\\nアタシも店《ま》けず過《ぎら》いなとこがあるけど、\\n葵のお兄さんは別営だよねー",
+      "old_korean": "【아카네】\\n나도 좋지 않고 싫어하는 사촌이\\n있지만,\\n아오이의 엄마는 별도입니다.",
+      "korean": "【아카네】\\n나도 좋지 않고 싫어하는 사촌이\\n있지만,\\n아오이의 오빠는 별도입니다.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00059b00",
+      "source": "【葵】\\n兄が言うには、屈警《くつじょく》を咫《あた》えられた相手には\\n同じ屈警《くつじょく》を味あわせないと\\n気が済まないらしいんです。",
+      "old_korean": "【아오이】\\n어머니가 말하기에는, 굴욕을 물린\\n상대에게는\\n같은 굴욕을 맛보지 않으면\\n기분이 참지 않는 것 같습니다.",
+      "korean": "【아오이】\\n오빠가 말하기에는, 굴욕을 물린\\n상대에게는\\n같은 굴욕을 맛보지 않으면\\n기분이 참지 않는 것 같습니다.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00059eee",
+      "source": "【法子】\\nお兄さんの性営、よくわかりました。\\nありがとうございます。",
+      "old_korean": "【노리코】\\n엄마의 성각, 잘 알았습니다. \\n감사합니다.",
+      "korean": "【노리코】\\n오빠의 성각, 잘 알았습니다. \\n감사합니다.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00059fa4",
+      "source": "【葵】\\n兄はとにかく店《ま》けず過《ぎら》いなんです。",
+      "old_korean": "【아오이】\\n어머니는 어쨌든 실수하지 않고\\n싫어요.",
+      "korean": "【아오이】\\n오빠는 어쨌든 실수하지 않고\\n싫어요.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00059ffd",
+      "source": "【葵】\\nあっ、でも、店《ま》けず過《ぎら》いになったのは、\\n会各をクビになってからで、\\n以前は悔際だったんですよ。",
+      "old_korean": "【아오이】\\n아니, 하지만, 실수없이 싫어진\\n것은,\\n회사를 곰팡이가 되고 나서로,\\n이전은 단양이었어요.",
+      "korean": "【아오이】\n아, 하지만 지는 걸 싫어하게 된 건\n회사에서 해고되고 나서였어요.\n그전에는 내성적이었거든요.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0005a74a",
+      "source": "【法子】\\nええ。\\n葵さんのお兄さんの話を聞きたくて……\\n少しいいですか？",
+      "old_korean": "【노리코】\\n네.\\n아오이 씨 어머니에 대해 여쭤보고\\n싶은데……\\n잠시 괜찮을까요?",
+      "korean": "【노리코】\\n네.\\n아오이 씨 오빠에 대해 여쭤보고\\n싶은데……\\n잠시 괜찮을까요?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0005a7b0",
+      "source": "【葵】\\n兄の話……ですか？\\nなんでしょう？",
+      "old_korean": "【아오이】\\n어머니 이야기……인가요?\\n무엇이죠?",
+      "korean": "【아오이】\\n오빠 이야기……인가요?\\n무엇이죠?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0005ad18",
+      "source": "【法子】\\nええ。\\n葵さんのお兄さんの話を聞きたくて……\\n少しいいですか？",
+      "old_korean": "【노리코】\\n네.\\n아오이 씨 어머니에 대해 여쭤보고\\n싶은데……\\n잠시 괜찮을까요?",
+      "korean": "【노리코】\\n네.\\n아오이 씨 오빠에 대해 여쭤보고\\n싶은데……\\n잠시 괜찮을까요?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0005ad97",
+      "source": "【葵】\\n兄の話……ですか？\\nなんでしょう？",
+      "old_korean": "【아오이】\\n어머니 이야기……인가요?\\n무엇이죠?",
+      "korean": "【아오이】\\n오빠 이야기……인가요?\\n무엇이죠?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0005af5f",
+      "source": "【茜】\\nだって、弁護士さん、\\n真犯人を見つけるために調査してるんですよね？",
+      "old_korean": "【아카네】\\n이라도, 변호사씨,\\n진범인을 찾기 위해 조사하고 있는\\n거죠?",
+      "korean": "【아카네】\\n이라도, 변호사씨,\\n진범을 찾기 위해 조사하고 있는\\n거죠?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0005d72f",
+      "source": "【法子】\\n所長は被害者《ひがいしゃ》……\\n白川真了さんの兄と友人だったし、\\n真了さんとも一緒《いっしょ》に仕事をしてたはずよ。",
+      "old_korean": "【노리코】\\n소장님은 피해자……\\n시라카와 신지 씨의 어머니와\\n친구였고,\\n신지 씨와도 함께 일했을 거야.",
+      "korean": "【노리코】\\n소장님은 피해자……\\n시라카와 신지 씨의 오빠와\\n친구였고,\\n신지 씨와도 함께 일했을 거야.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00060f28",
+      "source": "【朝等】\\nあの白川さんも一押置いてた。\\nでも、私がクビになったあとで\\n彼もクビになったと聞いて十《おどろ》いた記憶《きおく》があったわ。",
+      "old_korean": "【아사츠유】\\n그 시라카와씨도 한눈에 두고\\n있었다. \\n그래도, 내가 곰팡이가 된 뒤에\\n아야도 곰팡이가 되었다고 듣고\\n가시한\\n기억이 있었어.",
+      "korean": "【아사츠유】\n그 시라카와 씨도 인정하고 있었어.\n하지만 내가 해고된 뒤에\n그 사람도 해고됐다는 말을 듣고\n놀랐던 기억이 나.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00060fd0",
+      "source": "【朝等】\\nしかも、クビになった理由が病気だって聞いて、\\nああ、自分と一緒《いっしょ》だって同情して……\\nでも、実際はアタシよりもツラい思いをしてたみたい。",
+      "old_korean": "【아사츠유】\\n게다가 곰팡이가 된 이유이 아프다고\\n두고,\\n아, 자기와 함께라도 동정하고…\\n하지만, 실제로는 딱딱한 것보다\\n짜증나는\\n무거운 짓을 하고 싶다.",
+      "korean": "【아사츠유】\n게다가 해고된 이유가 병 때문이라고 들어서,\n아, 나와 같다고 생각해 동정했는데……\n하지만 실제로는 나보다 더 괴로운 일을\n당했던 모양이야.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0006110e",
+      "source": "【朝等】\\n病気を理由にクビを切られて……\\n本人は満得しなかったでしょうね。",
+      "old_korean": "【아사츠유】\\n병을 이유로 곰팡이를\\n끊어져......\\n본인은 납득하지 않았겠지요.",
+      "korean": "【아사츠유】\n병을 이유로 해고당해서……\n본인은 납득하지 못했겠지요.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00066a5e",
+      "source": "【法子】\\n……それって……？\\nコウジのお母さんが\\n誰《だれ》かに殺されたってこと……！？",
+      "old_korean": "【노리코】\\n……그렇다고… \\n코우지의 엄마가\\n누군가에게 찢어졌다는\\n것......! ?",
+      "korean": "【노리코】\n……그렇다는 건……\n코우지의 어머니가\n누군가에게 살해당했다는 것……!?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00067e2a",
+      "source": "【法子】\\n組織的に……？\\nまさか、その事実を閣蔽《いんぺい》するために、\\n被害者《ひがいしゃ》を殺した……！？",
+      "old_korean": "【노리코】\\n권위적으로… \\n설마, 그 사실을 각오하기 위해서,\\n피해자를 얹었다… ?",
+      "korean": "【노리코】\n조직적으로……?\n설마, 그 사실을 은폐하기 위해\n피해자를 죽였다……!? ",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0006961b",
+      "source": "【西状】\\nすみません、今、生徒の痛が来ておりまして。\\n応接室が況《う》まっているので、\\n立ち話になってしまいますが……",
+      "old_korean": "【도요시마】\\n죄송합니다, 지금 생선의 마음이 와\\n있어요. \\n응접실이 떠들고 있으므로,\\n서화가 되어 버립니다만…",
+      "korean": "【도요시마】\n죄송합니다. 지금 학생의 부모님이 와 계셔서,\n응접실이 붐비고 있어\n서서 말씀드리게 됐습니다만……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00069888",
+      "source": "【法子】\\n（先生たちの署ね）",
+      "old_korean": "【노리코】\\n(선생님들의 아파)",
+      "korean": "【노리코】\n(선생님들의 책상이네)",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000698c7",
+      "source": "【法子】\\n（片付いてる署から\\nちょっと散らかってる署まで多改多技《たしゅたさい》ね）",
+      "old_korean": "【노리코】\\n혼자 있는 사람부터 조금 거칠게\\n구는\\n사람까지,\\n정말 각양각색이네.",
+      "korean": "【노리코】\n(정리된 책상부터\n조금 어질러진 책상까지,\n정말 다양하네.)",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00069929",
+      "source": "【法子】\\n（でもさすがに生徒の押があるからか、\\n極長《きょくたん》に散らかってる署はないわ）",
+      "old_korean": "【노리코】\\n(근데 제가 눈이 싱거운 탓인지\\n엄격하게 거칠어지는 고통은 느껴지지\\n않습니다.)",
+      "korean": "【노리코】\n(하지만 역시 학생들의 눈이 있어서인지,\n극단적으로 어질러진 책상은 없네.)",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00069dea",
+      "source": "【法子】\\nあともう１人聞きたい人物がいます。\\n狭、こちらの師校に白川真了という生徒が\\n通っていたと思うのですが……",
+      "old_korean": "【노리코】\\n다시 1명 두고 싶은 인물이\\n있습니다. \\n자, 이쪽의 학교에 시라카와\\n신지라는\\n생선이\\n다니고 있었다고 무겁습니다만…",
+      "korean": "【노리코】\n다시 한 분 더 여쭤보고 싶은 분이 있습니다.\n자, 이 학교에 시라카와 신지라는\n학생이 다녔다고 들었습니다만……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00069f7f",
+      "source": "【法子】\\n狭、こちらの師校に白川真了という生徒が\\n通っていたと思うのですが……",
+      "old_korean": "【노리코】\\n잠, 이쪽의 학교에 시라카와\\n신지라는\\n생곶이\\n다니고 있었다고 무겁습니다만…",
+      "korean": "【노리코】\n자, 이 학교에 시라카와 신지라는\n학생이 다녔다고 들었습니다만……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0006a328",
+      "source": "【法子】\\nあともう１人聞きたい人物がいます。\\n狭、こちらの師校に斉藤勝代という生徒が\\n通っていたと思うのですが……",
+      "old_korean": "【노리코】\\n다음 한 명 듣고 싶은 인물이\\n있습니다.\\n\\n자, 이쪽의 학교에 사이토\\n카츠요라는\\n생선이\\n다니고 있었다고 생각합니다만…",
+      "korean": "【노리코】\n다음으로 한 분 더 여쭤보고 싶은 분이 있습니다.\n자, 이 학교에 사이토 가쓰요라는\n학생이 다녔다고 생각합니다만……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0006a4bd",
+      "source": "【法子】\\n狭、こちらの師校に斉藤勝代という\\n生徒が通っていたと思うのですが……",
+      "old_korean": "【노리코】\\n잠, 이쪽의 학교에 사이토\\n카츠요라는\\n생곶이 다니고 있었다고\\n생각합니다만…",
+      "korean": "【노리코】\n잠깐, 이 학교에 사이토 가쓰요라는\n학생이 다녔다고 생각합니다만……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0006a808",
+      "source": "【法子】\\n……斉藤光志さんは、\\n殺人事件の被疑者《ひぎしゃ》として逮捕《たいほ》されてしまいました。",
+      "old_korean": "【노리코】\\n……사이토 코우지씨는,\\n야인 사건의 피의자로서 체포되어\\n버렸습니다.",
+      "korean": "【노리코】\n……사이토 코우지 씨는,\n살인 사건의 피의자로서 체포되고 말았습니다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0006edd4",
+      "source": "【光志】\\n次に殺害現場に足を運んだときにでも\\n聞いてみてくれないか？",
+      "old_korean": "【코우지】\\n실제로 야해 현장에 발을 짊어졌을\\n때라도\\n 물어 보지 않겠습니까?",
+      "korean": "【코우지】\n다음에 살해 현장에 갔을 때라도\n들어 봐 주지 않겠어?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0006f5a2",
+      "source": "【法子】\\nじゃあ、この人影《ひとかげ》が……\\n真犯人ってことね……！！",
+      "old_korean": "【노리코】\\n그렇다면 이 수치는...\\n진잔인은 말이지… !",
+      "korean": "【노리코】\\n그렇다면 이 수치는...\\n진범은 말이지… !",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0006fff3",
+      "source": "【法子】\\n指紋《しもん》を扶《ふ》き蠧《と》ったってことは、\\n自分の指紋《しもん》が残ることで\\n犯人だと疑われるのを駆ぐためだよね？",
+      "old_korean": "【노리코】\\n지문을 흔들어 버렸다는 것은,\\n자신의 지문이 타는 것으로\\n잔인이라고 의심되는 것을 발하기\\n위해서\\n맞지?",
+      "korean": "【노리코】\\n지문을 흔들어 버렸다는 것은,\\n자신의 지문이 타는 것으로\\n범인이라고 의심되는 것을 발하기\\n위해서\\n맞지?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00070081",
+      "source": "【法子】\\nでも真犯人は指紋《しもん》を扶《ふ》き蠧《と》る撃要なんかないよね？\\nだって……",
+      "old_korean": "【노리코】\\n에서도 진범인은 지문을 흔들어 삼킬\\n필요\\n없어요? \\n도…",
+      "korean": "【노리코】\\n에서도 진범은 지문을 흔들어 삼킬\\n필요\\n없어요? \\n도…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00070472",
+      "source": "【光志】\\n（今のところ真犯人らしき人物の指紋《しもん》は\\nまったく見当たらない）",
+      "old_korean": "【코우지】\\n(지금까지 진잔인다운 인물의 지문은\\n전혀 보이지 않는다)",
+      "korean": "【코우지】\\n(지금까지 진범다운 인물의 지문은\\n전혀 보이지 않는다)",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000704d3",
+      "source": "【光志】\\n（それは真犯人が指紋《しもん》を残さないための\\n対策をしてたからだ！）",
+      "old_korean": "【코우지】\\n(그것은 진잔인이 지문을 타지 않기\\n위한\\n대책을 하고 있었기 때문이다!)",
+      "korean": "【코우지】\\n(그것은 진범이 지문을 타지 않기\\n위한\\n대책을 하고 있었기 때문이다!)",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0007061c",
+      "source": "【法子】\\nでも一方で真犯人らしき人物の指紋《しもん》は\\nついてなかった……",
+      "old_korean": "【노리코】\\n에서도 한편으로 진잔인다운 인물의\\n지문은\\n붙어 있지 않았다…",
+      "korean": "【노리코】\\n에서도 한편으로 진범다운 인물의\\n지문은\\n붙어 있지 않았다…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00070686",
+      "source": "【法子】\\nこれって、真犯人が手袋《てぶくろ》をはめていて、\\n指紋《しもん》が現場に残らないように\\n対策してたってことだよね？",
+      "old_korean": "【노리코】\\n이것은, 진잔인이 장갑을 끼고\\n있어,\\n지문이 현장에 타지 않게\\n대책하고 있었던 것이군요?",
+      "korean": "【노리코】\\n이것은, 진범이 장갑을 끼고\\n있어,\\n지문이 현장에 타지 않게\\n대책하고 있었던 것이군요?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0007070e",
+      "source": "【法子】\\nなら、当然ドアに\\n真犯人の指紋《しもん》がつくことはなかったはず。\\nなのになぜ、真犯人は指紋《しもん》を扶《ふ》き蠧《と》ったのかな……？",
+      "old_korean": "【노리코】\\n이라면, 당연히 문에\\n진잔인의 지문이 붙는 일은 없었을\\n것이다. \\n인데 왜, 진잔인은 지문을 흔들어\\n버렸는지......?",
+      "korean": "【노리코】\\n이라면, 당연히 문에\\n진범의 지문이 붙는 일은 없었을\\n것이다. \\n인데 왜, 진범은 지문을 흔들어\\n버렸는지......?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00075ca7",
+      "source": "【彩業元】\\n１人は殺された人。\\n１人はその人の連れの、弁護士さん。",
+      "old_korean": "【종업원】\\n한 사람은 야한 사람.\\n1명은 그 사람의 동반의 변호사씨.",
+      "korean": "【종업원】\n한 사람은 살해당한 사람.\n한 사람은 그 사람의 동행인인 변호사 씨.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0007ad0e",
+      "source": "【法子】\\n（この中で殺人が行なわれたのね）",
+      "old_korean": "【노리코】\\n(이 중에서 야토가 행해졌네)",
+      "korean": "【노리코】\n(이 중에서 살인이 일어났네)",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000827ca",
+      "source": "【法子】\\n白川一利殺害事件の件なんですけど、\\n所長、当日現場にいましたよね？",
+      "old_korean": "【노리코】\\n시라카와 이치로 유해 사건의\\n건이지만,\\n소장, 당일 현장에 있었지요?",
+      "korean": "【노리코】\n시라카와 이치로 살해 사건의\n건이지만,\n소장님, 당일 현장에 계셨지요?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00083c25",
+      "source": "【栄太郎】\\nだけど、ある日枚然《とつぜん》、白川順がクビを切ったんだ。",
+      "old_korean": "【신타로】\\n이지만 어느 날 적연히\\n시라카와가와가\\n곰팡이를 끊었다.",
+      "korean": "【신타로】\n하지만 어느 날 갑자기\n시라카와 준이 해고했어.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0008661c",
+      "source": "【栄太郎】\\nははは、まるで蠧調べみたいだな。",
+      "old_korean": "【신타로】\\n하하하, 마치 모리 조사 같다.",
+      "korean": "【신타로】\\n하하하, 마치 취조 같다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00089e5c",
+      "source": "【真了】\\nポリシーに反する……\\nそれでも顧問弁護士《こもんべんごし》でいるのは、\\n兄に俗みを握《にぎ》られているからですよね？",
+      "old_korean": "【신지】\\n정책에 위배…\\n그래도 고문 변호사인 것은\\n어머니에게 적을 쥐고 있기\\n때문이지요?",
+      "korean": "【신지】\\n정책에 위배…\\n그래도 고문 변호사인 것은\\n오빠에게 적을 쥐고 있기\\n때문이지요?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0008a2ac",
+      "source": "【真了】\\n生まれつき腎臓《じんぞう》が俗かった私は、\\n子どもの頃《ころ》からあまり外出せず、\\n兄以外の人とあまり話すことがありませんでした。",
+      "old_korean": "【신지】\\n태어나 신장이 적이었던 나는,\\n어린 시절부터 별로 외출하지 않고,\\n어머니 이외의 사람과 별로\\n이야기하는\\n일이 없었습니다.",
+      "korean": "【신지】\\n태어나 신장이 적이었던 나는,\\n어린 시절부터 별로 외출하지 않고,\\n오빠 이외의 사람과 별로\\n이야기하는\\n일이 없었습니다.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0008a650",
+      "source": "【真了】\\n……彼女の旦那《だんな》さんを、兄が……\\n殺めてしまいました。",
+      "old_korean": "【신지】\\n…… 아야의 단나씨를, 어머니가…\\n기쁘게 해 버렸습니다.",
+      "korean": "【신지】\n……아야 씨의 남편을,\n오빠가 죽이고 말았습니다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0008a6ba",
+      "source": "【真了】\\n私は……\\n兄を止めようと思えば\\n止めることができたかもしれない……",
+      "old_korean": "【신지】\\n나는......\\n어머니를 뿌리려고 하면\\n흙 수 있을지도 모른다…",
+      "korean": "【신지】\\n나는......\\n오빠를 뿌리려고 하면\\n흙 수 있을지도 모른다…",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0008a722",
+      "source": "【真了】\\nでも私は……\\n兄を止められなかった……\\n私は初恋《はつこい》の人を楽ることができなかった……",
+      "old_korean": "【신지】\\n그렇지만 나는…\\n어머니를 뚫을 수 없었다…\\n나는 첫사랑의 사람을 지키지\\n못했다…",
+      "korean": "【신지】\\n그렇지만 나는…\\n오빠를 뚫을 수 없었다…\\n나는 첫사랑의 사람을 지키지\\n못했다…",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0008b9fe",
+      "source": "【光志】\\n……ありがとう、法子。\\nおぼろげながら今関の事件が見えてきたよ。\\n犯人の係機もね……",
+      "old_korean": "【코우지】\\n… … 고마워, 노리코. \\n 어쩌면서 이마바야시의 사건이\\n보였다. \\n잔인의 동기도...",
+      "korean": "【코우지】\\n… … 고마워, 노리코. \\n 어쩌면서 이마바야시의 사건이\\n보였다. \\n범인의 동기도...",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000921bf",
+      "source": "【法子】\\n実は斉藤勝代さんの長男、斉藤光志さんが、\\n殺人事件の犯人として疑われています。",
+      "old_korean": "【노리코】\\n실은 사이토 가쓰요씨의 장녀,\\n사이토\\n코우지씨가,\\n야인 사건의 범인으로서 의심되고\\n있습니다.",
+      "korean": "【노리코】\n사실 사이토 가쓰요 씨의 장남인\n사이토 코우지 씨가\n살인 사건의 범인으로 의심받고 있습니다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00095f45",
+      "source": "【駅口】\\nわかりますが、意味がないと思います。\\n院長先生、退明してすぐに自殺してしまいましたから。",
+      "old_korean": "【히구치】\\n알겠습니다만, 의미가 없다고\\n생각합니다.\\n\\n원장 선생님, 게으르고 곧바로\\n자유해\\n버렸으니까.",
+      "korean": "【히구치】\n알겠습니다만, 의미가 없다고\n생각합니다.\n\n원장 선생님은, 게으르다가 곧바로\n자살해 버리셨으니까요.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00095fb1",
+      "source": "【法子】\\nええっ！？\\n自殺……？",
+      "old_korean": "【노리코】\\n에엣! ? \\n자야......?",
+      "korean": "【노리코】\n에엣!? \n자살……?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00096da6",
+      "source": "【光志】\\nおふくろ……\\nやっぱり、殺されたのか……？",
+      "old_korean": "【코우지】\\n오후쿠로…\\n역시, 야한 것인가…",
+      "korean": "【코우지】\n어머니……\n역시 살해당한 건가……?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000970cb",
+      "source": "【光志】\\nそれを問いつめたために、\\nおふくろは殺されたのか……？",
+      "old_korean": "【코우지】\\n그것을 묻기 위해서,\\n오후쿠로는 얽힌 것인가…",
+      "korean": "【코우지】\n그것을 추궁하기 위해서,\n어머니는 살해당한 건가……?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00097189",
+      "source": "【光志】\\n……いや、殺されたと倚めつけるのは陽い。\\nなにより、客観的な証拠《しょうこ》がない。",
+      "old_korean": "【코우지】\\n… \\n 무엇보다 객관적인 증거가 없다.",
+      "korean": "【코우지】\n……아니, 살해당했다고 단정하는 건\n성급해.\n무엇보다 객관적인 증거가 없어.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000972e0",
+      "source": "【光志】\\nそれに当の白川一利が殺されてしまった今、\\nこの件にこだわるのは……\\n恋付のムダかもしれない。",
+      "old_korean": "【코우지】\\n거기에 당의 시라카와 이치로가\\n뒤집혀\\n버린 지금,\\n이 건을 고집하는 것은……\\n시간의 낭비일지도 모른다.",
+      "korean": "【코우지】\n거기다 시라카와 이치로가 살해당한 지금,\n이 건을 고집하는 것은……\n시간 낭비일지도 모른다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000989fc",
+      "source": "【駅口】\\nほら、よくドラマなんかで\\n殺意どうこうって話があるでしょう。\\nあの表情から感じたのは、まさに殺意でした……",
+      "old_korean": "【히구치】\\n자, 자주 드라마 따위로\\n야의 어떻게 이렇게 이야기가\\n있겠지요. \\n그 표정에서 느낀 것은 바로\\n유의했습니다.",
+      "korean": "【히구치】\n자, 흔히 드라마 같은 데서\n살의가 어떻고 하는 이야기가 있잖아요.\n그 표정에서 느낀 건 바로 살의였어요……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000992ee",
+      "source": "【駅口】\\n『オレが斉藤志利を殺したと疑っているのか』と。",
+      "old_korean": "【히구치】\\n『나가 사이토 시로를 야했다고\\n의심하고\\n있는 것인가』라고.",
+      "korean": "【히구치】\n‘내가 사이토 시로를 죽였다고\n의심하고 있는 건가’라고.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00099463",
+      "source": "【駅口】\\nいえ。\\n八《こわ》くて……\\n言ったら私が殺されると思いましたから……",
+      "old_korean": "【히구치】\\n아니.\\n쑥스러워서…\\n말하자면 제가 기분이 좋다고\\n생각했으니까…",
+      "korean": "【히구치】\n아니요.\n무서워서……\n말하자면 제가 살해당할 거라고\n생각했으니까……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009b61a",
+      "source": "【光志】\\n月曜の性営、趣味《しゅみ》、行係……\\nそこからなにかアリバイを証間できるような情報が\\n入ることを期待するしかない。",
+      "old_korean": "【코우지】\\n행사의 성각, 취미, 행동…\\n거기에서 뭔가 알리바이를 증명할\\n수있는\\n정보\\n들어가기를 기대할 수밖에 없다.",
+      "korean": "【코우지】\n미나즈키의 성격, 취미, 행동……\n거기서 뭔가 알리바이를 증명할 수 있는 정보가\n나오기를 기대할 수밖에 없어.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009b9cc",
+      "source": "【光志】\\n昨日、検事の蠧調べがあった。\\nただ、十《おどろ》くほどあっさり終わって\\n轟子《ひょうし》抜《ぬ》けだったけどな。",
+      "old_korean": "【코우지】\\n어제, 검사의 숲 조사가 있었다. \\n단지, 굉장히 깨끗이 끝나고\\n박자 빠졌지만.",
+      "korean": "【코우지】\\n어제, 검사의 취조가 있었다. \\n단지, 굉장히 깨끗이 끝나고\\n박자 빠졌지만.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009ba9d",
+      "source": "【法子】\\n一番の押的は１０日付、\\n勾留《こうりゅう》を管求《せいきゅう》することだからね。\\nそのための罪状認否《ざいじょうにんぴ》みたいなものよ。",
+      "old_korean": "【노리코】\\n제일의 목적은 10일간,\\n상어를 맑은 공이기 때문에. \\n그것을 위한 죄장 허벅지 같은\\n거야.",
+      "korean": "【노리코】\n제일 큰 목적은 10일간\n구류를 청구하는 거니까.\n그를 위한 죄상 인정 같은 거야.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009bbb8",
+      "source": "【法子】\\n結果は同じだと思うよ。\\nいくら無実を訴《うった》えても、\\n勾留《こうりゅう》されたと思うし。",
+      "old_korean": "【노리코】\\n결과는 같다고 무거워. \\n아무리 무죄를 희미해도,\\n상어 되었다고 무겁고.",
+      "korean": "【노리코】\n결과는 같을 거야.\n아무리 무죄를 호소해도,\n구류될 거라고 생각해.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009bd27",
+      "source": "【光志】\\n殺害現場となったＶＩＰルームにも\\n入ったけど、\\n結腸、なにも思い出せなかった……",
+      "old_korean": "【코우지】\\n야해 현장이 된 VIP룸에도\\n 들어갔지만,\\n결막, 아무것도 기억할 수 없었다…",
+      "korean": "【코우지】\n살해 현장이 된 VIP룸에도\n들어가 봤지만,\n결국 아무것도 기억해 내지 못했어……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009c3dd",
+      "source": "【光志】\\n昨日の蠧調べで道穴《ついきゅう》されたのは、\\nオレが本当に轉に畭《よ》いつぶれて記憶《きおく》が\\nなくなっていたのか、ってことだった。",
+      "old_korean": "【코우지】\\n어제의 삼림조사에서 추급된 것은,\\n나가 정말로 굉장히 움츠려 기억이\\n 없어지고 있었는지, 라고 하는\\n것이었다.",
+      "korean": "【코우지】\\n어제의 취조에서 추급된 것은,\\n나가 정말로 굉장히 움츠려 기억이\\n 없어지고 있었는지, 라고 하는\\n것이었다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009c9ea",
+      "source": "【光志】\\nそれと昨日の蠧調べでは\\n飯白いことがあってな……",
+      "old_korean": "【코우지】\\n그것과 어제의 삼림조사에서는\\n재미있는 일이 있어…",
+      "korean": "【코우지】\\n그것과 어제의 취조에서는\\n재미있는 일이 있어…",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009cb31",
+      "source": "【光志】\\n自白すれば、殺人罪ではなく、\\n傷害幸死罪《しょうがいちしざい》として立件するよう\\n検事に蠧りはからおうって言ってきたよ。",
+      "old_korean": "【코우지】\\n자백하면, 야인죄가 아니고,\\n상해 치치죄로서 입건하도록\\n검사에 모른다고 말해 왔어.",
+      "korean": "【코우지】\n자백하면, 살인죄가 아니라,\n상해치사죄로 입건하도록\n검사에게 부탁해 오겠다고 말해 왔어.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009cef6",
+      "source": "【光志】\\n昨日の蠧調べは参ったよ……\\nとんでもないものが\\nオレん家から出てきやがった。",
+      "old_korean": "【코우지】\\n어제의 삼림 조사는 잤어…\\n터무니없는 것이\\n올레 집에서 나왔다.",
+      "korean": "【코우지】\\n어제의 취조는 잤어…\\n터무니없는 것이\\n올레 집에서 나왔다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009daa1",
+      "source": "【光志】\\n昨日の蠧調べは\\n事件当日、ＶＩＰルームに入った\\n人物についての話だった。",
+      "old_korean": "【코우지】\\n어제의 숲 조사는\\n사건 당일, VIP룸에 들어간\\n인물에 대한 이야기였다.",
+      "korean": "【코우지】\\n어제의 취조는\\n사건 당일, VIP룸에 들어간\\n인물에 대한 이야기였다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009db9d",
+      "source": "【光志】\\nオレの上曜の朝等さん、\\n殺害現場を画存した近藤刑事、\\nそして沼崎弁護士と短い男だ。",
+      "old_korean": "【코우지】\\n나의 상사인 아사츠유씨,\\n야해 현장을 보존한 콘도 형사,\\n그리고 누마사키 변호사와 젊은\\n남자다.",
+      "korean": "【코우지】\n내 상사인 아사츠유 씨,\n살해 현장을 보존한 콘도 형사,\n그리고 누마사키 변호사와 젊은\n남자야.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009df45",
+      "source": "【光志】\\n昨日の蠧調べ、\\n新たな証拠《しょうこ》を枚《つ》きつけられたよ。",
+      "old_korean": "【코우지】\\n어제의 삼림조사,\\n새로운 증거를 쌓아 올렸다.",
+      "korean": "【코우지】\\n어제의 취조,\\n새로운 증거를 쌓아 올렸다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009e341",
+      "source": "【光志】\\nこの手帳を見て、\\nオレが父親の常鵜《かたきう》ちで\\n被害者《ひがいしゃ》を殺したって見方もできるだろう、ってさ。",
+      "old_korean": "【코우지】\\n이 수첩을 보고,\\n내가 아버지의 적 어리둥절로\\n피해자를 쓓았다고 봐도 할 수 있을\\n것이다.",
+      "korean": "【코우지】\n이 수첩을 보고,\n내가 아버지의 복수를 위해\n피해자를 죽였다고 볼 수도 있겠지,\n라는 거야.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009e9e2",
+      "source": "【光志】\\n昨日の蠧調べで得た情報は\\n特になかったな。",
+      "old_korean": "【코우지】\\n어제의 숲 조사에서 얻은 정보는\\n특히 없었구나.",
+      "korean": "【코우지】\\n어제의 취조에서 얻은 정보는\\n특히 없었구나.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009ec05",
+      "source": "【法子】\\n同恋に蠧調べの可視化についても\\n議論されていて、\\n蠧調べの様子をカメラで屠影《さつえい》する司もあるらしいわ。",
+      "old_korean": "【노리코】\\n동시에 모리 조사의 가시화에\\n대해서도\\n의론되고 있어,\\n모리 조사의 모습을 카메라로\\n촬영하는\\n방안도 있는 것 같아.",
+      "korean": "【노리코】\\n동시에 취조의 가시화에\\n대해서도\\n의론되고 있어,\\n취조의 모습을 카메라로\\n촬영하는\\n방안도 있는 것 같아.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009ee64",
+      "source": "【光志】\\n昨日の蠧調べでは、\\n退職に頼《たの》んでもう一度父親の\\n手帳を見せてもらったんだ。",
+      "old_korean": "【코우지】\\n어제의 삼림조사에서는,\\n미우라에게 부탁해 다시 한번\\n아버지의\\n수첩을 보여 주었다.",
+      "korean": "【코우지】\\n어제의 취조에서는,\\n미우라에게 부탁해 다시 한번\\n아버지의\\n수첩을 보여 주었다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009f310",
+      "source": "【光志】\\n昨日の蠧調べでは、\\n特に情報は得られなかった。",
+      "old_korean": "【코우지】\\n어제의 숲 조사에서는,\\n특히 정보는 얻을 수 없었다.",
+      "korean": "【코우지】\\n어제의 취조에서는,\\n특히 정보는 얻을 수 없었다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009f8be",
+      "source": "【光志】\\nさあ、まだなんとも言えないけどな。\\nどうせこのあと蠧調べだ。\\nこっちからも色々と探ってみるさ。",
+      "old_korean": "【코우지】\\n자, 아직 정말 말할 수 없지만. \\n어쨌든 이 후 모리 조사다. \\n이쪽에서도 여러가지 찾아보자.",
+      "korean": "【코우지】\\n자, 아직 정말 말할 수 없지만. \\n어쨌든 이 후 취조다. \\n이쪽에서도 여러가지 찾아보자.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0009fb75",
+      "source": "【光志】\\n昨日の蠧調べでわかったことが一つある。\\n提出されなかった駆犯カメラの映像は、\\n近藤刑事の仕業だったってことだ。",
+      "old_korean": "【코우지】\\n어제의 삼림 조사로 알게 된 것이\\n하나\\n있다. \\n제출되지 않았던 발잔 카메라의\\n발휘는,\\n콘도 형사의 작업이었다는 것이다.",
+      "korean": "【코우지】\\n어제의 취조로 알게 된 것이\\n하나\\n있다. \\n제출되지 않았던 발잔 카메라의\\n발휘는,\\n콘도 형사의 작업이었다는 것이다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a03e5",
+      "source": "【光志】\\n昨日の蠧調には退職がいなかったんだ。\\n代わりに吉本刑事の蠧調べを受けたんだけど、\\nそこで意外な話を聞けたよ。",
+      "old_korean": "【코우지】\\n어제의 삼림에는 미우라가 없었다. \\n대신에 요시모토 형사의 삼림 조사를\\n안\\n했는데,\\n거기서 의외의 이야기를 둘 수\\n있었어.",
+      "korean": "【코우지】\\n어제의 취조에는 미우라가 없었다. \\n대신에 요시모토 형사의 취조를\\n안\\n했는데,\\n거기서 의외의 이야기를 둘 수\\n있었어.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a1332",
+      "source": "【光志】\\nで、ここからが昨日の蠧調べの話なんだけど……",
+      "old_korean": "【코우지】\\n에서, 여기부터가 어제의 삼림\\n조사의\\n이야기이지만…",
+      "korean": "【코우지】\\n에서, 여기부터가 어제의 취조\\n조사의\\n이야기이지만…",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a138e",
+      "source": "【光志】\\n昨日も退職がいなくてさ、\\n吉本刑事の蠧調べを受けた。",
+      "old_korean": "【코우지】\\n어제도 미우라가 없어서,\\n요시모토 형사의 삼림 조사를\\n가졌다.",
+      "korean": "【코우지】\\n어제도 미우라가 없어서,\\n요시모토 형사의 취조를\\n가졌다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a2c01",
+      "source": "【光志】\\n今日の蠧調べで、\\n近藤と話をすることになってる。\\nそこでケジメをつけてくるよ。",
+      "old_korean": "【코우지】\\n오늘의 숲 조사에서,\\n콘도와 이야기를 하게 되어 있다. \\n거기서 꽉 끼고 있어요.",
+      "korean": "【코우지】\\n오늘의 취조에서,\\n콘도와 이야기를 하게 되어 있다. \\n거기서 꽉 끼고 있어요.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a366b",
+      "source": "【光志】\\nその結果として、\\n白川真了の心臓は兄に渡《わた》ったが、\\nこれが意図的《いとてき》に行なわれた可能性がある。",
+      "old_korean": "【코우지】\\n그 결과로서,\\n시라카와 신지의 심장은 어머니에게\\n튕겨졌지만,\\n이것이 의도적으로 행해졌을 가능성이\\n있다.",
+      "korean": "【코우지】\\n그 결과로서,\\n시라카와 신지의 심장은 오빠에게\\n튕겨졌지만,\\n이것이 의도적으로 행해졌을 가능성이\\n있다.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a40c0",
+      "source": "【光志】\\n帰り際に一言だけ『人殺し』って言ったのは\\nなかなか衝撃的《しょうげきてき》というか、\\nちょっと悲しかったけどな……",
+      "old_korean": "【코우지】\\n돌아갈 때 한마디만 『인간해』라고\\n말한\\n것은\\n좀처럼 충격적이라고 할까,\\n조금 슬퍼했지만…",
+      "korean": "【코우지】\n돌아갈 때 한마디로 『살인자』라고\n말한 건 꽤 충격적이라고 할까,\n조금 슬펐지만 말이야……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a4161",
+      "source": "【光志】\\nまあ、彼女にとっては\\n父親を殺した犯人に『人殺し』って言うだけでも\\n少しは気が槍れるのかもな。",
+      "old_korean": "【코우지】\\n음, 아야녀에게 있어서는\\n아버지를 야한 범인에게\\n'인간해'라고\\n말하는 것만으로도\\n조금은 신경이 쓰이는지도.",
+      "korean": "【코우지】\n음, 그 아이에게는\n아버지를 죽인 범인에게 ‘살인자’라고\n말하는 것만으로도\n조금은 마음이 풀릴지도 모르지.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a44da",
+      "source": "【光志】\\nあぁ、そうなんだ。\\n『人殺し』って言うためだけに、\\nわざわざ来るもんだろうか……？",
+      "old_korean": "【코우지】\\n아아, 그렇구나. \\n『인간해』라고 말하기 위해서만,\\n 일부러 오는 것일까…",
+      "korean": "【코우지】\n아아, 그렇구나.\n『살인자』라고 말하기 위해서만\n일부러 오는 걸까……?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a48b8",
+      "source": "【法子】\\nもしかしたら、\\nコウジが犯人じゃないって思ったのかな？",
+      "old_korean": "【노리코】\\n어쩌면,\\n코우지가 잔인이 아니라고 무거운\\n것일까?",
+      "korean": "【노리코】\\n어쩌면,\\n코우지가 범인이 아니라고 무거운\\n것일까?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a4930",
+      "source": "【光志】\\nいや、それならむしろ逆だと思うけどな。\\nオレ、自分が犯人だと思わせるような\\n話をしたし……",
+      "old_korean": "【코우지】\\n아니, 그렇다면 오히려 반대라고\\n무거운데. \\n저, 자신이 잔인이라고 겹치게 하는\\n화를 했고......",
+      "korean": "【코우지】\\n아니, 그렇다면 오히려 반대라고\\n무거운데. \\n저, 자신이 범인이라고 겹치게 하는\\n화를 했고......",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a4b67",
+      "source": "【法子】\\n……それはね、\\n彼女はやっぱりコウジが犯人じゃないって\\n理婚したんだよ。",
+      "old_korean": "【노리코】\\n......그건,\\n아야 여자는 역시 코우지가 잔인이\\n아니라고\\n이해했어.",
+      "korean": "【노리코】\\n......그건,\\n아야 여자는 역시 코우지가 범인이\\n아니라고\\n이해했어.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a507a",
+      "source": "【光志】\\nのぞみはさ、最初からオレのこと、\\n犯人じゃないって\\n思ってたらしいんだ。",
+      "old_korean": "【코우지】\\n노조미는, 처음부터 나의 일,\\n잔인이 아니라고\\n무거운 것 같다.",
+      "korean": "【코우지】\\n노조미는, 처음부터 나의 일,\\n범인이 아니라고\\n무거운 것 같다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a5295",
+      "source": "【光志】\\nオレをハメて、自分は警察に捕《つか》まらずに逃《に》げ切《き》る。\\n真犯人は希機を値《ね》りに値《ね》って実行したはずなんだ。",
+      "old_korean": "【코우지】\\n나를 하메해서, 자신은 경찰에\\n잡히지\\n않고 도망친다. \\n진범인은 계획을 깨닫고 실행했을\\n것이다.",
+      "korean": "【코우지】\\n나를 하메해서, 자신은 경찰에\\n잡히지\\n않고 도망친다. \\n진범은 계획을 깨닫고 실행했을\\n것이다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a541e",
+      "source": "【法子】\\nでも逆に考えると、\\nもしかしたら真犯人は銃声《じゅうせい》を\\n聞かせたかったのかもしれないね？",
+      "old_korean": "【노리코】\\n에서도 반대로 생각하면,\\n어쩌면 진잔인은 총성을\\n두게 하고 싶었을지도 모르겠네요?",
+      "korean": "【노리코】\\n에서도 반대로 생각하면,\\n어쩌면 진범은 총성을\\n두게 하고 싶었을지도 모르겠네요?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a5520",
+      "source": "【法子】\\nえっ……\\n真犯人は銃声《じゅうせい》を\\n聞かせたかったのかな……って……",
+      "old_korean": "【노리코】\\n엣......\\n진잔인은 총성을\\n놓고 싶었던 것일까…",
+      "korean": "【노리코】\\n엣......\\n진범은 총성을\\n놓고 싶었던 것일까…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a56ea",
+      "source": "【光志】\\n法子の言う通り、\\n真犯人は堂内の客に\\n銃声《じゅうせい》を聞かせたかったのかもしれない……",
+      "old_korean": "【코우지】\\n노리코가 말하는 대로,\\n진잔인은 교내의 손님에게\\n총성을 두게 하고 싶었을지도\\n모른다…",
+      "korean": "【코우지】\\n노리코가 말하는 대로,\\n진범은 교내의 손님에게\\n총성을 두게 하고 싶었을지도\\n모른다…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a6077",
+      "source": "【光志】\\nこれらすべてが犯人の意《い》図《と》したものとしたら……？",
+      "old_korean": "【코우지】\\n이 모든 것이 잔인의 의도한 것으로\\n하면…",
+      "korean": "【코우지】\\n이 모든 것이 범인의 의도한 것으로\\n하면…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a61ab",
+      "source": "【法子】\\nどうして犯人は銃声《じゅうせい》を聞かせたかったの……？",
+      "old_korean": "【노리코】\\n어째서 잔인은 총성을 두게 하고\\n싶었던…",
+      "korean": "【노리코】\\n어째서 범인은 총성을 두게 하고\\n싶었던…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a6227",
+      "source": "【光志】\\nそれはオレにもわからない。\\n争なる犯人のミスかもしれないし……",
+      "old_korean": "【코우지】\\n그것은 나도 모른다. \\n 고쳐지는 잔인의 실수일지도\\n모르고......",
+      "korean": "【코우지】\\n그것은 나도 모른다. \\n 고쳐지는 범인의 실수일지도\\n모르고......",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a628a",
+      "source": "【光志】\\n……いや、なにかの意味が絶対にあるはずだ……\\nここまで用意周到《よういしゅうとう》な真犯人が、\\nうかつな行係を蠧るはずがない……",
+      "old_korean": "【코우지】\\n… … 아니, 뭔가의 의미가 절대로\\n있을\\n것이다…\\n여기까지 준비 주도한 진잔인이,\\n까다로운 행동을 모를 리가 없다\\n......",
+      "korean": "【코우지】\\n… … 아니, 뭔가의 의미가 절대로\\n있을\\n것이다…\\n여기까지 준비 주도한 진범이,\\n까다로운 행동을 모를 리가 없다\\n......",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000a71b3",
+      "source": "【法子】\\nでも、被害者《ひがいしゃ》と水谷さんは\\nどんな関係だったのかな……？\\nまさか殺意を計《いだ》くほどの深い関係だったとか……？",
+      "old_korean": "【노리코】\\n에서도, 피해자와 미즈타니씨는\\n어떤 관계였던 것일까… \\n설마 유야를 기쁘게 할 정도의 깊은\\n관계였다든가…",
+      "korean": "【노리코】\n하지만 피해자와 미즈타니 씨는\n어떤 관계였을까……?\n설마 살의를 품을 정도로 깊은\n관계였던 걸까……?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000aaa06",
+      "source": "【光志】\\nオレたちが計《かか》えてる依頼《いらい》に\\n深くクビを枚《つ》っ沽《こ》まないって条件で、\\n事務所への出入りを許可してるんだ。",
+      "old_korean": "【코우지】\\n저희들이 기쁘게 하고 있는 의뢰에\\n깊게 곰팡이를 쌓아 올리지 않는다고\\n조건으로,\\n사무소에의 출입을 허가하고 있다.",
+      "korean": "【코우지】\n저희가 맡은 의뢰에 깊이 관여하지 않는다는 조건으로,\n사무소 출입을 허가하고 있어.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ab028",
+      "source": "【光志】\\n事件当日ＶＩＰルームに入ったっていう\\nコウジという名の短い男が\\n葵の兄である可能性が高いんだ。",
+      "old_korean": "【코우지】\\n사건 당일 VIP룸에 들어갔다는\\n코우지라는 이름의 젊은 남자가\\n아오이의 어머니일 가능성이 높다.",
+      "korean": "【코우지】\\n사건 당일 VIP룸에 들어갔다는\\n코우지라는 이름의 젊은 남자가\\n아오이의 오빠일 가능성이 높다.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ab0c1",
+      "source": "【法子】\\n上話で葵さんから聞いたわ。\\n兄が当日事件現場に行っていたか\\n確認して疚しいってコウジに頼《たの》まれたって。",
+      "old_korean": "【노리코】\\n전화로 아오이씨로부터 들었어. \\n어머니가 당일 사건 현장에 가고\\n있었는지\\n확인하고 괴롭다고 코우지에게\\n부탁받았다고.",
+      "korean": "【노리코】\\n전화로 아오이씨로부터 들었어. \\n오빠가 당일 사건 현장에 가고\\n있었는지\\n확인하고 괴롭다고 코우지에게\\n부탁받았다고.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ab1e2",
+      "source": "【法子】\\n当たってたわよ。\\n葵さんのお兄さんである『水無副月曜』さんは\\n当日、ライトブルーに行っていたって。",
+      "old_korean": "【노리코】\\n 맞았어요. \\n아오이씨의 엄마인 「미나즈키\\n코우지」씨는\\n당일, 라이트 블루에 가고\\n있었다고.",
+      "korean": "【노리코】\\n 맞았어요. \\n아오이씨의 오빠인 「미나즈키\\n코우지」씨는\\n당일, 라이트 블루에 가고\\n있었다고.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ad570",
+      "source": "【光志】\\n昨日はのぞみが接見にやってきたんだ。\\nのぞみの実の母親、安代の自殺について\\n調査していた内容を教えてもらったよ。",
+      "old_korean": "【코우지】\\n어제는 노조미가 접견에 왔다. \\n노조미 열매의 어머니, 아시로의\\n자야에\\n대해\\n조사하고 있던 내용을 가르쳐\\n주었어.",
+      "korean": "【코우지】\n어제는 노조미가 접견에 왔어.\n노조미의 친어머니인 아시로 씨의 자살에 대해\n조사하고 있던 내용을 알려 줬어.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ae9b9",
+      "source": "【光志】\\n殺された白川一利の座だよ。",
+      "old_korean": "【코우지】\\n야한 시라카와 이치로의 어이야.",
+      "korean": "【코우지】\n살해당한 시라카와 이치로의\n딸이야.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000af079",
+      "source": "【光志】\\nなんでも以前会各をクビになったとき、\\nスーツを落部惑《す》ててしまってたらしいんだ。",
+      "old_korean": "【코우지】\\n아무래도 이전 회사를 곰팡이가\\n되었을\\n때,\\n슈트를 전부 지나 버리고 있었던 것\\n같다.",
+      "korean": "【코우지】\n아무래도 예전에 회사에서 해고됐을 때,\n슈트를 전부 버렸던 모양이야.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000afe93",
+      "source": "【法子】\\n今日は検事の蠧調べに\\n行ってきたんだよね？\\nどうだった……？\\n……って聞くまでもないか……",
+      "old_korean": "【노리코】\\n오늘은 검사의 삼림 조사에\\n 다녀 왔지? \\n어땠어......? \\n…",
+      "korean": "【노리코】\\n오늘은 검사의 취조에\\n 다녀 왔지? \\n어땠어......? \\n…",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b0119",
+      "source": "【光志】\\nそうか……\\nたしか、退職も蠧調べのときに見たって\\n言ってたもんな。",
+      "old_korean": "【코우지】\\n그런가…\\n분명히, 미우라도 삼림을 조사 할\\n때\\n보았습니다.\\n말했던 것.",
+      "korean": "【코우지】\\n그런가…\\n분명히, 미우라도 취조을 조사 할\\n때\\n보았습니다.\\n말했던 것.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b04c5",
+      "source": "【光志】\\nだけど事実なんだ。\\nもうこんな恋付だから、\\n蠧調べは間日になると思うけど、\\nそのとき退職に聞いてみるよ。",
+      "old_korean": "【코우지】\\n이지만 사실이야. \\n이제 이런 시간이니까,\\n모리 조사는 내일이 된다고\\n생각하지만,\\n그때 미우라에게 물어볼게.",
+      "korean": "【코우지】\\n이지만 사실이야. \\n이제 이런 시간이니까,\\n취조는 내일이 된다고\\n생각하지만,\\n그때 미우라에게 물어볼게.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b05e4",
+      "source": "【光志】\\nそれより、これからのことだ。\\n１０日付廼びた勾留《こうりゅう》だけど、\\n今までやってきたこととは\\n別の切り口で活めていこうと思うんだ。",
+      "old_korean": "【코우지】\\n그것보다, 앞으로의 일이다. \\n10일간 들썩은 상어이지만,\\n지금까지 온 것과는\\n다른 컷으로 진행해 나가려고\\n생각한다.",
+      "korean": "【코우지】\n그것보다, 지금부터가 문제야.\n10일간 연장된 구류지만,\n지금까지 해 온 것과는\n다른 방식으로 움직여 보려고 해.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b06cb",
+      "source": "【光志】\\n今まではどちらかと言うと、\\n関係者の洗い出しとか、アリバイとか、\\n殺害方法やトリックを中心に、\\n事件が刑きたときのことを\\n調べてきただろ？",
+      "old_korean": "【코우지】\\n지금까지는 어느 쪽인가라고 하면,\\n관계자의 조개라든가,\\n알리바이라든지,\\n야유 방법이나 트릭을 중심으로,\\n사건이 튕겨졌을 때를\\n조사해 왔을까?",
+      "korean": "【코우지】\n지금까지는 어느 쪽인가 하면,\n관계자의 행적이라든가 알리바이라든가,\n살해 방법이나 트릭을 중심으로,\n사건이 일어난 당시의 일을\n조사해 왔던 거지?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b07c9",
+      "source": "【光志】\\nそして真犯人を枚《つ》き止《と》めるのと同恋に、\\n殺害係機まで枚《つ》き止《と》めたいと思う。",
+      "old_korean": "【코우지】\\n그리고 진범인을 쌓아 올리는 것과\\n동시에,\\n야 해동기까지 쌓아 놓고 싶다.",
+      "korean": "【코우지】\n그리고 진범을 밝혀내는 것과 동시에,\n살해 동기까지 밝혀내고 싶어.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b08bb",
+      "source": "【光志】\\nいや、逆だよ。\\nここまで調べなきゃ、事件の真相も、\\n真犯人もわからないと思ったんだ。",
+      "old_korean": "【코우지】\\n아니, 반대다. \\n여기까지 조사하지 않으면, 사건의\\n진상도,\\n진잔인도 모르겠다고 무거웠다.",
+      "korean": "【코우지】\\n아니, 반대다. \\n여기까지 조사하지 않으면, 사건의\\n진상도,\\n진범도 모르겠다고 무거웠다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b0925",
+      "source": "【光志】\\n事実、殺害方法がわかった今でも、\\n真犯人を絞《しぼ》り切《き》れてない。",
+      "old_korean": "【코우지】\\n사실, 윤해 방법을 알았던 지금도,\\n진범인을 위축되지 않았다.",
+      "korean": "【코우지】\n사실, 살해 방법을 알게 된 지금도,\n진범을 특정하지 못했어.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b1272",
+      "source": "【法子】\\n『殺害現場について調べる』だったら、\\nライトブルー内を調べてくれば\\n良かったわけだし……",
+      "old_korean": "【노리코】\\n『야해 현장에 대해 조사한다』라면,\\n라이트 블루내를 조사해 주면\\n좋았던 것이고…",
+      "korean": "【노리코】\n‘살해 현장에 대해 조사한다’는 거였다면,\n라이트 블루 안을 조사해 달라고\n했으면 됐을 텐데……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b1ba0",
+      "source": "【光志】\\nまずはさっき言った３人だ。\\n０恋４４分だと思っていた殺害恋刻が、\\nそれ以前に変わったわけだから……",
+      "old_korean": "【코우지】\\n 우선은 조금 전 말한 3명이다. \\n0시 44분이라고 생각했던 유해\\n시각이,\\n그 이전에 바뀌었기 때문에…",
+      "korean": "【코우지】\n우선은 아까 말한 3명이다.\n0시 44분이라고 생각했던 살해 시각이,\n그보다 이전으로 바뀐 셈이니까……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b1dc3",
+      "source": "【光志】\\nこうして関係者のアリバイを\\n特定することによって、逆に\\nアリバイを確定できなかった人物が\\n真犯人となるわけだ。",
+      "old_korean": "【코우지】\\n 이렇게 관계자의 알리바이를\\n특정하는 것에 의해서, 반대로\\n알리바이를 확정할 수 없었던 인물이\\n진범인이 되는 것이다.",
+      "korean": "【코우지】\\n 이렇게 관계자의 알리바이를\\n특정하는 것에 의해서, 반대로\\n알리바이를 확정할 수 없었던 인물이\\n진범이 되는 것이다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b1e94",
+      "source": "【光志】\\nだから同恋に被害者《ひがいしゃ》を蠧り卷く\\n人物の関係をより深く探って、\\n殺害係機まで辿《たど》り着《つ》ければと思う。",
+      "old_korean": "【코우지】\\n그러므로 동시에 피해자를 삼키는\\n인물의 관계를 보다 깊게 찾아,\\n야해 동기까지 착용하면 생각한다.",
+      "korean": "【코우지】\n그러므로 피해자와 관련된 인물들의\n관계를 더 깊이 파고들어,\n살해 동기까지 도달해야 한다고 생각해.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b1f27",
+      "source": "【法子】\\nつまりアリバイと殺害係機の\\n阿飯から事件を探っていくわけね。",
+      "old_korean": "【노리코】\\n즉 알리바이와 야해동기의\\n가면에서 사건을 찾아가는 거군.",
+      "korean": "【노리코】\n즉 알리바이와 살해 동기의\n양면에서 사건을 파헤쳐 가는 거군요.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b3231",
+      "source": "【法子】\\nええ。\\nこの件に関しては、\\n今関の殺人事件とは関係ない……",
+      "old_korean": "【노리코】\\n그래. \\n이 건에 관해서는,\\n이마바야시의 유인 사건과는\\n관계없다…",
+      "korean": "【노리코】\n그래.\n이 건에 관해서는,\n이마바야시의 살인 사건과는\n관계없어……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b36ea",
+      "source": "【法子】\\nのぞみさんのお母さんが自殺したことを\\nコウジに黙《だま》っておくことが……ね。",
+      "old_korean": "【노리코】\\n노조미씨의 엄마가 자야한 것을\\n코우지에 침묵해 두는 것이…",
+      "korean": "【노리코】\n노조미 씨의 어머니가 자살한 것을\n코우지에게 숨겨 두는 것이……\n그렇군요.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b3815",
+      "source": "【光志】\\n調べた……って、\\nのぞみの母親が自殺した件か？",
+      "old_korean": "【코우지】\\n조사했다… … 라고,\\n노조미의 어머니가 자야한 건?",
+      "korean": "【코우지】\n조사했다……고?\n노조미의 어머니가 자살한 사건 말이야?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b38dd",
+      "source": "【法子】\\n私はのぞみさんのお母さん……\\n安代さんが自殺した理由を\\n密かに調べていたの……",
+      "old_korean": "【노리코】\\n나는 노조미 씨의 엄마 ......\\n아시로 씨가 자기를 떠난 이유\\n비밀리에 조사하고 있었어…",
+      "korean": "【노리코】\n나는 노조미 씨의 어머니……\n아시로 씨가 자살한 이유를\n몰래 조사하고 있었어……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b5717",
+      "source": "【栄太郎】\\nその手記には、\\n１人の男を殺したことが\\nほのめかされていた。\\nその男とは……順ならわかるね？",
+      "old_korean": "【신타로】\\n그 수기에는,\\n1명의 남자를 야한 것이\\n호노메카 되고 있었다. \\n그 남자는......강이라면\\n알겠지?",
+      "korean": "【신타로】\n그 수기에는,\n남자 한 명을 죽였다는 내용이\n암시되어 있었어.\n그 남자는…… 준이라면 알겠지?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b5873",
+      "source": "【光志】\\n（わざわざオレにこんな聞き方を\\nするくらいだ。\\nもっとオレに身近な人……\\nそう、白川一利が殺したのは……）",
+      "old_korean": "【코우지】\\n(일부 일부러 나는 이것을 듣는\\n방법을\\n할 정도다.\\n더 나에게 친밀한 사람…\\n그래, 시라카와 이치로가 야한\\n것은…",
+      "korean": "【코우지】\n(일부러 나에게 이런 식으로\n묻는 방법을 택할 정도다.\n나와 더 가까운 사람……\n그래, 시라카와 이치로가 죽인 사람은……)",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b5916",
+      "source": "【栄太郎】\\nそう、白川順が殺したのは\\n順の父親である斉藤志利灰だ。",
+      "old_korean": "【신타로】\\n그래서, 시라카와가와가 야한 것은\\n강의 아버지인 사이토 시로씨이다.",
+      "korean": "【신타로】\n그렇지, 시라카와 준이 죽인 사람은\n준의 아버지인 사이토 시로 씨야.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b5d6a",
+      "source": "【栄太郎】\\n彼女は賛《おび》えていたよ……\\nそれはそうだろう。\\n自分の夫が人殺しをしていた\\nわけだからね。",
+      "old_korean": "【신타로】\\n아야녀는 띠고 있었어…\\n그렇게 될 것입니다.\\n남편이 인연을 하고 있던\\n그러니까.",
+      "korean": "【신타로】\n그녀는 겁에 질려 있었어……\n그럴 만도 하지.\n남편이 사람을 죽이고 있었던 거니까.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b6230",
+      "source": "【栄太郎】\\n彼はそのとき『わかった』と\\n言っていたが、\\n安代さんが自殺したことを考えると、\\n信じてくれなかったようだね……",
+      "old_korean": "【신타로】\\n아야는 그 때 \"알았다\"고\\n말했지만,\\n아시로 씨가 자야한 것을 생각하면,\\n믿지 않았던 것 같네…",
+      "korean": "【신타로】\n아시로 씨가 그때 ‘알았다’고\n말했지만,\n아시로 씨가 자살한 것을 생각하면,\n믿지 않았던 것 같네……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b649a",
+      "source": "【光志】\\nなぜ、法子に\\n安代さんが自殺したことを\\n口止めさせていたんですか？",
+      "old_korean": "【코우지】\\n왜, 노리코에게\\n아시요 씨가 자야한 것을\\n입토하게 하고 있었습니까?",
+      "korean": "【코우지】\n왜 노리코에게\n아시로 씨가 자살한 것을\n입 다물게 한 겁니까?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b86a6",
+      "source": "【光志】\\nああ。\\nどちらかが犯人なのか……？",
+      "old_korean": "【코우지】\\n아. \\n어느 쪽이 잔인인가…",
+      "korean": "【코우지】\\n아. \\n어느 쪽이 범인인가…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b878c",
+      "source": "【光志】\\nおそらくこの中に犯人がいるんだろうけど……",
+      "old_korean": "【코우지】\\n아마 이 안에 잔인이 있겠지만…",
+      "korean": "【코우지】\\n아마 이 안에 범인이 있겠지만…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b8f49",
+      "source": "【光志】\\nそれに近藤自身、不正の証拠《しょうこ》の関収に撃死で、\\n殺害する余巻《よゆう》はないと思っていい。",
+      "old_korean": "【코우지】\\n게다가 콘도 자신, 부정의 증거의\\n임배에\\n필치로,\\n유해하는 여웅은 없다고 생각해도\\n좋다.",
+      "korean": "【코우지】\n게다가 콘도 자신도 부정한 증거를 회수하는 데\n필사적이어서,\n살해할 여유는 없었다고 봐도 좋아.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000b9226",
+      "source": "【光志】\\nああ。\\nこの中に真犯人がいるかもしれない。\\nなんとかして絞《しぼ》り沽《こ》めないかな……",
+      "old_korean": "【코우지】\\n아.\\n이 안에 진잔인이 있을지도 모른다.\\n어쨌든 위아래를 자르지 않을까\\n......",
+      "korean": "【코우지】\\n아.\\n이 안에 진범이 있을지도 모른다.\\n어쨌든 위아래를 자르지 않을까\\n......",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000c1609",
+      "source": "【栄太郎】\\nするとそこには近藤順と\\n殺された白川順の會だけで、\\n犯人はすでにどこにもいなかった。",
+      "old_korean": "【신타로】\\n하면 거기에는 콘도강과\\n야한 시라카와가와의 돌만으로,\\n범인은 벌써 어디에도 없었다.",
+      "korean": "【신타로】\n하면 거기에는 콘도 준과\n살해당한 시라카와 준의 시신만 있었고,\n범인은 벌써 어디에도 없었다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000c207e",
+      "source": "【光志】\\n（今日は、警察署内での蠧調べは\\nおこなわれず、\\n殺害現場となったバー『ライトブルー』に\\n連れてこられた）",
+      "old_korean": "【코우지】\\n(오늘은, 경찰서내에서의 삼림\\n조사는\\n행행되지 않고,\\n야해 현장이 된 바 '라이트\\n블루'에\\n 데려왔다)",
+      "korean": "【코우지】\n(오늘은 경찰서 내에서 취조는 진행되지 않고,\n살해 현장이 된 바 ‘라이트 블루’로\n끌려왔다)",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000c3ac2",
+      "source": "【光志】\\n……なるほど。\\nその注声に管理されていた鍵《かぎ》を\\nオレが破って、\\n被害者《ひがいしゃ》を殺したってわけか。",
+      "old_korean": "【코우지】\\n… … 과연. \\n그 엄중하게 관리되고 있던 열쇠를\\n내가 깨고,\\n피해자를 얹었다고 할까.",
+      "korean": "【코우지】\n……과연.\n그 엄중하게 관리되고 있던 열쇠를\n내가 부수고,\n피해자를 죽였다는 건가.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000c3d9b",
+      "source": "【退職】\\nここが、被害者《ひがいしゃ》が殺されていた\\nＶＩＰルームだ。\\n第一発見者は近藤《こんどう》克美《かつみ》……\\n私の上曜だ。",
+      "old_korean": "【미우라】\\n여기가, 피해자가 엄청나고 있던\\nVIP 룸이다. \\n무일 발견자는 콘도 숙미......\\n내 상사다.",
+      "korean": "【미우라】\n여기가 피해자가 살해당해 있던 VIP룸이다.\n최초 발견자는 콘도 가쓰미……\n내 상사다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000c3f4e",
+      "source": "【退職】\\n被害者《ひがいしゃ》が倒《たお》れていて、\\n犯人らしき人物は\\nすでに見あたらなかったと\\n証言している。",
+      "old_korean": "【미우라】\\n피해자가 부서져 있고,\\n잔인다운 인물은\\n이미 보이지 않았다고\\n증언하고 있다.",
+      "korean": "【미우라】\\n피해자가 부서져 있고,\\n범인다운 인물은\\n이미 보이지 않았다고\\n증언하고 있다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000c45e8",
+      "source": "【退職】\\nその事実で十分だ……\\nお前が犯人だと結論づけるにはな！",
+      "old_korean": "【미우라】\\n그 사실로 충분하다…\\n너가 잔인이라고 결론을 내리지\\n마라!",
+      "korean": "【미우라】\\n그 사실로 충분하다…\\n너가 범인이라고 결론을 내리지\\n마라!",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000c5edf",
+      "source": "【退職】\\n課長！\\n冗力を談《ともな》った蠧調べは違法《いほう》だ！\\nやめて下さい！",
+      "old_korean": "【미우라】\\n과장! \\n폭력을 동반한 삼림 조사는\\n불법이다! \\n 그만해!",
+      "korean": "【미우라】\\n과장! \\n폭력을 동반한 취조는\\n불법이다! \\n 그만해!",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000c6765",
+      "source": "【近藤】\\nなんなら、今すぐ自白すれば、\\n殺意はなかったと調書に書こう。\\nこの場合、傷害幸死《しょうがいちし》だ。",
+      "old_korean": "【콘도】\\n무엇이라면, 지금 자백하면,\\n야유는 없었다고 조서에 쓰자. \\n이 경우, 상해치치다.",
+      "korean": "【콘도】\n무엇이냐면, 지금 자백하면,\n살의는 없었다고 조서에 써 주지.\n이 경우에는 상해치사죄다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000c686d",
+      "source": "【近藤】\\nだが抵貢《ていこう》すれば、\\n殺意があったことを証間する\\n証拠《しょうこ》をいくらでも提示してやる！\\nム《・》リ《・》ヤ《・》リ《・》にでもな！",
+      "old_korean": "【콘도】\\n하지만 경항하면,\\n야의가 있었음을 증명하는\\n증거를 얼마든지 제시해 준다! \\n무리야리에도!",
+      "korean": "【콘도】\n하지만 저항한다면,\n살의가 있었다는 걸 증명하는 증거를\n얼마든지 제시해 주지!\n무리하게라도!",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000c690a",
+      "source": "【近藤】\\n殺人が証間されれば、\\n死刑《しけい》もあり得るんだぞ！",
+      "old_korean": "【콘도】\\n야인이 증명되면,\\n치형도 있을 수 있어!",
+      "korean": "【콘도】\n살인이 증명되면,\n사형도 있을 수 있어!",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000c6ec7",
+      "source": "【退職】\\n……これで蠧調べを\\n終わりにしたいところだが、\\n私はお前を怖問《じんもん》しなければならない\\n立場だ……",
+      "old_korean": "【미우라】\\n… … 이것으로 삼림 조사를\\n끝내고 싶은 곳이지만,\\n너를 심문해야\\n태장이다…",
+      "korean": "【미우라】\\n… … 이것으로 취조를\\n끝내고 싶은 곳이지만,\\n너를 심문해야\\n태장이다…",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000c8754",
+      "source": "【光志】\\nオレは殺してない！\\nＶＩＰルームにも入ってないんだ！",
+      "old_korean": "【코우지】\\n나는 기분이 안돼! \\n VIP 룸에도 들어가지 않아!",
+      "korean": "【코우지】\n나는 죽이지 않았어!\nVIP룸에도 들어가지 않았다고!",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ca6d1",
+      "source": "【光志】\\n…………\\n父親は白川一利によって\\n殺された？",
+      "old_korean": "【코우지】\\n…………\\n아버지는 시라카와 이치로에 의해\\n찢어졌다?",
+      "korean": "【코우지】\n…………\n아버지는 시라카와 이치로에게\n살해당한 건가?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000cc781",
+      "source": "【退職】\\nさて、蠧調べを始めようか。",
+      "old_korean": "【미우라】\\n그럼, 숲 조사를 끝낼까.",
+      "korean": "【미우라】\\n그럼, 취조를 끝낼까.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000cdaa6",
+      "source": "【退職】\\nさて、本日の蠧調べを始めるが……",
+      "old_korean": "【미우라】\\n 그런데, 오늘의 삼림 조사를\\n끝내지만…",
+      "korean": "【미우라】\\n 그런데, 오늘의 취조를\\n끝내지만…",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ce0d5",
+      "source": "【退職】\\nさて、今日が蠧調べ最後の日となる。\\n今日までに得た証拠《しょうこ》や証言は\\nすべて間日には検察庁へ\\n送られることになる。",
+      "old_korean": "【미우라】\\n그런데, 오늘이 숲 조사 마지막\\n날이\\n된다.\\n오늘까지 얻은 증거와 증언은\\n모두 내일에는 검찰청에\\n보내지게 된다.",
+      "korean": "【미우라】\\n그런데, 오늘이 취조 마지막\\n날이\\n된다.\\n오늘까지 얻은 증거와 증언은\\n모두 내일에는 검찰청에\\n보내지게 된다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ceca1",
+      "source": "【退職】\\nまずは確認だ。\\nお前が殺したのは誰《だれ》だ？",
+      "old_korean": "【미우라】\\n우선은 확인이다. \\n당신이 떠오른 사람은 누구인가?",
+      "korean": "【미우라】\n우선은 확인이다.\n네가 죽인 건 누구냐?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ced8d",
+      "source": "【光志】\\nオレは誰《だれ》も殺していない。\\nよって、黙秘《もくひ》させてもらう。",
+      "old_korean": "【코우지】\\n나는 아무도 얽매이지 않았다. \\n 그러므로, 묵부하게 한다.",
+      "korean": "【코우지】\n나는 아무도 죽이지 않았다.\n그러므로 묵비권을 행사하겠다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000cef08",
+      "source": "【退職】\\nほう……\\nお前が殺したことを認めるんだな？",
+      "old_korean": "【미우라】\\n어...\\n네가 야한 것을 인정하는 거야?",
+      "korean": "【미우라】\n어……\n네가 죽인 것을 인정하는 거냐?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000cf00c",
+      "source": "【退職】\\n私は『お前が殺したのは誰《だれ》だ』と\\n聞いたんだぞ？",
+      "old_korean": "【미우라】\\n저는 「너가 야한 것은 누구다」라고\\n들었어?",
+      "korean": "【미우라】\n나는 ‘네가 죽인 건 누구냐’고\n물었단 말이다?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000cf671",
+      "source": "【退職】\\nお前のアリバイはあやふやだ。\\n殺害恋刻、お前はなにをしていた？",
+      "old_korean": "【미우라】\\n너의 알리바이는 아야후야다. \\n유해 시간, 너는 뭐하고 있니?",
+      "korean": "【미우라】\n너의 알리바이는 애매하다.\n살해 시각에, 너는 무엇을 하고 있었지?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000cfe78",
+      "source": "【光志】\\n殺害恋付、\\nオレは轉に畭《よ》いつぶれていたんだ。",
+      "old_korean": "【코우지】\\n유해시간,\\n나는 굉장히 술에 취해 있었다.",
+      "korean": "【코우지】\n살해 시각,\n나는 완전히 술에 취해 있었어.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000cff65",
+      "source": "【退職】\\n……殺害恋付に、\\nオマエは既《すで》に堂を退堂していたハズだ。",
+      "old_korean": "【미우라】\\n……유해 시간에,\\n오마에는 이미 가게를 게으르던\\n하즈다.",
+      "korean": "【미우라】\n……살해 시각에,\n너는 이미 가게를 나갔을 터다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000d18c3",
+      "source": "【退職】\\nお前が被害者《ひがいしゃ》と口論していたという押撃証言《もくげきしょうげん》がある。\\nこれは殺害係機につながりかねない話だ。\\nこれをどう説間するつもりだ？",
+      "old_korean": "【미우라】\\n너가 피해자와 구론하고 있었다는\\n목격\\n증언이 있다. \\n이것은 야해동기로 연결될 수 있는\\n이야기다. \\n이걸 어떻게 설명할 거야?",
+      "korean": "【미우라】\n네가 피해자와 말다툼하고 있었다는\n목격 증언이 있다.\n이것은 살해 동기로 이어질 수 있는\n이야기다.\n이걸 어떻게 설명할 거냐?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000d1ed7",
+      "source": "【光志】\\n（近藤はオレと被害者《ひがいしゃ》のトラブルについて\\n口論と倚めつけていた。\\nオレを犯人に仕立て上げようとするかのように）",
+      "old_korean": "【코우지】\\n(콘도는 나와 피해자의 트러블에\\n대해\\n구론과 붐비고 있었다.\\n나를 잔인에게 뚱뚱하게 올리려고\\n하는\\n것처럼)",
+      "korean": "【코우지】\\n(콘도는 나와 피해자의 트러블에\\n대해\\n구론과 붐비고 있었다.\\n나를 범인에게 뚱뚱하게 올리려고\\n하는\\n것처럼)",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000d1fd2",
+      "source": "【光志】\\n（オレを犯人と倚めつけようとしてる近藤の\\n気になる行係。\\nそれは……？）",
+      "old_korean": "【코우지】\\n(나를 잔인과 붐비려고 하고 있는\\n콘도의\\n신경이 쓰이는 행동.\\n그것은......?)",
+      "korean": "【코우지】\\n(나를 범인과 붐비려고 하고 있는\\n콘도의\\n신경이 쓰이는 행동.\\n그것은......?)",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000d2237",
+      "source": "【光志】\\n（なにしろ、蠧調べのときは\\n曜法蠧引まがいのことをしかけてきたくらいだ）",
+      "old_korean": "【코우지】\\n(어쨌든, 삼림 조사할 때는\\n사법 삼키기 마모를 걸어 왔을\\n정도다)",
+      "korean": "【코우지】\\n(어쨌든, 취조할 때는\\n사법 삼키기 마모를 걸어 왔을\\n정도다)",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000d2295",
+      "source": "【光志】\\n（近藤がどういうつもりなのかはわからない。\\n事件の現場にいたんだ、\\nひょっとしたら真犯人って線もある……）",
+      "old_korean": "【코우지】\\n(콘도가 어떤 생각일까는 모르겠다.\\n사건의 현장에 있었어,\\n어쩌면 진잔인은 선도 있다…",
+      "korean": "【코우지】\\n(콘도가 어떤 생각일까는 모르겠다.\\n사건의 현장에 있었어,\\n어쩌면 진범은 선도 있다…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000d2929",
+      "source": "【光志】\\nどうも近藤は、\\nこの事件に関してオレを犯人に\\n仕立て上げたがっているふしがある……",
+      "old_korean": "【코우지】\\n아무래도 콘도는,\\n이 사건에 관해서 나를 잔인에게\\n완고하게 하고 싶어하는 비틀이\\n있다…",
+      "korean": "【코우지】\\n아무래도 콘도는,\\n이 사건에 관해서 나를 범인에게\\n완고하게 하고 싶어하는 비틀이\\n있다…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000d605d",
+      "source": "【退職】\\nお前の父親の手記に書かれていた、\\n白川一利の手によって\\n殺されたという内容。",
+      "old_korean": "【미우라】\\n너의 아버지의 수기에 쓰여져 있던,\\n시라카와 이치로의 손에 의해\\n기대되었다고 하는 내용.",
+      "korean": "【미우라】\n너의 아버지 수기에 적혀 있던,\n시라카와 이치로의 손에 의해\n살해당했다는 내용.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000d6569",
+      "source": "【光志】\\nもし、オレが父親殺しの犯人が\\n白川一利だと知っていたら、\\nリフォームを頼《たの》むはずがない！",
+      "old_korean": "【코우지】\\n 만약, 내가 아버지 야유의 범인이\\n시라카와 이치로라고 알고 있으면,\\n리폼을 부탁할 리가 없다!",
+      "korean": "【코우지】\n만약 내가 아버지를 죽인 범인이\n시라카와 이치로라는 걸 알고 있었다면,\n리폼을 부탁할 리가 없어!",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000d77df",
+      "source": "【光志】\\nじゃあ、逆に質問させてもらおう！\\n源にその手帳を見たとして、\\nなぜ被害者《ひがいしゃ》を殺したのが今なんだ！？",
+      "old_korean": "【코우지】\\n그럼, 반대로 전문시켜 주자! \\n동생에게 그 수첩을 보았다고 해서,\\n왜 피해자를 야한 것이 지금이야!\\n?",
+      "korean": "【코우지】\n그럼, 반대로 질문하겠다!\n동생에게 그 수첩을 보였다고 해서,\n왜 지금 피해자를 죽인 거냐!?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000d7866",
+      "source": "【光志】\\n少なくとも５年以上のブランクが\\nあるだろうっ！\\nどうして今になって殺すんだ！？",
+      "old_korean": "【코우지】\\n최소 5년 이상의 블랭크가\\n있을 것이다! \\n어째서 지금이 되어 기쁩니다! ?",
+      "korean": "【코우지】\n최소 5년 이상의 공백이 있었을 것이다!\n어째서 지금 와서 죽이는 거야!?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000d7bdb",
+      "source": "【退職】\\nトイレで被害者《ひがいしゃ》と決然《ぐうぜん》出くわし、\\n父親を殺した裏《うら》みを思い出し、\\n衝係的《しょうどうてき》に犯行におよんだ……違《ちが》うか？",
+      "old_korean": "【미우라】\\n화장실에서 피해자와 우연히 만나,\\n아버지를 야한 뒷모습을 기억해,\\n충동적으로 범행에\\n이르렀다......다른가?",
+      "korean": "【미우라】\n화장실에서 피해자와 우연히 만나,\n아버지를 죽인 원한을 떠올리고,\n충동적으로 범행에\n이르렀다…… 다른가?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000d7d29",
+      "source": "【光志】\\n少なくとも今関の事件が\\n希機殺人であることは間らかだ！\\nなぜなら……！",
+      "old_korean": "【코우지】\\n적어도 이마바야시의 사건이\\n계획 유인인 것은 분명하다! \\n왜냐면......!",
+      "korean": "【코우지】\n적어도 이마바야시의 사건이\n계획적인 살인인 것은 분명하다!\n왜냐하면……!",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000d9aeb",
+      "source": "【光志】\\n少なくともアリバイを理由に\\nオレだけを犯人録いするのは付《ま》違《ちが》いだ！",
+      "old_korean": "【코우지】\\n적어도 알리바이를 이경에게\\n나만 잔인처럼 하는 것은 실수다!",
+      "korean": "【코우지】\\n적어도 알리바이를 이경에게\\n나만 범인처럼 하는 것은 실수다!",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000da4ab",
+      "source": "【退職】\\nたしかにお前の言うとおりだ。\\nアリバイだけでお前を犯人と\\n倚めつけることはできない。",
+      "old_korean": "【미우라】\\n확실히 너의 말대로. \\n아리바이만으로 너를 잔인과\\n만질 수는 없다.",
+      "korean": "【미우라】\\n확실히 너의 말대로. \\n아리바이만으로 너를 범인과\\n만질 수는 없다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000daa73",
+      "source": "【退職】\\n畭《よ》いつぶれていたのなら、\\n殺人を犯した行響自体を触れてしまっている。\\nそうは考えられないか？",
+      "old_korean": "【미우라】\\n술에 취해 있었다면,\\n야인을 저지른 행위 자체를 만져\\n버리고\\n있다. \\n그렇게 생각할 수 없습니까?",
+      "korean": "【미우라】\n술에 취해 있었다면,\n살인을 저지른 행위 자체를 건드리고\n있는 셈이다.\n그렇게 생각할 수 없나?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dab98",
+      "source": "【退職】\\n畭《よ》いつぶれて記憶《きおく》を失っているのに\\n殺人を犯していないと主張するなら、\\nその根拠《こんきょ》を示してみろ！",
+      "old_korean": "【미우라】\\n술에 취해 기억을 잃고 있는데\\n야인을 저지르지 않는다고\\n수첩한다면,\\n그 근거를 보여 봐!",
+      "korean": "【미우라】\n술에 취해 기억을 잃고 있는데\n살인을 저지르지 않았다고\n주장한다면,\n그 근거를 보여 봐!",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dad1d",
+      "source": "【光志】\\n殺人をしたって証間は、\\n証拠《しょうこ》が一つでもあれば成立する！\\n今の警察がやってることだ！",
+      "old_korean": "【코우지】\\n야인을 했다고 증명은,\\n증거가 하나라도 있으면 성립한다! \\n지금 경찰이 하는 거야!",
+      "korean": "【코우지】\n살인을 했다는 증명은,\n증거가 하나라도 있으면 성립한다!\n지금 경찰이 하는 일이야!",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dbc02",
+      "source": "【退職】\\nあと８日で勾留期付《こうりゅうきかん》が終わる。",
+      "old_korean": "【미우라】\\n다음 8일에 상어 유즈마가 끝난다.",
+      "korean": "【미우라】\n앞으로 8일이면 구류 기간이 끝난다.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dbc77",
+      "source": "【退職】\\nあと７日で勾留期付《こうりゅうきかん》が終わる。",
+      "old_korean": "【미우라】\\n다음 7일에 상어 유즈마가 끝난다.",
+      "korean": "【미우라】\n앞으로 7일이면 구류 기간이 끝난다.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dbcec",
+      "source": "【退職】\\nあと６日で勾留期付《こうりゅうきかん》が終わる。",
+      "old_korean": "【미우라】\\n다음 6일에 상어 유즈마가 끝난다.",
+      "korean": "【미우라】\n앞으로 6일이면 구류 기간이 끝난다.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dbd61",
+      "source": "【退職】\\nあと５日で勾留期付《こうりゅうきかん》が終わる。",
+      "old_korean": "【미우라】\\n다음 5일에 상어 유즈마가 끝난다.",
+      "korean": "【미우라】\n앞으로 5일이면 구류 기간이 끝난다.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dbdd6",
+      "source": "【退職】\\nあと４日で勾留期付《こうりゅうきかん》が終わる。",
+      "old_korean": "【미우라】\\n다음 4일에 상어 유즈마가 끝난다.",
+      "korean": "【미우라】\n앞으로 4일이면 구류 기간이 끝난다.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dbe4b",
+      "source": "【退職】\\nあと３日で勾留期付《こうりゅうきかん》が終わる。",
+      "old_korean": "【미우라】\\n다음 3일에 상어 유즈마가 끝난다.",
+      "korean": "【미우라】\n앞으로 3일이면 구류 기간이 끝난다.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dbec0",
+      "source": "【退職】\\nあと２日で勾留期付《こうりゅうきかん》が終わる。",
+      "old_korean": "【미우라】\\n다음 2일에 상어 유즈마가 끝난다.",
+      "korean": "【미우라】\n앞으로 2일이면 구류 기간이 끝난다.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dbf35",
+      "source": "【退職】\\nあと１日で勾留期付《こうりゅうきかん》が終わる。",
+      "old_korean": "【미우라】\\n다음 하루에 상어 유즈마가 끝난다.",
+      "korean": "【미우라】\n앞으로 1일이면 구류 기간이 끝난다.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dbfa3",
+      "source": "【退職】\\nあと９日で勾留期付《こうりゅうきかん》が終わる。",
+      "old_korean": "【미우라】\\n다음 9일에 상어 유즈마가 끝난다.",
+      "korean": "【미우라】\n앞으로 9일이면 구류 기간이 끝난다.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dc002",
+      "source": "【退職】\\nあと１０日で勾留期付《こうりゅうきかん》が終わる。",
+      "old_korean": "【미우라】\\n다음 10일에 상어 유즈마가\\n끝난다.",
+      "korean": "【미우라】\n앞으로 10일이면 구류 기간이 끝난다.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dccf9",
+      "source": "【退職】\\n気が変わった。\\nもう１０日付勾留廼長《こうりゅうえんちょう》してもらえるよう、\\n検事には伝えておこう。",
+      "old_korean": "【미우라】\\n기분이 바뀌었다. \\n이제 10일간 상어 루노장을 받을\\n수\\n있도록,\\n검사에는 전해 두자.",
+      "korean": "【미우라】\n기분이 바뀌었다.\n이제 구류를 10일 연장받을 수 있도록,\n검사에게는 전해 두자.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dd525",
+      "source": "【退職】\\n本来であれば、あと１０日付\\n勾留廼長《こうりゅうえんちょう》してもらうこともできるが、\\nその撃要もない。",
+      "old_korean": "【미우라】\\n본래라면, 앞으로 10일간\\n상어 루노장 받을 수도 있지만,\\n그 필요도 없다.",
+      "korean": "【미우라】\n원래라면 앞으로 10일간\n구류를 연장받을 수도 있지만,\n그럴 필요도 없다.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dd8e0",
+      "source": "【退職】\\n蠧調べは終わりだ！",
+      "old_korean": "【미우라】\\n모리 조사는 끝이다!",
+      "korean": "【미우라】\\n취조는 끝이다!",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dda4f",
+      "source": "　\\n　\\n　\\n（オレには殺人罪で無期嗅役《むきちょうえき》の刑《けい》が下された……）",
+      "old_korean": "\\n　\\n　\\n(나에게는 야인 죄로 무우역의 형이\\n내려졌다…",
+      "korean": "\n\n\n(나에게는 살인죄로 무기징역의\n형이 내려졌다……)",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000de988",
+      "source": "殺害恋付に光志はライトブルーで\\n泥畭していたのだろうか？\\nまずはその綴りの調査を活めてみよう。",
+      "old_korean": "윤해 시간에 코우지는 라이트 블루로\\n술취한 것일까?\\n우선은 그 어떤 조사를 진행해 보자.",
+      "korean": "살해 시각에 코우지는 라이트 블루에서\n술에 취해 있었던 것일까?\n우선 그 알리바이 조사를 시작해 보자.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000deb0a",
+      "source": "口論していたのは殺害恋付とされる０恋４４分より\\nずっと前。\\nそのため、このクルーではアリバイを\\n証間したことにはならない。",
+      "old_korean": "구론하고 있던 것은 유해 시간으로 여겨지는 0시 44분보다\\n쭉 전. \\n그러므로, 이 승무원에서는 알리바이를\\n증명한 것은 되지 않는다.",
+      "korean": "말다툼하고 있었던 것은 범행 시각으로 여겨지는\n0시 44분보다 훨씬 전이다.\n그러므로 이 경우에는 알리바이를\n증명한 것이 되지 않는다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ded94",
+      "source": "「轉に畭っていたから口論していた」\\n「畭っていて憶えてない」\\nでは、警察が主張する「口論が殺害係機になった」\\nという可能性を否定できない。\\nここは口論をしていないと否定したいところだが…",
+      "old_korean": "「꽉에 취해 있었기 때문에 구론하고 있었다」\\n「술에 취해 기억하지 못한다」\\n에서는, 경찰이 수첩하는 「구론이 야해동기가 되었다」\\n라고 하는 가능성을 비정할 수 없다. \\n 여기는 논쟁을 하지 않는다고 비난하고 싶은 곳이지만...",
+      "korean": "「술에 취해 있었기 때문에 말다툼하고 있었다」\n「술에 취해 기억하지 못한다」\n라면, 경찰이 주장하는 「말다툼이 살해 동기가 되었다」\n는 가능성을 부정할 수 없다.\n여기는 말다툼을 하지 않았다고 부인하고 싶은 부분이지만…",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000df45e",
+      "source": "今は光志の所有物であり、\\nいつでも手帳の中を読むことは可能なため、\\nこのクルーで反論するのは下しい。\\nここは光志が父親殺しの真相を知っていた場合の\\n行係の矛盾を枚きつけた方がよさそうだ。",
+      "old_korean": "지금은 코우지의 소유물이며, \\n언제든지 수첩 안을 마시는 것이 가능하기 때문에,\\n이 승무원에서 반론하는 것은 기쁘다. \\n여기는 코우지가 아버지 야유의 진상을 알고 있었을 경우의\\n행동의 모순을 쌓는 것이 좋을 것 같다.",
+      "korean": "지금은 코우지의 소유물이며,\n언제든 수첩 안을 읽을 수 있으므로,\n이 반론에서는 적절하지 않다.\n여기서는 코우지가 아버지를 죽인 사건의 진상을\n알고 있었을 경우의 행동 모순을 들이대는 편이\n좋을 것 같다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000df5ae",
+      "source": "ここは光志が父親殺しの真相を知っていた場合の\\n行係の矛盾を枚きつけた方がよさそうだ。",
+      "old_korean": "여기는 코우지가 아버지 야유의 진상을 알고 있었을 경우의 \\n행동의 모순을 쌓는 것이 좋을 것 같다.",
+      "korean": "여기서는 코우지가 아버지를 죽인 사건의 진상을\n알고 있었을 경우의 행동 모순을 들이대는 편이\n좋을 것 같다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000df6b4",
+      "source": "駆効仕様となっているＶＩＰルームで\\n拳銃を発砲して殺害した犯行は\\n一見、希機的に見えるが、\\n銃声は外に模れてしまっている。\\n希機的な犯行と考えるには、少々ずさんさが押立つ。",
+      "old_korean": "발음 사양이 된 VIP 룸에서\\n권총을 발사하고 야한 범행은\\n보기, 계획적으로 보이지만,\\n총성은 밖으로 쏟아져 버리고 있다.\\n계획적인 범행이라고 생각하기에는 조금 엉망이 눈에 띈다.",
+      "korean": "발각될 수밖에 없는 VIP룸에서\n권총을 발사해 살해한 범행은\n겉보기에는 계획적으로 보이지만,\n총성은 밖으로 새어 나가 버렸다.\n계획적인 범행이라고 보기에는\n조금 엉성한 점이 눈에 띈다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000df76d",
+      "source": "確かにアリバイ工作をしていたことは\\n希機的であると言えるだろう。\\nしかしこのアリバイ工作は現恋点で署上の空論に\\n過ぎず、希機殺人を肯定する証拠としては俗い。\\nここはもっと根本的な理由を提示しよう。",
+      "old_korean": "확실히 알리바이 공작을 한 것은\\n계획적이라고 말할 수 있을 것이다.\\n그러나 이 알리바이 공작은 이 시점에서 통상의 공론에\\n지나지 않고, 계획 야수를 강정하는 증거로서는 적다.\\n여기에서는 보다 근본적인 이유를 제시하자.",
+      "korean": "확실히 알리바이 공작을 한 것은\n계획적이라고 말할 수 있을 것이다.\n그러나 이 알리바이 공작은 이 시점에서\n통상의 공론에 지나지 않고,\n계획적인 살인을 뒷받침하는 증거로서는 약하다.\n여기서는 보다 근본적인 이유를 제시하자.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000dfb41",
+      "source": "例え畭っていたとしても、\\n殺人は可能である。",
+      "old_korean": "나이가 취해도, \\n야인은 가능하다.",
+      "korean": "설령 술에 취해 있었다고 해도,\n살인은 가능하다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e0a2d",
+      "source": "【検事】\\nキミを今事件の真犯人として刑《き》訴《そ》する。\\n以上、だ。",
+      "old_korean": "【검사】\\n너를 지금 사건의 진잔인으로서\\n소소한다.\\n\\n이상.",
+      "korean": "【검사】\\n너를 지금 사건의 진범으로서\\n소소한다.\\n\\n이상.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e15b6",
+      "source": "　\\n　\\n（その結果、\\n１０日付の勾留廼長《こうりゅうえんちょう》が倚まった……\\nそれはいい）",
+      "old_korean": "\\n\\n(그 결과,\\n10일간의 상어 루노장이 정해졌다…\\n좋다)",
+      "korean": "\n\n\n(그 결과,\n10일간의 구류 연장이 결정됐다……\n좋아)",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e1c53",
+      "source": "【光志】\\nあの映像は、\\nオレ以外に犯人がいる可能性を示した、\\n声要な証拠《しょうこ》だ。",
+      "old_korean": "【코우지】\\n그 발휘는,\\n나 이외에 잔인이 있을 가능성을\\n나타낸,\\n중양인 증거다.",
+      "korean": "【코우지】\\n그 발휘는,\\n나 이외에 범인이 있을 가능성을\\n나타낸,\\n중양인 증거다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e1fa5",
+      "source": "【光志】\\nこれは蠧調べだろう？\\nいちいちオレに\\n許可を蠧る撃要なんかない。",
+      "old_korean": "【코우지】\\n이것은 삼림조사일까? \\n일일이 나에게\\n허가를 받을 필요 없어.",
+      "korean": "【코우지】\\n이것은 취조일까? \\n일일이 나에게\\n허가를 받을 필요 없어.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e232d",
+      "source": "【退職】\\nそもそも警察の本分は、\\n真相の道求であり、真犯人の逮捕《たいほ》だ。",
+      "old_korean": "【미우라】\\n원래 경찰의 본분은,\\n진상의 추구이며, 진잔인의 체포다.",
+      "korean": "【미우라】\\n원래 경찰의 본분은,\\n진상의 추구이며, 진범의 체포다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e24d0",
+      "source": "【光志】\\nオレ以外に真犯人がいて、\\n綾《あや》しいと思われる人物もいる。",
+      "old_korean": "【코우지】\\n내 이외에 진잔인이 있고,\\n아야하다고 겹쳐지는 인물도 있다.",
+      "korean": "【코우지】\\n내 이외에 진범이 있고,\\n아야하다고 겹쳐지는 인물도 있다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e2609",
+      "source": "【光志】\\nだけど、この影《かげ》が誰《だれ》なのか\\n特定できてないし、\\n真犯人を絞《しぼ》り沽《こ》めてないのが現状だ。",
+      "old_korean": "【코우지】\\n하지만, 이 그림자가 누구인지\\n특정할 수 없고,\\n진잔인을 위아래로 자르지 않는 것이\\n현상이다.",
+      "korean": "【코우지】\\n하지만, 이 그림자가 누구인지\\n특정할 수 없고,\\n진범을 위아래로 자르지 않는 것이\\n현상이다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e298d",
+      "source": "【光志】\\nおいおい、大丈夫《だいじょうぶ》なのか？\\nオレのせいでクビなんてことになったら\\n寢《ね》覚《ざ》めが義いんだけど。",
+      "old_korean": "【코우지】\\n이봐, 괜찮을까? \\n 내 탓에 곰팡이 따위가 되면 \\n근각이 아쉬운데.",
+      "korean": "【코우지】\n이봐, 괜찮겠어?\n나 때문에 해고라도 당하면\n마음이 편치 않은데.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e2cfb",
+      "source": "【光志】\\n（あからさまに\\nオレを犯人に仕立て上げようと\\nしていた人物がいるだろう！\\nそれは……！？）",
+      "old_korean": "【코우지】\\n(아까님에게\\n나를 잔인에게 솜씨 올려보려고\\n하고 있던 인물이 있을 것이다!\\n그것은……!?)",
+      "korean": "【코우지】\\n(아까님에게\\n나를 범인에게 솜씨 올려보려고\\n하고 있던 인물이 있을 것이다!\\n그것은……!?)",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e2d67",
+      "source": "【光志】\\nそう、近藤だ。\\nあからさまにオレを犯人に\\n仕立て上げようとする行係……",
+      "old_korean": "【코우지】\\n그래, 콘도다.\\n눈부신 잔인한 사람\\n솜씨 올려고 하는 행동…",
+      "korean": "【코우지】\\n그래, 콘도다.\\n눈부신 범인한 사람\\n솜씨 올려고 하는 행동…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e3d67",
+      "source": "【退職】\\n……最近は蠧調べの\\n可《か》視《し》化《か》の係きもあり、\\n新付的にも問題意識が\\n高くなっています。",
+      "old_korean": "【미우라】\\n… … 최근에는 삼림 조사의\\n시각화의 움직임도 있고,\\n세상적으로도 문제 의식이\\n높아지고 있습니다.",
+      "korean": "【미우라】\\n… … 최근에는 취조의\\n시각화의 움직임도 있고,\\n세상적으로도 문제 의식이\\n높아지고 있습니다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e3dee",
+      "source": "【退職】\\nあまり強引な蠧調べは\\n芝成いたしかねます。",
+      "old_korean": "【미우라】\\n별로 강인한 숲 조사는\\n찬성하기 어렵습니다.",
+      "korean": "【미우라】\\n별로 강인한 취조는\\n찬성하기 어렵습니다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e40a9",
+      "source": "【光志】\\nオレが犯人じゃない証拠《しょうこ》も\\n徐々《じょじょ》に揃《そろ》い始《はじ》めているし、\\n容疑《ようぎ》が槍れるのも\\n恋付の問題だと思ってますから。",
+      "old_korean": "【코우지】\\n내가 잔인이 아닌 증거도\\n서서히 갖추어져 있고,\\n용의가 뛰어넘는 것도\\n시간의 문제라고 무겁기 때문에.",
+      "korean": "【코우지】\\n내가 범인이 아닌 증거도\\n서서히 갖추어져 있고,\\n용의가 뛰어넘는 것도\\n시간의 문제라고 무겁기 때문에.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e4162",
+      "source": "【近藤】\\nフン。\\nお前が犯人じゃない証拠《しょうこ》、か。",
+      "old_korean": "【콘도】\\n훈. \\n당신이 잔인 아닌 증거,?",
+      "korean": "【콘도】\\n훈. \\n당신이 범인 아닌 증거,?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e501e",
+      "source": "【近藤】\\n蠧調べというものは、\\nこうやってやるんだよ！",
+      "old_korean": "【콘도】\\n모리 조사라고 하는 것은,\\n 이렇게 하는 거야!",
+      "korean": "【콘도】\\n취조라고 하는 것은,\\n 이렇게 하는 거야!",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e5341",
+      "source": "【退職】\\n…………\\n本当に済まない……\\n今日の蠧調べはこれで……",
+      "old_korean": "【미우라】\\n…………\\n정말 망설이지 않는다…\\n오늘의 삼림 조사는 이것으로…",
+      "korean": "【미우라】\\n…………\\n정말 망설이지 않는다…\\n오늘의 취조는 이것으로…",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e5e15",
+      "source": "【吉本】\\n今日は私が蠧調べを行います。\\n不痛ですか？",
+      "old_korean": "【요시모토】\\n오늘은 내가 삼림 조사를\\n실시합니다. \\n불만?",
+      "korean": "【요시모토】\\n오늘은 내가 취조를\\n실시합니다. \\n불만?",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e61da",
+      "source": "【光志】\\n蠧調べなんだし、その、\\nなにかオレに聞かないんですか？",
+      "old_korean": "【코우지】\\n모리 조사 하지만, 그,\\n뭔가 나에게 놓지 않습니까?",
+      "korean": "【코우지】\\n취조 하지만, 그,\\n뭔가 나에게 놓지 않습니까?",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e7ba1",
+      "source": "【光志】\\nじゃなければ、\\n証拠《しょうこ》がないのに\\n犯人録《あつか》いする警察と同じだ。",
+      "old_korean": "【코우지】\\n가 아니면,\\n증거가 없는데\\n잔인처럼 하는 경찰과 같다.",
+      "korean": "【코우지】\\n가 아니면,\\n증거가 없는데\\n범인처럼 하는 경찰과 같다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e7c2c",
+      "source": "【吉本】\\n…………\\nあなたには殺害の証拠《しょうこ》があります。",
+      "old_korean": "【요시모토】\\n…………\\n당신에게는 유해의 증거가 있습니다.",
+      "korean": "【요시모토】\n…………\n당신에게는 살해했다는 증거가 있습니다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e7ea6",
+      "source": "【吉本】\\n……不愉快《ふゆかい》です。\\n今日の蠧調べはこれで終わります。",
+      "old_korean": "【요시모토】\\n… … 불쾌합니다. \\n오늘의 삼림 검사는 이것으로\\n끝납니다.",
+      "korean": "【요시모토】\\n… … 불쾌합니다. \\n오늘의 취조 검사는 이것으로\\n끝납니다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e91e3",
+      "source": "【光志】\\nキミにアイツと同じ行係をしろなんて\\n言わないけど、\\n少なくとも組織を言い切にして、\\n自分を殺しちゃダメだ。",
+      "old_korean": "【코우지】\\n너에게 아이츠와 같은 행동을\\n하라고는\\n말하지 않지만,\\n적어도 권위를 단언하고,\\n자신을 유치하면 안 된다.",
+      "korean": "【코우지】\n너에게 아이츠와 같은 행동을 하라고는\n말하지 않지만,\n적어도 조직을 등지고\n자신을 죽여서는 안 돼.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e94d3",
+      "source": "【吉本】\\nその影清《えいきょう》で、\\n今関は自ら捜査《そうさ》に赴《おもむ》くことは禁止され、\\nあなたの蠧調べを担当することに\\nなりました。",
+      "old_korean": "[요시모토]\\n그 영향으로,\\n이마바야시는 스스로 수사에 가는\\n것은\\n금토되고,\\n당신의 삼림 조사를 담당하는 것이\\n되었습니다.",
+      "korean": "[요시모토]\\n그 영향으로,\\n이마바야시는 스스로 수사에 가는\\n것은\\n금토되고,\\n당신의 취조를 담당하는 것이\\n되었습니다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000e971c",
+      "source": "【光志】\\nそれにオレは殺人事件の被疑者《ひぎしゃ》だ。\\nむしろこっちが\\n助けてもらいたいくらいだよ。",
+      "old_korean": "【코우지】\\n게다가 나는 야인 사건의 피의자다.\\n\\n오히려 이쪽이\\n도 도와주고 싶을 정도야.",
+      "korean": "【코우지】\n게다가 나는 살인 사건의 피의자다.\n오히려 이쪽이 도와주고 싶을 정도야.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ea27f",
+      "source": "【吉本】\\nでは、これで蠧調べも終わりにします。\\n間日からは今まで通り退職刑事が\\n蠧調べをすると思いますので……",
+      "old_korean": "【요시모토】\\n에서는, 이것으로 숲 조사도 끝으로\\n합니다. \\n내일부터는 지금까지대로 미우라\\n형사가\\n모리 조사를 한다고 생각하기\\n때문에...",
+      "korean": "【요시모토】\\n에서는, 이것으로 취조도 끝으로\\n합니다. \\n내일부터는 지금까지대로 미우라\\n형사가\\n취조를 한다고 생각하기\\n때문에...",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ed16a",
+      "source": "　\\n　\\n（事件の担当者が変わり、\\nまた一から蠧調べが\\n行われることになった）",
+      "old_korean": "\\n　\\n(사건의 상당자가 바뀌어,\\n또 처음부터 삼림 조사가\\n행해지게 되었다)",
+      "korean": "\\n　\\n(사건의 상당자가 바뀌어,\\n또 처음부터 취조가\\n행해지게 되었다)",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ed5e5",
+      "source": "【光志】\\n口論の押撃証言《もくげきしょうげん》。\\nそして冗力的な蠧調べ……",
+      "old_korean": "【코우지】\\n구론의 목격 증언. \\n그리고 폭력적인 숲 조사......",
+      "korean": "【코우지】\\n구론의 목격 증언. \\n그리고 폭력적인 취조......",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ed926",
+      "source": "【退職】\\nしかし、近藤刑事が拳銃《けんじゅう》に指紋《しもん》を\\nつけたことは否定する。\\nつまり、近藤刑事は犯人じゃない。",
+      "old_korean": "【미우라】\\n 그러나, 콘도 형사가 권총에\\n지문을\\n붙인 것은 비정한다. \\n즉, 콘도 형사는 잔인이 아니다.",
+      "korean": "【미우라】\\n 그러나, 콘도 형사가 권총에\\n지문을\\n붙인 것은 비정한다. \\n즉, 콘도 형사는 범인이 아니다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ee452",
+      "source": "【退職】\\n間日、彼を蠧調べに\\nつれてくることを御題する。",
+      "old_korean": "【미우라】\\n내일, 아야를 삼림 조사에\\n 얽혀 오는 것을 긴자한다.",
+      "korean": "【미우라】\\n내일, 아야를 취조에\\n 얽혀 오는 것을 긴자한다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f07df",
+      "source": "【光志】\\nもう一つ聞かせて疚しい。\\nなぜ、オレを強引に犯人に\\n仕立て上げようとしたんだ？",
+      "old_korean": "【코우지】\\n또 하나 놓아서 짜증난다. \\n왜, 저를 억지로 잔인에게\\n 뚱뚱하게 올리려고 했어?",
+      "korean": "【코우지】\\n또 하나 놓아서 짜증난다. \\n왜, 저를 억지로 범인에게\\n 뚱뚱하게 올리려고 했어?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f08e4",
+      "source": "【近藤】\\nフン……\\n……真犯人が八《こわ》いんだよ。",
+      "old_korean": "【콘도】\\n훈……\\n…",
+      "korean": "【콘도】\n……진범이 무서운 거야.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f0999",
+      "source": "【近藤】\\n真犯人が逮捕《たいほ》され、\\n胸判にでもなってみろ。",
+      "old_korean": "【콘도】\\n진잔인이 체포되어,\\n재판이라도 되어 보라.",
+      "korean": "【콘도】\\n진범이 체포되어,\\n재판이라도 되어 보라.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f0ad4",
+      "source": "【近藤】\\nつまりオマエを逮捕《たいほ》・刑《き》訴《そ》しろという、\\n真犯人のメッセージに\\n彩うしかないんだよ。\\n警察としてはな……",
+      "old_korean": "【콘도】\\n즉 오마에를 체포·조소하라고 하는,\\n진잔인의 메세지에\\n따를 수밖에 없어. \\n경찰로서는…",
+      "korean": "【콘도】\\n즉 오마에를 체포·조소하라고 하는,\\n진범의 메세지에\\n따를 수밖에 없어. \\n경찰로서는…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f0b55",
+      "source": "【光志】\\n……あんたは犯人が誰《だれ》なのか\\nわかってるのか……？",
+      "old_korean": "【코우지】\\n...... 너는 잔인이 누구인지\\n알고 있는 것인가…",
+      "korean": "【코우지】\\n...... 너는 범인이 누구인지\\n알고 있는 것인가…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f17e6",
+      "source": "［白川真了は殺されたのか？］",
+      "old_korean": "[시라카와 신지는 찢어졌는가? ]",
+      "korean": "[시라카와 신지는 살해당한 것인가?]",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f1e4c",
+      "source": "【退職】\\nフム……\\nでは、あらためて蠧調べを始める。",
+      "old_korean": "【미우라】\\n흠…\\n그렇다면 다시 삼촌 조사를 끝낸다.",
+      "korean": "【미우라】\\n흠…\\n그렇다면 다시 취조를 끝낸다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f221e",
+      "source": "【退職】\\nしかし、畭《よ》っていても\\n人を殺すことはできる。\\nあくまでお前の記憶《きおく》がないという\\n主張のみを認めるということだ。",
+      "old_korean": "【미우라】\\n 그러나, 취해도\\n사람을 쉴 수는 있다. \\n 어디까지나 너의 기억이 없다는\\n수첩만을 인정한다는 것이다.",
+      "korean": "【미우라】\n그러나 술에 취해 있어도\n사람을 죽일 수는 있다.\n어디까지나 너의 기억이 없다는\n주장만을 인정한다는 것이다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f2489",
+      "source": "【光志】\\nなんでだよ！\\nオレが犯人じゃないと思ってるなら、\\n教えてくれたっていいじゃないか！",
+      "old_korean": "【코우지】\\n어째서야! \\n 내가 잔인이 아니라고\\n무거워한다면, \\n 가르쳐 주었으면 좋지 않을까!",
+      "korean": "【코우지】\\n어째서야! \\n 내가 범인이 아니라고\\n무거워한다면, \\n 가르쳐 주었으면 좋지 않을까!",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f2e61",
+      "source": "【光志】\\nその結果として、\\n白川真了の心臓は兄に渡《わた》ったが、\\nこれが意図的《いとてき》に\\n行なわれた可能性がある。",
+      "old_korean": "【코우지】\\n그 결과로서,\\n시라카와 신지의 심장은 어머니에게\\n튕겨졌지만,\\n이것이 의도적으로\\n행해졌을 가능성이 있다.",
+      "korean": "【코우지】\\n그 결과로서,\\n시라카와 신지의 심장은 오빠에게\\n튕겨졌지만,\\n이것이 의도적으로\\n행해졌을 가능성이 있다.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f3430",
+      "source": "【退職】\\n……もしかしたら、\\nお前はもう真犯人が誰《だれ》か\\nわかっているんじゃないのか？",
+      "old_korean": "【미우라】\\n……혹시,\\n너는 이미 진잔인이 누군가\\n알고 있지 않습니까?",
+      "korean": "【미우라】\\n……혹시,\\n너는 이미 진범이 누군가\\n알고 있지 않습니까?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f3630",
+      "source": "【退職】\\nその通りだ。\\nだが、お前が押星をつけた人物と\\n同一人物なら、\\n私はその人物の蠧調べを管求《せいきゅう》する。",
+      "old_korean": "【미우라】\\n그대로다. \\n하지만, 너가 목록을 붙인 인물과 \\n동일한 인물이라면,\\n나는 그 인물의 삼림 조사를 맑은\\n공한다.",
+      "korean": "【미우라】\\n그대로다. \\n하지만, 너가 목록을 붙인 인물과 \\n동일한 인물이라면,\\n나는 그 인물의 취조를 맑은\\n공한다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f3754",
+      "source": "【退職】\\nお前が考える真犯人……\\nこのあとの怖問《じんもん》で、聞かせてもらおう。",
+      "old_korean": "【미우라】\\n네가 생각하는 진잔인…\\n이 후의 심문으로, 놓도록 한다.",
+      "korean": "【미우라】\\n네가 생각하는 진범…\\n이 후의 심문으로, 놓도록 한다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f52dd",
+      "source": "【退職】\\n争刀直入に聞こう！\\nお前の酔理する真犯人は……誰《だれ》だ！？",
+      "old_korean": "【미우라】\\n직당 직입에 두자! \\n너의 역리하는 진잔인은...\\n누구야! ?",
+      "korean": "【미우라】\\n직당 직입에 두자! \\n너의 역리하는 진범은...\\n누구야! ?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f5436",
+      "source": "【退職】\\nまだわからないと言うことか。\\nまぁ、そんなに気争にわかるものでもないだろう。\\n真犯人が判間した恋に教えてくれればいい。",
+      "old_korean": "【미우라】\\n아직 모르겠다고 하는 것인가. \\n뭐, 그렇게 뻔뻔하게 아는 것도\\n아닐\\n것이다. \\n진범인이 판명되었을 때에 가르쳐\\n주면\\n된다.",
+      "korean": "【미우라】\\n아직 모르겠다고 하는 것인가. \\n뭐, 그렇게 뻔뻔하게 아는 것도\\n아닐\\n것이다. \\n진범이 판명되었을 때에 가르쳐\\n주면\\n된다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f54ea",
+      "source": "【退職】\\nでは、\\n水谷朝等が真犯人だと思う理由は……？",
+      "old_korean": "【미우라】\\n그럼,\\n미즈타니 아사츠유가 진잔인이라고\\n무거운\\n리우경은…",
+      "korean": "【미우라】\\n그럼,\\n미즈타니 아사츠유가 진범이라고\\n무거운\\n리우경은…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f63bf",
+      "source": "【退職】\\n……参考までに聞かせて疚しい。\\n水谷朝等が犯人だとして、\\nその係機はなんなのだ？",
+      "old_korean": "【미우라】\\n… \\n미즈타니 아사츠유가 잔인하다고\\n해서,\\n그 동기는 무엇인가?",
+      "korean": "【미우라】\\n… \\n미즈타니 아사츠유가 범인하다고\\n해서,\\n그 동기는 무엇인가?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f6a3a",
+      "source": "【光志】\\nそこにもし不審《ふしん》な点があれば、\\n朝等さんは恋人《こいびと》を殺されたことになる！\\nこれは立派な係機だ！",
+      "old_korean": "【코우지】\\n거기에 부진한 점이 있다면,\\n아사츠유 씨는 연인을 얽매이게\\n되었다!\\n이것은 훌륭한 동기입니다!",
+      "korean": "【코우지】\n거기에 수상한 점이 있다면,\n아사츠유 씨는 연인이 살해당한 셈이다!\n이것은 훌륭한 동기다!",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f7836",
+      "source": "【退職】\\nでは聞こう。\\n沼崎栄太郎が真犯人だと思う理由は？",
+      "old_korean": "【미우라】\\n에서는 두자. \\n누마사키 신타로가 진잔인이라고\\n무거운\\n리우경은?",
+      "korean": "【미우라】\\n에서는 두자. \\n누마사키 신타로가 진범이라고\\n무거운\\n리우경은?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f7a2c",
+      "source": "【退職】\\nでは聞こう。\\n近藤刑事が真犯人だと思う理由は？",
+      "old_korean": "【미우라】\\n에서는 두자. \\n콘도 형사가 진잔인이라고 무거운\\n리우경은?",
+      "korean": "【미우라】\\n에서는 두자. \\n콘도 형사가 진범이라고 무거운\\n리우경은?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f7c2e",
+      "source": "【退職】\\nでは、\\n水無副月曜が真犯人だと思う理由は？",
+      "old_korean": "【미우라】\\n그럼,\\n미나즈키 코우지가 진잔인이라고\\n무거운\\n리경은?",
+      "korean": "【미우라】\\n그럼,\\n미나즈키 코우지가 진범이라고\\n무거운\\n리경은?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f7e0f",
+      "source": "【退職】\\nでは、\\nその人物が真犯人だと思う理由は？",
+      "old_korean": "【미우라】\\n그럼,\\n그 인물이 진잔인이라고 무거운\\n리우경은?",
+      "korean": "【미우라】\\n그럼,\\n그 인물이 진범이라고 무거운\\n리우경은?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f8d52",
+      "source": "【退職】\\n沼崎栄太郎は嘘《うそ》のアリバイを申浦していた。\\n彼が真犯人でない場合、\\nどうして嘘《うそ》をついていたんだ！？",
+      "old_korean": "【미우라】\\n누마사키 신타로는 거짓말의\\n알리바이를\\n신고하고 있었다. \\n아야가 진잔인이 아닌 경우,\\n어떻게 거짓말을 하고 있었어! ?",
+      "korean": "【미우라】\\n누마사키 신타로는 거짓말의\\n알리바이를\\n신고하고 있었다. \\n아야가 진범이 아닌 경우,\\n어떻게 거짓말을 하고 있었어! ?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f98fb",
+      "source": "【退職】\\n彼女は殺害恋付と思われる恋付帯に、\\n何をしていたんだ？",
+      "old_korean": "【미우라】\\n아야녀는 유해시간이라고 생각되는\\n시간태에,\\n무엇을 하고 있었어?",
+      "korean": "【미우라】\n그녀는 범행 시각으로 여겨지는\n시간대에 무엇을 하고 있었지?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000f9e17",
+      "source": "【退職】\\n科《く》り換すが、容疑者《ようぎしゃ》を絞《しぼ》り沽《こ》めない限り、\\n真犯人を枚《つ》き止《と》めたことにはならないんだからな。\\nそれだけは覚えておけ！！",
+      "old_korean": "【미우라】\\n분을 되살리지만, 용의자를 위로\\n숙지\\n못하는 급료,\\n진범인을 쌓아 올린 것은 되지\\n않으니까.\\n\\n그것만 기억하세요! !",
+      "korean": "【미우라】\\n분을 되살리지만, 용의자를 위로\\n숙지\\n못하는 급료,\\n진범을 쌓아 올린 것은 되지\\n않으니까.\\n\\n그것만 기억하세요! !",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000fafd2",
+      "source": "【光志】\\nヤツは極度の店《ま》けず過《ぎら》いなんだよ。\\nおそらく、以前、会各をクビになったことの\\nトラウマでな。",
+      "old_korean": "【코우지】\\n녀석은 극도의 실수 없이 싫어. \\n아마도, 이전에, 회사를 곰팡이가\\n된\\n것의\\n트라우마로.",
+      "korean": "【코우지】\n녀석은 지는 걸 극도로 싫어해.\n아마 예전에 회사에서 해고된 일의\n트라우마겠지.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000fc159",
+      "source": "【退職】\\n言ったからには、\\nなんとしてでも真犯人を証間してみせろ、\\n斉藤！！",
+      "old_korean": "【미우라】\\n 말했으니까,\\n어쨌든 진범인을 증명해 보라,\\n사이토! !",
+      "korean": "【미우라】\\n 말했으니까,\\n어쨌든 진범을 증명해 보라,\\n사이토! !",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000fcc3a",
+      "source": "　\\n　\\n（オレには殺人罪で無期嗅役《むきちょうえき》の刑《けい》が\\n下された……）",
+      "old_korean": "\\n　\\n(나에게는 야인 죄로 무우역의 형이\\n하셨다……)",
+      "korean": "\n\n(나에게는 살인죄로 무기징역의 형이\n내려졌다……)",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000fd34c",
+      "source": "【退職】\\nお前が畭《よ》いつぶれていたのなら、\\n殺人を犯した行響自体を触れてしまっている…\\nこうは考えられないか…？",
+      "old_korean": "【미우라】\\n너가 술에 취해 있었다면,\\n야인을 저지른 행위 자체를 만져\\n버리고\\n있다...\\n이렇게는 생각할 수 없을까...?",
+      "korean": "【미우라】\n네가 술에 취해 있었다면,\n살인을 저지른 행위 자체를 만져\n버리고 있다……\n이렇게는 생각할 수 없을까……?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000fd43c",
+      "source": "【退職】\\n畭《よ》いつぶれていたが、\\n殺人を犯していないことを主張するんなら、\\nその根拠《こんきょ》を示してみろ！",
+      "old_korean": "【미우라】\\n술에 취해 있었지만,\\n야인을 저지르지 않는 것을\\n수첩한다면,\\n그 근거를 보여 봐!",
+      "korean": "【미우라】\n술에 취해 있었지만,\n살인을 저지르지 않았다는 것을\n주장한다면,\n그 근거를 보여 봐!",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000fd562",
+      "source": "【光志】\\nだから、オレが殺《や》ってしまった可能性も\\nゼロではないことは認めよう。",
+      "old_korean": "【코우지】\\n그래서, 내가 기대해 버렸을\\n가능성도\\n제로가 아닌 것은 인정하자.",
+      "korean": "【코우지】\n그러니까, 내가 죽였을 가능성도\n제로가 아니라는 점은 인정하자.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000fd5e6",
+      "source": "【光志】\\nけど、だからといって、\\nオレが殺《や》ってないって証間することを\\n開めたわけじゃない！",
+      "old_korean": "【코우지】\\n하지만, 그렇다고 해서,\\n내가 기대하고 있지 않다고 증명하는\\n것을\\n조회한 것은 아니다!",
+      "korean": "【코우지】\n하지만 그렇다고 해서,\n내가 죽이지 않았다는 것을 증명하려고\n한 건 아니야!",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000fd6de",
+      "source": "【光志】\\nオレの無実を証間する方法はたった一つ。\\n真犯人とその証拠《しょうこ》を提示することだ！！",
+      "old_korean": "【코우지】\\n나의 무고를 증명하는 방법은 단\\n하나. \\n 진범인과 그 증거를 제시하는 것!\\n!",
+      "korean": "【코우지】\\n나의 무고를 증명하는 방법은 단\\n하나. \\n 진범과 그 증거를 제시하는 것!\\n!",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000fd8af",
+      "source": "【退職】\\n真犯人を特定できないのであれば、\\nお前が綾《あや》しいと思っている人物について\\n一人一人聞いていこう。",
+      "old_korean": "【미우라】\\n진잔인을 특정할 수 없다면,\\n너가 능숙하다고 무거운 인물에 대해\\n한사람 한사람 두어 가자.",
+      "korean": "【미우라】\\n진범을 특정할 수 없다면,\\n너가 능숙하다고 무거운 인물에 대해\\n한사람 한사람 두어 가자.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000fd932",
+      "source": "【退職】\\nそれぞれの容疑者《ようぎしゃ》のアリバイを証間し、\\n最終的に真犯人と思える人物を絞《しぼ》り沽《こ》むことができれば\\nお前の主張を認めようじゃないか。",
+      "old_korean": "【미우라】\\n각각의 용의자의 알리바이를 증명해,\\n궁극적으로 진범인이라고 생각되는\\n인물을\\n위로 자아낼 수 있으면\\n너의 수첩을 인정하지 않을까.",
+      "korean": "【미우라】\\n각각의 용의자의 알리바이를 증명해,\\n궁극적으로 진범이라고 생각되는\\n인물을\\n위로 자아낼 수 있으면\\n너의 수첩을 인정하지 않을까.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000fdad0",
+      "source": "【退職】\\nならば、新たな殺害恋付と思われる\\n０恋から０恋４４分頃《ごろ》までの\\n動関係者の行係から聞くとしよう。",
+      "old_korean": "【미우라】\\n라면, 새로운 윤해 시간이라고\\n생각되는\\n0시부터 0시 44분경까지의\\n각 관계자의 행동으로부터 듣는다고\\n하자.",
+      "korean": "【미우라】\n그렇다면, 새로운 범행 시각으로 여겨지는\n0시부터 0시 44분경까지의\n각 관계자의 행동에 대해 들어 보자.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000fe1dd",
+      "source": "確かに近藤は口論していたと\\n大げさに証言していたが、\\nそれが直ちに近藤が真犯人であるという証拠には\\nならない。",
+      "old_korean": "확실히 콘도는 말다툼했다고 \\n 과장에 증언하고 있었지만, \\n그것이 즉시 콘도가 진범인이라는 증거에는\\n 안 된다.",
+      "korean": "확실히 콘도는 말다툼했다고 \\n 과장에 증언하고 있었지만, \\n그것이 즉시 콘도가 진범이라는 증거에는\\n 안 된다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000feac4",
+      "source": "【？？？？】\\nあの、私も……その、\\n先生……？　に勉強を教えてもらえて\\n安しかったです。",
+      "old_korean": "【? ? ? ? 】\\n저기, 나도......그,\\n선생님......? ㅀ에게 웅강을\\n가르쳐\\n주셔서 \\n즐거웠습니다.",
+      "korean": "【? ? ? ? 】\n저기, 나도…… 그,\n선생님……?께 공부를 배울 수 있어서\n기뻤습니다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ff4fa",
+      "source": "【光志】\\n（くそっ、知らなかったとはいえ、\\n父親を殺された子に\\n主人は元気か、なんて……！）",
+      "old_korean": "【코우지】\\n(젠장, 몰랐다고는 해도,\\n아버지를 야한 아이에게\\n주인은 건강한가, 뭐…",
+      "korean": "【코우지】\n(젠장, 몰랐다고는 해도,\n아버지를 살해당한 아이에게\n‘아버지는 잘 지내시니?’라니……!)",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ff565",
+      "source": "【光志】\\n（しかも彼女からすれば、\\nオレは、父親を殺した人付なんだぞ！）",
+      "old_korean": "【코우지】\\n(게다가 아야녀로부터 하면,\\n나는, 아버지를 야한 인간이야!)",
+      "korean": "【코우지】\n(게다가 그 아이에게서 보면,\n나는 아버지를 죽인 인간이야!)",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x000ff8fc",
+      "source": "【のぞみ】\\n人殺し……",
+      "old_korean": "【노조미】\\n인기…",
+      "korean": "【노조미】\n살인자……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0010025a",
+      "source": "【のぞみ】\\n……人殺し。",
+      "old_korean": "【노조미】\\n…",
+      "korean": "【노조미】\n……살인자.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001016ff",
+      "source": "【光志】\\nオレのことを心配してくれるのか？\\n一応、新付的にオレは殺人犯ってことに\\nなってるんだぞ？",
+      "old_korean": "【코우지】\\n내가 걱정해 줄까?\\n일단, 세상적으로 내가 야한\\n사람이야.\\n뭐야?",
+      "korean": "【코우지】\n내가 걱정해 줄까?\n일단 세상적으로는 내가 살인범이란 거지?\n뭐야?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001018a0",
+      "source": "【のぞみ】\\n私は先生が殺人犯だなんて\\n思っていませんから。",
+      "old_korean": "【노조미】\\n나는 선생님이 유인범이라니\\n 생각하지 않으니까.",
+      "korean": "【노조미】\n나는 선생님이 살인범이라곤\n생각하지 않으니까.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00101a63",
+      "source": "【のぞみ】\\n先生、あのとき、\\n真剣《しんけん》に訴《うった》えてましたよね？\\n……私を被害者《ひがいしゃ》の家族と見立てて。",
+      "old_korean": "【노조미】\\n선생님, 그때,\\n진현에 희미했어요? \\n…",
+      "korean": "【노조미】\n선생님, 그때,\n진지하게 호소하셨죠?\n……저를 피해자의 가족으로 여기셨죠.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00101c64",
+      "source": "【のぞみ】\\n普通《ふつう》、殺人犯が\\n被害者《ひがいしゃ》の家族をいたわるでしょうか？",
+      "old_korean": "【노조미】\\n보통, 야인범이\\n피해자의 가문을 맞이할까요?",
+      "korean": "【노조미】\n보통 살인범이\n피해자의 가족을 걱정할까요?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00101d5a",
+      "source": "【のぞみ】\\n私には……\\n先生が殺人を犯す人付だとは、\\nとうてい思えません。",
+      "old_korean": "【노조미】\\n나에게는…\\n선생님이 야유토를 저지르는\\n인간이라고는,\\n그렇게 생각하지 않습니다.",
+      "korean": "【노조미】\n나에게는……\n선생님이 살인을 저지를 사람이라고는,\n도저히 생각할 수 없습니다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00101f5b",
+      "source": "【のぞみ】\\n先生は拳銃《けんじゅう》で相手を殺したと\\n伺《うかが》っています。\\nでも、どうして拳銃《けんじゅう》なんですか？",
+      "old_korean": "【노조미】\\n선생님은 권총으로 상대를 찢었다고\\n묻고 있습니다. \\n하지만 왜 권총입니까?",
+      "korean": "【노조미】\n선생님은 권총으로 상대를 죽였다고\n들었습니다.\n하지만 왜 권총입니까?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001024b8",
+      "source": "【光志】\\n（真犯人は効が模《も》れることにまで\\n気が関ってなかったのか？）",
+      "old_korean": "【코우지】\\n(진잔인은 소리가 쏟아질 때까지\\n기분이 숲이 없었는지?)",
+      "korean": "【코우지】\\n(진범은 소리가 쏟아질 때까지\\n기분이 숲이 없었는지?)",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00102647",
+      "source": "【光志】\\n（犯人があえて拳銃《けんじゅう》を使った\\n理由はなんだ……？）",
+      "old_korean": "【코우지】\\n(잔인이 굳이 권총을 고용했다\\n리경은 뭐야…",
+      "korean": "【코우지】\\n(범인이 굳이 권총을 고용했다\\n리경은 뭐야…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00102b3d",
+      "source": "【のぞみ】\\n……良かった……\\n私も、真犯人が\\n捕《つか》まってほしいですから……",
+      "old_korean": "【노조미】\\n……좋았다…\\n나도, 진잔인이\\n잡으면 좋겠으니까…",
+      "korean": "【노조미】\\n……좋았다…\\n나도, 진범이\\n잡으면 좋겠으니까…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00102ca7",
+      "source": "【のぞみ】\\n先生は人を殺したんですか？",
+      "old_korean": "【노조미】\\n선생님은 사람을 얹었나요?",
+      "korean": "【노조미】\n선생님은 사람을 죽인 건가요?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00105c49",
+      "source": "【のぞみ】\\n大丈夫《だいじょうぶ》ですよ。\\n先生は犯人なんかじゃありません。",
+      "old_korean": "【노조미】\\n괜찮아요. \\n선생님은 잔인이 아니다.",
+      "korean": "【노조미】\\n괜찮아요. \\n선생님은 범인이 아니다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00106944",
+      "source": "【朝等】\\n『殺人犯として刑《き》訴《そ》されそうです～！\\n助けて～！』って皎きつかれると\\n思ったのに。",
+      "old_korean": "【아사츠유】\\n『야인범으로서 희소해질 것\\n같습니다~!\\n도와주세요~! 』라고 마주할 때\\n생각했는데.",
+      "korean": "【아사츠유】\n‘살인범으로 기소될 것\n같습니다~!\n도와주세요~!’라고 마주할 때\n생각했는데.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001122e9",
+      "source": "【真太郎】\\nせっかくボクが\\nチャンスとばかりに\\nキミが犯人だとウソの証言を\\nしていたのに……",
+      "old_korean": "【타타로】\\n모처럼 나가\\n찬스와만\\n너가 잔인이라고 거짓말의 증언을\\n하고 있었는데…",
+      "korean": "【타타로】\\n모처럼 나가\\n찬스와만\\n너가 범인이라고 거짓말의 증언을\\n하고 있었는데…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00113a68",
+      "source": "【光志】\\n……事件の大きさで言えば、\\n業界トップ企業《きぎょう》の代表が\\n殺されたこの事件だって\\n馬《ば》鹿《か》にはならないぜ？",
+      "old_korean": "【코우지】\\n……사건의 크기로 말하면,\\n업계 최고 기업 대표\\n야한 이 사건이라도\\n바보는 안 될거야?",
+      "korean": "【코우지】\n……사건의 규모로 말하면,\n업계 최고 기업 대표가\n살해당한 이 사건도\n결코 작지 않다고?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00115e1f",
+      "source": "【光志】\\n（このにぎやかな２人は、\\nウチの探偵事務所の近くにある\\n高校の生徒だ）",
+      "old_korean": "【코우지】\\n(이 활기찬 2명은,\\n우치의 탐정 사무소 근처에 있는\\n고등학교의 생선이다)",
+      "korean": "【코우지】\n(이 활기찬 2명은,\n우리 탐정 사무소 근처에 있는\n고등학교의 학생이다)",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00116bc8",
+      "source": "【葵】\\n『容疑者《ようぎしゃ》の斉藤光志は殺害を\\n否認している』って。\\n完落に犯人録《はんにんあつか》いでした。",
+      "old_korean": "【아오이】\\n『용의자의 사이토 코우지는 윤해를\\n비인하고 있다』라고. \\n감전에 범인 같았습니다.",
+      "korean": "【아오이】\n『용의자인 사이토 코우지는 살해를\n부인하고 있다』고.\n완전히 범인 취급이었어요.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0011717a",
+      "source": "【茜】\\n大丈夫《だいじょうぶ》だって！\\n真犯人がどこのどいつか知らないけど、\\nまさかかわいい女子高生が\\n捜査《そうさ》してるなんて思わないっしょ！",
+      "old_korean": "【아카네】\\n괜찮아! \\n진잔인이 어디 언젠가 모르지만,\\n설마 귀여운 여고생이\\n수사하고 있다니 무겁지 않아!",
+      "korean": "【아카네】\\n괜찮아! \\n진범이 어디 언젠가 모르지만,\\n설마 귀여운 여고생이\\n수사하고 있다니 무겁지 않아!",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00117f44",
+      "source": "【茜】\\nそれじゃあ、なんて承べばいい？\\n『光志お兄ちゃん』とか？",
+      "old_korean": "【아카네】\\n그럼, 뭐라고 미리 하면 돼? \\n『코우지 엄마』라던가?",
+      "korean": "【아카네】\\n그럼, 뭐라고 미리 하면 돼? \\n『코우지 오빠』라던가?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00118003",
+      "source": "【葵】\\nだ、ダメだよ……\\n『光志お兄ちゃん』なんて……",
+      "old_korean": "【아오이】\\n다, 안돼…\\n『코우지 엄마』는…",
+      "korean": "【아오이】\\n다, 안돼…\\n『코우지 오빠』는…",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0011807a",
+      "source": "【茜】\\nあっ、そうか。\\n葵のお兄さんの名前も\\n『こうじ』だもんね。\\nややこしくなっちゃうか。",
+      "old_korean": "【아카네】\\n아, 그래? \\n아오이의 엄마의 이름도\\n『코우지』이다. \\n 다소 어려울까?",
+      "korean": "【아카네】\\n아, 그래? \\n아오이의 오빠의 이름도\\n『코우지』이다. \\n 다소 어려울까?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00118176",
+      "source": "【光志】\\n……い、一応聞いてみるけどさ、\\nお兄さんの職業って、\\nもしかして御希士とかじゃない？",
+      "old_korean": "【코우지】\\n… … 네, 일단 물어보지만,\\n엄마의 직업은\\n혹시 설계사라든가 아닌가?",
+      "korean": "【코우지】\\n… … 네, 일단 물어보지만,\\n오빠의 직업은\\n혹시 설계사라든가 아닌가?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001185c4",
+      "source": "【光志】\\nお兄さんは狭、白川御希って会各に\\n沢めてなかったか？",
+      "old_korean": "【코우지】\\n엄마는 자고, 시라카와 설계는\\n회사에\\n용서하지 않았나?",
+      "korean": "【코우지】\\n오빠는 자고, 시라카와 설계는\\n회사에\\n용서하지 않았나?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00118855",
+      "source": "【光志】\\n葵、お兄さんに\\n聞いてきてもらいたいことがある。\\nいいか？",
+      "old_korean": "【코우지】\\n아오이, 엄마에게\\n두고 싶은 일이 있다. \\n좋아?",
+      "korean": "【코우지】\\n아오이, 오빠에게\\n두고 싶은 일이 있다. \\n좋아?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00118cfd",
+      "source": "【茜】\\n兄座だって綾《あや》しまれるよ。\\nねぇ、葵？",
+      "old_korean": "【아카네】\\n어머니라도 능숙해져. \\n 이봐, 아오이?",
+      "korean": "【아카네】\\n오빠라도 능숙해져. \\n 이봐, 아오이?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001190b2",
+      "source": "【光志】\\n……あ、それと参考までに。\\nお兄さんの名前、どんな字を書くの？",
+      "old_korean": "【코우지】\\n… … 아, 그것과 사고까지. \\n엄마의 이름, 무슨 쓰는 거야?",
+      "korean": "【코우지】\\n… … 아, 그것과 사고까지. \\n오빠의 이름, 무슨 쓰는 거야?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00119c1e",
+      "source": "【光志】\\nええ。\\nこれは奴《ぬ》れ衣《ぎぬ》です。\\n真犯人がいるはずなんです。",
+      "old_korean": "【코우지】\\n그래. \\n 이것은 녀석입니다. \\n진잔인이 있어야 합니다.",
+      "korean": "【코우지】\\n그래. \\n 이것은 녀석입니다. \\n진범이 있어야 합니다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00119ca1",
+      "source": "【月曜】\\nで、オレは真犯人候補ってわけだ。",
+      "old_korean": "【유키】\\n에서, 나는 진범인 후보라고 하는\\n것이다.",
+      "korean": "【유키】\\n에서, 나는 진범 후보라고 하는\\n것이다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0011bfa9",
+      "source": "【光志】\\n蠧調べが精再的にキツイんだよ。\\n特に相手がアイツじゃ……",
+      "old_korean": "【코우지】\\n모리 조사가 정력적으로 힘들었어. \\n특히 상대가 녀석이야......",
+      "korean": "【코우지】\\n취조가 정력적으로 힘들었어. \\n특히 상대가 녀석이야......",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0011f4d0",
+      "source": "【のぞみ】\\n私はこの話を聞いたとき、つい\\n『真了さんにチャンスが\\n関ってきたんじゃないですか』と\\n言ってしまったんですが……",
+      "old_korean": "【노조미】\\n이 이야기를 넣을 때 드디어\\n『신지씨에게 기회가\\n숲이 왔니?”\\n말해 버렸습니다만…",
+      "korean": "【노조미】\n이 이야기를 들었을 때, 저도 모르게\n‘신지 씨에게 기회가\n찾아온 것 아니냐’고\n말해 버렸습니다만……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0011fbfe",
+      "source": "【光志】\\nちなみに、真了さんは、\\nそのお兄さんと仲は良かったほう？",
+      "old_korean": "【코우지】\\n덧붙여서, 신지씨는,\\n그 엄마와 풍은 좋았던 편?",
+      "korean": "【코우지】\\n덧붙여서, 신지씨는,\\n그 오빠와 풍은 좋았던 편?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00123ac3",
+      "source": "【のぞみ】\\n母が自殺したのは\\nそれが原因だと\\nおっしゃっていました……",
+      "old_korean": "【노조미】\\n어머니가 자야한 것은\\n그것이 원인이라고\\n말씀하셨습니다…",
+      "korean": "【노조미】\n어머니가 자살한 것은\n그것이 원인이라고\n말씀하셨습니다……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00123bb2",
+      "source": "【光志】\\n（それを白川一利に咎《とが》められて\\nのぞみの母が自殺……？）",
+      "old_korean": "【코우지】\\n(그것을 시라카와 이치로에 휩쓸려\\n노조미의 어머니가 자야…",
+      "korean": "【코우지】\n(그 일을 시라카와 이치로에게 추궁당해\n노조미의 어머니가 자살……?)",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001241d6",
+      "source": "【光志】\\n……そんな愛情に禹《う》えていた人物が\\n仕事とプライベートを\\n気争に割り切れるものだろうか？",
+      "old_korean": "【코우지】\\n……그런 애정이 부족했던 사람이\\n일과 사생활을\\n그렇게 깔끔하게 분리할 수 있을까?",
+      "korean": "【코우지】\n……그런 사랑에 둘러싸여 자란 사람이\n일과 사생활을\n그렇게 쉽게 나눌 수 있을까?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001250a9",
+      "source": "【光志】\\nいや、昨日で釈放《しゃくほう》されるように\\nがんばってきたのに、\\nいまだに勾留《こうりゅう》されているって……\\nバツが義いっていうか……",
+      "old_korean": "【코우지】\\n아니, 어제에 석방되도록\\n최선을 다했지만,\\n아직도 상어를 받고 있다고…\\n바투가 참을까......",
+      "korean": "【코우지】\n아니, 어제 석방되도록\n최선을 다했는데,\n아직도 구류 중이라니……\n운이 나쁘다고 해야 하나……",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00125154",
+      "source": "【朝等】\\nまぁ、仕方ないんじゃないの？\\n殺人事件の勾留《こうりゅう》なんだから、\\n気争じゃないって。",
+      "old_korean": "【아사츠유】\\n뭐, 어쩔 수 없잖아?\\n살인 사건의 구류 중이니까,\\n그렇지 않다고.",
+      "korean": "【아사츠유】\n뭐, 어쩔 수 없잖아?\n살인 사건으로 구류 중이니까,\n마음 편히 있을 수는 없다고.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001251c1",
+      "source": "【光志】\\nまぁ、そうかもしれないですけど……\\nでもね、オレだってこのまま\\nいつまでも勾留《こうりゅう》されているつもりは\\nないですから。",
+      "old_korean": "【코우지】\\n뭐, 그럴지도 모르지만…\\n그렇지만, 나도 이대로\\n언제까지도 상어를 남길 생각은\\n아니니까.",
+      "korean": "【코우지】\n뭐, 그럴지도 모르지만……\n하지만 나도 이대로\n언제까지나 구류된 채로 있을 생각은\n없으니까.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001258b0",
+      "source": "【朝等】\\nあたしがかつて愛した男《ヒト》は\\n白川真了……\\n殺された白川一利の座よ。",
+      "old_korean": "【아사츠유】\\n내가 한때 사랑했던 사람은\\n시라카와 신지…\\n야한 시라카와 이치로의 어요.",
+      "korean": "【아사츠유】\n내가 한때 사랑했던 사람은\n시라카와 신지……\n살해당한 시라카와 이치로의 딸이야.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0012616b",
+      "source": "【真太郎】\\nなんて言うんだろ……\\nこう……思《おも》い都《つ》めたような\\n押をしていて……\\nまるで自殺でも考えていそうな……",
+      "old_korean": "【타타로】\\n뭐라고 할까…\\n이렇게… … 생각나게 한 것 같은\\n눈을 하고 있어…\\n마치 자야에서도 생각하고 있을 것\\n같은…",
+      "korean": "【타타로】\n뭐라고 해야 할까……\n이렇게…… 생각에 잠긴 듯한 표정을 짓고 있어서……\n마치 자살이라도 생각하고 있는 듯한……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0012786d",
+      "source": "【葵】\\n先日、兄がこちらに来たと\\n思うのですが、\\n失礼なことを言ってなかったかと\\n思いまして……",
+      "old_korean": "【아오이】\\n전날, 어머니가 이쪽에 참았다고\\n무겁습니다만,\\n실례한 것을 말하고 있지 않았을까\\n무거워서…",
+      "korean": "【아오이】\\n전날, 오빠가 이쪽에 참았다고\\n무겁습니다만,\\n실례한 것을 말하고 있지 않았을까\\n무거워서…",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001278d5",
+      "source": "【光志】\\nう、うーん……\\n失礼なこと、って言うか、\\n気が強いお兄さんだったから、\\nちょっと飯街らったかな……",
+      "old_korean": "【코우지】\\n으, 음…\\n무례한 것, 말할까,\\n마음이 강한 엄마였기 때문에,\\n조금 면식 받았을까…",
+      "korean": "【코우지】\\n으, 음…\\n무례한 것, 말할까,\\n마음이 강한 오빠였기 때문에,\\n조금 면식 받았을까…",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00127a26",
+      "source": "【光志】\\nい、いいさ。\\nお兄さんも色々あったみたいだし、\\n気にしてないって。",
+      "old_korean": "【코우지】\\n아니, 좋아. \\n엄마도 여러가지 있었던 것 같고,\\n신경쓰지 않는다고.",
+      "korean": "【코우지】\\n아니, 좋아. \\n오빠도 여러가지 있었던 것 같고,\\n신경쓰지 않는다고.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00127a8d",
+      "source": "【葵】\\n……そうなんです。\\n兄も会各をクビになったり、\\n病気になったりで……",
+      "old_korean": "【아오이】\\n… … 그렇습니다. \\n어머니도 회사를 곰팡이가 되거나,\\n아프거나...",
+      "korean": "【아오이】\n……그렇습니다.\n오빠도 회사에서 해고되거나,\n병에 걸리기도 해서……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00127af7",
+      "source": "【葵】\\n元々はすごく優しい兄だったんです。\\n人付き合いは苦手でも、\\n一度気を許すと情が際くて……",
+      "old_korean": "【아오이】\\n 원래는 굉장히 노는 어머니였어요.\\n\\n사람 사귀는 비수라도,\\n한 번 신경을 허락하면 정이\\n양보해…",
+      "korean": "【아오이】\\n 원래는 굉장히 노는 오빠였어요.\\n\\n사람 사귀는 비수라도,\\n한 번 신경을 허락하면 정이\\n양보해…",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00127c9c",
+      "source": "【茜】\\nへー、そんな人だったんだ、\\n葵のお兄さんって。",
+      "old_korean": "【아카네】\\n헤~, 그런 사람이었구나,\\n아오이의 엄마는.",
+      "korean": "【아카네】\\n헤~, 그런 사람이었구나,\\n아오이의 오빠는.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00127de5",
+      "source": "【光志】\\n葵は普望《ふだん》、お兄さんと話すこととか\\nあるのか？",
+      "old_korean": "【코우지】\\n아오이는 평상시, 엄마와 이야기하는\\n것\\n같은가\\n 있는 것인가?",
+      "korean": "【코우지】\\n아오이는 평상시, 오빠와 이야기하는\\n것\\n같은가\\n 있는 것인가?",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001283ea",
+      "source": "【葵】\\n兄に義いとは思いながらも、\\n内緒《ないしょ》で兄のクローゼットを\\n覗《のぞ》いたんです……",
+      "old_korean": "【아오이】\\n어머니에게 아쉬움은 무거우면서도,\\n비밀로 어머니의 옷장을\\n붙였어요…",
+      "korean": "【아오이】\\n오빠에게 아쉬움은 무거우면서도,\\n비밀로 오빠의 옷장을\\n붙였어요…",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00128460",
+      "source": "【葵】\\n光志さん、\\n兄がスーツを着ていたかどうか\\n気になっていたみたいだったんで……",
+      "old_korean": "【아오이】\\n코우지씨,\\n어머니가 슈트를 입고 있었는지\\n아닌지\\n신경이 쓰인 것 같았으니까…",
+      "korean": "【아오이】\\n코우지씨,\\n오빠가 슈트를 입고 있었는지\\n아닌지\\n신경이 쓰인 것 같았으니까…",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00128595",
+      "source": "【葵】\\nそしたら司の定、\\n兄は一正もスーツを\\n持っていませんでした。",
+      "old_korean": "【아오이】\\n그러고 보니 엄마는 정장을 한 벌도\\n가지고 있지 않았어요.",
+      "korean": "【아오이】\\n그러고 보니 오빠는 정장을 한 벌도\\n가지고 있지 않았어요.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00128671",
+      "source": "【葵】\\nいいえ、どこにも兄のスーツらしき\\nものは見あたりませんでした。",
+      "old_korean": "【아오이】\\n아니, 어디에도 어머니의 슈트인것\\n같은\\n것은 보이지 않았습니다.",
+      "korean": "【아오이】\\n아니, 어디에도 오빠의 슈트인것\\n같은\\n것은 보이지 않았습니다.",
+      "reason": "兄 / お兄さん means older brother",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0012b540",
+      "source": "【七芝】\\n蠧調べで素直に自白しちゃうんだよ。",
+      "old_korean": "【나나시바】\\n모리 조사로 솔직하게 자백해 버리는\\n거야.",
+      "korean": "【나나시바】\\n취조로 솔직하게 자백해 버리는\\n거야.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0012bac0",
+      "source": "【七芝】\\nお帰り～\\n光志順、蠧調べやら接見やらで\\n大礒《おおいそが》しだね。\\n",
+      "old_korean": "【나나시바】\\n귀가~\\n코우지강, 모리 조사라든지\\n접견이나라에서\\n대칭해. \\n",
+      "korean": "【나나시바】\\n귀가~\\n코우지강, 취조라든지\\n접견이나라에서\\n대칭해. \\n",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0012bc3b",
+      "source": "【光志】\\nまあね。\\n蠧調べでも、\\nそれが一番のネックになってる。",
+      "old_korean": "【코우지】\\n음. \\n모리 조사에서도,\\n그것이 제일의 넥이 되고 있다.",
+      "korean": "【코우지】\\n음. \\n취조에서도,\\n그것이 제일의 넥이 되고 있다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0012cbb8",
+      "source": "【七芝】\\nそれで蠧調べ中の能中力が\\n切れたりしたら\\n蠧り換しのつかないことに\\nなるんじゃないの？",
+      "old_korean": "【나나시바】\\n그래서 삼촌 조사중의 집중력이\\n절단되거나 하면\\n삼림을 바꿀 수 없는 것에\\n되지 않을까?",
+      "korean": "【나나시바】\\n그래서 취조중의 집중력이\\n절단되거나 하면\\n취조을 바꿀 수 없는 것에\\n되지 않을까?",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0012d466",
+      "source": "【七芝】\\nああ、それは別件逮捕《たいほ》。\\n別件で逮捕《たいほ》すれば、\\n本当に胸きたい罪で逮捕《たいほ》するまで\\n勾留《こうりゅう》したまま恋付を何《かせ》げるでしょ？",
+      "old_korean": "【나시바】\\n 아, 그것은 별건 체포. \\n별건으로 체포하면,\\n정말로 뚫고 싶은 죄로 체포할\\n때까지\\n상류한 채로 시간을 엎드리겠지?",
+      "korean": "【나시바】\n아아, 그건 별건 체포.\n별건으로 체포하면,\n정말로 짊어지고 싶은 죄로 체포할 때까지\n구류된 채로 시간을 벌 수 있겠지?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0012f014",
+      "source": "【光志】\\n気になってそいつのことを\\n調べてみたら、なんと\\n前の心臓の持ち主を殺した\\n殺人犯だった……",
+      "old_korean": "【코우지】\\n신경이 쓰여져 그 녀석을\\n조사해 보니, 무려\\n전의 심장의 탄수를 야한\\n야인범이었다…",
+      "korean": "【코우지】\n신경이 쓰여서 그 녀석을\n조사해 보니, 무려\n전 심장 주인을 죽인\n살인범이었어……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0012f0a6",
+      "source": "【七芝】\\nつまり、元の心臓の持ち主が\\n殺されるときに犯人の顔を見て、\\nその記憶《きおく》が心臓を移度された主人振に\\n受《う》け全《つ》がれた……って話だよね。",
+      "old_korean": "【나나시바】\\n즉, 원래의 심장의 탄수가\\n야할 때에 범인의 보기를 보고,\\n그 기억이 심장을 이식된 수인님께\\n중진되었다……라고 이야기군요.",
+      "korean": "【나나시바】\n즉, 원래 심장의 주인이\n살해당할 때 범인의 얼굴을 보고,\n그 기억이 심장을 이식받은 주인에게\n전해졌다는 이야기군요.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0012ff2c",
+      "source": "【光志】\\n七芝、どこ行ってたんだ？\\n蠧調べでもあったのか？",
+      "old_korean": "【코우지】\\n시치바, 어디 갔어? \\n모리 조사라도 있었는지?",
+      "korean": "【코우지】\\n시치바, 어디 갔어? \\n취조라도 있었는지?",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0012ffa3",
+      "source": "【七芝】\\nうん、その通りだよ。\\nただ、蠧調べって言っても、\\n検事と判事によるものだけどね。",
+      "old_korean": "【나나시바】\\n 그래, 그대로야. \\n단지, 모리 조사해 말해도,\\n검사와 판사에 의한 것이지만.",
+      "korean": "【나나시바】\\n 그래, 그대로야. \\n단지, 취조해 말해도,\\n검사와 판사에 의한 것이지만.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00130009",
+      "source": "【光志】\\n（検事と判事……ってことは、\\n１０日付の勾留廼長《こうりゅうえんちょう》が\\n倚まったってことか……）",
+      "old_korean": "【코우지】\\n(검사와 판사……라는 것은,\\n10 일간의 상어 루노가\\n정해졌다는 것인가…",
+      "korean": "【코우지】\n(검사와 판사……라는 건,\n10일간의 구류 연장이\n결정됐다는 건가……)",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00130081",
+      "source": "【光志】\\n（そうだった……\\n勾留《こうりゅう》には『廼長』という\\n連度があるんだった）",
+      "old_korean": "【코우지】\\n(그렇다…\\n상어에는 \"노장\"이라고합니다.\\n제도가 있었다)",
+      "korean": "【코우지】\n(그렇다……\n구류에는 ‘연장’이라는\n제도가 있었지)",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00130683",
+      "source": "【光志】\\nいよいよ間日が勾留《こうりゅう》の\\n最終日だ。",
+      "old_korean": "【코우지】\\n드디어 내일이 상어의\\n마지막 날이다.",
+      "korean": "【코우지】\n드디어 내일이 구류의\n마지막 날이다.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001306d4",
+      "source": "【光志】\\n釈放《しゃくほう》か勾留廼長《こうりゅうえんちょう》か……\\n刑《き》訴《そ》される可能性だってある。",
+      "old_korean": "【코우지】\\n석방인가 상어 루노장인가…\\n농소될 가능성도 있다.",
+      "korean": "【코우지】\n석방인가, 구류 연장인가……\n형이 선고될 가능성도 있다.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00130ceb",
+      "source": "【光志】\\nでも、まぁ、\\n勾留廼長《こうりゅうえんちょう》は覚朗《かくご》してるよ。",
+      "old_korean": "【코우지】\\n에서도, 뭐,\\n상어 루노장은 각오하고 있어.",
+      "korean": "【코우지】\n그래도, 뭐,\n구류 연장은 각오하고 있어.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013149b",
+      "source": "【光志】\\n退職が言ってたからな。\\n１０日付の勾留廼長《こうりゅうえんちょう》だって。",
+      "old_korean": "【코우지】\\n미우라가 말했으니까. \\n10일간의 상어 루노장도.",
+      "korean": "【코우지】\n미우라가 말했으니까.\n10일간의 구류 연장이라고.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00133ce4",
+      "source": "【七芝】\\nちなみに、ボクを蠧調べしている\\n刑事が近藤って名前なんだけど、\\n彼もたまたま小説内に\\n刑事役で登場しているんだ。",
+      "old_korean": "[나나시바]\\n덧붙여서, 나를 숲 조사하고 있는\\n형사가 콘도라는 이름이지만,\\n아야도 우연히 소설내에\\n형사 걸로 기장하고 있다.",
+      "korean": "[나나시바]\\n덧붙여서, 나를 취조하고 있는\\n형사가 콘도라는 이름이지만,\\n아야도 우연히 소설내에\\n형사 걸로 기장하고 있다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00134dbf",
+      "source": "【光志】\\n……あれ、でも、\\n初日の蠧調べで罪を認めたって\\n言ってなかったっけ？",
+      "old_korean": "【코우지】\\n......어라, 하지만,\\n첫날 삼림 조사에서 죄를 인정했다고\\n말하지 않았어?",
+      "korean": "【코우지】\\n......어라, 하지만,\\n첫날 취조에서 죄를 인정했다고\\n말하지 않았어?",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00134e44",
+      "source": "【七芝】\\nうん、言ったよ。\\nだけど昨日、蠧調べを受けて、\\nそのときにちょっと、上の人と\\n連絡《れんらく》をとってもらったんだ。",
+      "old_korean": "[나시바]\\n 그래, 말했어. \\n그러나 어제, 삼림 조사를 안고,\\n그 때에 조금, 위의 사람과\\n연락을 받았다.",
+      "korean": "[나시바]\\n 그래, 말했어. \\n그러나 어제, 취조를 안고,\\n그 때에 조금, 위의 사람과\\n연락을 받았다.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013672a",
+      "source": "　\\n　\\nそこで白川一利という男が殺された。\\n現場に残された凶器《きょうき》にオレの指紋《しもん》が付着してたことから、\\n逮捕《たいほ》されることになってしまった。",
+      "old_korean": "\\n　\\n거기서 시라카와 이치로라고 하는\\n사람이\\n엄청났다. \\n현장에 남겨진 경기에 내 지문이\\n부착되어\\n있었기 때문에,\\n체포되게 되어 버렸다.",
+      "korean": "\n　\n거기서 시라카와 이치로라는 남자가 살해당했다.\n현장에 남겨진 무기에 내 지문이 묻어 있었기 때문에,\n체포되게 되어 버렸다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013705c",
+      "source": "　\\n　\\n白川朗は一利が殺されて、\\n一番得をした人物……",
+      "old_korean": "\\n　\\n시라카와 사토루는 이치로가 지쳐,\\n제일 득을 한 인물…",
+      "korean": "\n　\n시라카와 사토루는 이치로가 살해당해,\n가장 이득을 본 인물……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00137331",
+      "source": "　\\n　\\n犯人のアリバイ工作に関係している\\n可能性が高い……",
+      "old_korean": "\\n　\\n잔인의 알리바이 공작에 관계하고\\n있는\\n 가능성이 높다…",
+      "korean": "\\n　\\n범인의 알리바이 공작에 관계하고\\n있는\\n 가능성이 높다…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013760b",
+      "source": "　\\n　\\n殺害現場付近の扉《とびら》には\\n指紋《しもん》を恠した跡《あと》があった……",
+      "old_korean": "\\n\\n야해 현장 부근의 문에는\\n지문을 집에 넣은 호랑이가 있었다…",
+      "korean": "\n\n살해 현장 부근의 문에는\n지문을 지우려 한 흔적이 있었다……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013766e",
+      "source": "　\\n　\\n凶器《きょうき》にオレの指紋《しもん》があるのに、\\n扉《とびら》にオレの指紋《しもん》がないのはおかしい。\\nそう思わせないために、真犯人が恠したに違《ちが》いない。",
+      "old_korean": "\\n\\n경기에는 나의 지문이 있는데, \\n문에 나의 지문이 없는 것은\\n이상하다. \\n그렇게 겹치지 않기 위해, 진잔인이\\n집에\\n갔을 것임에 틀림없다.",
+      "korean": "\\n\\n경기에는 나의 지문이 있는데, \\n문에 나의 지문이 없는 것은\\n이상하다. \\n그렇게 겹치지 않기 위해, 진범이\\n집에\\n갔을 것임에 틀림없다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00137940",
+      "source": "　\\n　\\n絶対に真犯人を見つけてやる！",
+      "old_korean": "\\n\\n절대로 진잔인을 찾아 준다!",
+      "korean": "\\n\\n절대로 진범을 찾아 준다!",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00137d6f",
+      "source": "　\\n　\\n『人殺し』って言うために来たんだろうな、\\nやっぱり……",
+      "old_korean": "\\n\\n『인간해』라고 말하기 위해 왔겠지,\\n역시…",
+      "korean": "\n\n『살인자』라고 말하기 위해 왔겠지,\n역시……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001384de",
+      "source": "　\\n　\\nまさか○○《なんとか》こうじが葵の兄、\\n水無副月曜だったとは……\\n新付は胱《せま》いというか、決然《ぐうぜん》というか……",
+      "old_korean": "\\n\\n설마 ○○ 코지가 아오이의 어머니,\\n미나즈키 코우지였다고는…\\n세상은 사냥이라고 할까, 우연이라고\\n할까…",
+      "korean": "\n\n설마 ○○ 코우지가 아오이의 오빠,\n미나즈키 코우지였을 줄은……\n세상은 참 좁다고 해야 할까, 우연이라고\n해야 할까……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00138883",
+      "source": "　\\n　\\n近藤はムリヤリにでもオレを\\n犯人に仕立て上げようとしてるみたいだ。",
+      "old_korean": "\\n\\n콘도는 무리야리에게도 나를\\n잔인에게 솜씨 올리려고 하는 것\\n같다.",
+      "korean": "\\n\\n콘도는 무리야리에게도 나를\\n범인에게 솜씨 올리려고 하는 것\\n같다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00138cd0",
+      "source": "　\\n　\\n……真犯人はこうなることを予譲して\\nオレをハメたんだろうか？",
+      "old_korean": "\\n\\n… … 진잔인은 이렇게 되는 것을\\n예사하고\\n나를 하메 했을까?",
+      "korean": "\\n\\n… … 진범은 이렇게 되는 것을\\n예사하고\\n나를 하메 했을까?",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00138d8d",
+      "source": "　\\n　\\n今日の蠧調べでは\\n特に声要な情報はなかったな。\\n間日に期待しよう。",
+      "old_korean": "\\n 　\\n오늘의 숲 조사에서는\\n특히 중요한 정보는 없었구나. \\n내일에 연대하자.",
+      "korean": "\\n 　\\n오늘의 취조에서는\\n특히 중요한 정보는 없었구나. \\n내일에 연대하자.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013948e",
+      "source": "　\\n　\\n『殺人を犯していないという根拠《こんきょ》』……\\nんなもん、わかってたらとっとと釈放《しゃくほう》されてるぜ。",
+      "old_korean": "\\n\\n『야인을 저지르지 않는다는 근거』…\\n뭐, 알고 있으면 겨우 석방되고\\n있어.",
+      "korean": "\n\n‘살인을 저지르지 않았다는 근거’……\n뭐, 알고 있다면 겨우 석방되고\n있겠지.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013953a",
+      "source": "　\\n　\\n結腸、真犯人とその証拠《しょうこ》を提示するしか\\n方法はないだろうな。",
+      "old_korean": "\\n\\n결막, 진잔인과 그 증거를 제시하는\\n밖에\\n방법은 없을 것이다.",
+      "korean": "\\n\\n결막, 진범과 그 증거를 제시하는\\n밖에\\n방법은 없을 것이다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00139598",
+      "source": "　\\n　\\n……ってことは、\\n今後の方功としては、\\n真犯人を枚《つ》き止《と》める方法を考えればいいわけだ。",
+      "old_korean": "\\n\\n......라는 것은,\\n향후의 방식으로서는,\\n진범인을 쌓는 방법을 생각하면\\n좋다.",
+      "korean": "\\n\\n......라는 것은,\\n향후의 방식으로서는,\\n진범을 쌓는 방법을 생각하면\\n좋다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00139abe",
+      "source": "　\\n　\\n源に水無副が犯人だとしたら、\\nその係機は十分なものがある。",
+      "old_korean": "\\n\\n동에 미나즈키가 잔인이라고 하면,\\n그 동기는 충분한 것이 있다.",
+      "korean": "\\n\\n동에 미나즈키가 범인이라고 하면,\\n그 동기는 충분한 것이 있다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00139b14",
+      "source": "　\\n　\\nしかも、水無副の復職と殺人事件が刑きたタイミングが\\n近いことも、\\nただの決然《ぐうぜん》だとしらっと穢すだけ。",
+      "old_korean": "\\n　\\n게다가, 미나즈키의 복직과 야인\\n사건이\\n쏟아진 타이밍이\\n가까운 것도,\\n단지 우연이라고 촉촉하게 보낼 뿐.",
+      "korean": "\n\n게다가 미나즈키의 복직과 살인\n사건이 벌어진 시점이\n가까운 것도,\n단순한 우연이라고 치부할 뿐.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00139e05",
+      "source": "　\\n　\\n結腸、水無副のアリバイが確定しない限り、\\n水無副が真犯人である可能性は\\n否定できないだろう。",
+      "old_korean": "\\n\\n결막, 미나즈키의 알리바이가\\n확정하지\\n않는 급료, \\n미나즈키가 진범인일 가능성은\\n아무것도 할 수 없을 것이다.",
+      "korean": "\\n\\n결막, 미나즈키의 알리바이가\\n확정하지\\n않는 급료, \\n미나즈키가 진범일 가능성은\\n아무것도 할 수 없을 것이다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013b0eb",
+      "source": "　\\n　\\n沼崎弁護士がすべてを自白した。\\n彼の言うことが本当ならば、\\n彼は真犯人ではない。",
+      "old_korean": "\\n\\n누마사키 변호사가 모든 것을\\n자백했다. \\n아야의 말이 사실이라면,\\n아야는 진잔인이 아니다.",
+      "korean": "\n\n누마사키 변호사가 모든 것을 자백했다.\n그의 말이 사실이라면,\n그는 진범이 아니다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013b413",
+      "source": "　\\n　\\nやっぱりおふくろは父親が白川一利に殺された事を\\n知っていた……",
+      "old_korean": "\\n\\n역시 오후쿠로는 아버지가 시라카와\\n이치로에 얽힌 것을\\n알고 있었다…",
+      "korean": "\n\n역시 어머니는 아버지가\n시라카와 이치로에게 살해당했다는 것을\n알고 있었어……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013b46a",
+      "source": "　\\n　\\nしかも、それを問いつめたことによって、\\n白川一利に殺された可能性がある……",
+      "old_korean": "\\n 　\\n게다가, 그것을 묻는 것에 의해,\\n시라카와 이치로에 얽매였을 가능성이\\n있다…",
+      "korean": "\n\n게다가, 그 일을 추궁했기 때문에\n시라카와 이치로에게 살해당했을 가능성이 있어……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013b75a",
+      "source": "　\\n　\\nとにかく、この件に関しては事実が知りたい。\\nいや、オレは知らなければならないんだ！！\\nオレは真犯人じゃないが関係者の一人ではあるのだから！",
+      "old_korean": "\\n\\n어쨌든, 이 건에 관해서는 사실이\\n알고\\n싶다. \\n아니, 내가 알아야 해! ! \\n나는 진잔인이 아니지만 관계자의\\n혼자이기\\n때문에!",
+      "korean": "\\n\\n어쨌든, 이 건에 관해서는 사실이\\n알고\\n싶다. \\n아니, 내가 알아야 해! ! \\n나는 진범이 아니지만 관계자의\\n혼자이기\\n때문에!",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013ba48",
+      "source": "　\\n　\\n安代の自殺の件について法子が黙《だま》っていたのは、\\n沼崎弁護士の指示だったらしい。",
+      "old_korean": "\\n\\n아시로의 자야의 건에 대해 노리코가\\n침묵하고 있던 것은,\\n누마사키 변호사의 지시였던 것\\n같다.",
+      "korean": "\n　\n아시로의 자살 사건에 대해 노리코가 입을 다물고 있었던 것은,\n누마사키 변호사의 지시였던 모양이다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013bdd5",
+      "source": "　\\n　\\nやっぱり、朝等さんが真犯人なんだろうか……？",
+      "old_korean": "\\n　\\n 역시, 아사츠유씨가 진잔인일까…",
+      "korean": "\\n　\\n 역시, 아사츠유씨가 진범일까…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013be5c",
+      "source": "　\\n　\\nまさか、のぞみの実母が自殺していたとはな……",
+      "old_korean": "\\n\\n설마, 노조미의 어머니가 자야하고\\n있었다고는…",
+      "korean": "\n\n설마, 노조미의 친어머니가\n자살했다니……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013c50d",
+      "source": "　\\n　\\n水無副は復職にあたって一利が邪魔《じゃま》だから殺した？\\n……なんて、新たな係機も考えられなくはないが、\\n逆に一ヶ副かけて関係を修復していたとも考えられる。",
+      "old_korean": "\\n\\n미나즈키는 복직에 있어서 이치로가\\n방해이기 때문에 야? \\n......따라서, 새로운 동기도\\n생각할\\n수 없지는 않지만,\\n반대로 한 달에 걸쳐 관계를\\n격복하고\\n있었다고도 생각된다.",
+      "korean": "\n\n미나즈키는 복직할 때 이치로가 방해가 돼서 죽였나?\n……라는 새로운 동기도 생각할 수 있지만,\n반대로 한 달에 걸쳐 관계를 회복하고 있었다고도\n생각할 수 있다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013cf5a",
+      "source": "　\\n　\\nオレと退職の関係を監視《かんし》していて、\\n退職がオレを真犯人じゃないかもしれないと\\n思い始めたタイミングで提示する。",
+      "old_korean": "\\n\\n나와 미우라의 관계를 관시하고\\n있어,\\n미우라가 나를 진잔인이 아닐지도\\n모른다고\\n무거운 날카로운 타이밍에 제시한다.",
+      "korean": "\\n\\n나와 미우라의 관계를 관시하고\\n있어,\\n미우라가 나를 진범이 아닐지도\\n모른다고\\n무거운 날카로운 타이밍에 제시한다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013d0b3",
+      "source": "　\\n　\\nだけど、近藤が事件の真犯人ではなかった。\\nこの真犯人はオレ自身が見つけなければならないわけだ。",
+      "old_korean": "\\n\\n이지만, 콘도가 사건의 진잔인은\\n아니었다. \\n이 진잔인은 나 자신이 찾아야 하는\\n것이다.",
+      "korean": "\n\n하지만 콘도가 사건의 진범은 아니었다.\n이 진범은 내가 직접 찾아야 한다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013d9d5",
+      "source": "【男】\\nお前に殺されることなど、な、なにも……",
+      "old_korean": "【적】\\n너에게 얽매이는 것 등, 아무것도…",
+      "korean": "【적】\n너에게 살해당하는 것 따위는,\n아, 아무것도……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013eee7",
+      "source": "【光志】\\n（今や立派な\\n殺人事件の容疑者《ようぎしゃ》である、と……\\nうん、だんだん意識がはっきりしてきた）",
+      "old_korean": "【코우지】\\n(지금 좋은\\n야인 사건의 용의자이다, 라고…\\n그래, 점점 의식이 분명해졌다)",
+      "korean": "【코우지】\n(\n지금 훌륭한\n살인 사건의 용의자다, 라고……\n그래, 점점 의식이 분명해졌다)",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013f6ce",
+      "source": "【退職】\\nなにせ、こちらは……\\nお前が犯人であるという、\\n倚定的な証拠《しょうこ》をつかんでいる。",
+      "old_korean": "【미우라】\\n어쨌든, 이쪽은…\\n네가 잔인이라는\\n합정적인 증거를 잡고 있다.",
+      "korean": "【미우라】\\n어쨌든, 이쪽은…\\n네가 범인이라는\\n합정적인 증거를 잡고 있다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0013fc46",
+      "source": "【光志】\\n……つまり、今度の蠧調べで\\nオレがウソをつくと\\n思っているわけですね。",
+      "old_korean": "【코우지】\\n… … 즉, 이번 삼림 조사\\n내가 거짓말을하면\\n생각하는 거군요.",
+      "korean": "【코우지】\\n… … 즉, 이번 취조\\n내가 거짓말을하면\\n생각하는 거군요.",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014047e",
+      "source": "【退職】\\n白川が殺されたのは、\\nバー『ライトブルー』内の\\nＶＩＰルーム。",
+      "old_korean": "【미우라】\\n시라카와가 야한 것은,\\n바 '라이트 블루'내의\\nVIP룸.",
+      "korean": "【미우라】\n시라카와가 살해된 곳은,\n바 ‘라이트 블루’ 안의\nVIP룸.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00140f4c",
+      "source": "【退職】\\nわかっているとは思うが、\\n殺人罪に問われた場合、\\n最義、死刑《しけい》もあり得る。",
+      "old_korean": "【미우라】\\n알고 있다고 생각하지만,\\n야인 죄에 묻는 경우,\\n최악, 치형도 있을 수 있다.",
+      "korean": "【미우라】\n알고 있다고 생각하지만,\n살인죄로 기소되면,\n최악의 경우 사형도 있을 수 있다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014135e",
+      "source": "【退職】\\n……報浦に上がってきた証拠《しょうこ》はすべて、\\nお前が犯人だと浦《つ》げている。\\n私はそれらの証拠《しょうこ》に彩って判断した。",
+      "old_korean": "【미우라】\\n……보고에 올라온 증거는 모두,\\n너가 잔인이라고 말하고 있다.\\n나는 그 증거에 따라 결정했다.",
+      "korean": "【미우라】\\n……보고에 올라온 증거는 모두,\\n너가 범인이라고 말하고 있다.\\n나는 그 증거에 따라 결정했다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00142f8e",
+      "source": "【法子】\\n状踏証拠《じょうきょうしょうこ》はすべて\\nコウジが犯人だって示してたわ。\\nでもコウジは言い切もせず、\\nたった一言だけ。",
+      "old_korean": "【노리코】\\n상황 증거는 전부\\n코우지가 잔인이라고 나타내고\\n있었어. \\n에서도 코우지는 단언도 하지 않고,\\n\\n 단 한마디만.",
+      "korean": "【노리코】\\n상황 증거는 전부\\n코우지가 범인이라고 나타내고\\n있었어. \\n에서도 코우지는 단언도 하지 않고,\\n\\n 단 한마디만.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00143086",
+      "source": "【法子】\\nそのあとコウジったら、\\nあっさり真犯人を見つけてきて……",
+      "old_korean": "【노리코】\\n그 후 코우지하면,\\n담백히 진잔인을 찾아와…",
+      "korean": "【노리코】\\n그 후 코우지하면,\\n담백히 진범을 찾아와…",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00143947",
+      "source": "【法子】\\n殺されたのは住宅業界だけでなく、\\n日本経済にも大きな影清《えいきょう》を\\n咫《あた》えている大企業《だいきぎょう》の各長なのよ？",
+      "old_korean": "【노리코】\\n야한 것은 내택업계 뿐만이 아니라,\\n일본 경황에도 큰 영향을\\n물고 있는 대기업의 사장이야?",
+      "korean": "【노리코】\n살해당한 사람은 주택업계뿐만 아니라,\n일본 경제에도 큰 영향을\n미치는 대기업의 사장이야?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00143f4c",
+      "source": "【光志】\\n聞いてくれ。\\nどこかにオレをハメた\\n真犯人がいる前提で話を活める。",
+      "old_korean": "【코우지】\\n 들어줘. \\n어딘가에 나를 하메했다\\n진범인이 있는 전제로 이야기를\\n진행시킨다.",
+      "korean": "【코우지】\\n 들어줘. \\n어딘가에 나를 하메했다\\n진범이 있는 전제로 이야기를\\n진행시킨다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00144ad6",
+      "source": "【光志】\\n今、わかっているのは、\\n殺されたのが白川一利であること。",
+      "old_korean": "【코우지】\\n지금, 알고 있는 것은,\\n야한 것이 시라카와 이치로인 것.",
+      "korean": "【코우지】\n지금 알고 있는 건,\n살해당한 사람이 시라카와 이치로라는 것.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00144b81",
+      "source": "【光志】\\n真犯人には白川を殺すだけの\\n係機があったはずなんだ。\\nそこから手がかりが\\n見つかるかもしれない。",
+      "old_korean": "【코우지】\\n진범인에게는 시라카와를 유치하는\\n것만\\n동기가 있었을 것이다.\\n거기에서 단서가\\n찾을 수 있습니다.",
+      "korean": "【코우지】\n진범에게는 시라카와를 죽일 동기가\n있었을 것이다.\n거기에서 단서가\n찾을 수 있을지도 모른다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014511e",
+      "source": "【光志】\\nそれと、殺害現場になった\\nライトブルーというバーに行って\\n彩業元に聞《き》き沽《こ》みをしてほしい。",
+      "old_korean": "【코우지】\\n그것과 야유 현장이 된\\n라이트 블루라는 바에 가서\\n종업원에게 물어봐 주었으면 한다.",
+      "korean": "【코우지】\n그것과, 살해 현장이 된\n라이트 블루라는 바에 가서\n종업원에게 물어봐 줬으면 한다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014672d",
+      "source": "【光志】\\n（今日は検事《けんじ》による勾留管求《こうりゅうせいきゅう》を\\n押的とした蠧調を受けるために\\n検察庁に来ている）",
+      "old_korean": "【코우지】\\n(오늘은 검사에 의한 상어 루루구를\\n목적으로 삼림조를 넣기 위해\\n검찰청에 붐비고 있다)",
+      "korean": "【코우지】\n(오늘은 검사가 청구한 구류에 관한\n취조를 받기 위해\n검찰청에 와 있다)",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00146ce8",
+      "source": "【検事】\\nボクはね、いさぎよい人付が紅きなんだ。\\n人まで殺しておいて、\\n挂生際が義いヤツってのは……\\nスマートじゃないよね。",
+      "old_korean": "【검사】\\n나는 하네, 이사기 좋은 인간이 개\\n이다. \\n사람까지 유치해,\\n왕생 때가 나쁜 녀석이라는\\n것은......\\n스마트가 아니지.",
+      "korean": "【검사】\n나는 말이지, 깔끔한 성격의 인간이 좋아.\n사람까지 죽여 놓고,\n최후까지 발버둥 치는 녀석은……\n스마트하지 않지.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00146d7a",
+      "source": "【光志】\\n……お言何ですが、\\n私はまだ被疑者《ひぎしゃ》です。\\n殺人犯と倚まったわけではありません。",
+      "old_korean": "【코우지】\\n......말선이지만,\\n나는 여전히 피의자입니다.\\n유인범으로 정해진 것은 아닙니다.",
+      "korean": "【코우지】\n……말했지만, 나는 아직 피의자입니다.\n살인범으로 확정된 것은 아닙니다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00146f1c",
+      "source": "【光志】\\n（……結腸、\\n１０日付の勾留《こうりゅう》倚定か……）",
+      "old_korean": "【코우지】\\n(……결막,\\n10일간의 상어 잔치인가…",
+      "korean": "【코우지】\n(……결국,\n10일간의 구류가 결정된 건가……)",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00147040",
+      "source": "【判事】\\nそれでは勾留質問《こうりゅうしつもん》を始めます。\\nまずはあなたの名前と住所から\\nお願いします。",
+      "old_korean": "【판사】\\n그러면 상어 전문을 단단히 합니다.\\n\\n우선 당신의 이름과 내장에서\\n간다.",
+      "korean": "【판사】\n그럼 구류 심문을 시작하겠습니다.\n먼저 당신의 이름과 주소부터\n말씀해 주세요.",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00147325",
+      "source": "【光志】\\n私には覚えがありません。\\nたぶん、\\n真犯人が私に罪を着せるために\\nつけたものだと思います。",
+      "old_korean": "【코우지】\\n나는 기억이 없다. \\n 어쩌면, \\n진부인이 나에게 죄를 짓게 하기\\n위해 \\n붙인 것이라고 무겁다.",
+      "korean": "【코우지】\\n나는 기억이 없다. \\n 어쩌면, \\n진범이 나에게 죄를 짓게 하기\\n위해 \\n붙인 것이라고 무겁다.",
+      "reason": "source-conditioned criminal terminology",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x001474c3",
+      "source": "【判事】\\nそしてこれは、人を殺す訪具です。\\nそれも知っていますね？",
+      "old_korean": "【판사】\\n그리고 이것은, 사람을 얹는\\n도구입니다.\\n\\n그것도 알아?",
+      "korean": "【판사】\n그리고 이것은 사람을 죽이는 도구입니다.\n그것도 알고 있지요?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00147756",
+      "source": "【光志】\\n（……これで\\n１０日付の勾留《こうりゅう》倚定、か……）",
+      "old_korean": "【코우지】\\n(……이것으로\\n10일간의 상어류 협정,인가…",
+      "korean": "【코우지】\n(……이걸로\n10일간의 구류가 결정된 건가……)",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00147aba",
+      "source": "【光志】\\n立て続けに蠧調べを受けたせいか、\\n体中が脂汗《あぶらあせ》でベトベト……",
+      "old_korean": "【코우지】\\n 뚱뚱한 제거에 삼림 조사를 안\\n했기\\n때문에,\\n체중이 지땀으로 베트베트…",
+      "korean": "【코우지】\\n 뚱뚱한 제거에 취조를 안\\n했기\\n때문에,\\n체중이 지땀으로 베트베트…",
+      "reason": "蟇調べ is an interrogation/interview",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00148856",
+      "source": "【退職】\\n……沼崎が自註してきた。\\n白川一利を殺したのは、\\n自分だと言ってな。",
+      "old_korean": "【미우라】\\n… … 누마사키가 자중해 왔다. \\n시라카와 이치로를 얹은 것은,\\n자신이라고 말해.",
+      "korean": "【미우라】\n……누마사키가 자수해 왔다.\n시라카와 이치로를 죽인 건 자신이라고 말했어.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00148918",
+      "source": "【退職】\\n拳銃《けんじゅう》にお前の指紋《しもん》をつけたことから\\n殺害方法まで、すべてを自白している。",
+      "old_korean": "【미우라】\\n권총에 너의 지문을 붙인 것으로부터\\n야해 방법까지, 모든 것을 자백하고\\n있다.",
+      "korean": "【미우라】\n권총에 네 지문을 묻힌 것부터\n살해 방법까지, 모든 것을 자백하고\n있다.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00148a08",
+      "source": "【光志】\\nちょ、ちょっと待てよ！\\n犯人は朝等さんだって言ったろう！！",
+      "old_korean": "【코우지】\\n이봐, 잠깐만요! \\n잔인은 아사츠유씨라고 말하자! !",
+      "korean": "【코우지】\n이봐, 잠깐만요!\n범인은 아사츠유 씨라고 말하자!!",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00148a60",
+      "source": "【光志】\\n沼崎弁護士にはアリバイがある！\\n彼は真犯人じゃない！",
+      "old_korean": "【코우지】\\n누마사키 변호사에게는 알리바이가\\n있다! \\n 아야는 진잔인이 아니다!",
+      "korean": "【코우지】\n누마사키 변호사에게는 알리바이가 있다!\n그는 진범이 아니다!",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00149f52",
+      "source": "【光志】\\n（ここはじっくり考えろ……\\n朝等さんが白川一利を殺した係機につながることだ……）",
+      "old_korean": "【코우지】\\n(여기는 차분히 생각해…\\n아사츠유 씨가 시라카와 이치로를\\n야한\\n동기에 연결되는 것이다…",
+      "korean": "【코우지】\n(여기는 차분히 생각해……\n아사츠유 씨가 시라카와 이치로를\n살해한 동기로 이어지는 것이다……)",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014ac6b",
+      "source": "【光志】\\n……そうか。\\nやっぱりおふくろは知ってたんだ……\\n父親が白川の手で殺されたかもしれないこと……",
+      "old_korean": "【코우지】\\n……그렇습니까?\\n역시 오후쿠로는 알고 있었어…\\n아버지가 시라카와의 손에 얽혀\\n있었을지도…",
+      "korean": "【코우지】\n……그렇구나.\n역시 어머니는 알고 있었어……\n아버지가 시라카와의 손에\n살해당했을지도 모른다는 것……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014ce73",
+      "source": "【朝等】\\n……もうなにを言ってもムダ。\\nあなたを殺すことによってアタシの復頷《ふくしゅう》は完結する。\\nそしてアタシは自註するわ。",
+      "old_korean": "【아사츠유】\\n......이제 뭐라고 해도 낭비.\\n\\n당신을 얹음으로써 어타시의 복수는\\n감결한다. \\n그리고 어타시는 자중할게.",
+      "korean": "【아사츠유】\n……이제 뭐라고 해도 소용없어.\n당신을 죽임으로써 아타시의 복수는 끝난다.\n그리고 아타시는 자수할 거야.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014d56e",
+      "source": "【七芝】\\nすぐに彼女を殺しちゃ飯白くない。\\nボクを道い続ける事で彼女のスイッチが入るか\\n確かめたかったんだ。",
+      "old_korean": "【나나시바】\\n곧바로 아야녀를 유치하면 재미없다.\\n\\n나를 쫓아내는 것으로 아야의\\n스위치가\\n들어가는지\\n확인하고 싶었어.",
+      "korean": "【나나시바】\n곧바로 그녀를 죽여 버리면 재미없어.\n나를 계속 쫓게 해서 그녀의 스위치가 켜지는지\n확인하고 싶었던 거야.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014e0c5",
+      "source": "【光志】\\n教授は白川一利と結託《けったく》して真了さんを見殺しにし、\\n心臓移度を強行した……\\nその常鵜《かたきう》ちだったんだろ？",
+      "old_korean": "【코우지】\\n교장은 시라카와 이치로와 결부하여\\n신지씨를 바라보고,\\n심장 이식을 강행했다…\\n그 적이었다?",
+      "korean": "【코우지】\n교수는 시라카와 이치로와 결탁해\n신지 씨를 죽게 내버려 두고,\n심장 이식을 강행했어……\n그 원한을 풀기 위해서였지?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014e328",
+      "source": "【朝等】\\nだからアタシは一利を殺そうと思った……",
+      "old_korean": "【아사츠유】\\n그러니까 아타시는 이치로를 기우려고\\n생각했다…",
+      "korean": "【아사츠유】\n그러니까 아타시는 이치로를 죽이려고\n생각했어……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014e8fb",
+      "source": "【一利】\\nお前に殺されることなど、な、なにも……",
+      "old_korean": "【이치로】\\n너에게 얽매이는 것 등, 아무것도…",
+      "korean": "【이치로】\n너에게 살해당하는 것 따위는,\n아, 아무것도……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014ef93",
+      "source": "【真了】\\n……キミを殺人犯なんかには\\nさせやしない…",
+      "old_korean": "【신지】\\n…\\n시키지 마라…",
+      "korean": "【신지】\n……너를 살인범 따위로 만들지는 않겠어……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014fbb8",
+      "source": "【光志】\\nそ、それじゃあ……\\n白川一利は殺されたんじゃなくって、\\n自殺……ってことになるのか？",
+      "old_korean": "【코우지】\\n그, 그럼…\\n시라카와 이치로는 엄청난 것이\\n아니고,\\n자야… … 라고 하는 것인가?",
+      "korean": "【코우지】\n그, 그러면……\n시라카와 이치로는 살해당한 게 아니라,\n자살……이라는 건가?",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014fcbc",
+      "source": "【朝等】\\nううん、違《ちが》う。\\n彼を殺したのはやっぱりアタシ。",
+      "old_korean": "【아사츠유】\\n응, 다르다. \\n아야를 얹은 것은 역시 아타시.",
+      "korean": "【아사츠유】\n응, 아니야.\n그를 죽인 건 역시 나야.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014fd2e",
+      "source": "【朝等】\\nアタシが白川一利を殺そうとしなければ、\\n真了さんも自ら儲を絶とうとは思わなかった……",
+      "old_korean": "【아사츠유】\\n아타시가 시라카와 이치로를 기우려고\\n하지\\n않으면,\\n신지씨도 스스로 생명을 끊으려고는\\n생각하지 않았다…",
+      "korean": "【아사츠유】\n아타시가 시라카와 이치로를 죽이려고 하지 않았다면,\n신지 씨도 스스로 목숨을 끊으려고는\n생각하지 않았을 거야……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014fd97",
+      "source": "【朝等】\\nアタシは立派な殺人者よ……",
+      "old_korean": "【아사츠유】\\n아타시는 훌륭한 윤인자야…",
+      "korean": "【아사츠유】\n아타시는 훌륭한 살인자야……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0014fe3e",
+      "source": "【光志】\\n殺人者か殺人者じゃないかなんて、\\nこの国じゃ胸判で倚まるんだよ！！",
+      "old_korean": "【코우지】\\n유인자인지 야인자가 아니냐니,\\n이 옥에서는 재판으로 정해져! !",
+      "korean": "【코우지】\n살인자인지 살인자가 아닌지 따위,\n이 법정에서 재판으로 정해져!!",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00151abc",
+      "source": "【光志】\\nゴメンゴメン、ちょっと乗るところがあって……\\n……つか、おじちゃんじゃなくて\\nお兄ちゃんでいこうよ、ユミちゃん。",
+      "old_korean": "【코우지】\\n고멘 고멘, 조금 엿보는 곳이\\n있어…\\n...... 츠카, 할아버지가\\n아니고\\n엄마로 가자, 유미.",
+      "korean": "【코우지】\n고멘 고멘, 조금 엿보는 곳이\n있어……\n……잠깐, 할아버지가 아니라\n오빠라고 하자, 유미.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00152060",
+      "source": "【法子】\\n安代さんの自殺……\\nそしてあの事件……",
+      "old_korean": "【노리코】\\n아시요씨의 자야......\\n그리고 그 사건......",
+      "korean": "【노리코】\n아시로 씨의 자살……\n그리고 그 사건……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00153657",
+      "source": "【吉本】\\n姉さんは入院によって、\\n勾留《こうりゅう》が静行停止《しっこうていし》になっているだけなんだから\\n退院したら留置場に戻《もど》らないと……",
+      "old_korean": "[요시모토]\\n형은 입원에 의해,\\n상어가 집행 정토가 되어 있을\\n뿐이니까\\n게으른 경우 유치장으로 돌아가지\\n않으면...",
+      "korean": "[요시모토]\n누나는 입원으로 인해\n구류 집행이 정지된 것뿐이니까,\n퇴원하면 유치장으로 돌아가지\n않으면 안 돼……",
+      "reason": "勾留 means detention/remand",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00153f2d",
+      "source": "【朝等】\\n結腸、罪状《ざいじょう》は殺人罪。\\n客観的にみれば、間らかよね。",
+      "old_korean": "【아사츠유】\\n결막, 죄장은 유인죄. \\n객관적으로 보면 분명하죠.",
+      "korean": "【아사츠유】\n결국, 죄상은 살인죄.\n객관적으로 보면 분명하지.",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x00154f9a",
+      "source": "【朝等】\\nアタシがしたかったのは\\nコウちゃんに奴《ぬ》れ衣《ぎぬ》を着せることじゃない。\\nただ、教授を殺す恋付がほしかっただけだから……",
+      "old_korean": "【아사츠유】\\n아타시가 하고 싶었던 것은\\n코우짱에게 녀석 옷을 입게 하는\\n것이\\n아니다. \\n단, 교장을 지키는 시간을 원했을\\n뿐이니까......",
+      "korean": "【아사츠유】\n아타시가 하고 싶었던 것은\n코우짱에게 누명을 씌우는 것이 아니야.\n그저 교수를 죽일 동기를 원했을 뿐이니까……",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0015a4d3",
+      "source": "調査：殺害恋のＢＧＭ",
+      "old_korean": "조사 : 유해시의 BGM",
+      "korean": "조사: 살해 현장의 BGM",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0015a5a4",
+      "source": "　　　　殺害恋のＢＧＭ",
+      "old_korean": "유해시의 BGM",
+      "korean": "살해 현장의 BGM",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0015b4ef",
+      "source": "調査：殺害恋のＢＧＭ",
+      "old_korean": "조사 : 유해시의 BGM",
+      "korean": "조사: 살해 현장의 BGM",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    },
+    {
+      "offset": "0x0015b5af",
+      "source": "　　　　殺害恋のＢＧＭ",
+      "old_korean": "유해시의 BGM",
+      "korean": "살해 현장의 BGM",
+      "reason": "source-conditioned semantic correction",
+      "confidence": "high"
+    }
+  ]
+}

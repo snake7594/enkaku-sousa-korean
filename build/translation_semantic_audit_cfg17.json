@@ -1,0 +1,83 @@
+{
+  "schema": "enkaku_translation_semantic_audit_v2",
+  "generated_from": {
+    "source_tsv": "D:\\psp\\원격수사\\font_extract\\script_full_ja.tsv",
+    "input_tsv": "D:\\psp\\원격수사\\build\\translation_ko_semantic_checked.tsv",
+    "previous_audit": "D:\\psp\\원격수사\\build\\translation_semantic_audit_cfg16.json",
+    "semantic_overrides": "D:\\psp\\원격수사\\font_extract\\translation_semantic_overrides.json"
+  },
+  "stats": {
+    "entry_count": 9626,
+    "source_entry_count": 9626,
+    "semantic_override_count": 424,
+    "semantic_override_reasons": {
+      "source-conditioned semantic correction": 197,
+      "兄 / お兄さん means older brother": 48,
+      "勾留 means detention/remand": 30,
+      "source-conditioned criminal terminology": 94,
+      "蟇調べ is an interrogation/interview": 55
+    },
+    "translation_context_entries_requiring_kanji_review": 7109,
+    "translation_context_unresolved_charmap_count": 646,
+    "previous_numeric_mismatch_count": 376,
+    "source_condition_counts": {
+      "クビ": 14,
+      "自殺": 23,
+      "生徒": 8,
+      "勾留": 35,
+      "recovered_interrogation": 74
+    },
+    "cjk_residual_count": 0,
+    "compatibility_jamo_residual_count": 0,
+    "hard_candidate_residual_counts": {
+      "kub_to_haego": 0,
+      "student_to_fish": 0,
+      "student_context_bad": 0,
+      "standing_talk_bad": 0,
+      "murder_bad_token": 0,
+      "suicide_bad_token": 0,
+      "detention_to_shark": 0,
+      "brother_to_mother": 0,
+      "bad_jamo": 0
+    },
+    "lexical_candidate_residual_counts": {
+      "murder_word_missing": 0,
+      "victim_word_missing": 0,
+      "criminal_word_missing": 0,
+      "innocent_word_missing": 0,
+      "lawyer_word_missing": 0,
+      "arrest_word_missing": 0,
+      "bail_detention_missing": 0,
+      "testimony_word_missing": 0
+    }
+  },
+  "interpretation": [
+    "Hard residuals are source-conditioned checks for known meaning-reversing tokens.",
+    "Lexical residuals are review candidates, not automatic errors; Japanese ellipsis, paraphrase, and unresolved glyphs can make a word absent from a faithful Korean sentence.",
+    "Numeric mismatches remain a separate contextual review queue and are not bulk-edited without sentence-level evidence."
+  ],
+  "hard_residuals": {
+    "kub_to_haego": [],
+    "student_to_fish": [],
+    "student_context_bad": [],
+    "standing_talk_bad": [],
+    "murder_bad_token": [],
+    "suicide_bad_token": [],
+    "detention_to_shark": [],
+    "brother_to_mother": [],
+    "bad_jamo": []
+  },
+  "source_condition_bad": [],
+  "lexical_residuals": {
+    "murder_word_missing": [],
+    "victim_word_missing": [],
+    "criminal_word_missing": [],
+    "innocent_word_missing": [],
+    "lawyer_word_missing": [],
+    "arrest_word_missing": [],
+    "bail_detention_missing": [],
+    "testimony_word_missing": []
+  },
+  "cjk_residuals": [],
+  "compatibility_jamo_residuals": []
+}

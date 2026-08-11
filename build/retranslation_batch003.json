@@ -1,0 +1,72 @@
+{
+ "schema": "enkaku_retranslation_batch_v1",
+ "queue": "build/retranslation_queue.json",
+ "batch": 3,
+ "note": "This slice is dominated by two corrections that ran through the whole script: 退職 was 三浦 (the detective's surname, previously read as 'retirement') and 今関 was 今回 ('this time', previously read as a person's name). The old Korean carried both mistakes into every line they touched.",
+ "translations": [
+  {
+   "source_index": "0x000c1967",
+   "source_ja": "【法子】\\n今回の事件で担当になった三浦正信刑事《みうらまさのぶけいじ》は、\\n捜査《そうさ》一課《いっか》の中でも\\nナンバーワンの切れ者として名が通ってるわ。",
+   "old_translation": "【노리코】\\n이마바야시의 사건으로 상당이 된\\n미우라\\n험신형사는,\\n수사 일과 중에서도\\n넘버원의 끊어진 사람으로서 이름이\\n다니고\\n있어.",
+   "new_translation": "【노리코】\\n이번 사건 담당이 된 미우라 마사노부\\n형사는,\\n수사 1과 안에서도\\n최고의 수완가로 이름이 나 있어.",
+   "reason": "正信 is the given name 마사노부, rendered 험신; 切れ者=수완가 was taken literally as 끊어진 사람; 名が通ってる=이름이 나 있다.",
+   "confidence": 0.9
+  },
+  {
+   "source_index": "0x000c4c3b",
+   "source_ja": "【三浦】\\n……ドアには\\n第一発見者の指紋《しもん》しか\\nついていなかった。\\n事前に何者かが\\n指紋《しもん》を扶《ふ》き取《と》っていたと考えられる。",
+   "old_translation": "【미우라】\\n...... 문에는\\n무일 발견자의 지문밖에\\n붙어 있지 않았다.\\n사전에 누군가\\n지문을 흔들어 버리고 있었다고\\n생각된다.",
+   "new_translation": "【미우라】\\n……문에는\\n최초 발견자의 지문밖에\\n남아 있지 않았다.\\n사전에 누군가가\\n지문을 닦아냈다고 볼 수 있다.",
+   "reason": "第一発見者=최초 발견자, rendered 무일 발견자; 拭き取っていた=닦아냈다, rendered 흔들어 버리고 있었다.",
+   "confidence": 0.92
+  },
+  {
+   "source_index": "0x000c4dae",
+   "source_ja": "【三浦】\\nＶＩＰルームに入った証拠《しょうこ》を\\n閣衛《いんめつ》するために、\\nお前が扶《ふ》き取《と》ったんだろう！",
+   "old_translation": "【미우라】\\nVIP 룸에 들어간 증거를\\n각멸하기 위해,\\n너가 떠들썩했을 것이다!",
+   "new_translation": "【미우라】\\nVIP 룸에 들어간 증거를\\n인멸하기 위해\\n네가 닦아낸 거겠지!",
+   "reason": "閣衛 is 隠滅 - the ruby reads いんめつ, so 인멸, not 각멸; 拭き取った=닦아냈다.",
+   "confidence": 0.9
+  },
+  {
+   "source_index": "0x000c6c83",
+   "source_ja": "【三浦】\\n課長、ここはお引き取り下さい。\\n課長のお気持ちはわかりますが、\\nここは自白よりも\\n真実を見極めるほうが声要です。",
+   "old_translation": "【미우라】\\n과장, 여기는 당겨주세요. \\n과장의 기분은 알겠지만,\\n여기는 자백보다\\n진실을 알아내는 편이 중요합니다.",
+   "new_translation": "【미우라】\\n과장님, 여기는 물러나 주십시오.\\n과장님 심정은 압니다만,\\n지금은 자백보다\\n진실을 밝히는 쪽이 중요합니다.",
+   "reason": "お引き取り下さい=물러나 주십시오, rendered literally as 당겨주세요; the register to a superior needs 과장님/십시오.",
+   "confidence": 0.9
+  },
+  {
+   "source_index": "0x000c87cc",
+   "source_ja": "【三浦】\\n……フム。\\nでは、今回はあの話をしておくか。",
+   "old_translation": "【미우라】\\n… … 흠. \\n에서는, 이마바야시는 그 이야기를\\n해\\n둘까.",
+   "new_translation": "【미우라】\\n……흠.\\n그럼, 이번에는 그 이야기를 해 둘까.",
+   "reason": "では=그럼 rendered as 에서는; 今回=이번, previously read as the name 이마바야시.",
+   "confidence": 0.93
+  },
+  {
+   "source_index": "0x000cb345",
+   "source_ja": "【三浦】\\n胸判で無罪を勝ち取れるかも\\nしれないと思っているなら、\\nそんな期待は今のうちに\\n捨てておくことだな。",
+   "old_translation": "【미우라】\\n재판으로 무죄를 이길 수 있을지도\\n그렇다고 생각한다면,\\n그런 기대은 지금\\n버려 두는 것이다.",
+   "new_translation": "【미우라】\\n재판에서 무죄를 받아낼 수 있을지도\\n모른다고 생각한다면,\\n그런 기대는 지금 미리\\n버려 두는 게 좋겠군.",
+   "reason": "勝ち取れる=받아내다; かもしれない=일지도 모른다 collapsed into 그렇다고; 기대은 is a particle error.",
+   "confidence": 0.9
+  },
+  {
+   "source_index": "0x000cb592",
+   "source_ja": "【三浦】\\nフッ……笑わせてくれる。\\nお前は現実というものが\\nまったくわかっていない。",
+   "old_translation": "【미우라】\\n훗……사용시켜 준다. \\n너는 현실이라는 것이\\n전혀 알지 못한다.",
+   "new_translation": "【미우라】\\n훗……웃기는군.\\n너는 현실이라는 걸\\n조금도 모르고 있어.",
+   "reason": "笑わせてくれる is a sneer - 웃기는군. The old source had 言わせて, which produced 사용시켜 준다.",
+   "confidence": 0.92
+  },
+  {
+   "source_index": "0x000cf35f",
+   "source_ja": "【三浦】\\n今回の事件で被害者《ひがいしゃ》となったのは\\n誰《だれ》だ？",
+   "old_translation": "【미우라】\\n이마바야시의 사건으로 피해자가 된\\n것은\\n누구?",
+   "new_translation": "【미우라】\\n이번 사건에서 피해자가 된 것은\\n누구지?",
+   "reason": "今回=이번; the question needs a plain-form ending to match this speaker.",
+   "confidence": 0.93
+  }
+ ]
+}

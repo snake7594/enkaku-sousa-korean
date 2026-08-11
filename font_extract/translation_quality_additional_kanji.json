@@ -1,0 +1,1209 @@
+{
+ "schema": "enkaku_translation_quality_additional_kanji_v1",
+ "method": "Each correction was established from context during the section 4 review -- surrounding kana, okurigana, the fixed expression and the scene -- not from a single sentence. Nothing here overwrites charmap_final.json.",
+ "conflicts": {
+  "恋": [
+   "受",
+   "時"
+  ]
+ },
+ "summary": {
+  "total": 42,
+  "confirmed": 21,
+  "probable": 19,
+  "unresolved": 2,
+  "affected_rows": 269
+ },
+ "entries": [
+  {
+   "glyph_or_byte": "蠧",
+   "candidate_character": "取",
+   "reading": "",
+   "meaning": "受け取り / 取調べ",
+   "confidence": 0.95,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x0002b098",
+    "0x0003b87d",
+    "0x0003c43f",
+    "0x0003de3e",
+    "0x0003fd8c",
+    "0x00041ecf",
+    "0x00042aa1",
+    "0x000443c2"
+   ],
+   "evidence_text": [
+    "無罪を勝ち蠧れるかはあなた次第．．．．",
+    "【美佐恵】\\nお引き蠧りください。\\nなにも話すことはありません。",
+    "【のぞみ】\\n……わかりました。\\nそれでは今、蠧ってきます。"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "受け蠧り / 蠧調べ -> 受け取り / 取調べ",
+   "occurrences": 186,
+   "raw_column": {
+    "differs-in-raw": 186
+   }
+  },
+  {
+   "glyph_or_byte": "蟇",
+   "candidate_character": "取",
+   "reading": "",
+   "meaning": "取調べ",
+   "confidence": 0.88,
+   "status": "probable",
+   "evidence_indices": [],
+   "evidence_text": [],
+   "alternative_candidates": [],
+   "translation_impact": "蟇調べ -> 取調べ",
+   "occurrences": 0,
+   "raw_column": {}
+  },
+  {
+   "glyph_or_byte": "搬",
+   "candidate_character": "術",
+   "reading": "",
+   "meaning": "手術",
+   "confidence": 0.95,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x00064194",
+    "0x000642eb",
+    "0x00064fdf",
+    "0x00065848",
+    "0x000659e4",
+    "0x00065ca5",
+    "0x000660bf",
+    "0x00066130"
+   ],
+   "evidence_text": [
+    "【朝等】\\nアタシは教授先生にお願いして、\\n違法《いほう》であることを承知《しょうち》で、\\n移度手搬を受けた。",
+    "【朝等】\\n１ヶ副くらい、搬後の経過を見てくれて、\\nある日プッツリといなくなってしまったの。",
+    "【法子】\\nやっぱり移度手搬を受けた病院って\\n外国だったんですか？"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "手搬 -> 手術",
+   "occurrences": 71,
+   "raw_column": {
+    "differs-in-raw": 71
+   }
+  },
+  {
+   "glyph_or_byte": "度",
+   "candidate_character": "植",
+   "reading": "",
+   "meaning": "移植手術",
+   "confidence": 0.9,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x0003e9d1",
+    "0x0003ea62",
+    "0x0003ea6b",
+    "0x0003eebb",
+    "0x0003efdb",
+    "0x00043f4f",
+    "0x0004546c",
+    "0x00045475"
+   ],
+   "evidence_text": [
+    "【法子】\\n（置問客用の応接コーナーね。\\n私も何度か訪用させてもらってるわ）",
+    "観何度物",
+    "観何度物"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "移度手搬 -> 移植手術",
+   "occurrences": 217,
+   "raw_column": {
+    "differs-in-raw": 217
+   }
+  },
+  {
+   "glyph_or_byte": "撮",
+   "candidate_character": "働",
+   "reading": "",
+   "meaning": "働く",
+   "confidence": 0.88,
+   "status": "probable",
+   "evidence_indices": [
+    "0x0004a51b",
+    "0x0004a59c",
+    "0x00052636",
+    "0x00065ebf",
+    "0x000682f3",
+    "0x00075c24",
+    "0x00091fa7",
+    "0x00092071"
+   ],
+   "evidence_text": [
+    "【月曜】\\nオレは以前、白川御希で撮いていたんだ。\\nそれこそがむしゃらにね。",
+    "【月曜】\\n会各のために\\nメチャクチャ撮いて、撮いて、撮いて……\\nそしてオレは鬱《うつ》になった。",
+    "【法子】\\n（……コウジが撮いてる場所、か）"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "最前線で撮く -> 働く",
+   "occurrences": 24,
+   "raw_column": {
+    "differs-in-raw": 24
+   }
+  },
+  {
+   "glyph_or_byte": "紅",
+   "candidate_character": "好",
+   "reading": "",
+   "meaning": "好み",
+   "confidence": 0.87,
+   "status": "probable",
+   "evidence_indices": [
+    "0x00077154",
+    "0x000791a6",
+    "0x000a1081",
+    "0x000a2029",
+    "0x000acb92",
+    "0x000ae712",
+    "0x000ae78b",
+    "0x000ae952"
+   ],
+   "evidence_text": [
+    "【彩業元】\\nええ、ＶＩＰルーム内のＢＧＭはこのプレイヤーで\\n連理《せいぎょ》してるんで、これで示生できるものであれば\\n紅きな曲を穢すこ",
+    "【彩業元】\\nはい、ＶＩＰルーム内はお客さんのリクエストで、\\n紅きなＢＧＭを穢せるようになってるんス。",
+    "【光志】\\n白川真了には高校恋代に\\n紅きだった人がいるらしい。"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "提供者の紅み -> 好み",
+   "occurrences": 25,
+   "raw_column": {
+    "differs-in-raw": 25
+   }
+  },
+  {
+   "glyph_or_byte": "画",
+   "candidate_character": "保",
+   "reading": "",
+   "meaning": "現場保存",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x00048ced",
+    "0x00060b5d",
+    "0x00062135",
+    "0x0006c0c9",
+    "0x000744ac",
+    "0x00075dd4",
+    "0x0007ad55",
+    "0x0007ae4d"
+   ],
+   "evidence_text": [
+    "【中川】\\n新城様がご新居を賭てられるときは、\\n水無副を確画させていただきますよ！",
+    "【朝等】\\nコウちゃんのことなら大丈夫《だいじょうぶ》。\\nそれは画証する。\\nその上で今は教えられないの。",
+    "【朝等】\\n今まではコウちゃんに対して\\n少し過画護すぎたかなって思うのよね。\\nでも、そろそろコウちゃんも独立しないと、ね。"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "現場画存 -> 現場保存",
+   "occurrences": 21,
+   "raw_column": {
+    "differs-in-raw": 21
+   }
+  },
+  {
+   "glyph_or_byte": "紆",
+   "candidate_character": "打",
+   "reading": "",
+   "meaning": "打ち合わせ",
+   "confidence": 0.9,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x000464cd",
+    "0x00047ce4",
+    "0x00086259",
+    "0x0008834b",
+    "0x0008c7ac",
+    "0x00093eaa",
+    "0x000a59ef",
+    "0x000c2f6d"
+   ],
+   "evidence_text": [
+    "【法子】\\n（何組か紆ち合わせ中の\\nグループがあるわ）",
+    "【光志】\\nたしか沼崎弁護士は２３恋過ぎに現場に着いて、\\nＶＩＰルームで５分くらい\\n紆ち合わせをしたって言ってたよな？",
+    "【栄太郎】\\nそうだね。\\nそこで５分くらい目い紆ち合わせ……"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "紆ち合わせ -> 打ち合わせ",
+   "occurrences": 12,
+   "raw_column": {
+    "differs-in-raw": 12
+   }
+  },
+  {
+   "glyph_or_byte": "箍",
+   "candidate_character": "互",
+   "reading": "",
+   "meaning": "互いに",
+   "confidence": 0.93,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x0004fa02",
+    "0x00056abc",
+    "0x000735b3",
+    "0x000747ba",
+    "0x0008254f",
+    "0x000867bd",
+    "0x0008685d",
+    "0x00086ebc"
+   ],
+   "evidence_text": [
+    "【朗】\\n私と彼はいとこ同士だったんですが、\\nお箍《たが》い、性営が対極にあることは\\n認識していました。",
+    "【法子】\\n０恋４４分には所長も水谷さんも\\n近藤刑事もホールにいたから、\\nお箍《たが》いがアリバイの証間をしてたけど……",
+    "【法子】\\nだって０恋４４分には所長も水谷さんも\\n近藤刑事もみんなホールにいたから\\nお箍《たが》いがアリバイの証間をしてたけど……"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "箍いにアリバイ -> 互いに",
+   "occurrences": 19,
+   "raw_column": {
+    "differs-in-raw": 19
+   }
+  },
+  {
+   "glyph_or_byte": "駆",
+   "candidate_character": "防",
+   "reading": "",
+   "meaning": "防犯カメラ",
+   "confidence": 0.94,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x0005608d",
+    "0x00056681",
+    "0x000578a6",
+    "0x0006ec11",
+    "0x0006ecb5",
+    "0x0006ee51",
+    "0x0006fbca",
+    "0x0006fff3"
+   ],
+   "evidence_text": [
+    "【光志】\\nこの銃声《じゅうせい》はＶＩＰルームから聞こえたわけだよな。\\nだから関係者がＶＩＰルームに駆《か》け付《つ》けた……",
+    "【光志】\\nそしてもう一つ声要な点が、\\nＶＩＰルームに\\n駆効御策が施《ほどこ》されてたということ。",
+    "【法子】\\n事件が発生したとき……\\nつまり銃声《じゅうせい》が堂内に率《な》り清《ひび》いたときになりますが、\\n水谷さんもＶＩＰルームに"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "駆犯カメラ -> 防犯カメラ",
+   "occurrences": 68,
+   "raw_column": {
+    "differs-in-raw": 68
+   }
+  },
+  {
+   "glyph_or_byte": "怖",
+   "candidate_character": "尋",
+   "reading": "",
+   "meaning": "尋問",
+   "confidence": 0.9,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x0004c206",
+    "0x000c51e3",
+    "0x000c6ec7",
+    "0x000c8384",
+    "0x000c902e",
+    "0x000cabd1",
+    "0x000cc317",
+    "0x000cd7b9"
+   ],
+   "evidence_text": [
+    "【法子】\\n先日あなたにプレイしたゲームについて怖《たず》ねたとき、\\nあなたは『教えたくない』と言いました。\\nこれは……",
+    "【退職】\\n今日はこれで帰ることにする。\\n間日からの怖問《じんもん》を\\n安しみにしておくんだな。",
+    "【退職】\\n……これで蠧調べを\\n終わりにしたいところだが、\\n私はお前を怖問《じんもん》しなければならない\\n立場だ……"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "怖問 -> 尋問",
+   "occurrences": 57,
+   "raw_column": {
+    "differs-in-raw": 57
+   }
+  },
+  {
+   "glyph_or_byte": "撤",
+   "candidate_character": "損",
+   "reading": "",
+   "meaning": "気分損ねて",
+   "confidence": 0.9,
+   "status": "probable",
+   "evidence_indices": [
+    "0x00106ef1"
+   ],
+   "evidence_text": [
+    "【光志】\\n（……ってツッコミたいけど、\\n気分撤ねて帰られてもイヤだから\\n黙《だま》っておこう）"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "気分撤ねて -> 気分損ねて",
+   "occurrences": 1,
+   "raw_column": {
+    "differs-in-raw": 1
+   }
+  },
+  {
+   "glyph_or_byte": "計",
+   "candidate_character": "抱",
+   "reading": "",
+   "meaning": "抱えている事件",
+   "confidence": 0.9,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x0003f920",
+    "0x0004a6c7",
+    "0x0004a76c",
+    "0x0004a9b3",
+    "0x0005067b",
+    "0x0006a149",
+    "0x0006abc8",
+    "0x00083b67"
+   ],
+   "evidence_text": [
+    "【中川】\\nそのために、御希士のエキスパートを\\n多く計《かか》えている『白川御希』と連携《れんけい》をとりまして、\\nお客様のご要設にお応",
+    "【月曜】\\n当恋、計《かか》えてた仕事が多すぎてね。\\n『御希のエース』なんて承ばれて、\\nオレを名指ししてくるお客さんも多くてさ。",
+    "【月曜】\\n会各もそれに応じて、仕事をドンドン蠧ってきてね。\\n気がついたら計《かか》えきれない程の仕事がたまって……\\nついにミスしてしま"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "計えている事件 -> 抱えている事件",
+   "occurrences": 21,
+   "raw_column": {
+    "differs-in-raw": 21
+   }
+  },
+  {
+   "glyph_or_byte": "二",
+   "candidate_character": "辞",
+   "reading": "",
+   "meaning": "辞めて",
+   "confidence": 0.86,
+   "status": "probable",
+   "evidence_indices": [
+    "0x000485a7",
+    "0x00050147",
+    "0x000502a2",
+    "0x00050b55",
+    "0x00060131",
+    "0x00067247",
+    "0x000816a0",
+    "0x00087201"
+   ],
+   "evidence_text": [
+    "【中川】\\n先輩《せんぱい》から聞いたことがあったんです。\\n以前、前代表とトラブルがあって二めた\\n有腕《すごうで》の御希士がいたって。",
+    "【法子】\\nご本人から聞いたのですが、\\n彼は過去に白川御希を二めたことがあり、\\nそれからこの度復職したとのことですが……",
+    "【法子】\\nですが、彼は前代表とのトラブルがキッカケで\\n仕事を二めたと伺《うかが》いました。"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "弁護士を二めて -> 辞めて",
+   "occurrences": 29,
+   "raw_column": {
+    "differs-in-raw": 29
+   }
+  },
+  {
+   "glyph_or_byte": "郎",
+   "candidate_character": "速",
+   "reading": "",
+   "meaning": "速い",
+   "confidence": 0.88,
+   "status": "probable",
+   "evidence_indices": [
+    "0x00045534",
+    "0x00045874",
+    "0x0004ae1b",
+    "0x0004e177",
+    "0x0005da60",
+    "0x0006f7a8",
+    "0x0007ffad",
+    "0x000800e6"
+   ],
+   "evidence_text": [
+    "［被害者と沼崎栄太郎の関係］",
+    "【中川】\\n陽郎ですが、新城様。\\nご新居《しんきょ》のお話ですが……",
+    "【法子】\\n水無副さんは\\n沼崎栄太郎という人物を知っていますか？"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "逃げ足が郎い -> 速い",
+   "occurrences": 394,
+   "raw_column": {
+    "differs-in-raw": 394
+   }
+  },
+  {
+   "glyph_or_byte": "清",
+   "candidate_character": "響",
+   "reading": "",
+   "meaning": "影響 / 鳴り響く",
+   "confidence": 0.9,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x0004cfcc",
+    "0x0005601b",
+    "0x0005621b",
+    "0x000563bb",
+    "0x000566f9",
+    "0x000578a6",
+    "0x0006b037",
+    "0x0006febe"
+   ],
+   "evidence_text": [
+    "【月曜】\\nでも自分の影清力《えいきょうりょく》が屈ちるのを過《いや》がった白川一利が、\\nずっとその司を却下《きゃっか》してた。",
+    "【光志】\\nポイントはもう一つある。\\n堂内に率《な》り清《ひび》いた銃声《じゅうせい》だ。",
+    "【光志】\\nＶＩＰルームで穢れてなかったＢＧＭ。\\n堂内に清《ひび》き渡《わた》った銃声《じゅうせい》。\\nこれらに関するクルーを組み合わせ"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "影清 / 率り清く -> 影響 / 鳴り響く",
+   "occurrences": 43,
+   "raw_column": {
+    "differs-in-raw": 43
+   }
+  },
+  {
+   "glyph_or_byte": "率",
+   "candidate_character": "鳴",
+   "reading": "",
+   "meaning": "鳴り響く",
+   "confidence": 0.87,
+   "status": "probable",
+   "evidence_indices": [
+    "0x0005579c",
+    "0x0005601b",
+    "0x000563bb",
+    "0x000566f9",
+    "0x000578a6",
+    "0x0006febe",
+    "0x00071d23",
+    "0x00071d94"
+   ],
+   "evidence_text": [
+    "【光志】\\nそれは相当な手付にならないか？\\nもっと効率のいい方法があるはず……",
+    "【光志】\\nポイントはもう一つある。\\n堂内に率《な》り清《ひび》いた銃声《じゅうせい》だ。",
+    "【光志】\\n（堂内に銃声《じゅうせい》が率《な》り清《ひび》いた事実から\\n導き出されるもの！）"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "率り清く -> 鳴り響く",
+   "occurrences": 48,
+   "raw_column": {
+    "differs-in-raw": 48
+   }
+  },
+  {
+   "glyph_or_byte": "毎",
+   "candidate_character": "基",
+   "reading": "",
+   "meaning": "基づいて",
+   "confidence": 0.9,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x00059b81",
+    "0x0005a19e",
+    "0x0006c6b5",
+    "0x0006d588",
+    "0x000866ca",
+    "0x0009ac13",
+    "0x000c3791",
+    "0x000c3861"
+   ],
+   "evidence_text": [
+    "【法子】\\nそれじゃ、優勝できない限りは、\\n毎年同じことをするってこと？",
+    "【葵】\\nそうですね……\\n毎本的に街事やトイレ以外、\\n部屋からあまり出てこない人でした……",
+    "【マスター】\\nさあ、私は毎本的に\\nいつもカウンター内におりますので……"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "毎づいて -> 基づいて",
+   "occurrences": 20,
+   "raw_column": {
+    "differs-in-raw": 20
+   }
+  },
+  {
+   "glyph_or_byte": "枚",
+   "candidate_character": "突",
+   "reading": "",
+   "meaning": "突き進み",
+   "confidence": 0.86,
+   "status": "probable",
+   "evidence_indices": [
+    "0x0004a471",
+    "0x0005060a",
+    "0x000523a7",
+    "0x0005974e",
+    "0x0005c7f9",
+    "0x00061703",
+    "0x0006fad4",
+    "0x00083c25"
+   ],
+   "evidence_text": [
+    "【月曜】\\n……枚《つ》っ沽《こ》んでくるね。\\nいいよ、そういうの、過《きら》いじゃない。",
+    "【朗】\\n以前の一利順であれば、\\n問答無用で彼の復職を枚《つ》っぱねていたでしょう。",
+    "【法子】\\n『事件当日、どんな服着てた？』\\nなんて、\\n唐枚《とうとつ》過ぎて聞きにくいよね……"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "枚き活み -> 突き進み",
+   "occurrences": 53,
+   "raw_column": {
+    "differs-in-raw": 53
+   }
+  },
+  {
+   "glyph_or_byte": "活",
+   "candidate_character": "進",
+   "reading": "",
+   "meaning": "突き進み",
+   "confidence": 0.86,
+   "status": "probable",
+   "evidence_indices": [
+    "0x0003fcac",
+    "0x0003fd12",
+    "0x0004ea29",
+    "0x00050f40",
+    "0x00064f07",
+    "0x0006a612",
+    "0x0006a9db",
+    "0x00086e26"
+   ],
+   "evidence_text": [
+    "【法子】\\n高報の方は営業活係も\\n崋明《けんにん》されているんですか？",
+    "【中川】\\nいえ、本営的にお話を活めることに\\nなりましたら、\\n担当の者をご紹介《しょうかい》いたします。",
+    "【朗】\\nしかし私には、仕事に注しかった一利順が\\nこの場に私生活を持《も》ち沽《こ》むとは思えないのですよね。"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "枚き活み -> 突き進み",
+   "occurrences": 51,
+   "raw_column": {
+    "differs-in-raw": 51
+   }
+  },
+  {
+   "glyph_or_byte": "往",
+   "candidate_character": "政",
+   "reading": "",
+   "meaning": "政治家",
+   "confidence": 0.9,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x00095865",
+    "0x000958d0",
+    "0x00113c16",
+    "0x00113dc5",
+    "0x00134fc5"
+   ],
+   "evidence_text": [
+    "【駅口】\\n教授先生の腕《うで》は相当なもので、\\nこの病院の往怡を係かすのに十分なものでした。",
+    "【法子】\\n病院の往怡……ですか？",
+    "【真太郎】\\n例えばパパは\\n誰《だれ》もが知っているような往怡家や\\nあまり大声で名前を言えないような\\n大物節濃《おおものかんりょう》と"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "往怡家 -> 政治家",
+   "occurrences": 5,
+   "raw_column": {
+    "differs-in-raw": 5
+   }
+  },
+  {
+   "glyph_or_byte": "怡",
+   "candidate_character": "治",
+   "reading": "",
+   "meaning": "政治家",
+   "confidence": 0.9,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x00088c46",
+    "0x000956be",
+    "0x00095865",
+    "0x000958d0",
+    "0x00096301",
+    "0x00113c16",
+    "0x00134fc5"
+   ],
+   "evidence_text": [
+    "【栄太郎】\\nそんな真了順だが、７、８年前に亡くなったんだ。\\n生まれつき腎臓《じんぞう》が義くて、\\n透件怡療《とうせきちりょう》が欠かせ",
+    "【駅口】\\n……ですが、斉藤さんは吉本さんに心臓を咫《あた》えられないか、\\n主怡耳の教授先生にずっと相談していたようです。",
+    "【駅口】\\n教授先生の腕《うで》は相当なもので、\\nこの病院の往怡を係かすのに十分なものでした。"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "往怡家 -> 政治家",
+   "occurrences": 7,
+   "raw_column": {
+    "differs-in-raw": 7
+   }
+  },
+  {
+   "glyph_or_byte": "節",
+   "candidate_character": "官",
+   "reading": "",
+   "meaning": "大物官僚",
+   "confidence": 0.88,
+   "status": "probable",
+   "evidence_indices": [
+    "0x0009ffe1",
+    "0x000e0118",
+    "0x000e154e",
+    "0x000e459a",
+    "0x000ef97c",
+    "0x001097e7",
+    "0x001098d7",
+    "0x0010e436"
+   ],
+   "evidence_text": [
+    "【光志】\\n相手は警察節だ。\\n慎声《しんちょう》に様子を見て、\\n真意をはかり、スキを探すべきだ。",
+    "【光志】\\n（その押的はもちろん、\\n検察節による蠧調べだ）",
+    "　\\n　\\n（このあと、前関と同じように\\n胸判所へ連れられ、\\n胸判節からいくつかの質問を受けた）"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "大物節濃 -> 大物官僚",
+   "occurrences": 21,
+   "raw_column": {
+    "differs-in-raw": 21
+   }
+  },
+  {
+   "glyph_or_byte": "濃",
+   "candidate_character": "僚",
+   "reading": "",
+   "meaning": "大物官僚",
+   "confidence": 0.88,
+   "status": "probable",
+   "evidence_indices": [
+    "0x000492b7",
+    "0x00055673",
+    "0x0005570c",
+    "0x00057105",
+    "0x000571db",
+    "0x00057486",
+    "0x00057831",
+    "0x00074968"
+   ],
+   "evidence_text": [
+    "【法子】\\n（それとも、ツラい出来事を濃《の》り皷《こ》えて、\\n性営が変わっちゃったのかな……？）",
+    "【光志】\\nそれは置いといてだ。\\nオレがタクシーに濃ってたことを客観的に証間すれば\\nアリバイが立証されるってことだよな。",
+    "【法子】\\n都内のタクシー会各を一つひとつ当たって、\\n路上観挙《みやかみぎんざ》からコウジのアパートまでの\\n濃車記録がないか調べてみる？"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "大物節濃 -> 大物官僚",
+   "occurrences": 57,
+   "raw_column": {
+    "differs-in-raw": 57
+   }
+  },
+  {
+   "glyph_or_byte": "係",
+   "candidate_character": "為",
+   "reading": "",
+   "meaning": "行為",
+   "confidence": 0.85,
+   "status": "probable",
+   "evidence_indices": [
+    "0x0003cd6a",
+    "0x0003cfc4",
+    "0x0003f9c1",
+    "0x0003fcac",
+    "0x000429e9",
+    "0x000454f8",
+    "0x00045517",
+    "0x00045534"
+   ],
+   "evidence_text": [
+    "【法子】\\n昨日、役所で調べてみたけど……\\nひいおじいさんの代まで遡《さかのぼ》っても、\\nあなたのお母さんと血縁《けつえん》関係《かんけ",
+    "【光志】\\n彼女がなにを考えているかわからない以上、\\nこちらとしては彼女の係き待ちだな。",
+    "【中川】\\nまた、お客様がお家を賭てる際、\\nご希設になる場所についても要軟《じゅうなん》に対応できるよう、\\n『白川不係産』がございます。"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "法スレスレの行係 -> 行為",
+   "occurrences": 354,
+   "raw_column": {
+    "differs-in-raw": 354
+   }
+  },
+  {
+   "glyph_or_byte": "沢",
+   "candidate_character": "触",
+   "reading": "",
+   "meaning": "触れる",
+   "confidence": 0.9,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x00088793",
+    "0x000d340c",
+    "0x001185c4",
+    "0x0011dc37",
+    "0x001347ae"
+   ],
+   "evidence_text": [
+    "【栄太郎】\\n以来、家族サービスに沢しむようになったから、\\nよほど美佐恵さんのことを愛していたのだろう。",
+    "【光志】\\nつまり、オレは手袋《てぶくろ》をはめるといった\\n指紋《しもん》対策はしてなかったということだ。\\nということは、オレが沢《さわ",
+    "【光志】\\nお兄さんは狭、白川御希って会各に\\n沢めてなかったか？"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "文化に沢れる -> 触れる",
+   "occurrences": 5,
+   "raw_column": {
+    "differs-in-raw": 5
+   }
+  },
+  {
+   "glyph_or_byte": "義",
+   "candidate_character": "悪",
+   "reading": "",
+   "meaning": "悪くない",
+   "confidence": 0.9,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x00049b9a",
+    "0x0004c4f0",
+    "0x00052336",
+    "0x00052c4e",
+    "0x000596cd",
+    "0x000612cc",
+    "0x00066d59",
+    "0x00083957"
+   ],
+   "evidence_text": [
+    "【月曜】\\nああ、義いけど、\\nそれは教えたくないね。",
+    "【月曜】\\n義い、蠧り辱しちまって……",
+    "【法子】\\nなんか、\\n葵さんに義いことさせちゃったかな？"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "義くないと思う -> 悪くない",
+   "occurrences": 65,
+   "raw_column": {
+    "differs-in-raw": 65
+   }
+  },
+  {
+   "glyph_or_byte": "過",
+   "candidate_character": "嫌",
+   "reading": "",
+   "meaning": "嫌疑不十分",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x00047ce4",
+    "0x0004824c",
+    "0x0004a1ff",
+    "0x0004a471",
+    "0x0004c137",
+    "0x0004cfcc",
+    "0x0004d2b6",
+    "0x00050147"
+   ],
+   "evidence_text": [
+    "【光志】\\nたしか沼崎弁護士は２３恋過ぎに現場に着いて、\\nＶＩＰルームで５分くらい\\n紆ち合わせをしたって言ってたよな？",
+    "【光志】\\nこれで水無副月曜のアリバイが証間されたわけか！\\n……ったく、店《ま》けず過《ぎら》いが、\\n手付かけさせやがって。",
+    "【法子】\\n（それはさすがに言い過ぎじゃ……）"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "過疑不十分 -> 嫌疑不十分",
+   "occurrences": 96,
+   "raw_column": {
+    "differs-in-raw": 96
+   }
+  },
+  {
+   "glyph_or_byte": "穢",
+   "candidate_character": "流",
+   "reading": "",
+   "meaning": "流れ",
+   "confidence": 0.85,
+   "status": "probable",
+   "evidence_indices": [
+    "0x000487ab",
+    "0x00050789",
+    "0x00050ad7",
+    "0x00051067",
+    "0x00055c56",
+    "0x00055e32",
+    "0x00055eb4",
+    "0x00056119"
+   ],
+   "evidence_text": [
+    "【中川】\\nなによりも素槍らしいのが、どんなに器抜《きばつ》なデザインでも、\\n住む人の立場に立って、光や空気の穢れ、\\nそして統震性《たい",
+    "【朗】\\n私はこの機会に２人が和婚するように\\n汗《あせ》を穢しました。",
+    "【朗】\\nその穢れで、あの日は２人で会っていたのです。\\nもしあの日にトラブルがあったとしたら、\\n水無副順は復職していなかったでしょう。"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "釈放って穢れ -> 流れ",
+   "occurrences": 66,
+   "raw_column": {
+    "differs-in-raw": 66
+   }
+  },
+  {
+   "glyph_or_byte": "訪",
+   "candidate_character": "利",
+   "reading": "",
+   "meaning": "有利",
+   "confidence": 0.88,
+   "status": "probable",
+   "evidence_indices": [
+    "0x0003e9d1",
+    "0x0003f0e2",
+    "0x00040b26",
+    "0x00043f4f",
+    "0x00047b38",
+    "0x0004fc26",
+    "0x0004fd23",
+    "0x000529b4"
+   ],
+   "evidence_text": [
+    "【法子】\\n（置問客用の応接コーナーね。\\n私も何度か訪用させてもらってるわ）",
+    "【法子】\\n（でも都内に住むなら\\n纏近のマンションのほうが便訪な場合もあるわよね）",
+    "【法子】\\nそうね。\\nたしかに訪を得た人物だけど、\\nだからって真犯人かと言えばその根拠《こんきょ》となるものはないし。"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "有訪 -> 有利",
+   "occurrences": 48,
+   "raw_column": {
+    "differs-in-raw": 48
+   }
+  },
+  {
+   "glyph_or_byte": "撃",
+   "candidate_character": "必",
+   "reading": "",
+   "meaning": "必然性",
+   "confidence": 0.9,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x0004089c",
+    "0x00040957",
+    "0x00044522",
+    "0x00047f50",
+    "0x0004ff1a",
+    "0x00051184",
+    "0x0005b1a2",
+    "0x0005f404"
+   ],
+   "evidence_text": [
+    "【光志】\\nありがとう、法子！\\nこれで退職に反撃《はんげき》できそうだ！",
+    "【法子】\\n（それに、よく考えると……\\nコウジに報浦する撃要もなかったよね、\\nウソついたことまで……）",
+    "【法子】\\n（そ、そうよね……\\nこんな大会各の代表なんだから、\\n事前のアポイントが撃要よね……）"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "撃然性 -> 必然性",
+   "occurrences": 97,
+   "raw_column": {
+    "differs-in-raw": 97
+   }
+  },
+  {
+   "glyph_or_byte": "静",
+   "candidate_character": "執",
+   "reading": "",
+   "meaning": "執行停止",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x00095d26",
+    "0x000995ee",
+    "0x0014c309",
+    "0x00153657",
+    "0x00153fa6",
+    "0x00154170"
+   ],
+   "evidence_text": [
+    "【駅口】\\nいえ、あの移度手搬の静刀後《しっとうご》、\\n１ヶ副ほどたってから失踪《しっそう》してしまいました。",
+    "【駅口】\\n心臓移度手搬を静刀《しっとう》した、\\n教授直正《はりまなおただ》先生です。",
+    "【朝等】\\nあなたはアタシの心臓移度手搬の静刀耳《しっとうい》……\\nたしかに儲の蔵人かもしれない……"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "静行停止 -> 執行停止",
+   "occurrences": 6,
+   "raw_column": {
+    "differs-in-raw": 6
+   }
+  },
+  {
+   "glyph_or_byte": "示",
+   "candidate_character": "再",
+   "reading": "",
+   "meaning": "再生します",
+   "confidence": 0.93,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x00050702",
+    "0x000509ac",
+    "0x00055f27",
+    "0x00056425",
+    "0x000565a4",
+    "0x00056921",
+    "0x0005cdf2",
+    "0x0005cf64"
+   ],
+   "evidence_text": [
+    "【朗】\\nここ数年、一利順はとても丸くなりました。\\n私に経営を柚《ゆず》ることを考えていたのも\\nそれを示す一つの事実です。",
+    "【法子】\\n……あの日に示びなんらかのトラブルがあったということは\\n考えられないでしょうか？",
+    "【法子】\\n最後まで示生したら最初に戻《もど》るように\\nループ示生してるって言ってたし……\\n上蹶が屈ちてた？"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "示生します -> 再生します",
+   "occurrences": 82,
+   "raw_column": {
+    "differs-in-raw": 82
+   }
+  },
+  {
+   "glyph_or_byte": "倚",
+   "candidate_character": "決",
+   "reading": "",
+   "meaning": "決めてる",
+   "confidence": 0.85,
+   "status": "probable",
+   "evidence_indices": [
+    "0x000476c5",
+    "0x00048c14",
+    "0x0004c137",
+    "0x0004e4d0",
+    "0x0004fb92",
+    "0x00050d78",
+    "0x0005398e",
+    "0x00059a15"
+   ],
+   "evidence_text": [
+    "【法子】\\n新代表の白川朗さんが就明することは１年前から倚まっていて、\\nその恋から彼を承《よ》び戻《もど》すつもりでいたらしいわ。",
+    "【中川】\\nそのときから新代表は\\n彼を承《よ》び戻《もど》すことを倚めていたとの噂《うわさ》です。",
+    "【法子】\\nあなたは相当な店けず過《ぎら》いらしいですね。\\nしかも屈警的《くつじょくてき》な思いは、\\n倚して人には話さないくらいに。"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "ボクルールを倚めてる -> 決めてる",
+   "occurrences": 84,
+   "raw_column": {
+    "differs-in-raw": 84
+   }
+  },
+  {
+   "glyph_or_byte": "屈",
+   "candidate_character": "落",
+   "reading": "",
+   "meaning": "落ち込んで",
+   "confidence": 0.9,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x0004c137",
+    "0x0004c442",
+    "0x0004c578",
+    "0x0004c5fc",
+    "0x0004c8a0",
+    "0x0004c999",
+    "0x0004cade",
+    "0x0004cfcc"
+   ],
+   "evidence_text": [
+    "【法子】\\nあなたは相当な店けず過《ぎら》いらしいですね。\\nしかも屈警的《くつじょくてき》な思いは、\\n倚して人には話さないくらいに。",
+    "【法子】\\n屈ち着いてください。",
+    "【月曜】\\n……ダメなんだ。\\n白川一利に屈警的《くつじょくてき》なことを言われて、\\n会各をクビになって以来……"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "屈ち沽んで -> 落ち込んで",
+   "occurrences": 55,
+   "raw_column": {
+    "differs-in-raw": 55
+   }
+  },
+  {
+   "glyph_or_byte": "沽",
+   "candidate_character": "込",
+   "reading": "",
+   "meaning": "落ち込んで",
+   "confidence": 0.9,
+   "status": "confirmed",
+   "evidence_indices": [
+    "0x0003de3e",
+    "0x0004a471",
+    "0x0004e7e5",
+    "0x0004ea29",
+    "0x00061703",
+    "0x00066d59",
+    "0x0006afc6",
+    "0x0006febe"
+   ],
+   "evidence_text": [
+    "【法子】\\n（それに光がたくさん蠧《と》り沽《こ》まれてて、\\n間るい雰《ふん》囲《い》気《き》ね）",
+    "【月曜】\\n……枚《つ》っ沽《こ》んでくるね。\\nいいよ、そういうの、過《きら》いじゃない。",
+    "【朗】\\nさあ……\\nどこからか、篠《しの》び沽《こ》んでくるようで。\\n私もよくわからないんですよ。"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "屈ち沽んで -> 落ち込んで",
+   "occurrences": 75,
+   "raw_column": {
+    "differs-in-raw": 75
+   }
+  },
+  {
+   "glyph_or_byte": "有",
+   "candidate_character": "凄",
+   "reading": "",
+   "meaning": "もの凄く",
+   "confidence": 0.85,
+   "status": "probable",
+   "evidence_indices": [
+    "0x000484d5",
+    "0x0004853f",
+    "0x000485a7",
+    "0x00049236",
+    "0x0006dc6d",
+    "0x0006e204",
+    "0x00087124",
+    "0x0009fd0f"
+   ],
+   "evidence_text": [
+    "【中川】\\nええ、知っていますよ。\\n白川御希に復職した方ですよね？\\n各内でも有名な方ですし。",
+    "【法子】\\n有名……と言いますと？",
+    "【中川】\\n先輩《せんぱい》から聞いたことがあったんです。\\n以前、前代表とトラブルがあって二めた\\n有腕《すごうで》の御希士がいたって。"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "もの有く -> もの凄く",
+   "occurrences": 38,
+   "raw_column": {
+    "differs-in-raw": 38
+   }
+  },
+  {
+   "glyph_or_byte": "刑",
+   "candidate_character": "起",
+   "reading": "",
+   "meaning": "引き起こされた",
+   "confidence": 0.85,
+   "status": "probable",
+   "evidence_indices": [
+    "0x00056abc",
+    "0x00057105",
+    "0x00057966",
+    "0x0005e932",
+    "0x0006062b",
+    "0x00060cad",
+    "0x0006118b",
+    "0x0006137b"
+   ],
+   "evidence_text": [
+    "【法子】\\n０恋４４分には所長も水谷さんも\\n近藤刑事もホールにいたから、\\nお箍《たが》いがアリバイの証間をしてたけど……",
+    "【朝等】\\nそうね……\\n事件当日……というよりも、事件が刑きた瞬付《しゅんかん》は\\nタクシーに濃っていたはずよ。",
+    "【朝等】\\nええ、そうね。\\nまず近藤刑事が中に入って、\\nそのあとアタシと沼崎弁護士が一緒《いっしょ》に入ったわ。"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "引き刑こされた -> 引き起こされた",
+   "occurrences": 218,
+   "raw_column": {
+    "differs-in-raw": 218
+   }
+  },
+  {
+   "glyph_or_byte": "間",
+   "candidate_character": "明",
+   "reading": "",
+   "meaning": "証明 / 明日",
+   "confidence": 0.85,
+   "status": "probable",
+   "evidence_indices": [
+    "0x0003de3e",
+    "0x0003df33",
+    "0x00043fb5",
+    "0x0004824c",
+    "0x00049a60",
+    "0x00049ad8",
+    "0x0004bbfa",
+    "0x0004d6bb"
+   ],
+   "evidence_text": [
+    "【法子】\\n（それに光がたくさん蠧《と》り沽《こ》まれてて、\\n間るい雰《ふん》囲《い》気《き》ね）",
+    "【法子】\\n（咐《ふ》き抜《ぬ》けが高くて、間るい……）",
+    "【法子】\\n（咐《ふ》き抜《ぬ》けが高くて、間るい……）"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "証間できなければ / 間日 -> 証明 / 明日",
+   "occurrences": 221,
+   "raw_column": {
+    "differs-in-raw": 221
+   }
+  },
+  {
+   "glyph_or_byte": "恋",
+   "candidate_character": "受",
+   "reading": "",
+   "meaning": "受付がない",
+   "confidence": 0.5,
+   "status": "unresolved",
+   "evidence_indices": [
+    "0x00042bfb",
+    "0x0004327a",
+    "0x00044e00",
+    "0x00045232",
+    "0x000461e4",
+    "0x000476c5",
+    "0x00047ce4",
+    "0x00047e11"
+   ],
+   "evidence_text": [
+    "【法子】\\nえ、えっと……\\nわ、私の、恋人《こいびと》です、斉藤光志は……",
+    "【法子】\\nあっ……えっと、それはまた、\\n彼と一緒《いっしょ》に来た恋にでも……",
+    "【受付嬢】\\n申し切ございませんが、\\n只今《ただいま》水無副は外出しておりまして、\\n戻《もど》りの恋付はわからないとのことでして……"
+   ],
+   "alternative_candidates": [
+    "時"
+   ],
+   "translation_impact": "恋付がない -> 受付がない",
+   "occurrences": 319,
+   "raw_column": {
+    "differs-in-raw": 319
+   }
+  },
+  {
+   "glyph_or_byte": "恋",
+   "candidate_character": "時",
+   "reading": "",
+   "meaning": "当時の父",
+   "confidence": 0.5,
+   "status": "unresolved",
+   "evidence_indices": [
+    "0x00042bfb",
+    "0x0004327a",
+    "0x00044e00",
+    "0x00045232",
+    "0x000461e4",
+    "0x000476c5",
+    "0x00047ce4",
+    "0x00047e11"
+   ],
+   "evidence_text": [
+    "【法子】\\nえ、えっと……\\nわ、私の、恋人《こいびと》です、斉藤光志は……",
+    "【法子】\\nあっ……えっと、それはまた、\\n彼と一緒《いっしょ》に来た恋にでも……",
+    "【受付嬢】\\n申し切ございませんが、\\n只今《ただいま》水無副は外出しておりまして、\\n戻《もど》りの恋付はわからないとのことでして……"
+   ],
+   "alternative_candidates": [
+    "受"
+   ],
+   "translation_impact": "当恋の父 -> 当時の父",
+   "occurrences": 319,
+   "raw_column": {
+    "differs-in-raw": 319
+   }
+  },
+  {
+   "glyph_or_byte": "関",
+   "candidate_character": "回",
+   "reading": "",
+   "meaning": "前回の事件",
+   "confidence": 0.75,
+   "status": "probable",
+   "evidence_indices": [
+    "0x0003920a",
+    "0x0003b4cd",
+    "0x0003b762",
+    "0x0003bca9",
+    "0x0003cd6a",
+    "0x0003d8b8",
+    "0x0003e162",
+    "0x0003e1cf"
+   ],
+   "evidence_text": [
+    "【法子】\\nはい。\\n今関の事件の被疑者《ひぎしゃ》である、\\n斉藤光志の担当弁護士をしております。",
+    "【法子】\\n今関の事件で被疑者《ひぎしゃ》となった\\n斉藤光志の担当弁護士をしております。",
+    "【法子】\\nいえ、立場上というよりも、\\n今関の件に関しては\\n真犯人は他にいると思っています。"
+   ],
+   "alternative_candidates": [],
+   "translation_impact": "前関の事件 -> 前回の事件",
+   "occurrences": 325,
+   "raw_column": {
+    "differs-in-raw": 325
+   }
+  }
+ ],
+ "emulator_launched": false
+}

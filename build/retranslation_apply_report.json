@@ -1,0 +1,33 @@
+{
+ "schema": "enkaku_retranslation_apply_v1",
+ "batches": [
+  "retranslation_batch001.json",
+  "retranslation_batch002.json",
+  "retranslation_batch003.json",
+  "retranslation_batch004.json"
+ ],
+ "translations_available": 28,
+ "applied": 26,
+ "source_mismatch": [],
+ "unencodable": [
+  {
+   "index": "0x000d34e0",
+   "characters": [
+    "꾀"
+   ]
+  },
+  {
+   "index": "0x00112ef7",
+   "characters": [
+    "랄"
+   ]
+  }
+ ],
+ "rows": 9626,
+ "indices_match_source": true,
+ "residual_foreign_rows": 0,
+ "encoding_failures": 0,
+ "output": "D:\\psp\\원격수사\\build\\translation_ko_retranslated.tsv",
+ "sha256": "07d2383c5c39442503683061d9513fbdfa164d65c401ea667e67a7e78f3d180b",
+ "emulator_launched": false
+}

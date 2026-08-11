@@ -1,0 +1,9 @@
+{
+  "logical_rows": 9626,
+  "physical_rows": 9626,
+  "residual_overrides": 67,
+  "wrapped_story_rows": 2097,
+  "max_dialogue_width": 19,
+  "japanese_or_cjk_residual_rows": [],
+  "malformed_physical_continuations": 0
+}
