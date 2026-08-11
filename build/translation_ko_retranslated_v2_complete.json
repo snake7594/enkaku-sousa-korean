@@ -1,0 +1,89 @@
+{
+  "schema": "enkaku-sousa-translation-complete-v1",
+  "status": "ready_for_user_emulator_validation",
+  "emulator_launched": false,
+  "translation": {
+    "source": "D:\\psp\\원격수사\\font_extract\\script_full_ja_corrected.tsv",
+    "target": "D:\\psp\\원격수사\\build\\translation_ko_retranslated_v2.tsv",
+    "source_rows": 9626,
+    "target_rows": 9626,
+    "offset_sets_identical": true,
+    "unique_offsets": 9626,
+    "duplicate_offsets": 0,
+    "declared_line_count_mismatches": 0,
+    "dialogue_width_limit": 19,
+    "dialogue_width_violations": 0,
+    "residual_characters": {
+      "kana": 0,
+      "cjk": 0,
+      "compatibility_jamo": 0,
+      "replacement": 0
+    },
+    "intentional_unknown_marker_rows": 11,
+    "unencodable_rows": 0,
+    "used_font_characters": 993,
+    "sha256": "8b5f9de00762f47120f2da9f8ef8592084d48c0ec3a05f3c019238d4d3902839"
+  },
+  "font": {
+    "stream": "D:\\psp\\원격수사\\build\\stream1_ko_retranslated_v2_font.bin",
+    "map": "D:\\psp\\원격수사\\build\\korean_slots_retranslated_v2.json",
+    "assigned_characters": 993,
+    "blank_assigned_glyphs": 0,
+    "font_stream_bytes": 1509923,
+    "sha256": {
+      "stream": "2e83c0cb644594ee20d9fd4a5fd9afde1039e98fa04a280faf6e13401d5bb125",
+      "map": "75c97286c3b6729df60a40aaeea21b646e28e206e1eb9868346a435ef9724e92"
+    }
+  },
+  "expanded_stream": {
+    "source_plain_bytes": 1509923,
+    "final_plain_bytes": 1667990,
+    "text_rows": 9626,
+    "usable_spans": 9626,
+    "encoding_failures": 0,
+    "overlapping_spans": 0,
+    "old_text_bytes": 449595,
+    "new_text_bytes": 607662,
+    "sha256": "56eb29e92dcbcb8cdeaa427e1583445e4d3e29bf20b43cf91ee7880d5cfae459",
+    "mapped_text_mismatches": [],
+    "all_mapped_text_matches": true
+  },
+  "references": {
+    "total": 33371,
+    "written": 33371,
+    "duplicate_or_conflicting": 0,
+    "supplemental": 194,
+    "typed_pointer_refs": 874
+  },
+  "archive_and_iso": {
+    "iso": "D:\\psp\\원격수사\\build\\Enkaku Sousa Shinjitsu eno 23nichikan_retranslated_v2.iso",
+    "iso_bytes": 739835904,
+    "archive_path": "/PSP_GAME/USRDIR/0000",
+    "archive_lba": 54864,
+    "archive_bytes": 3221504,
+    "archive_matches_rebuilt_payload": true,
+    "stream1_packed_bytes": 574439,
+    "stream1_decompressed_bytes": 1667990,
+    "iso_stream_matches_final_stream": true,
+    "archive_sha256": "116c6edb58fbaa6431cbf40d043d9fb4ac2d280b2bb0db7767bc09124eee82ca",
+    "iso_sha256": "6621025c286d8c78712ac2284992bd23408d52224637aa68cb7aff92159c851d"
+  },
+  "structure": {
+    "original_text_blocks": 8822,
+    "output_detected_text_blocks": 8822,
+    "mapped_original_markers_detected": 8822,
+    "detector_extra_marker_count": 0,
+    "detector_extra_marker_samples": [],
+    "note": "All mapped dialogue markers are detected without extras."
+  },
+  "artifacts": {
+    "translation_tsv": "D:\\psp\\원격수사\\build\\translation_ko_retranslated_v2.tsv",
+    "final_translation_json": "D:\\psp\\원격수사\\build\\translation_ko_retranslated_v2_final.json",
+    "final_kanji_confirmations": "D:\\psp\\원격수사\\build\\retranslation_v2_final_kanji_confirmations.json",
+    "translation_report": "D:\\psp\\원격수사\\build\\retranslation_v2_manual_rest_report.json",
+    "runtime_stream": "D:\\psp\\원격수사\\build\\stream1_ko_retranslated_v2_runtime.bin",
+    "runtime_report": "D:\\psp\\원격수사\\build\\translation_ko_retranslated_v2_runtime_report.json",
+    "compressed_archive": "D:\\psp\\원격수사\\build\\0000_retranslated_v2",
+    "patched_iso": "D:\\psp\\원격수사\\build\\Enkaku Sousa Shinjitsu eno 23nichikan_retranslated_v2.iso"
+  }
+}

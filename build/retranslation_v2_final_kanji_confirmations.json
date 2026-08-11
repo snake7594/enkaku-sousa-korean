@@ -1,0 +1,25 @@
+{
+  "schema": "enkaku-sousa-final-kanji-confirmations-v1",
+  "purpose": "Final translation pass confirmations for previously unresolved source glyphs.",
+  "emulator_launched": false,
+  "confirmations": [
+    {
+      "glyph_index": 569,
+      "source_character_recovered": "姪",
+      "reading": "めい",
+      "korean": "조카",
+      "affected_orders": [1570, 3669, 6102, 8392],
+      "evidence": [
+        "아사츠유의 아버지는 시라카와 사토루이며, 사토루는 피해자 시라카와 이치리의 동생이다.",
+        "따라서 아사츠유는 피해자의 딸이 아니라 피해자의 조카다.",
+        "동일 글리프가 '피해자의 □'와 '□의 신장 이식 수술에 동행' 문맥에 반복된다."
+      ],
+      "translation_change": {
+        "order": 1570,
+        "before": "【아사츠유】\\n아버지는 시라카와 사토루야.\\n즉, 피해자의 딸인 셈이지.",
+        "after": "【아사츠유】\\n아버지는 시라카와 사토루야.\\n즉, 피해자의 조카인 셈이지."
+      },
+      "confidence": "high"
+    }
+  ]
+}
