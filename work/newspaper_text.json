@@ -1,0 +1,102 @@
+{
+ "schema": "enkaku_newspaper_text_v1",
+ "note": "Column boxes measured off work/paper_ruler.py at 7x-9x with an 8px grid, then widened a pixel each way because the Japanese strokes overhang the column slightly and left faint marks behind.  Columns are listed right to left, the order vertical Japanese reads in.",
+ "body": "Body text is left in Japanese on purpose.  It is set at about eight pixels, where neither script resolves into anything a player can read, so replacing it would swap one illegible page for another while risking the paper texture.  The headlines are set at 13 to 16 pixels and are what a player actually reads.",
+ "name": "The paper prints 沼崎栄太郎.  At 16px the 栄 is easy to take for 晋, and 晋太郎 is a different character in this game, so the script settles it: 沼崎 is followed by 栄太郎 21 times and by 晋太郎 never.",
+ "pages": [
+  {
+   "index": 433,
+   "headlines": [
+    {
+     "ja": "白川一朗代表殺害",
+     "ko": "시라카와 대표 피살"
+    },
+    {
+     "ja": "高級バーで起きた悲劇",
+     "ko": "고급 바에서 일어난 비극"
+    },
+    {
+     "ja": "住宅業界のみならず、日本経済へ影響懸念",
+     "ko": "주택업계뿐 아니라 일본 경제에 파장 우려"
+    }
+   ],
+   "columns": [
+    {
+     "x0": 463,
+     "y0": 17,
+     "x1": 479,
+     "y1": 136,
+     "ja": "白川一朗代表殺害",
+     "ko": "시라카와 대표 피살"
+    },
+    {
+     "x0": 77,
+     "y0": 19,
+     "x1": 94,
+     "y1": 128,
+     "ja": "高級バーで起きた",
+     "ko": "고급 바에서 일어난"
+    },
+    {
+     "x0": 62,
+     "y0": 19,
+     "x1": 76,
+     "y1": 49,
+     "ja": "悲劇",
+     "ko": "비극"
+    },
+    {
+     "x0": 255,
+     "y0": 135,
+     "x1": 272,
+     "y1": 248,
+     "ja": "住宅業界のみなら",
+     "ko": "주택업계뿐 아니라"
+    },
+    {
+     "x0": 239,
+     "y0": 135,
+     "x1": 254,
+     "y1": 248,
+     "ja": "ず、日本経済へ",
+     "ko": "일본 경제에"
+    },
+    {
+     "x0": 223,
+     "y0": 135,
+     "x1": 238,
+     "y1": 200,
+     "ja": "影響懸念",
+     "ko": "파장 우려"
+    }
+   ]
+  },
+  {
+   "index": 434,
+   "headlines": [
+    {
+     "ja": "斉藤容疑者の友人・沼崎栄太郎氏談",
+     "ko": "사이토 용의자의 친구 누마사키 에이타로 씨"
+    }
+   ],
+   "columns": [
+    {
+     "x0": 195,
+     "y0": 137,
+     "x1": 212,
+     "y1": 247,
+     "ja": "斉藤容疑者の友人",
+     "ko": "사이토 용의자의 친구"
+    },
+    {
+     "x0": 179,
+     "y0": 138,
+     "x1": 196,
+     "y1": 247,
+     "ja": "・沼崎栄太郎氏談",
+     "ko": "누마사키 에이타로 씨"
+    }
+   ]
+  }
+ ]
+}
