@@ -1,0 +1,1006 @@
+{
+  "schema": "enkaku_translation_character_guide_v2",
+  "purpose": "문맥 재번역 전에 고정하는 화자·관계·말투 장부",
+  "source": "font_extract/script_full_ja_corrected.tsv plus raw/ruby/charmap context",
+  "characters": {
+    "光志": {
+      "korean_name": "코우지",
+      "full_name": "사이토 코우지",
+      "role": "주인공. 살인 사건의 피의자이자 변호사 노리코의 의뢰인.",
+      "speech": "남성 반말. 1인칭은 나/내가를 기본으로 하되 원문의 オレ는 자연스러운 한국어로 처리.",
+      "relationships": [
+        "法子: 담당 변호사와 의뢰인. 서로 이름을 부르는 친밀한 협력 관계.",
+        "三浦: 수사 담당 형사와 피의자. 경계와 반발이 섞인 관계.",
+        "朝等: 스승 쪽 인맥으로 보이며 호칭과 친밀도는 장면별 확인."
+      ],
+      "evidence": [
+        "0x0003cbab",
+        "0x000c211e",
+        "0x0011b7f2"
+      ],
+      "confidence": 0.98,
+      "source_tag": "光志",
+      "occurrences": 3125
+    },
+    "法子": {
+      "korean_name": "노리코",
+      "full_name": "신조 노리코",
+      "role": "변호사. 코우지의 담당 변호사이며 사건의 진상을 추적한다.",
+      "speech": "성인 여성의 정중한 말투. 독백은 차분하지만 감정이 드러나는 자연스러운 해요체/혼잣말.",
+      "relationships": [
+        "光志: 의뢰인. 공적인 존중과 사적인 신뢰가 함께 커진다.",
+        "朝等: 언니/선배에 가까운 친근한 호칭이 있는지 원문별로 확인."
+      ],
+      "evidence": [
+        "0x00038b7a",
+        "0x0003b4cd",
+        "0x000c1967"
+      ],
+      "confidence": 0.98,
+      "source_tag": "法子",
+      "occurrences": 2118
+    },
+    "三浦": {
+      "korean_name": "미우라",
+      "full_name": "미우라 마사노부",
+      "role": "수사 1과의 담당 형사. 사건 수사와 코우지 취조를 맡는다.",
+      "speech": "단정하고 압박감 있는 반말/해라체. 피의자에게는 너를 쓰고 법률·수사 용어는 정확히 유지.",
+      "relationships": [
+        "光志: 피의자에게 추궁하는 수사관.",
+        "近藤: 같은 수사 조직의 형사로 언급되며 상하 관계는 장면별 확인."
+      ],
+      "evidence": [
+        "0x000c1967",
+        "0x000c211e",
+        "0x000d2f12"
+      ],
+      "confidence": 0.99,
+      "source_tag": "三浦",
+      "occurrences": 827
+    },
+    "朝等": {
+      "korean_name": "아사츠유",
+      "full_name": "미즈타니 아사츠유",
+      "role": "미즈타니 탐정사무소 쪽 인물. 코우지와 노리코를 친근하게 대한다.",
+      "speech": "여유 있고 장난기 있는 친근한 말투. 코우지를 코우 짱, 노리코를 노리코 짱으로 부르는 용례를 우선.",
+      "relationships": [
+        "光志: 후배/제자 쪽의 친밀한 관계로 보이나 정확한 과거는 장면별 확인.",
+        "法子: 이름 뒤에 짱을 붙이는 친근한 관계."
+      ],
+      "evidence": [
+        "0x000544dc",
+        "0x000545df",
+        "0x00054773"
+      ],
+      "confidence": 0.88,
+      "source_tag": "朝等",
+      "occurrences": 566
+    },
+    "七芝": {
+      "korean_name": "나나시바",
+      "full_name": "나나시바",
+      "role": "구치소에서 코우지와 대화하는 인물. 가벼운 분위기로 긴장을 낮춘다.",
+      "speech": "가벼운 반말, 장난스러운 어조. 1인칭 보쿠는 상황에 맞춰 나는/내가로 자연스럽게 처리.",
+      "relationships": [
+        "光志: 구치소 안에서 말을 섞는 동료 수감자/지인 관계로 보임."
+      ],
+      "evidence": [
+        "0x000afbd2",
+        "0x0011b7f2",
+        "0x0011c7b9"
+      ],
+      "confidence": 0.84,
+      "source_tag": "七芝",
+      "occurrences": 209
+    },
+    "のぞみ": {
+      "korean_name": "노조미",
+      "full_name": "노조미",
+      "role": "피해자 가족 쪽 인물. 고인과 사건에 관해 조심스럽게 증언한다.",
+      "speech": "젊은 여성의 정중한 해요체. 불안·슬픔이 드러나는 머뭇거림을 보존.",
+      "relationships": [
+        "法子: 조사자와 참고인의 관계.",
+        "光志: 선생님이라고 부르는 장면이 있어 관계 문맥을 유지."
+      ],
+      "evidence": [
+        "0x000398e5",
+        "0x0003be9b",
+        "0x0011cec1"
+      ],
+      "confidence": 0.9,
+      "source_tag": "のぞみ",
+      "occurrences": 277
+    },
+    "茜": {
+      "korean_name": "아카네",
+      "full_name": "리키자키 아카네(원문 한자 확정 전)",
+      "role": "준텐 고교 학생. 코우지를 사부님이라 부르는 탐정사무소 인맥.",
+      "speech": "활발한 학생 말투, 반말. 1인칭은 나/내가, 과장된 감탄과 장난기를 살림.",
+      "relationships": [
+        "葵: 함께 다니는 친구/동급생으로 보임.",
+        "光志: 사부님이라고 부르는 제자 관계."
+      ],
+      "evidence": [
+        "0x000517b1",
+        "0x00051b13",
+        "0x00051f80"
+      ],
+      "confidence": 0.82,
+      "source_tag": "茜",
+      "occurrences": 95
+    },
+    "葵": {
+      "korean_name": "아오이",
+      "full_name": "미나즈키 아오이(원문 한자 확정 전)",
+      "role": "준텐 고교 학생. 아카네와 함께 코우지의 질문에 답한다.",
+      "speech": "조심스럽고 소극적인 학생 말투. 해요체와 머뭇거림을 유지.",
+      "relationships": [
+        "茜: 함께 다니는 친구/동급생으로 보임.",
+        "光志: 사부님이라 부르는 탐정사무소 인맥."
+      ],
+      "evidence": [
+        "0x00051943",
+        "0x00051d9c",
+        "0x00052043"
+      ],
+      "confidence": 0.8,
+      "source_tag": "葵",
+      "occurrences": 97
+    },
+    "晋太郎": {
+      "korean_name": "신타로",
+      "full_name": "누마사키 신타로(한자 표기 변형 있음)",
+      "role": "변호사 사무소 측 인물로 보임. 법률사무소와 노리코에 관해 말한다.",
+      "speech": "성인 남성의 여유 있고 때로는 오만한 반말.",
+      "relationships": [
+        "法子: 같은 사무소/법조계 인맥으로 보이나 정확한 직속 관계는 원문 확인."
+      ],
+      "evidence": [
+        "0x000a8370",
+        "0x00111dad"
+      ],
+      "confidence": 0.72,
+      "source_tag": "晋太郎",
+      "occurrences": 79
+    },
+    "栄太郎": {
+      "korean_name": "에이타로",
+      "full_name": "에이타로(한자 독음 및 신타로와의 구분 재검토)",
+      "role": "사건 관계자. 기존 산출물에서 신타로로 섞였으므로 독립 화자로 보존.",
+      "speech": "장면의 상대에 따라 정중한 성인 남성 말투를 우선.",
+      "relationships": [],
+      "evidence": [
+        "0x0007ffad",
+        "0x000890f1"
+      ],
+      "confidence": 0.58,
+      "source_tag": "栄太郎",
+      "occurrences": 267
+    },
+    "ドアフォン": {
+      "korean_name": "ドアフォン",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x00038ff3",
+        "0x000390f0",
+        "0x000396ed",
+        "0x000397d3",
+        "0x0003980e",
+        "0x0004dd55",
+        "0x0004ddd9",
+        "0x00052d6c"
+      ],
+      "confidence": 0.35,
+      "source_tag": "ドアフォン",
+      "occurrences": 18
+    },
+    "女性": {
+      "korean_name": "女性",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x000391c6",
+        "0x000392e5",
+        "0x00039468",
+        "0x000394ae",
+        "0x0003b280",
+        "0x0003bad1",
+        "0x0003bb08",
+        "0x0003bba8"
+      ],
+      "confidence": 0.35,
+      "source_tag": "女性",
+      "occurrences": 24
+    },
+    "ヘルパー": {
+      "korean_name": "ヘルパー",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x000395cc",
+        "0x0003966c",
+        "0x0003aa70",
+        "0x0003aabe",
+        "0x0003ab64",
+        "0x0003ac46",
+        "0x0003ad0d",
+        "0x0003adc5"
+      ],
+      "confidence": 0.35,
+      "source_tag": "ヘルパー",
+      "occurrences": 14
+    },
+    "美佐恵": {
+      "korean_name": "美佐恵",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0003b563",
+        "0x0003b60f",
+        "0x0003b835",
+        "0x0003b87d"
+      ],
+      "confidence": 0.35,
+      "source_tag": "美佐恵",
+      "occurrences": 4
+    },
+    "受付嬢": {
+      "korean_name": "受付嬢",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0003e242",
+        "0x0003e2f7",
+        "0x0003e357",
+        "0x0003e3ab",
+        "0x0003e600",
+        "0x0003e69a",
+        "0x000411dd",
+        "0x000412e1"
+      ],
+      "confidence": 0.35,
+      "source_tag": "受付嬢",
+      "occurrences": 25
+    },
+    "中川": {
+      "korean_name": "中川",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0003ee7f",
+        "0x0003ef25",
+        "0x0003f535",
+        "0x0003f660",
+        "0x0003f72e",
+        "0x0003f77f",
+        "0x0003f80e",
+        "0x0003f88b"
+      ],
+      "confidence": 0.35,
+      "source_tag": "中川",
+      "occurrences": 101
+    },
+    "月曜": {
+      "korean_name": "月曜",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x00045f3a",
+        "0x0004600f",
+        "0x00046101",
+        "0x0004619f",
+        "0x00046255",
+        "0x00047349",
+        "0x000473aa",
+        "0x000490d6"
+      ],
+      "confidence": 0.35,
+      "source_tag": "月曜",
+      "occurrences": 143
+    },
+    "女の子": {
+      "korean_name": "女の子",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x00046a4a",
+        "0x0004e6c9",
+        "0x0004e703"
+      ],
+      "confidence": 0.35,
+      "source_tag": "女の子",
+      "occurrences": 3
+    },
+    "朗": {
+      "korean_name": "朗",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0004df88",
+        "0x0004e0aa",
+        "0x0004e177",
+        "0x0004e4d0",
+        "0x0004e550",
+        "0x0004e685",
+        "0x0004e7e5",
+        "0x0004e870"
+      ],
+      "confidence": 0.35,
+      "source_tag": "朗",
+      "occurrences": 47
+    },
+    "女子高生": {
+      "korean_name": "女子高生",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x00053926",
+        "0x0005398e",
+        "0x00053ae7",
+        "0x00053b6a",
+        "0x00053c8e",
+        "0x00053d0b",
+        "0x00053d88",
+        "0x00053e0e"
+      ],
+      "confidence": 0.35,
+      "source_tag": "女子高生",
+      "occurrences": 13
+    },
+    "術護師Ａ": {
+      "korean_name": "術護師Ａ",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x000666ed",
+        "0x000667a5",
+        "0x00066958"
+      ],
+      "confidence": 0.35,
+      "source_tag": "術護師Ａ",
+      "occurrences": 3
+    },
+    "術護師Ｂ": {
+      "korean_name": "術護師Ｂ",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x00066740",
+        "0x000667e7",
+        "0x00066919"
+      ],
+      "confidence": 0.35,
+      "source_tag": "術護師Ｂ",
+      "occurrences": 3
+    },
+    "耳者": {
+      "korean_name": "耳者",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0006689a"
+      ],
+      "confidence": 0.35,
+      "source_tag": "耳者",
+      "occurrences": 1
+    },
+    "男性教師": {
+      "korean_name": "男性教師",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x00069541",
+        "0x000695da"
+      ],
+      "confidence": 0.35,
+      "source_tag": "男性教師",
+      "occurrences": 2
+    },
+    "西状": {
+      "korean_name": "西状",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0006961b",
+        "0x000696db",
+        "0x00069773",
+        "0x00069bea",
+        "0x00069e63",
+        "0x00069f0c",
+        "0x00069fe0",
+        "0x0006a029"
+      ],
+      "confidence": 0.35,
+      "source_tag": "西状",
+      "occurrences": 35
+    },
+    "彩業元": {
+      "korean_name": "彩業元",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0006b9ef",
+        "0x0006bacf",
+        "0x0006ca78",
+        "0x0006cafb",
+        "0x0006cba8",
+        "0x0006ccd1",
+        "0x0006cd8d",
+        "0x00073da9"
+      ],
+      "confidence": 0.35,
+      "source_tag": "彩業元",
+      "occurrences": 126
+    },
+    "男性": {
+      "korean_name": "男性",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0006bc41"
+      ],
+      "confidence": 0.35,
+      "source_tag": "男性",
+      "occurrences": 1
+    },
+    "マスター": {
+      "korean_name": "マスター",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0006bd1a",
+        "0x0006bded",
+        "0x0006beb3",
+        "0x0006c062",
+        "0x0006c0c9",
+        "0x0006c1c5",
+        "0x0006c289",
+        "0x0006c2fc"
+      ],
+      "confidence": 0.35,
+      "source_tag": "マスター",
+      "occurrences": 31
+    },
+    "田代": {
+      "korean_name": "田代",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0007fa18",
+        "0x0007fadb"
+      ],
+      "confidence": 0.35,
+      "source_tag": "田代",
+      "occurrences": 2
+    },
+    "真了": {
+      "korean_name": "真了",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0008976f",
+        "0x00089819",
+        "0x000898ca",
+        "0x00089a41",
+        "0x00089b85",
+        "0x00089bdb",
+        "0x00089cb5",
+        "0x00089e5c"
+      ],
+      "confidence": 0.35,
+      "source_tag": "真了",
+      "occurrences": 40
+    },
+    "管理人": {
+      "korean_name": "管理人",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0008d675",
+        "0x0008d6c0",
+        "0x0008d77a",
+        "0x0008d7e0",
+        "0x0008d857",
+        "0x0008ed1e",
+        "0x0008ed96"
+      ],
+      "confidence": 0.35,
+      "source_tag": "管理人",
+      "occurrences": 7
+    },
+    "受付": {
+      "korean_name": "受付",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0008fbe7",
+        "0x0008fd33",
+        "0x0008fdc7",
+        "0x0008fe2d",
+        "0x00090174",
+        "0x0009079d",
+        "0x00090841",
+        "0x00090893"
+      ],
+      "confidence": 0.35,
+      "source_tag": "受付",
+      "occurrences": 20
+    },
+    "駅口": {
+      "korean_name": "駅口",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x00091a6e",
+        "0x00092a51",
+        "0x00092b09",
+        "0x00092c2d",
+        "0x00092e1e",
+        "0x00092f1e",
+        "0x000930fa",
+        "0x000931fa"
+      ],
+      "confidence": 0.35,
+      "source_tag": "駅口",
+      "occurrences": 122
+    },
+    "術護師": {
+      "korean_name": "術護師",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x00091e76",
+        "0x00091f54",
+        "0x00092119",
+        "0x00092239",
+        "0x00092323",
+        "0x0009240a",
+        "0x000924f3",
+        "0x000925b6"
+      ],
+      "confidence": 0.35,
+      "source_tag": "術護師",
+      "occurrences": 12
+    },
+    "堂元": {
+      "korean_name": "堂元",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0009a2f5",
+        "0x0009a433",
+        "0x0009a4eb",
+        "0x0009a5a3",
+        "0x0009a64d",
+        "0x0009a6b4",
+        "0x0009a72f",
+        "0x0009a7dd"
+      ],
+      "confidence": 0.35,
+      "source_tag": "堂元",
+      "occurrences": 14
+    },
+    "留置係": {
+      "korean_name": "留置係",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x000afceb",
+        "0x0011b964",
+        "0x0011bd44",
+        "0x0011c09e",
+        "0x0011c202",
+        "0x0011c8c6",
+        "0x0011ca0e",
+        "0x00129001"
+      ],
+      "confidence": 0.35,
+      "source_tag": "留置係",
+      "occurrences": 10
+    },
+    "吉本": {
+      "korean_name": "吉本",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x000c425f",
+        "0x000c971e",
+        "0x000c9847",
+        "0x000cbeaf",
+        "0x000cc9a6",
+        "0x000ccb61",
+        "0x000ce674",
+        "0x000d0136"
+      ],
+      "confidence": 0.35,
+      "source_tag": "吉本",
+      "occurrences": 120
+    },
+    "近藤": {
+      "korean_name": "近藤",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x000c5a69",
+        "0x000c5be6",
+        "0x000c5c4c",
+        "0x000c5d59",
+        "0x000c5e15",
+        "0x000c5f69",
+        "0x000c5fce",
+        "0x000c602f"
+      ],
+      "confidence": 0.35,
+      "source_tag": "近藤",
+      "occurrences": 102
+    },
+    "三浦（志利）": {
+      "korean_name": "三浦（志利）",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x000ca581",
+        "0x000ca5e3"
+      ],
+      "confidence": 0.35,
+      "source_tag": "三浦（志利）",
+      "occurrences": 2
+    },
+    "検事": {
+      "korean_name": "検事",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x000e0189",
+        "0x000e0207",
+        "0x000e02c6",
+        "0x000e0343",
+        "0x000e03f2",
+        "0x000e0438",
+        "0x000e04f5",
+        "0x000e0595"
+      ],
+      "confidence": 0.35,
+      "source_tag": "検事",
+      "occurrences": 39
+    },
+    "？？？？": {
+      "korean_name": "？？？？",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x000fe691",
+        "0x000fe762",
+        "0x000fe87a",
+        "0x000fea01",
+        "0x000feac4",
+        "0x000fec02",
+        "0x000fed60",
+        "0x000fee5c"
+      ],
+      "confidence": 0.35,
+      "source_tag": "？？？？",
+      "occurrences": 14
+    },
+    "男": {
+      "korean_name": "男",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x00111897",
+        "0x00111995",
+        "0x00111a28",
+        "0x00111b28",
+        "0x00111bde",
+        "0x00111c7a",
+        "0x0013d8f0",
+        "0x0013d95e"
+      ],
+      "confidence": 0.35,
+      "source_tag": "男",
+      "occurrences": 37
+    },
+    "？？？": {
+      "korean_name": "？？？",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0013d9a8",
+        "0x0013db3d",
+        "0x0013de16",
+        "0x00145c98"
+      ],
+      "confidence": 0.35,
+      "source_tag": "？？？",
+      "occurrences": 4
+    },
+    "勝代": {
+      "korean_name": "勝代",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0013deea",
+        "0x0013e01b",
+        "0x0013e0ba",
+        "0x0013e1be",
+        "0x0013e21a",
+        "0x0013e261",
+        "0x0013e2ce"
+      ],
+      "confidence": 0.35,
+      "source_tag": "勝代",
+      "occurrences": 7
+    },
+    "警察節": {
+      "korean_name": "警察節",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x00141b8e",
+        "0x00141c66",
+        "0x00141d0f",
+        "0x00148142",
+        "0x0014829a"
+      ],
+      "confidence": 0.35,
+      "source_tag": "警察節",
+      "occurrences": 5
+    },
+    "判事": {
+      "korean_name": "判事",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x00147040",
+        "0x00147122",
+        "0x001471d5",
+        "0x00147222",
+        "0x001472c3",
+        "0x0014738f",
+        "0x00147429",
+        "0x001474c3"
+      ],
+      "confidence": 0.35,
+      "source_tag": "判事",
+      "occurrences": 12
+    },
+    "一利": {
+      "korean_name": "一利",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0014e826",
+        "0x0014e86d",
+        "0x0014e8fb",
+        "0x0014e945",
+        "0x0014e99e",
+        "0x0014ea2b",
+        "0x0014ea9b",
+        "0x0014eb2a"
+      ],
+      "confidence": 0.35,
+      "source_tag": "一利",
+      "occurrences": 20
+    },
+    "澄香": {
+      "korean_name": "澄香",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0014f441",
+        "0x0014f47a",
+        "0x0014f4d8",
+        "0x0014f5dc"
+      ],
+      "confidence": 0.35,
+      "source_tag": "澄香",
+      "occurrences": 4
+    },
+    "朝等（勝代）": {
+      "korean_name": "朝等（勝代）",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0015048a",
+        "0x001507bf",
+        "0x001508b8",
+        "0x0015095b",
+        "0x001509e5",
+        "0x00150a45"
+      ],
+      "confidence": 0.35,
+      "source_tag": "朝等（勝代）",
+      "occurrences": 6
+    },
+    "ユミ": {
+      "korean_name": "ユミ",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x00151a79",
+        "0x00151b31",
+        "0x001525f8",
+        "0x00152741",
+        "0x001527c7",
+        "0x001528ef",
+        "0x001529f4",
+        "0x00152b3d"
+      ],
+      "confidence": 0.35,
+      "source_tag": "ユミ",
+      "occurrences": 15
+    },
+    "一同": {
+      "korean_name": "一同",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x00158ccd"
+      ],
+      "confidence": 0.35,
+      "source_tag": "一同",
+      "occurrences": 1
+    },
+    "テスト": {
+      "korean_name": "テスト",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0016e9a6"
+      ],
+      "confidence": 0.35,
+      "source_tag": "テスト",
+      "occurrences": 1
+    },
+    "ｍ０１": {
+      "korean_name": "ｍ０１",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0016eb84"
+      ],
+      "confidence": 0.35,
+      "source_tag": "ｍ０１",
+      "occurrences": 1
+    },
+    "ｍ０２": {
+      "korean_name": "ｍ０２",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0016ebcd"
+      ],
+      "confidence": 0.35,
+      "source_tag": "ｍ０２",
+      "occurrences": 1
+    },
+    "ｍ０３": {
+      "korean_name": "ｍ０３",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0016ec16"
+      ],
+      "confidence": 0.35,
+      "source_tag": "ｍ０３",
+      "occurrences": 1
+    },
+    "ｍ０４": {
+      "korean_name": "ｍ０４",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0016ec5f"
+      ],
+      "confidence": 0.35,
+      "source_tag": "ｍ０４",
+      "occurrences": 1
+    },
+    "ｍ２５": {
+      "korean_name": "ｍ２５",
+      "full_name": null,
+      "role": "보조 화자/장면 태그. 번역 시 원문 호칭과 장면 관계를 우선.",
+      "speech": "장면별 원문에 따라 결정",
+      "relationships": [],
+      "evidence": [
+        "0x0016eca8"
+      ],
+      "confidence": 0.35,
+      "source_tag": "ｍ２５",
+      "occurrences": 1
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "schema": "enkaku_retranslation_v2_rest_report",
+  "emulator_launched": false,
+  "batches": [
+    {
+      "schema": "enkaku_retranslation_batch_v2_report",
+      "emulator_launched": false,
+      "source_rows": 9626,
+      "merged_rows": 9626,
+      "unique_offsets": 9626,
+      "alignment_ok": true,
+      "batch_entries": 250,
+      "changed": 7,
+      "wrapped_rows": 0,
+      "semantic_override_rows": 26,
+      "outputs": [
+        "build\\retranslation_v2_batch024.json",
+        "build\\translation_ko_retranslated_v2.tsv"
+      ]
+    },
+    {
+      "schema": "enkaku_retranslation_batch_v2_report",
+      "emulator_launched": false,
+      "source_rows": 9626,
+      "merged_rows": 9626,
+      "unique_offsets": 9626,
+      "alignment_ok": true,
+      "batch_entries": 250,
+      "changed": 23,
+      "wrapped_rows": 0,
+      "semantic_override_rows": 4,
+      "outputs": [
+        "build\\retranslation_v2_batch025.json",
+        "build\\translation_ko_retranslated_v2.tsv"
+      ]
+    },
+    {
+      "schema": "enkaku_retranslation_batch_v2_report",
+      "emulator_launched": false,
+      "source_rows": 9626,
+      "merged_rows": 9626,
+      "unique_offsets": 9626,
+      "alignment_ok": true,
+      "batch_entries": 250,
+      "changed": 47,
+      "wrapped_rows": 0,
+      "semantic_override_rows": 0,
+      "outputs": [
+        "build\\retranslation_v2_batch026.json",
+        "build\\translation_ko_retranslated_v2.tsv"
+      ]
+    },
+    {
+      "schema": "enkaku_retranslation_batch_v2_report",
+      "emulator_launched": false,
+      "source_rows": 9626,
+      "merged_rows": 9626,
+      "unique_offsets": 9626,
+      "alignment_ok": true,
+      "batch_entries": 250,
+      "changed": 20,
+      "wrapped_rows": 0,
+      "semantic_override_rows": 11,
+      "outputs": [
+        "build\\retranslation_v2_batch027.json",
+        "build\\translation_ko_retranslated_v2.tsv"
+      ]
+    },
+    {
+      "schema": "enkaku_retranslation_batch_v2_report",
+      "emulator_launched": false,
+      "source_rows": 9626,
+      "merged_rows": 9626,
+      "unique_offsets": 9626,
+      "alignment_ok": true,
+      "batch_entries": 250,
+      "changed": 8,
+      "wrapped_rows": 0,
+      "semantic_override_rows": 7,
+      "outputs": [
+        "build\\retranslation_v2_batch028.json",
+        "build\\translation_ko_retranslated_v2.tsv"
+      ]
+    },
+    {
+      "schema": "enkaku_retranslation_batch_v2_report",
+      "emulator_launched": false,
+      "source_rows": 9626,
+      "merged_rows": 9626,
+      "unique_offsets": 9626,
+      "alignment_ok": true,
+      "batch_entries": 250,
+      "changed": 13,
+      "wrapped_rows": 0,
+      "semantic_override_rows": 8,
+      "outputs": [
+        "build\\retranslation_v2_batch029.json",
+        "build\\translation_ko_retranslated_v2.tsv"
+      ]
+    },
+    {
+      "schema": "enkaku_retranslation_batch_v2_report",
+      "emulator_launched": false,
+      "source_rows": 9626,
+      "merged_rows": 9626,
+      "unique_offsets": 9626,
+      "alignment_ok": true,
+      "batch_entries": 250,
+      "changed": 13,
+      "wrapped_rows": 0,
+      "semantic_override_rows": 18,
+      "outputs": [
+        "build\\retranslation_v2_batch030.json",
+        "build\\translation_ko_retranslated_v2.tsv"
+      ]
+    },
+    {
+      "schema": "enkaku_retranslation_batch_v2_report",
+      "emulator_launched": false,
+      "source_rows": 9626,
+      "merged_rows": 9626,
+      "unique_offsets": 9626,
+      "alignment_ok": true,
+      "batch_entries": 250,
+      "changed": 9,
+      "wrapped_rows": 0,
+      "semantic_override_rows": 18,
+      "outputs": [
+        "build\\retranslation_v2_batch031.json",
+        "build\\translation_ko_retranslated_v2.tsv"
+      ]
+    },
+    {
+      "schema": "enkaku_retranslation_batch_v2_report",
+      "emulator_launched": false,
+      "source_rows": 9626,
+      "merged_rows": 9626,
+      "unique_offsets": 9626,
+      "alignment_ok": true,
+      "batch_entries": 250,
+      "changed": 15,
+      "wrapped_rows": 0,
+      "semantic_override_rows": 23,
+      "outputs": [
+        "build\\retranslation_v2_batch032.json",
+        "build\\translation_ko_retranslated_v2.tsv"
+      ]
+    },
+    {
+      "schema": "enkaku_retranslation_batch_v2_report",
+      "emulator_launched": false,
+      "source_rows": 9626,
+      "merged_rows": 9626,
+      "unique_offsets": 9626,
+      "alignment_ok": true,
+      "batch_entries": 250,
+      "changed": 5,
+      "wrapped_rows": 0,
+      "semantic_override_rows": 14,
+      "outputs": [
+        "build\\retranslation_v2_batch033.json",
+        "build\\translation_ko_retranslated_v2.tsv"
+      ]
+    },
+    {
+      "schema": "enkaku_retranslation_batch_v2_report",
+      "emulator_launched": false,
+      "source_rows": 9626,
+      "merged_rows": 9626,
+      "unique_offsets": 9626,
+      "alignment_ok": true,
+      "batch_entries": 250,
+      "changed": 3,
+      "wrapped_rows": 0,
+      "semantic_override_rows": 14,
+      "outputs": [
+        "build\\retranslation_v2_batch034.json",
+        "build\\translation_ko_retranslated_v2.tsv"
+      ]
+    },
+    {
+      "schema": "enkaku_retranslation_batch_v2_report",
+      "emulator_launched": false,
+      "source_rows": 9626,
+      "merged_rows": 9626,
+      "unique_offsets": 9626,
+      "alignment_ok": true,
+      "batch_entries": 250,
+      "changed": 6,
+      "wrapped_rows": 0,
+      "semantic_override_rows": 14,
+      "outputs": [
+        "build\\retranslation_v2_batch035.json",
+        "build\\translation_ko_retranslated_v2.tsv"
+      ]
+    },
+    {
+      "schema": "enkaku_retranslation_batch_v2_report",
+      "emulator_launched": false,
+      "source_rows": 9626,
+      "merged_rows": 9626,
+      "unique_offsets": 9626,
+      "alignment_ok": true,
+      "batch_entries": 250,
+      "changed": 16,
+      "wrapped_rows": 0,
+      "semantic_override_rows": 4,
+      "outputs": [
+        "build\\retranslation_v2_batch036.json",
+        "build\\translation_ko_retranslated_v2.tsv"
+      ]
+    },
+    {
+      "schema": "enkaku_retranslation_batch_v2_report",
+      "emulator_launched": false,
+      "source_rows": 9626,
+      "merged_rows": 9626,
+      "unique_offsets": 9626,
+      "alignment_ok": true,
+      "batch_entries": 75,
+      "changed": 1,
+      "wrapped_rows": 0,
+      "semantic_override_rows": 0,
+      "outputs": [
+        "build\\retranslation_v2_batch037.json",
+        "build\\translation_ko_retranslated_v2.tsv"
+      ]
+    }
+  ],
+  "source_rows": 9626,
+  "merged_rows": 9626,
+  "unique_offsets": 9626
+}

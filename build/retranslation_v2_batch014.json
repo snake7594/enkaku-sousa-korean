@@ -1,0 +1,4559 @@
+{
+  "schema": "enkaku_retranslation_batch_v2",
+  "batch": 14,
+  "source_range": {
+    "order_start": 3801,
+    "order_end": 4050,
+    "count": 250
+  },
+  "purpose": "코우지와 노리코의 화해, 미나즈키의 알리바이, 시라카와 사토루의 심장 이식, 누마사키와 야스요의 불륜을 재번역한다.",
+  "emulator_launched": false,
+  "display_width": 19,
+  "translation_policy": [
+    "노리코의 감정선은 코우지를 신뢰하지 못해서가 아니라 배제당하는 것을 두려워하는 상황으로 표현한다.",
+    "누마사키 준은 소장 겸 변호사, 신타로는 그의 아들로 구분한다.",
+    "白川真了는 白川一利의 남동생이며 아사츠유가 사랑했던 사람, 심장은 이치리에게 이식된 것으로 고정한다.",
+    "水無月幸司는 미나즈키 코우지로 고정하고 게임센터 방문·복직 시점·정장 부재를 알리바이 검토의 근거로 연결한다."
+  ],
+  "counts": {
+    "entries": 250,
+    "changed": 233,
+    "wrapped_rows": 60
+  },
+  "translations": [
+    {
+      "order": 3801,
+      "source_index": "0x000a7852",
+      "source_ja_raw": "【光志】\\nえ……なんでだ？",
+      "source_ja_applied": "【光志】\\nえ……なんでだ？",
+      "source_ja_reviewed": "【光志】\\nえ……なんでだ？",
+      "old_translation": "【코우지】\\n에… … 어째서야?",
+      "new_translation": "【코우지】\\n어…… 왜?",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3802,
+      "source_index": "0x000a789b",
+      "source_ja_raw": "【法子】\\nそれは水谷さんがコウジに対して\\n話したことでしょ？",
+      "source_ja_applied": "【法子】\\nそれは水谷さんがコウジに対して\\n話したことでしょ？",
+      "source_ja_reviewed": "【法子】\\nそれは水谷さんがコウジに対して\\n話したことでしょ？",
+      "old_translation": "【노리코】\\n그것은 미즈타니씨가 코우지에 대해서\\n 이야기한 것입니까?",
+      "new_translation": "【노리코】\\n그건 미즈타니 씨가\\n코우지에게만 한 이야기잖아?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3803,
+      "source_index": "0x000a78f8",
+      "source_ja_raw": "【法子】\\nプライベートなことを\\nあまり話さないほうがいいと思う……",
+      "source_ja_applied": "【法子】\\nプライベートなことを\\nあまり話さないほうがいいと思う……",
+      "source_ja_reviewed": "【法子】\\nプライベートなことを\\nあまり話さないほうがいいと思う……",
+      "old_translation": "【노리코】\\n프라이빗인 것을\\n별로 말하지 않는 편이 좋다고\\n무겁다…",
+      "new_translation": "【노리코】\\n사적인 이야기는\\n함부로 말하지 않는 편이 좋다고\\n생각해……",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3804,
+      "source_index": "0x000a7964",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3805,
+      "source_index": "0x000a79c3",
+      "source_ja_raw": "【光志】\\nそういう意味なら、\\n特に話すことはないかな……",
+      "source_ja_applied": "【光志】\\nそういう意味なら、\\n特に話すことはないかな……",
+      "source_ja_reviewed": "【光志】\\nそういう意味なら、\\n特に話すことはないかな……",
+      "old_translation": "【코우지】\\n그런 의미라면,\\n특히 말할 것은 없을까…",
+      "new_translation": "【코우지】\\n그런 뜻이라면\\n특별히 할 말은 없네……",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3806,
+      "source_index": "0x000a7a1f",
+      "source_ja_raw": "【法子】\\nうん、了婚《りょうかい》。\\nもしその話が事件と結びついたときには\\n聞かせて。",
+      "source_ja_applied": "【法子】\\nうん、了婚《りょうかい》。\\nもしその話が事件と結びついたときには\\n聞かせて。",
+      "source_ja_reviewed": "うん、了解《りょうかい》。もしその話が事件と結びついたときには聞かせて。",
+      "old_translation": "【노리코】\\n 그래, 표해. \\n만약 그 이야기가 사건과 연결되었을\\n때는\\n들려 줘.",
+      "new_translation": "【노리코】\\n응, 알겠어.\\n그 이야기가 사건과 연결되면\\n그때 들려 줘.",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3807,
+      "source_index": "0x000a7aa7",
+      "source_ja_raw": "【法子】\\nそれまではコウジの心に\\nしまっといてよ。",
+      "source_ja_applied": "【法子】\\nそれまではコウジの心に\\nしまっといてよ。",
+      "source_ja_reviewed": "【法子】\\nそれまではコウジの心に\\nしまっといてよ。",
+      "old_translation": "【노리코】\\n그때까지는 코우지의 마음에\\n시만해서요.",
+      "new_translation": "【노리코】\\n그때까지는 코우지 마음속에\\n간직해 둬.",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3808,
+      "source_index": "0x000a7afc",
+      "source_ja_raw": "【光志】\\n……ああ、そうするよ。",
+      "source_ja_applied": "【光志】\\n……ああ、そうするよ。",
+      "source_ja_reviewed": "【光志】\\n……ああ、そうするよ。",
+      "old_translation": "【코우지】\\n… … 아, 그래.",
+      "new_translation": "【코우지】\\n……그래, 그럴게.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3809,
+      "source_index": "0x000a7be4",
+      "source_ja_raw": "【光志】\\n昨日、真太郎が接見に来たんだ。",
+      "source_ja_applied": "【光志】\\n昨日、晋太郎が接見に来たんだ。",
+      "source_ja_reviewed": "昨日、晋太郎が接見に来たんだ。",
+      "old_translation": "【코우지】\\n어제, 타타로가 접견에 참았다.",
+      "new_translation": "【코우지】\\n어제 신타로가 접견하러 왔어.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3810,
+      "source_index": "0x000a7c54",
+      "source_ja_raw": "【法子】\\n沼崎順が来たんだ？\\nなにか言ってた？",
+      "source_ja_applied": "【法子】\\n沼崎順が来たんだ？\\nなにか言ってた？",
+      "source_ja_reviewed": "沼崎順が来たんだ？なにか言ってた？",
+      "old_translation": "【노리코】\\n누마사키강이 붐비는 거야? \\n무슨 말을 했어?",
+      "new_translation": "【노리코】\\n누마사키 준이 왔다고?\\n뭐라고 하던데?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3811,
+      "source_index": "0x000a7cab",
+      "source_ja_raw": "【光志】\\nいや、特にはなにも。\\n陣中見真《じんちゅうみま》いだって。",
+      "source_ja_applied": "【光志】\\nいや、特にはなにも。\\n陣中見舞《じんちゅうみま》いだって。",
+      "source_ja_reviewed": "いや、特にはなにも。陣中見舞《じんちゅうみま》いだって。",
+      "old_translation": "【코우지】\\n아니, 특히는 아무것도. \\n초중 닦고도.",
+      "new_translation": "【코우지】\\n아니, 특별한 말은 없었어.\\n그냥 격려차 왔다더라.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3812,
+      "source_index": "0x000a7d28",
+      "source_ja_raw": "【法子】\\nへえ……！\\n仲良かったんだね、２人って。",
+      "source_ja_applied": "【法子】\\nへえ……！\\n仲良かったんだね、２人って。",
+      "source_ja_reviewed": "【法子】\\nへえ……！\\n仲良かったんだね、２人って。",
+      "old_translation": "【노리코】\\n헤에…\\n풍부했어, 둘이야.",
+      "new_translation": "【노리코】\\n그래……!?\\n둘이 꽤 친했나 보네.",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3813,
+      "source_index": "0x000a7d9c",
+      "source_ja_raw": "【光志】\\nえ？\\n別に？",
+      "source_ja_applied": "【光志】\\nえ？\\n別に？",
+      "source_ja_reviewed": "【光志】\\nえ？\\n別に？",
+      "old_translation": "【코우지】\\n에? \\n별로?",
+      "new_translation": "【코우지】\\n응?\\n별로?",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3814,
+      "source_index": "0x000a7dfc",
+      "source_ja_raw": "【法子】\\nえ？\\nあれ？",
+      "source_ja_applied": "【法子】\\nえ？\\nあれ？",
+      "source_ja_reviewed": "【法子】\\nえ？\\nあれ？",
+      "old_translation": "【노리코】\\n에? \\n어?",
+      "new_translation": "【노리코】\\n어?\\n어라?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3815,
+      "source_index": "0x000a7e5b",
+      "source_ja_raw": "【光志】\\nまあ、久しぶりに捺《なつ》かしい顔を\\n見せてもらったよ。\\n一瞬《いっしゅん》、勾留《こうりゅう》されてるのを触れたくらいだ。",
+      "source_ja_applied": "【光志】\\nまあ、久しぶりに捺《なつ》かしい顔を\\n見せてもらったよ。\\n一瞬《いっしゅん》、勾留《こうりゅう》されてるのを触れたくらいだ。",
+      "source_ja_reviewed": "まあ、久しぶりに懐《なつ》かしい顔を見せてもらったよ。一瞬《いっしゅん》、勾留《こうりゅう》されてるのを忘れたくらいだ。",
+      "old_translation": "【코우지】\\n오랜만에 그리운 얼굴을 보게 해 줬어.\\n잠깐, 구류돼 있던 일을 잊을 정도로.",
+      "new_translation": "【코우지】\\n뭐, 오랜만에 그리운 얼굴을 봤지.\\n잠깐이나마 구류 중이라는 사실도\\n잊을 정도였어.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3816,
+      "source_index": "0x000a7f00",
+      "source_ja_raw": "【光志】\\nここから出たら\\nあらためて挨拶《あいさつ》に行くって\\n伝えておいてくれよ。",
+      "source_ja_applied": "【光志】\\nここから出たら\\nあらためて挨拶《あいさつ》に行くって\\n伝えておいてくれよ。",
+      "source_ja_reviewed": "【光志】\\nここから出たら\\nあらためて挨拶《あいさつ》に行くって\\n伝えておいてくれよ。",
+      "old_translation": "【코우지】\\n여기에서 나오면\\n다시 인사하러 가서\\n전해 두어줘.",
+      "new_translation": "【코우지】\\n여기서 나가면\\n다시 인사하러 가겠다고\\n전해 줘.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3817,
+      "source_index": "0x000a7f83",
+      "source_ja_raw": "【法子】\\nうん、わかった。",
+      "source_ja_applied": "【法子】\\nうん、わかった。",
+      "source_ja_reviewed": "【法子】\\nうん、わかった。",
+      "old_translation": "【노리코】\\n응, 알겠어.",
+      "new_translation": "【노리코】\\n응, 알겠어.",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3818,
+      "source_index": "0x000a810d",
+      "source_ja_raw": "【光志】\\n昨日、また真太郎が来たんだ……",
+      "source_ja_applied": "【光志】\\n昨日、また晋太郎が来たんだ……",
+      "source_ja_reviewed": "【光志】\\n昨日、また晋太郎が来たんだ……",
+      "old_translation": "【코우지】\\n어제, 또 타타로가 짊어졌다…",
+      "new_translation": "【코우지】\\n어제 또 신타로가 왔어……",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3819,
+      "source_index": "0x000a817c",
+      "source_ja_raw": "【法子】\\nあ、また来たんだ。\\nやっぱり仲良しだったんだね？",
+      "source_ja_applied": "【法子】\\nあ、また来たんだ。\\nやっぱり仲良しだったんだね？",
+      "source_ja_reviewed": "【法子】\\nあ、また来たんだ。\\nやっぱり仲良しだったんだね？",
+      "old_translation": "【노리코】\\n아, 또 맘에 들었다.\\n역시 풍부했어요?",
+      "new_translation": "【노리코】\\n아, 또 왔구나.\\n역시 친한 사이였네?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3820,
+      "source_index": "0x000a81f1",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3821,
+      "source_index": "0x000a8250",
+      "source_ja_raw": "【法子】\\n…………？\\nどうしたの、コウジ？",
+      "source_ja_applied": "【法子】\\n…………？\\nどうしたの、コウジ？",
+      "source_ja_reviewed": "【法子】\\n…………？\\nどうしたの、コウジ？",
+      "old_translation": "【노리코】\\n…………? \\n무슨 일이야, 코우지?",
+      "new_translation": "【노리코】\\n…………?\\n왜 그래, 코우지?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3822,
+      "source_index": "0x000a82a6",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3823,
+      "source_index": "0x000a8370",
+      "source_ja_raw": "【真太郎】\\nウチにはいい弁護士がたくさんいる。\\nその中からこの事件の担当に、\\n腕《うで》の立《た》つ弁護士を関してもいい。",
+      "source_ja_applied": "【晋太郎】\\nウチにはいい弁護士がたくさんいる。\\nその中からこの事件の担当に、\\n腕《うで》の立《た》つ弁護士を回してもいい。",
+      "source_ja_reviewed": "ウチにはいい弁護士がたくさんいる。その中からこの事件の担当に、腕《うで》の立《た》つ弁護士を回してもいい。",
+      "old_translation": "【타타로】\\n우치에는 좋은 변호사가 많이 있다.\\n그 중에서 이 사건의 상당에,\\n팔의 굵은 변호사를 숲으로 해서\\n좋다.",
+      "new_translation": "【신타로】\\n우리 회사에는 유능한 변호사가\\n많다.\\n그중에서 이 사건을 맡을 실력 있는\\n변호사를\\n보내 줄 수도 있어.",
+      "speaker": "신타로",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3824,
+      "source_index": "0x000a83ed",
+      "source_ja_raw": "【真太郎】\\n多少の融通《ゆうづう》を訪《き》かせることもできる。\\nその上で彼女にこだわるのであれば、\\n順のエゴだ。",
+      "source_ja_applied": "【晋太郎】\\n多少の融通《ゆうづう》を訪《き》かせることもできる。\\nその上で彼女にこだわるのであれば、\\n順のエゴだ。",
+      "source_ja_reviewed": "多少の融通《ゆうづう》を利《き》かせることもできる。その上で彼女にこだわるのであれば、順のエゴだ。",
+      "old_translation": "【신타로】\\n어느 정도 융통성을 발휘할 수도 있다.\\n그럼에도 그녀를 고집한다면,\\n그건 자네의 이기심이야.",
+      "new_translation": "【신타로】\\n어느 정도 편의를 봐줄 수도 있지.\\n그런데도 그녀를 고집한다면\\n그건 네 이기심이야.",
+      "speaker": "신타로",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3825,
+      "source_index": "0x000a84e2",
+      "source_ja_raw": "【光志】\\n……なあ、法子。",
+      "source_ja_applied": "【光志】\\n……なあ、法子。",
+      "source_ja_reviewed": "【光志】\\n……なあ、法子。",
+      "old_translation": "【코우지】\\n… … 뭐, 노리코.",
+      "new_translation": "【코우지】\\n……있잖아, 노리코.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3826,
+      "source_index": "0x000a852e",
+      "source_ja_raw": "【光志】\\n……ちょっと考えたんだけどさ、\\nこういうの、もうやめないか？",
+      "source_ja_applied": "【光志】\\n……ちょっと考えたんだけどさ、\\nこういうの、もうやめないか？",
+      "source_ja_reviewed": "【光志】\\n……ちょっと考えたんだけどさ、\\nこういうの、もうやめないか？",
+      "old_translation": "【코우지】\\n조금 생각했지만,\\n이런거, 이제 그만둘까?",
+      "new_translation": "【코우지】\\n……조금 생각해 봤는데\\n이런 일은 이제 그만두는 게 어때?",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3827,
+      "source_index": "0x000a85a9",
+      "source_ja_raw": "【法子】\\nえっ……？\\nどういう、こと？",
+      "source_ja_applied": "【法子】\\nえっ……？\\nどういう、こと？",
+      "source_ja_reviewed": "【法子】\\nえっ……？\\nどういう、こと？",
+      "old_translation": "【노리코】\\n엣… \\n 무슨 일이야?",
+      "new_translation": "【노리코】\\n뭐……?\\n무슨 뜻이야?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3828,
+      "source_index": "0x000a8613",
+      "source_ja_raw": "【光志】\\nオレはさ、\\n法子には立派な弁護士に\\nなってもらいたいんだよ。",
+      "source_ja_applied": "【光志】\\nオレはさ、\\n法子には立派な弁護士に\\nなってもらいたいんだよ。",
+      "source_ja_reviewed": "【光志】\\nオレはさ、\\n法子には立派な弁護士に\\nなってもらいたいんだよ。",
+      "old_translation": "【코우지】\\n저 하사,\\n노리코에는 굉장한 변호사가\\n 되어 주었으면 해.",
+      "new_translation": "【코우지】\\n나는 말이야,\\n노리코가 훌륭한 변호사가\\n됐으면 해.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3829,
+      "source_index": "0x000a8684",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3830,
+      "source_index": "0x000a86ca",
+      "source_ja_raw": "【法子】\\nどういう意味？\\nこの事件に関わってると、\\n私が立派な弁護士になれないってこと？",
+      "source_ja_applied": "【法子】\\nどういう意味？\\nこの事件に関わってると、\\n私が立派な弁護士になれないってこと？",
+      "source_ja_reviewed": "【法子】\\nどういう意味？\\nこの事件に関わってると、\\n私が立派な弁護士になれないってこと？",
+      "old_translation": "【노리코】\\n무슨 뜻? \\n이 사건에 관여하면,\\n내가 굉장한 변호사가 될 수 없다는\\n것?",
+      "new_translation": "【노리코】\\n무슨 뜻이야?\\n이 사건에 관여하면\\n내가 훌륭한 변호사가 될 수 없다는\\n거야?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3831,
+      "source_index": "0x000a873d",
+      "source_ja_raw": "【光志】\\n法子さ……\\n今の弁護士事務所で\\nけっこう期待されてるらしいな。",
+      "source_ja_applied": "【光志】\\n法子さ……\\n今の弁護士事務所で\\nけっこう期待されてるらしいな。",
+      "source_ja_reviewed": "【光志】\\n法子さ……\\n今の弁護士事務所で\\nけっこう期待されてるらしいな。",
+      "old_translation": "【코우지】\\n노리코사…\\n지금 변호사 사무소에서\\n꽤 기대 받고있는 것 같다.",
+      "new_translation": "【코우지】\\n노리코 말이야……\\n지금 변호사 사무실에서\\n꽤 기대받고 있다며.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3832,
+      "source_index": "0x000a87c1",
+      "source_ja_raw": "【光志】\\nだったらさ……オレの弁護なんかじゃなくって、\\nもっと大きな仕事をしたほうが\\nいいんじゃないかって思うんだ……",
+      "source_ja_applied": "【光志】\\nだったらさ……オレの弁護なんかじゃなくって、\\nもっと大きな仕事をしたほうが\\nいいんじゃないかって思うんだ……",
+      "source_ja_reviewed": "だったらさ……オレの弁護なんかじゃなくって、もっと大きな仕事をしたほうがいいんじゃないかって思うんだ……",
+      "old_translation": "【코우지】\\n그렇다면…\\n더 큰 일을하는 것이\\n괜찮지 않을까 무거워…",
+      "new_translation": "【코우지】\\n그렇다면 내 변호 같은 게 아니라\\n더 큰 일을 하는 편이\\n좋지 않을까 싶어서……",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3833,
+      "source_index": "0x000a8872",
+      "source_ja_raw": "【法子】\\n大きな仕事……？\\n大きな仕事ってなに……？\\nなんでコウジの弁護がな《・》ん《・》か《・》なのっ！？",
+      "source_ja_applied": "【法子】\\n大きな仕事……？\\n大きな仕事ってなに……？\\nなんでコウジの弁護がな《・》ん《・》か《・》なのっ！？",
+      "source_ja_reviewed": "大きな仕事……？大きな仕事ってなに……？なんでコウジの弁護がなんか《・》なのっ！？",
+      "old_translation": "【노리코】\\n큰 일 ......?\\n큰 일은 뭐…\\n왜 코우지의 변호가 뭔가! ?",
+      "new_translation": "【노리코】\\n더 큰 일……?\\n더 큰 일이 뭔데……?\\n왜 코우지 변호가 별것 아니란\\n거야!?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3834,
+      "source_index": "0x000a88f8",
+      "source_ja_raw": "【法子】\\nコウジの弁護は私にとって、\\nなによりも大事な仕事なのよっ！\\nなのに……どうしてコウジがそんなこと言うの！？",
+      "source_ja_applied": "【法子】\\nコウジの弁護は私にとって、\\nなによりも大事な仕事なのよっ！\\nなのに……どうしてコウジがそんなこと言うの！？",
+      "source_ja_reviewed": "【法子】\\nコウジの弁護は私にとって、\\nなによりも大事な仕事なのよっ！\\nなのに……どうしてコウジがそんなこと言うの！？",
+      "old_translation": "【노리코】\\n코우지의 변호는 나에게 있어,\\n 무엇보다도 소중한 일이야! \\n인데......왜 코우지가 그런\\n말하는\\n거야! ?",
+      "new_translation": "【노리코】\\n코우지 변호는 나에게\\n무엇보다 중요한 일이야!\\n그런데…… 왜 코우지가 그런 말을\\n해!?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3835,
+      "source_index": "0x000a897b",
+      "source_ja_raw": "【光志】\\nあ……",
+      "source_ja_applied": "【光志】\\nあ……",
+      "source_ja_reviewed": "【光志】\\nあ……",
+      "old_translation": "【코우지】\\n아……",
+      "new_translation": "【코우지】\\n아……",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3836,
+      "source_index": "0x000a89be",
+      "source_ja_raw": "【法子】\\n私って、そんなに信用ない！？\\nコウジの役に立ててない！？",
+      "source_ja_applied": "【法子】\\n私って、そんなに信用ない！？\\nコウジの役に立ててない！？",
+      "source_ja_reviewed": "【法子】\\n私って、そんなに信用ない！？\\nコウジの役に立ててない！？",
+      "old_translation": "【노리코】\\n나는, 그렇게 신용 없어! ? \\n코우지 걸에 뚱뚱하지 않다! ?",
+      "new_translation": "【노리코】\\n나는 그렇게 못 미더워!?\\n코우지에게 도움이 안 되고 있어!?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3837,
+      "source_index": "0x000a8a23",
+      "source_ja_raw": "【光志】\\nい、いや……違《ちが》うんだ、法子……\\n信用とか、そういうんじゃないんだ……",
+      "source_ja_applied": "【光志】\\nい、いや……違《ちが》うんだ、法子……\\n信用とか、そういうんじゃないんだ……",
+      "source_ja_reviewed": "【光志】\\nい、いや……違《ちが》うんだ、法子……\\n信用とか、そういうんじゃないんだ……",
+      "old_translation": "【코우지】\\n아니, 아니......다른거야,\\n노리코......\\n신용이라든가, 그런 거\\n아니야......",
+      "new_translation": "【코우지】\\n아, 아니야…… 달라, 노리코……\\n신뢰니 뭐니 그런 뜻이 아니야……",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3838,
+      "source_index": "0x000a8aaf",
+      "source_ja_raw": "【法子】\\nううん、いい……\\nわかってる……",
+      "source_ja_applied": "【法子】\\nううん、いい……\\nわかってる……",
+      "source_ja_reviewed": "【法子】\\nううん、いい……\\nわかってる……",
+      "old_translation": "【노리코】\\n으응, 좋아……\\n알고 있다…",
+      "new_translation": "【노리코】\\n아니, 됐어……\\n알고 있어……",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3839,
+      "source_index": "0x000a8b02",
+      "source_ja_raw": "【法子】\\nゴメン……\\n私の力が足りないんだよね……\\nコウジの酔理に私の調査が道いついてないんだよね……",
+      "source_ja_applied": "【法子】\\nゴメン……\\n私の力が足りないんだよね……\\nコウジの酔理に私の調査が道いついてないんだよね……",
+      "source_ja_reviewed": "ゴメン……私の力が足りないんだよね……コウジの推理《すいり》に私の調査が追《お》いついてないんだよね……",
+      "old_translation": "【노리코】\\n고멘…\\n내 힘이 몰라요…\\n코우지의 역리에 나의 조사가\\n따라잡지\\n않았어…",
+      "new_translation": "【노리코】\\n미안해……\\n내 실력이 부족한 거지……\\n코우지의 추리를 내 조사가\\n따라가지 못하는 거지……",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3840,
+      "source_index": "0x000a8b7f",
+      "source_ja_raw": "【法子】\\nわかってたんだ……\\nだけど、私にはこれが限界で……",
+      "source_ja_applied": "【法子】\\nわかってたんだ……\\nだけど、私にはこれが限界で……",
+      "source_ja_reviewed": "【法子】\\nわかってたんだ……\\nだけど、私にはこれが限界で……",
+      "old_translation": "【노리코】\\n알고 있었어......\\n하지만, 나에게는 이것이 급계에서",
+      "new_translation": "【노리코】\\n알고 있었어……\\n하지만 나에게는 이게 한계라서……",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3841,
+      "source_index": "0x000a8bde",
+      "source_ja_raw": "【法子】\\n……けどコウジのために\\n少しでも役に立ちたくて……",
+      "source_ja_applied": "【法子】\\n……けどコウジのために\\n少しでも役に立ちたくて……",
+      "source_ja_reviewed": "【法子】\\n……けどコウジのために\\n少しでも役に立ちたくて……",
+      "old_translation": "【노리코】\\n......하지만 코우지를 위해\\n조금이라도 굉장히 뚱뚱하고…",
+      "new_translation": "【노리코】\\n……그래도 코우지를 위해\\n조금이라도 도움이 되고 싶어서……",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3842,
+      "source_index": "0x000a8c56",
+      "source_ja_raw": "【光志】\\n違《ちが》うんだよ、法子！\\n法子の調査に不痛なんかないんだ！\\nただ……",
+      "source_ja_applied": "【光志】\\n違《ちが》うんだよ、法子！\\n法子の調査に不満なんかないんだ！\\nただ……",
+      "source_ja_reviewed": "【光志】\\n違《ちが》うんだよ、法子！\\n法子の調査に不満なんかないんだ！\\nただ……",
+      "old_translation": "【코우지】\\n다르다, 노리코! \\n노리코의 조사에 불만 따위 없어! \\n그냥......",
+      "new_translation": "【코우지】\\n그게 아니야, 노리코!\\n노리코의 조사에 불만 같은 건\\n없어!\\n다만……",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3843,
+      "source_index": "0x000a8cdf",
+      "source_ja_raw": "【法子】\\nじゃあ、どうして私じゃダメなのっ！？\\nただ、なんなのよ！",
+      "source_ja_applied": "【法子】\\nじゃあ、どうして私じゃダメなのっ！？\\nただ、なんなのよ！",
+      "source_ja_reviewed": "【法子】\\nじゃあ、どうして私じゃダメなのっ！？\\nただ、なんなのよ！",
+      "old_translation": "【노리코】\\n그럼 왜 내가 안돼! ?\\n그냥 뭐야!",
+      "new_translation": "【노리코】\\n그럼 왜 내가 안 되는 건데!?\\n다만 뭐가 어쨌다는 거야!",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3844,
+      "source_index": "0x000a8d59",
+      "source_ja_raw": "【光志】\\nの、法子……",
+      "source_ja_applied": "【光志】\\nの、法子……",
+      "source_ja_reviewed": "【光志】\\nの、法子……",
+      "old_translation": "【코우지】\\n의, 노리코…",
+      "new_translation": "【코우지】\\n노, 노리코……",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3845,
+      "source_index": "0x000a8dbb",
+      "source_ja_raw": "【法子】\\nコウジ……\\nもう……閣《かく》しごとはやめて……\\nもう、私を置いていかないでよ……",
+      "source_ja_applied": "【法子】\\nコウジ……\\nもう……閣《かく》しごとはやめて……\\nもう、私を置いていかないでよ……",
+      "source_ja_reviewed": "【法子】\\nコウジ……\\nもう……閣《かく》しごとはやめて……\\nもう、私を置いていかないでよ……",
+      "old_translation": "【노리코】\\n코우지…\\n벌써…\\n이제, 나를 두지 말아줘…",
+      "new_translation": "【노리코】\\n코우지……\\n이제…… 숨기는 건 그만해……\\n더는 나를 두고 가지 마……",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3846,
+      "source_index": "0x000a8eaa",
+      "source_ja_raw": "【法子】\\nコウジ……\\nどうして……どうしてなにも言わずに\\nいなくなっちゃうの……？",
+      "source_ja_applied": "【法子】\\nコウジ……\\nどうして……どうしてなにも言わずに\\nいなくなっちゃうの……？",
+      "source_ja_reviewed": "【法子】\\nコウジ……\\nどうして……どうしてなにも言わずに\\nいなくなっちゃうの……？",
+      "old_translation": "【노리코】\\n코우지…\\n왜… … 왜 아무 말도 없이\\n없어져버린다…",
+      "new_translation": "【노리코】\\n코우지……\\n왜…… 왜 아무 말도 없이\\n사라져 버리는 거야……?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3847,
+      "source_index": "0x000a8f08",
+      "source_ja_raw": "【法子】\\nこんな手紙だけじゃ……\\n伝わらないよ、コウジ……",
+      "source_ja_applied": "【法子】\\nこんな手紙だけじゃ……\\n伝わらないよ、コウジ……",
+      "source_ja_reviewed": "【法子】\\nこんな手紙だけじゃ……\\n伝わらないよ、コウジ……",
+      "old_translation": "【노리코】\\n이런 손꼽뿐이야......\\n전해지지 않아, 코우지......",
+      "new_translation": "【노리코】\\n이런 편지만으로는……\\n전해지지 않아, 코우지……",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3848,
+      "source_index": "0x000a8fd5",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3849,
+      "source_index": "0x000a9034",
+      "source_ja_raw": "【法子】\\n……ごめんなさい……\\n蠧り辱しちゃって……",
+      "source_ja_applied": "【法子】\\n……ごめんなさい……\\n取り辱しちゃって……",
+      "source_ja_reviewed": "【法子】\\n……ごめんなさい……\\n取り辱しちゃって……",
+      "old_translation": "【노리코】\\n미안해요......\\n삼키고 버려서…",
+      "new_translation": "【노리코】\\n……미안해……\\n울고불고해서……",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3850,
+      "source_index": "0x000a90a8",
+      "source_ja_raw": "【光志】\\n……オレ、\\n法子に甘《あま》えすぎだと思うんだ。",
+      "source_ja_applied": "【光志】\\n……オレ、\\n法子に甘《あま》えすぎだと思うんだ。",
+      "source_ja_reviewed": "【光志】\\n……オレ、\\n法子に甘《あま》えすぎだと思うんだ。",
+      "old_translation": "【코우지】\\n......나,\\n노리코에 너무 허위라고 무겁다.",
+      "new_translation": "【코우지】\\n……나는\\n노리코에게 너무 의지하고 있는 것\\n같아.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3851,
+      "source_index": "0x000a9107",
+      "source_ja_raw": "【光志】\\n今のオレたちって、\\nやってることを考えると\\n被疑者《ひぎしゃ》と弁護士って関係じゃないだろ？",
+      "source_ja_applied": "【光志】\\n今のオレたちって、\\nやってることを考えると\\n被疑者《ひぎしゃ》と弁護士って関係じゃないだろ？",
+      "source_ja_reviewed": "今のオレたちって、やってることを考えると被疑者《ひぎしゃ》と弁護士って関係じゃないだろ？",
+      "old_translation": "【코우지】\\n지금 내게는,\\n하고 있는 것을 생각하면\\n피의자와 변호사는 관계가 아닐까?",
+      "new_translation": "【코우지】\\n지금 우리 관계를\\n하고 있는 일에 비춰 보면\\n피의자와 변호사 사이가 아니잖아?",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3852,
+      "source_index": "0x000a9180",
+      "source_ja_raw": "【光志】\\n本来は弁護士が自分で考えて、調査して、弁護して……\\n成功でも失敗でも、\\nその結果を、自分自身で受け止める。",
+      "source_ja_applied": "【光志】\\n本来は弁護士が自分で考えて、調査して、弁護して……\\n成功でも失敗でも、\\nその結果を、自分自身で受け止める。",
+      "source_ja_reviewed": "【光志】\\n本来は弁護士が自分で考えて、調査して、弁護して……\\n成功でも失敗でも、\\nその結果を、自分自身で受け止める。",
+      "old_translation": "【코우지】\\n본래는 변호사가 스스로 생각하고,\\n조사하고, 변호하고…\\n성공이든 실패하든\\n그 결과를 스스로 속에 뿌린다.",
+      "new_translation": "【코우지】\\n원래 변호사는 스스로 생각하고\\n조사하고 변호해서……\\n성공하든 실패하든\\n그 결과를 스스로 받아들여야 해.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3853,
+      "source_index": "0x000a922b",
+      "source_ja_raw": "【光志】\\nでも今、オレたちの関係は違《ちが》う。",
+      "source_ja_applied": "【光志】\\nでも今、オレたちの関係は違《ちが》う。",
+      "source_ja_reviewed": "【光志】\\nでも今、オレたちの関係は違《ちが》う。",
+      "old_translation": "【코우지】\\n하지만 지금, 우리들의 관계는\\n다르다.",
+      "new_translation": "【코우지】\\n하지만 지금 우리의 관계는 달라.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3854,
+      "source_index": "0x000a9283",
+      "source_ja_raw": "【光志】\\n法子はオレの指示通りに係いてくれてるのに、\\nもしも弁護に失敗したら、\\nそれは法子の汚点《おてん》になる。",
+      "source_ja_applied": "【光志】\\n法子はオレの指示通りに係いてくれてるのに、\\nもしも弁護に失敗したら、\\nそれは法子の汚点《おてん》になる。",
+      "source_ja_reviewed": "法子はオレの指示通りに動《うご》いてくれてるのに、もしも弁護に失敗したら、それは法子の汚点《おてん》になる。",
+      "old_translation": "【코우지】\\n노리코는 나의 지시대로 움직여 주고\\n있는데,\\n만약 변호에 실패하면,\\n그것은 노리코의 오점이 된다.",
+      "new_translation": "【코우지】\\n노리코는 내 지시대로 움직여 주는데\\n만약 변호에 실패하면\\n그건 노리코의 오점이 돼.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3855,
+      "source_index": "0x000a9307",
+      "source_ja_raw": "【光志】\\nそして、そうやって一度ついてしまった汚点《おてん》は、\\nオレがどう立ち関ったって\\n胎扶《ふっしょく》できない。",
+      "source_ja_applied": "【光志】\\nそして、そうやって一度ついてしまった汚点《おてん》は、\\nオレがどう立ち回ったって\\n胎扶《ふっしょく》できない。",
+      "source_ja_reviewed": "そして、そうやって一度ついてしまった汚点《おてん》は、オレがどう立ち回ったって払拭《ふっしょく》できない。",
+      "old_translation": "【코우지】\\n그리고, 그렇게 한번 붙어 버린\\n오점은,\\n나가 어떻게 서림이라고\\n태태할 수 없다.",
+      "new_translation": "【코우지】\\n그리고 한 번 생긴 오점은\\n내가 어떻게 행동해도\\n지울 수 없어.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3856,
+      "source_index": "0x000a93a2",
+      "source_ja_raw": "【光志】\\n……それがオレには躱《た》えられない。\\nオレのせいで法子の人生に汚点《おてん》を残すかもしれないなんて、\\nオレには我慢《がまん》ならないんだ……",
+      "source_ja_applied": "【光志】\\n……それがオレには躱《た》えられない。\\nオレのせいで法子の人生に汚点《おてん》を残すかもしれないなんて、\\nオレには我慢《がまん》ならないんだ……",
+      "source_ja_reviewed": "【光志】\\n……それがオレには躱《た》えられない。\\nオレのせいで法子の人生に汚点《おてん》を残すかもしれないなんて、\\nオレには我慢《がまん》ならないんだ……",
+      "old_translation": "【코우지】\\n… … 그것이 나에게는 배울 수\\n없다. \\n나의 탓에 노리코의 인생에 오점을\\n태울지도 모른다니,\\n나에게는 참을 수 없어…",
+      "new_translation": "【코우지】\\n……그걸 나는 견딜 수 없어.\\n내 탓에 노리코 인생에 오점을\\n남길지도\\n모른다는 건 참을 수가 없어……",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3857,
+      "source_index": "0x000a9486",
+      "source_ja_raw": "【法子】\\n……そういうこと……",
+      "source_ja_applied": "【法子】\\n……そういうこと……",
+      "source_ja_reviewed": "【法子】\\n……そういうこと……",
+      "old_translation": "【노리코】\\n… … 그런 것…",
+      "new_translation": "【노리코】\\n……그런 뜻이었구나……",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3858,
+      "source_index": "0x000a94d2",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3859,
+      "source_index": "0x000a9518",
+      "source_ja_raw": "【法子】\\n……あのときも、こうして話してくれれば、\\nこんな不安な気持ちにならなくて\\n済んだのに……",
+      "source_ja_applied": "【法子】\\n……あのときも、こうして話してくれれば、\\nこんな不安な気持ちにならなくて\\n済んだのに……",
+      "source_ja_reviewed": "【法子】\\n……あのときも、こうして話してくれれば、\\nこんな不安な気持ちにならなくて\\n済んだのに……",
+      "old_translation": "【노리코】\\n……그 때도 이렇게 말해주면\\n이런 불안한 기분이 되지 않아\\n게으른데…",
+      "new_translation": "【노리코】\\n……그때도 이렇게 말해 줬다면\\n이렇게 불안해하지 않아도\\n됐을 텐데……",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3860,
+      "source_index": "0x000a95b5",
+      "source_ja_raw": "【法子】\\nねえ、聞いて、コウジ。\\n私が今一番イヤなことってわかる？",
+      "source_ja_applied": "【法子】\\nねえ、聞いて、コウジ。\\n私が今一番イヤなことってわかる？",
+      "source_ja_reviewed": "【法子】\\nねえ、聞いて、コウジ。\\n私が今一番イヤなことってわかる？",
+      "old_translation": "【노리코】\\n 이봐, 두고, 코우지. \\n내가 지금 가장 귀찮은 걸 알아?",
+      "new_translation": "【노리코】\\n저기, 코우지.\\n내가 지금 제일 싫은 게 뭔지\\n알아?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3861,
+      "source_index": "0x000a9632",
+      "source_ja_raw": "【光志】\\n……話の穢れから考えれば、\\nオレに閣《かく》しごとされることか？",
+      "source_ja_applied": "【光志】\\n……話の穢れから考えれば、\\nオレに閣《かく》しごとされることか？",
+      "source_ja_reviewed": "【光志】\\n……話の穢れから考えれば、\\nオレに閣《かく》しごとされることか？",
+      "old_translation": "【코우지】\\n…… 이야기의 견해로부터 생각하면,\\n내가 깨어나는거야?",
+      "new_translation": "【코우지】\\n……이야기의 흐름으로 보면\\n내가 너에게 숨기는 것인가?",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3862,
+      "source_index": "0x000a9699",
+      "source_ja_raw": "【法子】\\nううん、もっと根本的なこと。\\nそれはね、\\nコウジが素直になってくれないことよ。",
+      "source_ja_applied": "【法子】\\nううん、もっと根本的なこと。\\nそれはね、\\nコウジが素直になってくれないことよ。",
+      "source_ja_reviewed": "【法子】\\nううん、もっと根本的なこと。\\nそれはね、\\nコウジが素直になってくれないことよ。",
+      "old_translation": "【노리코】\\n응, 더 근본적인 것. \\n그것은,\\n코우지가 솔직하게 되어 주지 않는\\n것야.",
+      "new_translation": "【노리코】\\n아니, 더 근본적인 거야.\\n그건 말이지,\\n코우지가 솔직해지지 않는 거야.",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3863,
+      "source_index": "0x000a9721",
+      "source_ja_raw": "【法子】\\n『法子……ゴメン……\\n黙《だま》って去っていくオレを許してくれ……",
+      "source_ja_applied": "【法子】\\n『法子……ゴメン……\\n黙《だま》って去っていくオレを許してくれ……",
+      "source_ja_reviewed": "『法子……ゴメン……黙《だま》って去っていくオレを許してくれ……",
+      "old_translation": "【노리코】\\n『노리코… … 고멘…\\n잠깐 표현하는 나를 용서해줘…",
+      "new_translation": "【노리코】\\n『노리코…… 미안해……\\n말없이 떠나는 나를 용서해 줘……",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3864,
+      "source_index": "0x000a978e",
+      "source_ja_raw": "【法子】\\nだけどオレ、\\n法子に迷惑《めいわく》を掛《か》けたくないんだ……\\n立派な弁護士になれよ』",
+      "source_ja_applied": "【法子】\\nだけどオレ、\\n法子に迷惑《めいわく》を掛《か》けたくないんだ……\\n立派な弁護士になれよ』",
+      "source_ja_reviewed": "だけどオレ、法子に迷惑《めいわく》を掛《か》けたくないんだ……立派な弁護士になれよ』",
+      "old_translation": "【노리코】\\n하지만 내,\\n노리코에 폐를 끼치고 싶지 않아…\\n굉장한 변호사가 되어라』",
+      "new_translation": "【노리코】\\n하지만 나는\\n노리코에게 폐를 끼치고 싶지\\n않아……\\n훌륭한 변호사가 돼』",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3865,
+      "source_index": "0x000a9808",
+      "source_ja_raw": "【法子】\\n覚えてる……？",
+      "source_ja_applied": "【法子】\\n覚えてる……？",
+      "source_ja_reviewed": "【法子】\\n覚えてる……？",
+      "old_translation": "【노리코】\\n 기억하고 있다…",
+      "new_translation": "【노리코】\\n기억나……?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3866,
+      "source_index": "0x000a9851",
+      "source_ja_raw": "【光志】\\n……オレが５年前、\\n法子に唖《あ》てた手紙だろ？",
+      "source_ja_applied": "【光志】\\n……オレが５年前、\\n法子に唖《あ》てた手紙だろ？",
+      "source_ja_reviewed": "……オレが５年前、法子に宛《あ》てた手紙だろ？",
+      "old_translation": "【코우지】\\n...... 내가 5년 전,\\n노리코에 빠진 수선이겠지?",
+      "new_translation": "【코우지】\\n……내가 5년 전에\\n노리코에게 보낸 편지잖아?",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3867,
+      "source_index": "0x000a98cd",
+      "source_ja_raw": "【法子】\\nそう……\\nあのとき私が一番悲しかったのは、\\nコウジがいなくなったことじゃない。",
+      "source_ja_applied": "【法子】\\nそう……\\nあのとき私が一番悲しかったのは、\\nコウジがいなくなったことじゃない。",
+      "source_ja_reviewed": "【法子】\\nそう……\\nあのとき私が一番悲しかったのは、\\nコウジがいなくなったことじゃない。",
+      "old_translation": "【노리코】\\n그래…\\n그때 내가 가장 슬펐던 것은\\n코우지가 사라진 것이 아니다.",
+      "new_translation": "【노리코】\\n그래……\\n그때 내가 가장 슬펐던 건\\n코우지가 사라진 게 아니야.",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3868,
+      "source_index": "0x000a993b",
+      "source_ja_raw": "【法子】\\nコウジの力になれなかったのが\\n一番悲しかった……\\n悔《くや》しかった。",
+      "source_ja_applied": "【法子】\\nコウジの力になれなかったのが\\n一番悲しかった……\\n悔《くや》しかった。",
+      "source_ja_reviewed": "コウジの力になれなかったのが一番悲しかった……悔《くや》しかった。",
+      "old_translation": "【노리코】\\n코우지의 힘이 될 수 없었던 것이 \\n가장 슬퍼했다......\\n만났다.",
+      "new_translation": "【노리코】\\n코우지의 힘이 되어 주지 못한 게\\n가장 슬펐어……\\n분했어.",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3869,
+      "source_index": "0x000a99bf",
+      "source_ja_raw": "【光志】\\n……だから今関は遠慮《えんりょ》するなって\\n言うのか？",
+      "source_ja_applied": "【光志】\\n……だから今回は遠慮《えんりょ》するなって\\n言うのか？",
+      "source_ja_reviewed": "【光志】\\n……だから今回は遠慮《えんりょ》するなって\\n言うのか？",
+      "old_translation": "【코우지】\\n그러니까 이마바야시는 삼가해\\n말하는거야?",
+      "new_translation": "【코우지】\\n……그러니까 이번에는 사양하지\\n말라고\\n하는 거야?",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3870,
+      "source_index": "0x000a9a3a",
+      "source_ja_raw": "【法子】\\nもちろん。\\nもう一度言うよ。",
+      "source_ja_applied": "【法子】\\nもちろん。\\nもう一度言うよ。",
+      "source_ja_reviewed": "【法子】\\nもちろん。\\nもう一度言うよ。",
+      "old_translation": "【노리코】\\n물론. \\n다시 말해.",
+      "new_translation": "【노리코】\\n물론이지.\\n다시 말할게.",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3871,
+      "source_index": "0x000a9a8b",
+      "source_ja_raw": "【法子】\\n私が一番イヤなのは、\\nコウジが素直になってくれないこと。",
+      "source_ja_applied": "【法子】\\n私が一番イヤなのは、\\nコウジが素直になってくれないこと。",
+      "source_ja_reviewed": "【法子】\\n私が一番イヤなのは、\\nコウジが素直になってくれないこと。",
+      "old_translation": "【노리코】\\n내가 제일 이야인 것은,\\n코우지가 솔직하게 되어 주지 않는\\n것.",
+      "new_translation": "【노리코】\\n내가 제일 싫은 건\\n코우지가 솔직해지지 않는 거야.",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3872,
+      "source_index": "0x000a9aed",
+      "source_ja_raw": "【法子】\\n経歴に汚点《おてん》が付くことなんて、\\n了の次よ。",
+      "source_ja_applied": "【法子】\\n経歴に汚点《おてん》が付くことなんて、\\n了の次よ。",
+      "source_ja_reviewed": "経歴に汚点《おてん》が付くことなんて、二《に》の次よ。",
+      "old_translation": "【노리코】\\n경력에 오점이 생기는 건 둘째 문제야.",
+      "new_translation": "【노리코】\\n경력에 오점이 생기는 건\\n그다음 문제야.",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3873,
+      "source_index": "0x000a9b4e",
+      "source_ja_raw": "【法子】\\nそれでもコウジが\\n私を担当から外すと言うなら、\\nそれこそコウジのエゴよ。",
+      "source_ja_applied": "【法子】\\nそれでもコウジが\\n私を担当から外すと言うなら、\\nそれこそコウジのエゴよ。",
+      "source_ja_reviewed": "【法子】\\nそれでもコウジが\\n私を担当から外すと言うなら、\\nそれこそコウジのエゴよ。",
+      "old_translation": "【노리코】\\n그래도 코우지가\\n나를 상당에서 제외한다고 한다면,\\n그야말로 코우지의 에고야.",
+      "new_translation": "【노리코】\\n그래도 코우지가\\n나를 담당에서 제외하겠다면\\n그야말로 코우지의 이기심이야.",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3874,
+      "source_index": "0x000a9bd3",
+      "source_ja_raw": "【法子】\\n……違《ちが》う？",
+      "source_ja_applied": "【法子】\\n……違《ちが》う？",
+      "source_ja_reviewed": "【法子】\\n……違《ちが》う？",
+      "old_translation": "【노리코】\\n… … 다르다?",
+      "new_translation": "【노리코】\\n……아니야?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3875,
+      "source_index": "0x000a9c38",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3876,
+      "source_index": "0x000a9c7e",
+      "source_ja_raw": "【光志】\\n……ゴメン、法子。\\nオレたちにとって一番大切なコトを理婚するのに、\\n５年もかかっちまったみたいだ……",
+      "source_ja_applied": "【光志】\\n……ゴメン、法子。\\nオレたちにとって一番大切なコトを理婚するのに、\\n５年もかかっちまったみたいだ……",
+      "source_ja_reviewed": "……ゴメン、法子。オレたちにとって一番大切なコトを理解するのに、５年もかかっちまったみたいだ……",
+      "old_translation": "【코우지】\\n… … 고멘, 노리코. \\n내들에게 있어서 제일 중요한 코트를\\n이해하는데,\\n5년도 걸렸던 것 같다…",
+      "new_translation": "【코우지】\\n……미안해, 노리코.\\n우리에게 가장 중요한 걸 이해하는\\n데\\n5년이나 걸린 것 같아……",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3877,
+      "source_index": "0x000a9d19",
+      "source_ja_raw": "【光志】\\nがんばろうぜ、２人で。",
+      "source_ja_applied": "【光志】\\nがんばろうぜ、２人で。",
+      "source_ja_reviewed": "【光志】\\nがんばろうぜ、２人で。",
+      "old_translation": "【코우지】\\n 힘내자, 둘이서.",
+      "new_translation": "【코우지】\\n힘내자, 둘이서.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3878,
+      "source_index": "0x000a9d7f",
+      "source_ja_raw": "【法子】\\nうん、がんばろう、２人で……",
+      "source_ja_applied": "【法子】\\nうん、がんばろう、２人で……",
+      "source_ja_reviewed": "【法子】\\nうん、がんばろう、２人で……",
+      "old_translation": "【노리코】\\n응, 노력하자, 둘이서…",
+      "new_translation": "【노리코】\\n응, 힘내자. 둘이서……",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3879,
+      "source_index": "0x000a9dfe",
+      "source_ja_raw": "【法子】\\nもう、あのときみたいに、\\n急にいなくなるのはナシだからね……",
+      "source_ja_applied": "【法子】\\nもう、あのときみたいに、\\n急にいなくなるのはナシだからね……",
+      "source_ja_reviewed": "【法子】\\nもう、あのときみたいに、\\n急にいなくなるのはナシだからね……",
+      "old_translation": "【노리코】\\n이제, 그 때처럼,\\n투에 없어지는 것은 배니까…",
+      "new_translation": "【노리코】\\n이제 그때처럼\\n갑자기 사라지는 건 안 돼……",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3880,
+      "source_index": "0x000a9e78",
+      "source_ja_raw": "【光志】\\nああ……\\n本当にあのときのオレは俗気だった……",
+      "source_ja_applied": "【光志】\\nああ……\\n本当にあのときのオレは弱気だった……",
+      "source_ja_reviewed": "【光志】\\nああ……\\n本当にあのときのオレは弱気だった……",
+      "old_translation": "【코우지】\\n아......\\n정말 그때의 나는 적기였다…",
+      "new_translation": "【코우지】\\n아아……\\n정말 그때의 나는 너무 약했어……",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3881,
+      "source_index": "0x000a9ed5",
+      "source_ja_raw": "【光志】\\n自分に自信をなくして、\\n無意識のうちに\\n引《ひ》っ皷《こ》し屋《や》に上話してた。",
+      "source_ja_applied": "【光志】\\n自分に自信をなくして、\\n無意識のうちに\\n引《ひ》っ皷《こ》し屋《や》に上話してた。",
+      "source_ja_reviewed": "自分に自信をなくして、無意識のうちに引《ひ》っ越《こ》し屋《や》に電話してた。",
+      "old_translation": "【코우지】\\n자신에게 자신감을 없애고,\\n무의식 가운데\\n이탈집에 전화하고 있었다.",
+      "new_translation": "【코우지】\\n자신감을 잃고\\n무의식중에\\n이사 업체에 전화를 걸었지.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3882,
+      "source_index": "0x000a9f4d",
+      "source_ja_raw": "【光志】\\nまだ次の部屋も倚まってないうちにな……\\nあわてて部屋を倚めたら、\\nすぐに引《ひ》っ皷《こ》し屋《や》が来て……",
+      "source_ja_applied": "【光志】\\nまだ次の部屋も倚まってないうちにな……\\nあわてて部屋を倚めたら、\\nすぐに引《ひ》っ皷《こ》し屋《や》が来て……",
+      "source_ja_reviewed": "【光志】\\nまだ次の部屋も倚まってないうちにな……\\nあわてて部屋を倚めたら、\\nすぐに引《ひ》っ皷《こ》し屋《や》が来て……",
+      "old_translation": "【코우지】\\n아직 실의 방도 정해져 있지 않은\\n사이에…\\n아울러 방을 정하면,\\n빨리 끌고 가게가 와서…",
+      "new_translation": "【코우지】\\n아직 다음 방도 정하지 않은\\n상태였는데 말이야.\\n서둘러 방을 정하자마자\\n이사 업체가 바로 왔고……",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3883,
+      "source_index": "0x000a9fee",
+      "source_ja_raw": "【光志】\\n知ってるか？\\n引《ひ》っ皷《こ》し屋《や》ってスゴいんだぜ。",
+      "source_ja_applied": "【光志】\\n知ってるか？\\n引《ひ》っ皷《こ》し屋《や》ってスゴいんだぜ。",
+      "source_ja_reviewed": "【光志】\\n知ってるか？\\n引《ひ》っ皷《こ》し屋《や》ってスゴいんだぜ。",
+      "old_translation": "【코우지】\\n 알아? \\n 꺼내고 있어 대단해.",
+      "new_translation": "【코우지】\\n알아?\\n이사 업체 사람들 정말 대단해.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3884,
+      "source_index": "0x000aa058",
+      "source_ja_raw": "【光志】\\nこっちが候物をまとめてなくても、\\nその場でテキパキと望ボールに\\n都《つ》めてくれてさ。",
+      "source_ja_applied": "【光志】\\nこっちが候物をまとめてなくても、\\nその場でテキパキと望ボールに\\n詰《つ》めてくれてさ。",
+      "source_ja_reviewed": "こっちが荷物をまとめてなくても、その場でテキパキとダンボールに詰《つ》めてくれてさ。",
+      "old_translation": "【코우지】\\n이쪽이 정물을 정리하지 않아도,\\n그 자리에서 테키파키와 골판지에\\n쓰고 줘.",
+      "new_translation": "【코우지】\\n우리가 물건을 정리해 두지 않아도\\n그 자리에서 척척 상자에\\n담아 주더라고.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3885,
+      "source_index": "0x000aa0cb",
+      "source_ja_raw": "【光志】\\nこれはおふくろの遺品だとか、\\n適当に指示すれば、\\nあっという付に候造《にづく》り完了《かんりょう》。",
+      "source_ja_applied": "【光志】\\nこれはおふくろの遺品だとか、\\n適当に指示すれば、\\nあっという付に候造《にづく》り完了《かんりょう》。",
+      "source_ja_reviewed": "【光志】\\nこれはおふくろの遺品だとか、\\n適当に指示すれば、\\nあっという付に候造《にづく》り完了《かんりょう》。",
+      "old_translation": "【코우지】\\n이것은 두더지의 유품이라든지,\\n건당하게 지시하면,\\n순식간에 정법 감각.",
+      "new_translation": "【코우지】\\n이건 엄마 유품이라고\\n대충 지시하기만 하면\\n눈 깜짝할 사이에 포장이 끝나.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3886,
+      "source_index": "0x000aa14b",
+      "source_ja_raw": "【光志】\\nあれはプロの仕事だって\\n思ったね。",
+      "source_ja_applied": "【光志】\\nあれはプロの仕事だって\\n思ったね。",
+      "source_ja_reviewed": "【光志】\\nあれはプロの仕事だって\\n思ったね。",
+      "old_translation": "【코우지】\\n저것은 프로의 일이라도\\n무거웠네.",
+      "new_translation": "【코우지】\\n그건 정말 프로의 솜씨라고\\n생각했어.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3887,
+      "source_index": "0x000aa1b8",
+      "source_ja_raw": "【法子】\\n……あのね！\\nそんなことはどうでもいいの！",
+      "source_ja_applied": "【法子】\\n……あのね！\\nそんなことはどうでもいいの！",
+      "source_ja_reviewed": "【法子】\\n……あのね！\\nそんなことはどうでもいいの！",
+      "old_translation": "【노리코】\\n… … 저기! \\n 그런 일은 아무래도 좋다!",
+      "new_translation": "【노리코】\\n……저기!\\n그런 건 아무래도 좋아!",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3888,
+      "source_index": "0x000aa228",
+      "source_ja_raw": "【光志】\\nあ、たしかにそうだな。\\nゴメン……",
+      "source_ja_applied": "【光志】\\nあ、たしかにそうだな。\\nゴメン……",
+      "source_ja_reviewed": "【光志】\\nあ、たしかにそうだな。\\nゴメン……",
+      "old_translation": "【코우지】\\n아, 확실히 그렇구나. \\n고멘......",
+      "new_translation": "【코우지】\\n아, 확실히 그렇네.\\n미안……",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3889,
+      "source_index": "0x000aa31f",
+      "source_ja_raw": "【光志】\\n昨日も真太郎が来たんだ。",
+      "source_ja_applied": "【光志】\\n昨日も晋太郎が来たんだ。",
+      "source_ja_reviewed": "【光志】\\n昨日も晋太郎が来たんだ。",
+      "old_translation": "【코우지】\\n어제도 타타로가 짊어졌다.",
+      "new_translation": "【코우지】\\n어제도 신타로가 왔어.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3890,
+      "source_index": "0x000aa389",
+      "source_ja_raw": "【法子】\\nえっ……\\nそ、それで……？",
+      "source_ja_applied": "【法子】\\nえっ……\\nそ、それで……？",
+      "source_ja_reviewed": "【法子】\\nえっ……\\nそ、それで……？",
+      "old_translation": "【노리코】\\n엣......\\n그래, 그래서......?",
+      "new_translation": "【노리코】\\n뭐……\\n그래서……?",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3891,
+      "source_index": "0x000aa3da",
+      "source_ja_raw": "【光志】\\n言ってやった。\\nオレたちはそれぞれの意志で係いてるって。\\nそれは誰《だれ》にも止められないってね。",
+      "source_ja_applied": "【光志】\\n言ってやった。\\nオレたちはそれぞれの意志で係いてるって。\\nそれは誰《だれ》にも止められないってね。",
+      "source_ja_reviewed": "言ってやった。オレたちはそれぞれの意志で動《うご》いてるって。それは誰《だれ》にも止められないってね。",
+      "old_translation": "【코우지】\\n 말했다. \\n저들은 각각의 의지로 움직이고\\n있다고. \\n그것은 누구에게도 땅에 씌울 수\\n없어.",
+      "new_translation": "【코우지】\\n말해 줬어.\\n우리는 각자의 의지로 움직이고 있고\\n그건 누구도 막을 수 없다고.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3892,
+      "source_index": "0x000aa46c",
+      "source_ja_raw": "【法子】\\nそ、そう……",
+      "source_ja_applied": "【法子】\\nそ、そう……",
+      "source_ja_reviewed": "【法子】\\nそ、そう……",
+      "old_translation": "【노리코】\\n그, 그래…",
+      "new_translation": "【노리코】\\n그, 그래……",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3893,
+      "source_index": "0x000aa4b3",
+      "source_ja_raw": "【光志】\\n……ん。\\nアイツにそう宣言した以上、\\nがんばらないとな。",
+      "source_ja_applied": "【光志】\\n……ん。\\nアイツにそう宣言した以上、\\nがんばらないとな。",
+      "source_ja_reviewed": "【光志】\\n……ん。\\nアイツにそう宣言した以上、\\nがんばらないとな。",
+      "old_translation": "【코우지】\\n……응. \\n아이츠에게 그렇게 선언한 이상,\\n힘내지 않으면.",
+      "new_translation": "【코우지】\\n……응.\\n그 녀석에게 그렇게 선언한 이상\\n힘내야지.",
+      "speaker": "코우지",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3894,
+      "source_index": "0x000aa516",
+      "source_ja_raw": "【法子】\\n……うん。\\nそうだね！",
+      "source_ja_applied": "【法子】\\n……うん。\\nそうだね！",
+      "source_ja_reviewed": "【法子】\\n……うん。\\nそうだね！",
+      "old_translation": "【노리코】\\n......응. \\n 맞아!",
+      "new_translation": "【노리코】\\n……응.\\n맞아!",
+      "speaker": "노리코",
+      "scene": "코우지와 노리코의 화해",
+      "relationship_context": "코우지는 노리코를 사건에서 배제하려 하지만, 노리코는 5년 전 편지와 현재의 관계를 마주하게 하고 함께 싸우겠다고 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3895,
+      "source_index": "0x000aa5fd",
+      "source_ja_raw": "【光志】\\n昨日は茜と葵っていう\\n２人の女子高生が接見に来たんだ。",
+      "source_ja_applied": "【光志】\\n昨日は茜と葵っていう\\n２人の女子高生が接見に来たんだ。",
+      "source_ja_reviewed": "【光志】\\n昨日は茜と葵っていう\\n２人の女子高生が接見に来たんだ。",
+      "old_translation": "【코우지】\\n어제는 아카네과 아오이라고 하는\\n2명의 여고생이 접견에 참았다.",
+      "new_translation": "【코우지】\\n어제는 아카네와 아오이라는\\n여고생 둘이 접견하러 왔어.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3896,
+      "source_index": "0x000aa689",
+      "source_ja_raw": "【法子】\\nえっ、女子高生……って？",
+      "source_ja_applied": "【法子】\\nえっ、女子高生……って？",
+      "source_ja_reviewed": "【法子】\\nえっ、女子高生……って？",
+      "old_translation": "【노리코】\\n엣, 여고생…",
+      "new_translation": "【노리코】\\n뭐, 여고생……?",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3897,
+      "source_index": "0x000aa6f9",
+      "source_ja_raw": "【法子】\\n女子高生……って、\\nもしかしたら水谷探偵事務所に\\nいた子風のことかな？",
+      "source_ja_applied": "【法子】\\n女子高生……って、\\nもしかしたら水谷探偵事務所に\\nいた子風のことかな？",
+      "source_ja_reviewed": "【法子】\\n女子高生……って、\\nもしかしたら水谷探偵事務所に\\nいた子風のことかな？",
+      "old_translation": "【노리코】\\n여고생… … 라고,\\n혹시 미즈타니 탐정사무소에\\n있던 아이들일까?",
+      "new_translation": "【노리코】\\n여고생이라면\\n혹시 미즈타니 탐정사무소에\\n있던 아이들 말이야?",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [
+        "탐정사무소"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3898,
+      "source_index": "0x000aa76b",
+      "source_ja_raw": "【光志】\\nあぁ、会ったことがあるのか。",
+      "source_ja_applied": "【光志】\\nあぁ、会ったことがあるのか。",
+      "source_ja_reviewed": "【光志】\\nあぁ、会ったことがあるのか。",
+      "old_translation": "【코우지】\\n아, 만난 적이 있는가.",
+      "new_translation": "【코우지】\\n아아, 만난 적이 있구나.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3899,
+      "source_index": "0x000aa7ba",
+      "source_ja_raw": "【光志】\\nウチの事務所の近くに高校があってさ。\\nそこにある探偵補安部《たんていくらぶ》の部元２人。",
+      "source_ja_applied": "【光志】\\nウチの事務所の近くに高校があってさ。\\nそこにある探偵補安部《たんていくらぶ》の部元２人。",
+      "source_ja_reviewed": "ウチの事務所の近くに高校があってさ。そこにある探偵倶楽部《たんていくらぶ》の部員２人。",
+      "old_translation": "【코우지】\\n우리 사무소 근처에 고등학교가 하나 있는데,\\n거기 탐정 동아리 부원 두 명이야.",
+      "new_translation": "【코우지】\\n우리 사무소 근처에 고등학교가\\n있는데\\n그곳 탐정 동아리 부원 두 명이야.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3900,
+      "source_index": "0x000aa836",
+      "source_ja_raw": "【光志】\\n以前、通《とお》り魔《ま》に太《おそ》われかけたときに、\\n助けたことがあったんだ。",
+      "source_ja_applied": "【光志】\\n以前、通《とお》り魔《ま》に太《おそ》われかけたときに、\\n助けたことがあったんだ。",
+      "source_ja_reviewed": "以前、通《とお》り魔《ま》に襲《おそ》われかけたときに、助けたことがあったんだ。",
+      "old_translation": "【코우지】\\n이전, 길마에 휩쓸려 들었을 때에,\\n도 도운 적이 있었다.",
+      "new_translation": "【코우지】\\n예전에 길 가던 사람을 습격하는\\n범인에게\\n당할 뻔한 걸 구해 준 적이\\n있거든.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3901,
+      "source_index": "0x000aa8a9",
+      "source_ja_raw": "【光志】\\n以来、\\nウチの事務所に入《い》り町《びた》るようになってさ……\\n探偵の狂搬を教えてくださいって。",
+      "source_ja_applied": "【光志】\\n以来、\\nウチの事務所に入《い》り町《びた》るようになってさ……\\n探偵の狂術を教えてくださいって。",
+      "source_ja_reviewed": "以来、ウチの事務所に入り浸《びた》るようになってさ……探偵の技術《ぎじゅつ》を教えてくださいって。",
+      "old_translation": "【코우지】\\n그 뒤 우리 사무소에 드나들기 시작해서\\n탐정술을 가르쳐 달라고 하더라고.",
+      "new_translation": "【코우지】\\n그 뒤로 우리 사무소에 드나들면서\\n탐정 기술을 가르쳐 달라고 하더라.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3902,
+      "source_index": "0x000aa942",
+      "source_ja_raw": "【法子】\\nそ、そうなんだ……",
+      "source_ja_applied": "【法子】\\nそ、そうなんだ……",
+      "source_ja_reviewed": "【法子】\\nそ、そうなんだ……",
+      "old_translation": "【노리코】\\n그, 그렇구나……",
+      "new_translation": "【노리코】\\n그, 그렇구나……",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3903,
+      "source_index": "0x000aa9a5",
+      "source_ja_raw": "【光志】\\n朝等さんってさ、\\nオレ以外には甘《あま》いんだよなぁ。",
+      "source_ja_applied": "【光志】\\n朝等さんってさ、\\nオレ以外には甘《あま》いんだよなぁ。",
+      "source_ja_reviewed": "【光志】\\n朝等さんってさ、\\nオレ以外には甘《あま》いんだよなぁ。",
+      "old_translation": "【코우지】\\n아사츠유씨는 말야,\\n나는 이외에는 윽이구나.",
+      "new_translation": "【코우지】\\n아사츠유 씨는 말이야,\\n나 말고는 다 상냥하거든.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3904,
+      "source_index": "0x000aaa06",
+      "source_ja_raw": "【光志】\\nオレたちが計《かか》えてる依頼《いらい》に\\n深くクビを枚《つ》っ沽《こ》まないって条件で、\\n事務所への出入りを許可してるんだ。",
+      "source_ja_applied": "【光志】\\nオレたちが計《かか》えてる依頼《いらい》に\\n深くクビを枚《つ》っ込《こ》まないって条件で、\\n事務所への出入りを許可してるんだ。",
+      "source_ja_reviewed": "【光志】\\nオレたちが計《かか》えてる依頼《いらい》に\\n深くクビを枚《つ》っ込《こ》まないって条件で、\\n事務所への出入りを許可してるんだ。",
+      "old_translation": "【코우지】\\n저희가 맡은 의뢰에 깊이 관여하지\\n않는다는 조건으로,\\n사무소 출입을 허가하고 있어.",
+      "new_translation": "【코우지】\\n우리가 맡은 의뢰에 깊이 관여하지\\n않는다는\\n조건으로 사무소에 드나드는 걸\\n허락하고 있어.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3905,
+      "source_index": "0x000aaa99",
+      "source_ja_raw": "【光志】\\nたまに上話番させてたりして、\\nオレもビックリすることあるし。",
+      "source_ja_applied": "【光志】\\nたまに上話番させてたりして、\\nオレもビックリすることあるし。",
+      "source_ja_reviewed": "【光志】\\nたまに上話番させてたりして、\\nオレもビックリすることあるし。",
+      "old_translation": "【코우지】\\n가끔 전화번을 하기도 하고,\\n나도 깜짝 놀릴 수 있고.",
+      "new_translation": "【코우지】\\n가끔 전화를 받게 하기도 해서\\n나도 깜짝 놀라곤 해.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3906,
+      "source_index": "0x000aab14",
+      "source_ja_raw": "【法子】\\nそっか……\\n将来的にはコウジの後輩《こうはい》になるかも\\nしれない子たちってことね。",
+      "source_ja_applied": "【法子】\\nそっか……\\n将来的にはコウジの後輩《こうはい》になるかも\\nしれない子たちってことね。",
+      "source_ja_reviewed": "【法子】\\nそっか……\\n将来的にはコウジの後輩《こうはい》になるかも\\nしれない子たちってことね。",
+      "old_translation": "【노리코】\\n그런가…\\n위조적으로는 코우지의 후배가 될지도\\n어쩔 수 없는 아이들이란 말이야.",
+      "new_translation": "【노리코】\\n그렇구나……\\n장래에는 코우지의 후배가 될지도\\n모르는\\n아이들이라는 거네.",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3907,
+      "source_index": "0x000aaba0",
+      "source_ja_raw": "【光志】\\nいや、朝等さんにそのつもりは\\nないらしい。",
+      "source_ja_applied": "【光志】\\nいや、朝等さんにそのつもりは\\nないらしい。",
+      "source_ja_reviewed": "【光志】\\nいや、朝等さんにそのつもりは\\nないらしい。",
+      "old_translation": "【코우지】\\n아니, 아사츠유씨에게 그 생각은\\n없는 것 같다.",
+      "new_translation": "【코우지】\\n아니, 아사츠유 씨에게는\\n그럴 생각이 없는 모양이야.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3908,
+      "source_index": "0x000aabf7",
+      "source_ja_raw": "【光志】\\nむしろこの商売の大変さを\\n近くで見せつけて\\nまっとうな訪に活ませようとしてるらしいんだ。",
+      "source_ja_applied": "【光志】\\nむしろこの商売の大変さを\\n近くで見せつけて\\nまっとうな道に活ませようとしてるらしいんだ。",
+      "source_ja_reviewed": "むしろこの商売の大変さを近くで見せつけてまっとうな道に進《すす》ませようとしてるらしいんだ。",
+      "old_translation": "【코우지】\\n오히려 이 장사의 힘들기를\\n가까이에서 보여주고\\n정숙한 길로 진행시키려고 하는 것\\n같다.",
+      "new_translation": "【코우지】\\n오히려 이 일의 고충을\\n가까이서 보여 주고\\n바른길로 이끌려는 것 같아.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3909,
+      "source_index": "0x000aac83",
+      "source_ja_raw": "【光志】\\nでも今んとこ、\\n２人ともやる気痛々なんだけどね。",
+      "source_ja_applied": "【光志】\\nでも今んとこ、\\n２人ともやる気満々なんだけどね。",
+      "source_ja_reviewed": "【光志】\\nでも今んとこ、\\n２人ともやる気満々なんだけどね。",
+      "old_translation": "【코우지】\\n에서도 이젠 사촌,\\n두 사람 모두 동기부족이지만.",
+      "new_translation": "【코우지】\\n하지만 지금은\\n둘 다 의욕이 넘치던데.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3910,
+      "source_index": "0x000aacfa",
+      "source_ja_raw": "【法子】\\n……完落に逆効果だと思うよ。\\nコウジみたいな飯白い人付がいる事務所では。",
+      "source_ja_applied": "【法子】\\n……完落に逆効果だと思うよ。\\nコウジみたいな飯白い人付がいる事務所では。",
+      "source_ja_reviewed": "【法子】\\n……完落に逆効果だと思うよ。\\nコウジみたいな飯白い人付がいる事務所では。",
+      "old_translation": "【노리코】\\n… … 감전에 역효과라고 생각해. \\n코우지 같은 재미있는 인간이 있는\\n사무실에서는.",
+      "new_translation": "【노리코】\\n……완전히 역효과라고 생각해.\\n코우지 같은 재미있는 사람이 있는\\n사무소라면.",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3911,
+      "source_index": "0x000aae09",
+      "source_ja_raw": "【光志】\\n昨日も女子高生コンビが来たんだ。",
+      "source_ja_applied": "【光志】\\n昨日も女子高生コンビが来たんだ。",
+      "source_ja_reviewed": "【光志】\\n昨日も女子高生コンビが来たんだ。",
+      "old_translation": "【코우지】\\n어제도 여고생 콤비가 짊어졌다.",
+      "new_translation": "【코우지】\\n어제도 여고생 콤비가 왔어.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3912,
+      "source_index": "0x000aae79",
+      "source_ja_raw": "【法子】\\nあっ、そうそう。",
+      "source_ja_applied": "【法子】\\nあっ、そうそう。",
+      "source_ja_reviewed": "【法子】\\nあっ、そうそう。",
+      "old_translation": "【노리코】\\n아, 그래 그래.",
+      "new_translation": "【노리코】\\n아, 맞다 맞아.",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3913,
+      "source_index": "0x000aaec1",
+      "source_ja_raw": "【法子】\\n昨日の晩、枚然《とつぜん》、水無副葵って子から\\nケータイに連絡《れんらく》があったんで\\nびっくりしたわ。",
+      "source_ja_applied": "【法子】\\n昨日の晩、枚然《とつぜん》、水無副葵って子から\\nケータイに連絡《れんらく》があったんで\\nびっくりしたわ。",
+      "source_ja_reviewed": "昨日の晩、突然《とつぜん》、水無月葵って子からケータイに連絡《れんらく》があったんでびっくりしたわ。",
+      "old_translation": "【노리코】\\n어제의 밤, 적연히, 미나즈키\\n아오이는\\n아이로부터\\n휴대폰에 연락이 있었기 때문에\\n깜짝 놀랐어.",
+      "new_translation": "【노리코】\\n어젯밤 갑자기\\n미나즈키 아오이라는 아이에게서\\n휴대폰으로 연락이 와서 깜짝\\n놀랐어.",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3914,
+      "source_index": "0x000aaf44",
+      "source_ja_raw": "【法子】\\nコウジに頼《たの》まれたって言ってたけど……",
+      "source_ja_applied": "【法子】\\nコウジに頼《たの》まれたって言ってたけど……",
+      "source_ja_reviewed": "【法子】\\nコウジに頼《たの》まれたって言ってたけど……",
+      "old_translation": "【노리코】\\n코우지에게 부탁받았다고 말했지만…",
+      "new_translation": "【노리코】\\n코우지에게 부탁받았다고 하던데……",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3915,
+      "source_index": "0x000aafb7",
+      "source_ja_raw": "【光志】\\nああ、そうなんだよ。\\n２人の会話を聞いてたら、\\n意外な事実がわかったんでね。",
+      "source_ja_applied": "【光志】\\nああ、そうなんだよ。\\n２人の会話を聞いてたら、\\n意外な事実がわかったんでね。",
+      "source_ja_reviewed": "【光志】\\nああ、そうなんだよ。\\n２人の会話を聞いてたら、\\n意外な事実がわかったんでね。",
+      "old_translation": "【코우지】\\n 아, 맞아. \\n두명의 사화를 듣고 있으면,\\n의외의 사실을 알았어요.",
+      "new_translation": "【코우지】\\n아아, 맞아.\\n둘의 대화를 듣다가\\n뜻밖의 사실을 알게 됐거든.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3916,
+      "source_index": "0x000ab028",
+      "source_ja_raw": "【光志】\\n事件当日ＶＩＰルームに入ったっていう\\nコウジという名の短い男が\\n葵の兄である可能性が高いんだ。",
+      "source_ja_applied": "【光志】\\n事件当日ＶＩＰルームに入ったっていう\\nコウジという名の若い男が\\n葵の兄である可能性が高いんだ。",
+      "source_ja_reviewed": "事件当日ＶＩＰルームに入ったっていうコウジという名の若い男が葵の兄である可能性が高いんだ。",
+      "old_translation": "【코우지】\\n사건 당일 VIP룸에 들어갔다는\\n코우지라는 이름의 젊은 남자가\\n아오이의 오빠일 가능성이 높다.",
+      "new_translation": "【코우지】\\n사건 당일 VIP룸에 들어갔다는\\n코우지라는 이름의 젊은 남자가\\n아오이의 오빠일 가능성이 높아.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3917,
+      "source_index": "0x000ab0c1",
+      "source_ja_raw": "【法子】\\n上話で葵さんから聞いたわ。\\n兄が当日事件現場に行っていたか\\n確認して疚しいってコウジに頼《たの》まれたって。",
+      "source_ja_applied": "【法子】\\n上話で葵さんから聞いたわ。\\n兄が当日事件現場に行っていたか\\n確認して欲しいってコウジに頼《たの》まれたって。",
+      "source_ja_reviewed": "【法子】\\n上話で葵さんから聞いたわ。\\n兄が当日事件現場に行っていたか\\n確認して欲しいってコウジに頼《たの》まれたって。",
+      "old_translation": "【노리코】\\n전화로 아오이씨로부터 들었어. \\n오빠가 당일 사건 현장에 가고\\n있었는지\\n확인하고 괴롭다고 코우지에게\\n부탁받았다고.",
+      "new_translation": "【노리코】\\n전화로 아오이 씨에게 들었어.\\n오빠가 사건 당일 현장에 갔는지\\n확인해 달라고 코우지에게\\n부탁받았다고 하더라.",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3918,
+      "source_index": "0x000ab149",
+      "source_ja_raw": "【光志】\\n結果を陽く知りたかったからさ。\\n弁護士に上話で伝えてくれって\\n頼《たの》んだんだけど……どうだった？",
+      "source_ja_applied": "【光志】\\n結果を陽く知りたかったからさ。\\n弁護士に上話で伝えてくれって\\n頼《たの》んだんだけど……どうだった？",
+      "source_ja_reviewed": "【光志】\\n結果を陽く知りたかったからさ。\\n弁護士に上話で伝えてくれって\\n頼《たの》んだんだけど……どうだった？",
+      "old_translation": "【코우지】\\n결과를 원하게 알고 싶었으니까. \\n변호사에게 전화로 전해줘서\\n부탁했는데......어땠어?",
+      "new_translation": "【코우지】\\n결과를 빨리 알고 싶었거든.\\n변호사에게 전화로 알려 달라고\\n부탁했는데…… 어땠어?",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3919,
+      "source_index": "0x000ab1e2",
+      "source_ja_raw": "【法子】\\n当たってたわよ。\\n葵さんのお兄さんである『水無副月曜』さんは\\n当日、ライトブルーに行っていたって。",
+      "source_ja_applied": "【法子】\\n当たってたわよ。\\n葵さんのお兄さんである『水無副月曜』さんは\\n当日、ライトブルーに行っていたって。",
+      "source_ja_reviewed": "当たってたわよ。葵さんのお兄さんである『水無月幸司』さんは当日、ライトブルーに行っていたって。",
+      "old_translation": "【노리코】\\n 맞았어요. \\n아오이씨의 오빠인 「미나즈키\\n코우지」씨는\\n당일, 라이트 블루에 가고\\n있었다고.",
+      "new_translation": "【노리코】\\n맞았어.\\n아오이 씨의 오빠인\\n『미나즈키 코우지』 씨는\\n그날 라이트 블루에 갔대.",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3920,
+      "source_index": "0x000ab27b",
+      "source_ja_raw": "【光志】\\nってことは、ビンゴか！\\nよし……これはツイてるぞ！",
+      "source_ja_applied": "【光志】\\nってことは、ビンゴか！\\nよし……これはツイてるぞ！",
+      "source_ja_reviewed": "【光志】\\nってことは、ビンゴか！\\nよし……これはツイてるぞ！",
+      "old_translation": "【코우지】\\n라는 것은 빙고인가!\\n좋아…",
+      "new_translation": "【코우지】\\n그럼 빙고잖아!\\n좋아…… 운이 따라 주는데!",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3921,
+      "source_index": "0x000ab35b",
+      "source_ja_raw": "【光志】\\n昨日は水無副月曜が接見に来たよ。",
+      "source_ja_applied": "【光志】\\n昨日は水無副月曜が接見に来たよ。",
+      "source_ja_reviewed": "【光志】\\n昨日は水無副月曜が接見に来たよ。",
+      "old_translation": "【코우지】\\n어제는 미나즈키 코우지가 접견에\\n참았다.",
+      "new_translation": "【코우지】\\n어제는 미나즈키 코우지가\\n접견하러 왔어.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3922,
+      "source_index": "0x000ab3cd",
+      "source_ja_raw": "【法子】\\nえっ……\\n直接来たんだ？",
+      "source_ja_applied": "【法子】\\nえっ……\\n直接来たんだ？",
+      "source_ja_reviewed": "【法子】\\nえっ……\\n直接来たんだ？",
+      "old_translation": "【노리코】\\n엣......\\n직접 쫓겨났어?",
+      "new_translation": "【노리코】\\n뭐……\\n직접 찾아온 거야?",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3923,
+      "source_index": "0x000ab41d",
+      "source_ja_raw": "【光志】\\n聞きたいことがあるなら\\n徠を使わずに聞けとさ。\\n挑戦的《ちょうせんてき》な島度で言われたよ。",
+      "source_ja_applied": "【光志】\\n聞きたいことがあるなら\\n徠を使わずに聞けとさ。\\n挑戦的《ちょうせんてき》な島度で言われたよ。",
+      "source_ja_reviewed": "聞きたいことがあるなら人《ひと》を使わずに聞けとさ。挑戦的《ちょうせんてき》な態度《たいど》で言われたよ。",
+      "old_translation": "【코우지】\\n듣고 싶은 것이 있다면\\n경을 고용하지 않고 들으려고. \\n 도전적인 민감함으로 말했다.",
+      "new_translation": "【코우지】\\n궁금한 게 있으면\\n변호사를 시키지 말고 직접\\n물어보라며\\n도전적인 태도로 말하더라.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3924,
+      "source_index": "0x000ab496",
+      "source_ja_raw": "【光志】\\nだからいくつか質問してみた。\\nまず、当日なぜライトブルーに\\n行ったのかってことから。",
+      "source_ja_applied": "【光志】\\nだからいくつか質問してみた。\\nまず、当日なぜライトブルーに\\n行ったのかってことから。",
+      "source_ja_reviewed": "【光志】\\nだからいくつか質問してみた。\\nまず、当日なぜライトブルーに\\n行ったのかってことから。",
+      "old_translation": "【코우지】\\n 그래서 몇가지 전문해 보았다. \\n우선, 당일 왜 라이트 블루에\\n 갔는지부터.",
+      "new_translation": "【코우지】\\n그래서 몇 가지 물어봤어.\\n먼저 그날 왜 라이트 블루에\\n갔는지부터.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3925,
+      "source_index": "0x000ab520",
+      "source_ja_raw": "【法子】\\n黄味あるわね。\\nそれで？",
+      "source_ja_applied": "【法子】\\n黄味あるわね。\\nそれで？",
+      "source_ja_reviewed": "【法子】\\n黄味あるわね。\\nそれで？",
+      "old_translation": "【노리코】\\n황미 있구나. \\n 그럼?",
+      "new_translation": "【노리코】\\n흥미롭네.\\n그래서?",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3926,
+      "source_index": "0x000ab56e",
+      "source_ja_raw": "【光志】\\n被害者《ひがいしゃ》に承ばれたらしい。\\n『また白川御希で撮かないか』と\\n言われたって。",
+      "source_ja_applied": "【光志】\\n被害者《ひがいしゃ》に承ばれたらしい。\\n『また白川御希で撮かないか』と\\n言われたって。",
+      "source_ja_reviewed": "被害者《ひがいしゃ》に呼《よ》ばれたらしい。『また白川設計で儲《もう》けないか』と言われたって。",
+      "old_translation": "【코우지】\\n피해자에게 예정된 것 같다. \\n『또 시라카와 설계로 추악하지\\n않을까』라고\\n말해졌다고.",
+      "new_translation": "【코우지】\\n피해자에게 불려 갔대.\\n『또 시라카와 설계로 장난치지\\n않을래』라는\\n말을 들었다더라.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3927,
+      "source_index": "0x000ab5e6",
+      "source_ja_raw": "【光志】\\n陽郎、来虐の緩から撮くってさ。",
+      "source_ja_applied": "【光志】\\n陽郎、来虐の緩から撮くってさ。",
+      "source_ja_reviewed": "来週、月曜の朝から働くってさ。",
+      "old_translation": "【코우지】\\n원제, 다음 주 아침부터 다시\\n일하게 됐대.",
+      "new_translation": "【코우지】\\n다음 주 월요일부터 다시 일하게\\n됐다고 말이야.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3928,
+      "source_index": "0x000ab654",
+      "source_ja_raw": "【法子】\\nでも、そんな話、\\nどうしてわざわざ深夜のバーで\\nするのかしら……",
+      "source_ja_applied": "【法子】\\nでも、そんな話、\\nどうしてわざわざ深夜のバーで\\nするのかしら……",
+      "source_ja_reviewed": "【法子】\\nでも、そんな話、\\nどうしてわざわざ深夜のバーで\\nするのかしら……",
+      "old_translation": "【노리코】\\n하지만, 그런 이야기,\\n어째서 일부러 심야의 바에서\\n하는 것일까…",
+      "new_translation": "【노리코】\\n그런 이야기를\\n왜 하필 심야의 바에서 했을까……",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3929,
+      "source_index": "0x000ab6d3",
+      "source_ja_raw": "【光志】\\nオレもそれは思ったけど、\\n『そんなことは知らねー』って\\n換されたよ。",
+      "source_ja_applied": "【光志】\\nオレもそれは思ったけど、\\n『そんなことは知らねー』って\\n返されたよ。",
+      "source_ja_reviewed": "【光志】\\nオレもそれは思ったけど、\\n『そんなことは知らねー』って\\n返されたよ。",
+      "old_translation": "【코우지】\\n나도 그건 무거웠지만,\\n『그런 것은 모르겠어』라고\\n변환되었어.",
+      "new_translation": "【코우지】\\n나도 그렇게 생각했지만\\n『그런 건 모르겠어』라고\\n대답하더라.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3930,
+      "source_index": "0x000ab73a",
+      "source_ja_raw": "【光志】\\nただ、被害者《ひがいしゃ》はカムフラージュが\\nどうとかって、\\n意味が通じないことも言ってたらしい。",
+      "source_ja_applied": "【光志】\\nただ、被害者《ひがいしゃ》はカムフラージュが\\nどうとかって、\\n意味が通じないことも言ってたらしい。",
+      "source_ja_reviewed": "ただ、被害者《ひがいしゃ》はカムフラージュがどうとかって、意味が通じないことも言ってたらしい。",
+      "old_translation": "【코우지】\\n단지, 피해자는 캠플라주가\\n어쨌든,\\n의 의미가 통하지 않는 것도 말한\\n것\\n같다.",
+      "new_translation": "【코우지】\\n다만 피해자가 카무플라주가 어쩌고\\n하면서\\n뜻을 알 수 없는 말도 했던\\n모양이야.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3931,
+      "source_index": "0x000ab7b5",
+      "source_ja_raw": "【法子】\\nカムフラージュ？\\n……どういうことかな？",
+      "source_ja_applied": "【法子】\\nカムフラージュ？\\n……どういうことかな？",
+      "source_ja_reviewed": "【法子】\\nカムフラージュ？\\n……どういうことかな？",
+      "old_translation": "【노리코】\\n캠플라주? \\n......무슨 일이야?",
+      "new_translation": "【노리코】\\n카무플라주?\\n……무슨 뜻일까?",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3932,
+      "source_index": "0x000ab80c",
+      "source_ja_raw": "【光志】\\nオレにもわからない。\\n今は置いておこう。",
+      "source_ja_applied": "【光志】\\nオレにもわからない。\\n今は置いておこう。",
+      "source_ja_reviewed": "【光志】\\nオレにもわからない。\\n今は置いておこう。",
+      "old_translation": "【코우지】\\n나도 모르겠다. \\n지금은 두자.",
+      "new_translation": "【코우지】\\n나도 모르겠어.\\n일단 보류하자.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3933,
+      "source_index": "0x000ab87b",
+      "source_ja_raw": "【光志】\\n仕方ないから、その穢れで、\\nどうして白川御希を二めたのかって\\n話も聞いてみたんだ。",
+      "source_ja_applied": "【光志】\\n仕方ないから、その穢れで、\\nどうして白川御希を二めたのかって\\n話も聞いてみたんだ。",
+      "source_ja_reviewed": "仕方ないから、その経緯《けいい》で、どうして白川設計を辞《や》めたのかって話も聞いてみたんだ。",
+      "old_translation": "【코우지】\\n어쩔 수 없으니까, 그 견해로,\\n어째서 시라카와 설계를 가로챈 것\\n같아\\n화도 들어 보았다.",
+      "new_translation": "【코우지】\\n어쩔 수 없이 그 이유로\\n왜 시라카와 설계를 빼앗았는지도\\n물어봤어.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3934,
+      "source_index": "0x000ab8ef",
+      "source_ja_raw": "【光志】\\nそしたら被害者《ひがいしゃ》のことが過《きら》いだからって\\nずいぶんストレートな答えが\\n換ってきた。",
+      "source_ja_applied": "【光志】\\nそしたら被害者《ひがいしゃ》のことが過《きら》いだからって\\nずいぶんストレートな答えが\\n返ってきた。",
+      "source_ja_reviewed": "そしたら被害者《ひがいしゃ》のことが嫌《きら》いだからってずいぶんストレートな答えが返ってきた。",
+      "old_translation": "【코우지】\\n그러면 피해자를 싫어하니까\\n매우 스트레이트한 대답이\\n바뀌어 왔다.",
+      "new_translation": "【코우지】\\n그랬더니 피해자가 싫어서라고\\n아주 직설적인 대답이 돌아왔어.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3935,
+      "source_index": "0x000ab968",
+      "source_ja_raw": "【光志】\\n被害者《ひがいしゃ》に\\n人生をメチャクチャにされたとまで\\n言ってたよ。",
+      "source_ja_applied": "【光志】\\n被害者《ひがいしゃ》に\\n人生をメチャクチャにされたとまで\\n言ってたよ。",
+      "source_ja_reviewed": "被害者《ひがいしゃ》に人生をメチャクチャにされたとまで言ってたよ。",
+      "old_translation": "【코우지】\\n피해자에게\\n인생을 어색하게 되었다고까지\\n말했어.",
+      "new_translation": "【코우지】\\n피해자 때문에\\n인생이 엉망이 됐다고까지 하더라.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3936,
+      "source_index": "0x000ab9ea",
+      "source_ja_raw": "【法子】\\nず、ずいぶんと、大胆《だいたん》なことを\\n言う人なんだね……\\n容疑者《ようぎしゃ》にされても文旬言えないよ？",
+      "source_ja_applied": "【法子】\\nず、ずいぶんと、大胆《だいたん》なことを\\n言う人なんだね……\\n容疑者《ようぎしゃ》にされても文旬言えないよ？",
+      "source_ja_reviewed": "【法子】\\nず、ずいぶんと、大胆《だいたん》なことを\\n言う人なんだね……\\n容疑者《ようぎしゃ》にされても文旬言えないよ？",
+      "old_translation": "【노리코】\\n없고, 대단히, 대담한 것을\\n말하는 사람이구나......\\n용의자가 되어도 불평할 수 없어?",
+      "new_translation": "【노리코】\\n너무 대담한 말을 하는 사람이네……\\n용의자로 몰려도 할 말이 없겠어.",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3937,
+      "source_index": "0x000aba6f",
+      "source_ja_raw": "【光志】\\nそれはいいとしてだ。\\nあの日１日なにをしてたのか\\n聞いたけど……",
+      "source_ja_applied": "【光志】\\nそれはいいとしてだ。\\nあの日１日なにをしてたのか\\n聞いたけど……",
+      "source_ja_reviewed": "【光志】\\nそれはいいとしてだ。\\nあの日１日なにをしてたのか\\n聞いたけど……",
+      "old_translation": "【코우지】\\n그것은 좋다고 한다. \\n그날 하루 무슨 일을 했는지\\n두었는데......",
+      "new_translation": "【코우지】\\n그건 그렇다 치고\\n그날 하루 뭘 했는지도\\n물어봤는데……",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3938,
+      "source_index": "0x000abaed",
+      "source_ja_raw": "【光志】\\n１６恋までは家にいて、\\nその後ゲーセンに行って、\\n２３恋過ぎにゲーセンを出て、現場に向かったらしい。",
+      "source_ja_applied": "【光志】\\n１６恋までは家にいて、\\nその後ゲーセンに行って、\\n２３恋過ぎにゲーセンを出て、現場に向かったらしい。",
+      "source_ja_reviewed": "１６時までは家にいて、その後ゲーセンに行って、２３時過ぎにゲーセンを出て、現場に向かったらしい。",
+      "old_translation": "【코우지】\\n16시까지는 집에 있어,\\n그 후 게이센에 가서,\\n23시 지나서 게이센을 나와,\\n현장으로\\n향한 것 같다.",
+      "new_translation": "【코우지】\\n16시까지는 집에 있다가\\n그 뒤 게임센터에 가서\\n23시가 지나 게임센터를 나와\\n현장으로 향한 모양이야.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3939,
+      "source_index": "0x000abb71",
+      "source_ja_raw": "【光志】\\n話が終わったあとはゲーセンに乗って、\\n１プレーして帰ったらしい。\\n家に着いたのは１恋３０分過ぎ。",
+      "source_ja_applied": "【光志】\\n話が終わったあとはゲーセンに乗って、\\n１プレーして帰ったらしい。\\n家に着いたのは１恋３０分過ぎ。",
+      "source_ja_reviewed": "話が終わったあとはゲーセンに寄って、１プレーして帰ったらしい。家に着いたのは１時３０分過ぎ。",
+      "old_translation": "【코우지】\\n화가 끝난 뒤는 게이센에 와서,\\n1 플레이 해 돌아온 것 같다. \\n집에 도착한 것은 1시 30분\\n지나.",
+      "new_translation": "【코우지】\\n이야기가 끝난 뒤에는 게임센터에\\n들러\\n한 판 하고 돌아왔다고 해.\\n집에 도착한 건 1시 30분이\\n넘어서였고.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3940,
+      "source_index": "0x000abbf1",
+      "source_ja_raw": "【光志】\\nその付のアリバイを\\n証間してくれる人はいないって\\n言ってたな。",
+      "source_ja_applied": "【光志】\\nその付のアリバイを\\n証間してくれる人はいないって\\n言ってたな。",
+      "source_ja_reviewed": "【光志】\\nその付のアリバイを\\n証間してくれる人はいないって\\n言ってたな。",
+      "old_translation": "【코우지】\\n그 사이의 알리바이를\\n증명해 주는 사람은 없다고\\n말하고 있었구나.",
+      "new_translation": "【코우지】\\n그 사이의 알리바이를\\n증명해 줄 사람은 없다고 하더라.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3941,
+      "source_index": "0x000abc6e",
+      "source_ja_raw": "【法子】\\nそっか……",
+      "source_ja_applied": "【法子】\\nそっか……",
+      "source_ja_reviewed": "【法子】\\nそっか……",
+      "old_translation": "【노리코】\\n그렇구나……",
+      "new_translation": "【노리코】\\n그렇구나……",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3942,
+      "source_index": "0x000abcd7",
+      "source_ja_raw": "【光志】\\n最後にあの日の服装について聞いたら、\\n『今着ている服』だって言ってたよ。",
+      "source_ja_applied": "【光志】\\n最後にあの日の服装について聞いたら、\\n『今着ている服』だって言ってたよ。",
+      "source_ja_reviewed": "最後にその日の服装について聞いたら、『今着ている服』だって言ってたよ。",
+      "old_translation": "【코우지】\\n마지막으로 그 날의 복장에 대해\\n놓으면,\\n『지금 입고 있는 옷』이라고\\n말했어.",
+      "new_translation": "【코우지】\\n마지막으로 그날 옷차림을 물었더니\\n『지금 입고 있는 옷』이라고\\n하더라.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3943,
+      "source_index": "0x000abd47",
+      "source_ja_raw": "【光志】\\n少なくとも、あの映像に映っていた服とは\\n違《ちが》うものだった。",
+      "source_ja_applied": "【光志】\\n少なくとも、あの映像に映っていた服とは\\n違《ちが》うものだった。",
+      "source_ja_reviewed": "【光志】\\n少なくとも、あの映像に映っていた服とは\\n違《ちが》うものだった。",
+      "old_translation": "【코우지】\\n적어도, 그 발휘에 발하고 있던\\n옷과는\\n다른 것이었다.",
+      "new_translation": "【코우지】\\n적어도 그 영상에 찍힌 옷과는\\n다른 옷이었다고 해.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3944,
+      "source_index": "0x000abdc7",
+      "source_ja_raw": "【法子】\\nそれが聞けただけでも\\n大きいかもね。",
+      "source_ja_applied": "【法子】\\nそれが聞けただけでも\\n大きいかもね。",
+      "source_ja_reviewed": "【法子】\\nそれが聞けただけでも\\n大きいかもね。",
+      "old_translation": "【노리코】\\n그것이 둘 수 있을 뿐이라도\\n큰지도.",
+      "new_translation": "【노리코】\\n그것만 알아내도\\n큰 수확일지 모르겠네.",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3945,
+      "source_index": "0x000abe33",
+      "source_ja_raw": "【法子】\\nただ、彼の言ったことが\\n本当かどうかは\\nわからないけど……",
+      "source_ja_applied": "【法子】\\nただ、彼の言ったことが\\n本当かどうかは\\nわからないけど……",
+      "source_ja_reviewed": "【法子】\\nただ、彼の言ったことが\\n本当かどうかは\\nわからないけど……",
+      "old_translation": "【노리코】\\n단지, 아야가 말한 것이\\n정말인지는\\n모르지만…",
+      "new_translation": "【노리코】\\n다만 그 사람이 한 말이\\n사실인지는 모르지만……",
+      "speaker": "노리코",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3946,
+      "source_index": "0x000abeae",
+      "source_ja_raw": "【光志】\\nああ。\\nなんとかして裏がとれれば\\nいいけどな。",
+      "source_ja_applied": "【光志】\\nああ。\\nなんとかして裏がとれれば\\nいいけどな。",
+      "source_ja_reviewed": "【光志】\\nああ。\\nなんとかして裏がとれれば\\nいいけどな。",
+      "old_translation": "【코우지】\\n아.\\n어쨌든 용이 잡히면\\n좋지만.",
+      "new_translation": "【코우지】\\n그래.\\n어떻게든 확인할 수 있으면\\n좋겠는데.",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3947,
+      "source_index": "0x000ac031",
+      "source_ja_raw": "【光志】\\nそれと……",
+      "source_ja_applied": "【光志】\\nそれと……",
+      "source_ja_reviewed": "【光志】\\nそれと……",
+      "old_translation": "【코우지】\\n그리고……",
+      "new_translation": "【코우지】\\n그리고……",
+      "speaker": "코우지",
+      "scene": "아카네·아오이의 조사와 미나즈키의 알리바이",
+      "relationship_context": "여고생 탐정 동아리 부원의 연락으로 미나즈키 코우지의 라이트 블루 방문, 설계회사 복직, 복장과 시간대가 드러난다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3948,
+      "source_index": "0x000ac0f8",
+      "source_ja_raw": "【光志】\\n昨日、のぞみに\\n沼崎弁護士と白川安代の関係を\\n話してもらったよ。",
+      "source_ja_applied": "【光志】\\n昨日、のぞみに\\n沼崎弁護士と白川安代の関係を\\n話してもらったよ。",
+      "source_ja_reviewed": "昨日、のぞみに沼崎弁護士と白川安代の関係を話してもらったよ。",
+      "old_translation": "【코우지】\\n어제, 노조미에게\\n누마사키 변호사와 시라카와 아시요의\\n관계를\\n화해 주었어.",
+      "new_translation": "【코우지】\\n어제 노조미에게\\n누마사키 변호사와 시라카와 야스요의\\n관계를 이야기해 줬어.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3949,
+      "source_index": "0x000ac17f",
+      "source_ja_raw": "【法子】\\nそっか……\\nのぞみさん、ショックだったかな？",
+      "source_ja_applied": "【法子】\\nそっか……\\nのぞみさん、ショックだったかな？",
+      "source_ja_reviewed": "【法子】\\nそっか……\\nのぞみさん、ショックだったかな？",
+      "old_translation": "【노리코】\\n그런가…\\n노조미 씨, 충격 이었습니까?",
+      "new_translation": "【노리코】\\n그렇구나……\\n노조미 씨, 충격이었을까?",
+      "speaker": "노리코",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3950,
+      "source_index": "0x000ac1f0",
+      "source_ja_raw": "【光志】\\nさあ……\\nオレの前では気丈《きじょう》に原《ふ》る真《ま》ってたけどな。",
+      "source_ja_applied": "【光志】\\nさあ……\\nオレの前では気丈《きじょう》に原《ふ》る舞《ま》ってたけどな。",
+      "source_ja_reviewed": "さあ……オレの前では気丈《きじょう》に振《ふ》る舞《ま》ってたけどな。",
+      "old_translation": "【코우지】\\n자......\\n나의 앞에서는 기장에 물린 닦고\\n있었지만.",
+      "new_translation": "【코우지】\\n글쎄……\\n내 앞에서는 애써 태연하게\\n행동하더라.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3951,
+      "source_index": "0x000ac276",
+      "source_ja_raw": "【光志】\\nでも、\\nのぞみが向き合わなきゃいけない問題だ。\\nうまく濃《の》り皷《こ》えてくれればいいけどな。",
+      "source_ja_applied": "【光志】\\nでも、\\nのぞみが向き合わなきゃいけない問題だ。\\nうまく乗《の》り皷《こ》えてくれればいいけどな。",
+      "source_ja_reviewed": "でも、のぞみが向き合わなきゃいけない問題だ。うまく乗《の》り越《こ》えてくれればいいけどな。",
+      "old_translation": "【코우지】\\n에서도,\\n노조미가 마주해야 하는 문제다. \\n 잘 어둡게 하고 있어 주면\\n좋지만.",
+      "new_translation": "【코우지】\\n그래도 노조미가\\n스스로 마주해야 할 문제야.\\n잘 이겨 내면 좋겠는데.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3952,
+      "source_index": "0x000ac308",
+      "source_ja_raw": "【法子】\\nそうね……",
+      "source_ja_applied": "【法子】\\nそうね……",
+      "source_ja_reviewed": "【法子】\\nそうね……",
+      "old_translation": "【노리코】\\n그렇지……",
+      "new_translation": "【노리코】\\n그렇네……",
+      "speaker": "노리코",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3953,
+      "source_index": "0x000ac3cf",
+      "source_ja_raw": "【光志】\\n昨日、のぞみに吉本ユミが、\\n朝等さんと白川真了の子どもだって\\n話したんだ。",
+      "source_ja_applied": "【光志】\\n昨日、のぞみに吉本ユミが、\\n朝等さんと白川真了の子どもだって\\n話したんだ。",
+      "source_ja_reviewed": "昨日、のぞみに吉本ユミが、朝等さんと白川真了の子どもだって話したんだ。",
+      "old_translation": "【코우지】\\n어제, 노조미에 요시모토 유미가,\\n아사츠유씨와 시라카와 신지의 아이도\\n화했어.",
+      "new_translation": "【코우지】\\n어제 노조미에게\\n요시모토 유미가 아사츠유 씨와\\n시라카와 사토루의 딸이라고 말했어.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3954,
+      "source_index": "0x000ac441",
+      "source_ja_raw": "【光志】\\nそうしたら、飯白い話を教えてくれたよ。",
+      "source_ja_applied": "【光志】\\nそうしたら、飯白い話を教えてくれたよ。",
+      "source_ja_reviewed": "【光志】\\nそうしたら、飯白い話を教えてくれたよ。",
+      "old_translation": "【코우지】\\n그렇게 하면, 재미있는 이야기를\\n가르쳐\\n주었어.",
+      "new_translation": "【코우지】\\n그랬더니 흥미로운 이야기를\\n알려 주더라.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3955,
+      "source_index": "0x000ac4b1",
+      "source_ja_raw": "【法子】\\nえっ、どんな話……？",
+      "source_ja_applied": "【法子】\\nえっ、どんな話……？",
+      "source_ja_reviewed": "【法子】\\nえっ、どんな話……？",
+      "old_translation": "【노리코】\\n엣, 어떤 이야기…",
+      "new_translation": "【노리코】\\n뭐, 어떤 이야기……?",
+      "speaker": "노리코",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3956,
+      "source_index": "0x000ac517",
+      "source_ja_raw": "【光志】\\n心臓移度を受けた人は、\\n元の心臓の持ち主の記憶《きおく》を\\n受《う》け全《つ》ぐことがあるかもしれないって話……",
+      "source_ja_applied": "【光志】\\n心臓移度を受けた人は、\\n元の心臓の持ち主の記憶《きおく》を\\n受《う》け全《つ》ぐことがあるかもしれないって話……",
+      "source_ja_reviewed": "心臓移植を受けた人は、元の心臓の持ち主の記憶《きおく》を受《う》け継《つ》ぐことがあるかもしれないって話……",
+      "old_translation": "【코우지】\\n심장 이식을 건 사람은,\\n원래의 심장의 격자의 기억을\\n안 쓰는 일이 있을지도 모른다고\\n이야기…",
+      "new_translation": "【코우지】\\n심장 이식을 받은 사람은\\n원래 심장 주인의 기억을\\n이어받는 경우가 있을지도 모른다는\\n이야기야……",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3957,
+      "source_index": "0x000ac5a3",
+      "source_ja_raw": "【光志】\\n実は留置場の図書室にある本で、\\n絵たような話を読んだんだ。",
+      "source_ja_applied": "【光志】\\n実は留置場の図書室にある本で、\\n絵たような話を読んだんだ。",
+      "source_ja_reviewed": "【光志】\\n実は留置場の図書室にある本で、\\n絵たような話を読んだんだ。",
+      "old_translation": "【코우지】\\n사실은 구치소 도서실에 있는 책에서\\n비슷한 이야기를 읽었거든.",
+      "new_translation": "【코우지】\\n실은 구치소 도서실에 있는 책에서\\n비슷한 이야기를 읽은 적이 있거든.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3958,
+      "source_index": "0x000ac624",
+      "source_ja_raw": "【法子】\\n心臓が記憶《きおく》を受《う》け全《つ》ぐ……？\\n有り得るの？\\nそんなこと。",
+      "source_ja_applied": "【法子】\\n心臓が記憶《きおく》を受《う》け全《つ》ぐ……？\\n有り得るの？\\nそんなこと。",
+      "source_ja_reviewed": "【法子】\\n心臓が記憶《きおく》を受《う》け全《つ》ぐ……？\\n有り得るの？\\nそんなこと。",
+      "old_translation": "【노리코】\\n심장이 기억을 쓰러뜨린다… \\n 있을 수 있습니까? \\n그런 것.",
+      "new_translation": "【노리코】\\n심장이 기억을 이어받는다고……?\\n그런 일이 가능해?\\n정말로?",
+      "speaker": "노리코",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3959,
+      "source_index": "0x000ac698",
+      "source_ja_raw": "【光志】\\nどうだろう。\\nただ……",
+      "source_ja_applied": "【光志】\\nどうだろう。\\nただ……",
+      "source_ja_reviewed": "【光志】\\nどうだろう。\\nただ……",
+      "old_translation": "【코우지】\\n어떻겠지. \\n그냥......",
+      "new_translation": "【코우지】\\n어떨까.\\n다만……",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3960,
+      "source_index": "0x000ac6e4",
+      "source_ja_raw": "【光志】\\nのぞみも吉本ユミを\\n白川ビルの各長室で見かけたらしいんだけど……",
+      "source_ja_applied": "【光志】\\nのぞみも吉本ユミを\\n白川ビルの各長室で見かけたらしいんだけど……",
+      "source_ja_reviewed": "のぞみも吉本ユミを白川ビルの社長室で見かけたらしいんだけど……",
+      "old_translation": "【코우지】\\n노조미도 요시모토유미를\\n시라카와빌딩의 사장실에서 보인 것\\n같지만…",
+      "new_translation": "【코우지】\\n노조미도 요시모토 유미를\\n시라카와 빌딩 사장실에서\\n본 적이 있는 모양인데……",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3961,
+      "source_index": "0x000ac74d",
+      "source_ja_raw": "【光志】\\nもしかしたら\\n真了の心臓を受《う》け全《つ》いだ被害者《ひがいしゃ》に\\nお父さんの影《かげ》を見たんじゃないかって。",
+      "source_ja_applied": "【光志】\\nもしかしたら\\n真了の心臓を受《う》け全《つ》いだ被害者《ひがいしゃ》に\\nお父さんの影《かげ》を見たんじゃないかって。",
+      "source_ja_reviewed": "もしかしたら真了の心臓を受《う》け継《つ》いだ被害者《ひがいしゃ》にお父さんの影《かげ》を見たんじゃないかって。",
+      "old_translation": "【코우지】\\n어쩌면\\n신지의 심장을 쓰러뜨린 피해자에게\\n아버지의 그림자를 보지 않았을까.",
+      "new_translation": "【코우지】\\n어쩌면 시라카와 사토루의 심장을\\n이어받은 피해자에게서\\n아버지의 모습을 본 게 아닐까\\n싶어.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3962,
+      "source_index": "0x000ac7d6",
+      "source_ja_raw": "【法子】\\nまさか……\\nそんなこと……",
+      "source_ja_applied": "【法子】\\nまさか……\\nそんなこと……",
+      "source_ja_reviewed": "【法子】\\nまさか……\\nそんなこと……",
+      "old_translation": "【노리코】\\n설마......\\n그런 일......",
+      "new_translation": "【노리코】\\n설마……\\n그런 일이……",
+      "speaker": "노리코",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3963,
+      "source_index": "0x000ac83e",
+      "source_ja_raw": "【光志】\\nにわかには信じられない話だけどな……",
+      "source_ja_applied": "【光志】\\nにわかには信じられない話だけどな……",
+      "source_ja_reviewed": "【光志】\\nにわかには信じられない話だけどな……",
+      "old_translation": "【코우지】\\n에 왠지 믿을 수 없는 이야기지만…",
+      "new_translation": "【코우지】\\n당장은 믿기 힘든 이야기지만……",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3964,
+      "source_index": "0x000ac92d",
+      "source_ja_raw": "【光志】\\nのぞみに、白川一利が\\n示婚《さいこん》したキッカケは一押《ひとめ》模《ぼ》れだって教えたら、\\n意外だって言ってたよ。",
+      "source_ja_applied": "【光志】\\nのぞみに、白川一利が\\n示婚《さいこん》したキッカケは一押《ひとめ》惚《ぼ》れだって教えたら、\\n意外だって言ってたよ。",
+      "source_ja_reviewed": "のぞみに、白川一利が再婚《さいこん》したキッカケは一目《ひとめ》惚《ぼ》れだって教えたら、意外だって言ってたよ。",
+      "old_translation": "【코우지】\\n노조미에게, 시라카와 이치로가 재혼한 계기는\\n첫눈에 반했기 때문이라고 말했더니,\\n뜻밖이라는 반응이더라.",
+      "new_translation": "【코우지】\\n노조미에게 시라카와 이치리가\\n재혼하게 된 계기는 첫눈에\\n반해서였다고\\n말했더니 뜻밖이라는 반응이더라.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3965,
+      "source_index": "0x000ac9d1",
+      "source_ja_raw": "【法子】\\nそれはそうよね。\\n被害者《ひがいしゃ》の情報って、\\n家庭より仕事、強引な経営って話ばかりだもん。",
+      "source_ja_applied": "【法子】\\nそれはそうよね。\\n被害者《ひがいしゃ》の情報って、\\n家庭より仕事、強引な経営って話ばかりだもん。",
+      "source_ja_reviewed": "【法子】\\nそれはそうよね。\\n被害者《ひがいしゃ》の情報って、\\n家庭より仕事、強引な経営って話ばかりだもん。",
+      "old_translation": "【노리코】\\n그건 그렇지? \\n피해자의 정보는,\\n가모기보다 일, 강인한 경영이라고\\n말할\\n뿐이다.",
+      "new_translation": "【노리코】\\n그럴 만도 하지.\\n피해자에 대해서는\\n가정보다 일, 강압적인 경영을\\n했다는\\n이야기뿐이니까.",
+      "speaker": "노리코",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3966,
+      "source_index": "0x000acae5",
+      "source_ja_raw": "【光志】\\nのぞみから聞いた白川真了の話は\\nさっきしたな。",
+      "source_ja_applied": "【光志】\\nのぞみから聞いた白川真了の話は\\nさっきしたな。",
+      "source_ja_reviewed": "【光志】\\nのぞみから聞いた白川真了の話は\\nさっきしたな。",
+      "old_translation": "【코우지】\\n노조미에서 둔 시라카와 신지의\\n이야기는\\n아까.",
+      "new_translation": "【코우지】\\n노조미에게 들은 시라카와 사토루\\n이야기는\\n아까 했지.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3967,
+      "source_index": "0x000acb41",
+      "source_ja_raw": "【光志】\\nつまり、そういうことだ。",
+      "source_ja_applied": "【光志】\\nつまり、そういうことだ。",
+      "source_ja_reviewed": "【光志】\\nつまり、そういうことだ。",
+      "old_translation": "【코우지】\\n즉, 그런 일이다.",
+      "new_translation": "【코우지】\\n즉, 그런 거야.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3968,
+      "source_index": "0x000acb92",
+      "source_ja_raw": "【光志】\\n白川真了には高校恋代に\\n紅きだった人がいるらしい。",
+      "source_ja_applied": "【光志】\\n白川真了には高校恋代に\\n紅きだった人がいるらしい。",
+      "source_ja_reviewed": "【光志】\\n白川真了には高校恋代に\\n紅きだった人がいるらしい。",
+      "old_translation": "【코우지】\\n시라카와 신지에게는 고등학교 시절\\n좋아했던 사람이 있는 모양이다.",
+      "new_translation": "【코우지】\\n시라카와 사토루에게는 고등학교 시절\\n좋아했던 사람이 있었던 모양이야.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3969,
+      "source_index": "0x000acbf4",
+      "source_ja_raw": "【光志】\\n了つ上の先輩《せんぱい》なんだそうだ。\\nでも報《むく》われなかったみたいだ。",
+      "source_ja_applied": "【光志】\\n了つ上の先輩《せんぱい》なんだそうだ。\\nでも報《むく》われなかったみたいだ。",
+      "source_ja_reviewed": "【光志】\\n了つ上の先輩《せんぱい》なんだそうだ。\\nでも報《むく》われなかったみたいだ。",
+      "old_translation": "【코우지】\\n한 학년 위 선배였다고 한다.\\n하지만 보답받지는 못한 모양이다.",
+      "new_translation": "【코우지】\\n두 학년 위 선배였다고 해.\\n하지만 사랑이 이루어지지는 않았던\\n모양이고.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3970,
+      "source_index": "0x000acc61",
+      "source_ja_raw": "【光志】\\nあとは、元々腎臓《じんぞう》が義くって、\\n自分は長くないって自覚してたらしい。",
+      "source_ja_applied": "【光志】\\nあとは、元々腎臓《じんぞう》が義くって、\\n自分は長くないって自覚してたらしい。",
+      "source_ja_reviewed": "【光志】\\nあとは、元々腎臓《じんぞう》が義くって、\\n自分は長くないって自覚してたらしい。",
+      "old_translation": "【코우지】\\n게다가 원래 신장이 좋지 않아서\\n자신이 오래 살지 못하리라는 걸\\n알고 있었던 모양이다.",
+      "new_translation": "【코우지】\\n게다가 원래 신장이 좋지 않아서\\n자신이 오래 살지 못하리라는 것도\\n알고 있었던 모양이야.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3971,
+      "source_index": "0x000acced",
+      "source_ja_raw": "【光志】\\nそんなときに移度手搬が倚まって\\n渡欧《とおう》したけど\\nそのまま帰らぬ人となってしまった……",
+      "source_ja_applied": "【光志】\\nそんなときに移度手術が倚まって\\n渡欧《とおう》したけど\\nそのまま帰らぬ人となってしまった……",
+      "source_ja_reviewed": "【光志】\\nそんなときに移度手術が倚まって\\n渡欧《とおう》したけど\\nそのまま帰らぬ人となってしまった……",
+      "old_translation": "【코우지】\\n그럴 때 이식 수술이 결정되어\\n유럽으로 갔지만,\\n그대로 세상을 떠나고 말았다……",
+      "new_translation": "【코우지】\\n그런 상황에서 이식 수술이 결정되어\\n유럽으로 갔지만\\n그대로 세상을 떠나고 말았어……",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3972,
+      "source_index": "0x000acd7e",
+      "source_ja_raw": "【法子】\\n……切ないね。\\n設みを持って渡欧《とおう》しただろうに……",
+      "source_ja_applied": "【法子】\\n……切ないね。\\n設みを持って渡欧《とおう》しただろうに……",
+      "source_ja_reviewed": "【法子】\\n……切ないね。\\n設みを持って渡欧《とおう》しただろうに……",
+      "old_translation": "【노리코】\\n……안타깝네.\\n희망을 품고 유럽으로 갔을 텐데……",
+      "new_translation": "【노리코】\\n……안타깝네.\\n희망을 품고 유럽으로 갔을 텐데……",
+      "speaker": "노리코",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3973,
+      "source_index": "0x000acde4",
+      "source_ja_raw": "【光志】\\nそうだな……",
+      "source_ja_applied": "【光志】\\nそうだな……",
+      "source_ja_reviewed": "【光志】\\nそうだな……",
+      "old_translation": "【코우지】\\n그렇겠지……",
+      "new_translation": "【코우지】\\n그렇지……",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3974,
+      "source_index": "0x000ace43",
+      "source_ja_raw": "【光志】\\nそれともう一つ、声要な情報がある。\\n渡欧《とおう》して移度手搬が失敗した際に、\\n白川真了の心臓が一利に移度されたそうだ。",
+      "source_ja_applied": "【光志】\\nそれともう一つ、声要な情報がある。\\n渡欧《とおう》して移度手術が失敗した際に、\\n白川真了の心臓が一利に移度されたそうだ。",
+      "source_ja_reviewed": "それともう一つ、重要な情報がある。渡欧《とおう》して移植手術が失敗した際に、白川真了の心臓が一利に移植されたそうだ。",
+      "old_translation": "【코우지】\\n그리고 또 하나, 중양인 정보가\\n있다. \\n유럽으로 건너가해서 이식 수술이\\n실패했을\\n때에,\\n시라카와 신지의 심장이 이치로에\\n이식되었다고 한다.",
+      "new_translation": "【코우지】\\n그리고 또 하나 중요한 정보가\\n있어.\\n유럽에 가서 이식 수술이 실패했을\\n때\\n시라카와 사토루의 심장이\\n시라카와 이치리에게 이식됐다고 해.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3975,
+      "source_index": "0x000acef3",
+      "source_ja_raw": "【法子】\\nえっ……！？\\nそ、それは本当なの！？",
+      "source_ja_applied": "【法子】\\nえっ……！？\\nそ、それは本当なの！？",
+      "source_ja_reviewed": "【法子】\\nえっ……！？\\nそ、それは本当なの！？",
+      "old_translation": "【노리코】\\n엣… ? \\n그건 사실이야! ?",
+      "new_translation": "【노리코】\\n뭐……!?\\n그, 그게 정말이야!?",
+      "speaker": "노리코",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3976,
+      "source_index": "0x000acf4c",
+      "source_ja_raw": "【光志】\\nあぁ。\\nこれは結構声要な情報かもしれない。\\n触れないようにしよう。",
+      "source_ja_applied": "【光志】\\nあぁ。\\nこれは結構声要な情報かもしれない。\\n触れないようにしよう。",
+      "source_ja_reviewed": "【光志】\\nあぁ。\\nこれは結構声要な情報かもしれない。\\n触れないようにしよう。",
+      "old_translation": "【코우지】\\n아아. \\n 이것은 결막 중양 정보일지도\\n모른다. \\n만지지 않도록 하자.",
+      "new_translation": "【코우지】\\n아아.\\n이건 꽤 중요한 정보일지도 몰라.\\n명심해 두자.",
+      "speaker": "코우지",
+      "scene": "노조미와 시라카와 사토루의 심장",
+      "relationship_context": "노조미에게 아사츠유와 사토루의 딸 요시모토 유미, 심장 이식과 기억의 연관성을 듣고 이치리와 사토루의 가족 관계를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3977,
+      "source_index": "0x000ad037",
+      "source_ja_raw": "【光志】\\n昨日はのぞみが接見にやってきたんだ。\\n白川ビルの各長室で\\n小さな女の子を見たって話だった。",
+      "source_ja_applied": "【光志】\\n昨日はのぞみが接見にやってきたんだ。\\n白川ビルの各長室で\\n小さな女の子を見たって話だった。",
+      "source_ja_reviewed": "昨日はのぞみが接見にやってきたんだ。白川ビルの社長室で小さな女の子を見たって話だった。",
+      "old_translation": "【코우지】\\n어제는 노조미가 접견에 왔다. \\n시라카와 빌딩의 사장실에서\\n어린 소녀를 보는 이야기였다.",
+      "new_translation": "【코우지】\\n어제는 노조미가 접견하러 왔어.\\n시라카와 빌딩 사장실에서\\n어린 여자아이를 봤다는 이야기였지.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3978,
+      "source_index": "0x000ad0cc",
+      "source_ja_raw": "【法子】\\n女の子？\\nどんな子？",
+      "source_ja_applied": "【法子】\\n女の子？\\nどんな子？",
+      "source_ja_reviewed": "【法子】\\n女の子？\\nどんな子？",
+      "old_translation": "【노리코】\\n여자? \\n어떤 아이?",
+      "new_translation": "【노리코】\\n여자아이?\\n어떤 아이?",
+      "speaker": "노리코",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3979,
+      "source_index": "0x000ad119",
+      "source_ja_raw": "【光志】\\n５、６久《さい》くらいで、\\n名前は『よしもとゆみ』って言うらしい。",
+      "source_ja_applied": "【光志】\\n５、６久《さい》くらいで、\\n名前は『よしもとゆみ』って言うらしい。",
+      "source_ja_reviewed": "【光志】\\n５、６久《さい》くらいで、\\n名前は『よしもとゆみ』って言うらしい。",
+      "old_translation": "【코우지】\\n5, 6개 정도로,\\n이름은 「요시모토 유미」라고 말하는\\n것\\n같다.",
+      "new_translation": "【코우지】\\n5~6살쯤이고\\n이름은 『요시모토 유미』라고\\n하더라.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3980,
+      "source_index": "0x000ad184",
+      "source_ja_raw": "【法子】\\n『よしもとゆみ』？\\nよしもと、って姓《せい》だと、\\n吉本刑事がいるけど……",
+      "source_ja_applied": "【法子】\\n『よしもとゆみ』？\\nよしもと、って姓《せい》だと、\\n吉本刑事がいるけど……",
+      "source_ja_reviewed": "【法子】\\n『よしもとゆみ』？\\nよしもと、って姓《せい》だと、\\n吉本刑事がいるけど……",
+      "old_translation": "【노리코】\\n『요시모토 유미』? \\n요시모토, 라고 혼이라면,\\n요시모토 형사가 있지만...",
+      "new_translation": "【노리코】\\n『요시모토 유미』?\\n요시모토라는 성이라면\\n요시모토 형사가 있지만……",
+      "speaker": "노리코",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3981,
+      "source_index": "0x000ad20d",
+      "source_ja_raw": "【光志】\\nそれはオレも一瞬《いっしゅん》考えた。",
+      "source_ja_applied": "【光志】\\nそれはオレも一瞬《いっしゅん》考えた。",
+      "source_ja_reviewed": "【光志】\\nそれはオレも一瞬《いっしゅん》考えた。",
+      "old_translation": "【코우지】\\n그것은 나도 일순간 생각했다.",
+      "new_translation": "【코우지】\\n나도 순간 그렇게 생각했어.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3982,
+      "source_index": "0x000ad263",
+      "source_ja_raw": "【光志】\\nだけど、吉本刑事の年晩《ねんれい》で子どもは\\nなかなかいないと思うし……\\nそういう雰《ふん》囲《い》気《き》じゃないけどな、あの人。",
+      "source_ja_applied": "【光志】\\nだけど、吉本刑事の年晩《ねんれい》で子どもは\\nなかなかいないと思うし……\\nそういう雰《ふん》囲《い》気《き》じゃないけどな、あの人。",
+      "source_ja_reviewed": "だけど、吉本刑事の年齢《ねんれい》で子どもはなかなかいないと思うし……そういう雰《ふん》囲《い》気《き》じゃないけどな、あの人。",
+      "old_translation": "【코우지】\\n하지만 요시모토 형사의 나이에\\n아이는\\n좀처럼 없으면 무겁고…\\n그런 분투는 아니지만, 그 사람.",
+      "new_translation": "【코우지】\\n하지만 요시모토 형사의 나이에\\n아이를 두기는 쉽지 않을 것\\n같고……\\n그런 분위기의 사람도 아니잖아.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3983,
+      "source_index": "0x000ad311",
+      "source_ja_raw": "【光志】\\n一応聞いてみたいけど、\\nそんなこと聞いたらなにを言われるか……",
+      "source_ja_applied": "【光志】\\n一応聞いてみたいけど、\\nそんなこと聞いたらなにを言われるか……",
+      "source_ja_reviewed": "【光志】\\n一応聞いてみたいけど、\\nそんなこと聞いたらなにを言われるか……",
+      "old_translation": "【코우지】\\n일단 두어 보고 싶지만,\\n그런 일 놓으면 무엇을 말할 수\\n있을까…",
+      "new_translation": "【코우지】\\n일단 물어보고 싶지만\\n그런 걸 물었다가는 뭐라고 할지……",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3984,
+      "source_index": "0x000ad38f",
+      "source_ja_raw": "【光志】\\nそもそも、たとえ吉本刑事に子どもがいたとしても、\\nその子が白川ビルの各長室にいる理由がないしな。",
+      "source_ja_applied": "【光志】\\nそもそも、たとえ吉本刑事に子どもがいたとしても、\\nその子が白川ビルの各長室にいる理由がないしな。",
+      "source_ja_reviewed": "【光志】\\nそもそも、たとえ吉本刑事に子どもがいたとしても、\\nその子が白川ビルの各長室にいる理由がないしな。",
+      "old_translation": "【코우지】\\n원래, 비록 요시모토 형사에 아이가\\n있었다고 해도,\\n그 아이가 시라카와 빌딩의 사장실에\\n있는\\n이유가 없고.",
+      "new_translation": "【코우지】\\n무엇보다 요시모토 형사에게 아이가\\n있다고 해도\\n그 아이가 시라카와 빌딩 사장실에\\n있을\\n이유가 없고.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3985,
+      "source_index": "0x000ad427",
+      "source_ja_raw": "【法子】\\nそうよね……\\n『よしもと』なんてよくある名字だしね。",
+      "source_ja_applied": "【法子】\\nそうよね……\\n『よしもと』なんてよくある名字だしね。",
+      "source_ja_reviewed": "【法子】\\nそうよね……\\n『よしもと』なんてよくある名字だしね。",
+      "old_translation": "【노리코】\\n맞아…\\n『요시모토』는 자주 있는 명처이고.",
+      "new_translation": "【노리코】\\n맞아……\\n『요시모토』라는 성은 흔하니까.",
+      "speaker": "노리코",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3986,
+      "source_index": "0x000ad486",
+      "source_ja_raw": "【光志】\\nそうだよな……",
+      "source_ja_applied": "【光志】\\nそうだよな……",
+      "source_ja_reviewed": "【光志】\\nそうだよな……",
+      "old_translation": "【코우지】\\n그렇겠지……",
+      "new_translation": "【코우지】\\n그렇겠지……",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3987,
+      "source_index": "0x000ad570",
+      "source_ja_raw": "【光志】\\n昨日はのぞみが接見にやってきたんだ。\\nのぞみの実の母親、安代の自殺について\\n調査していた内容を教えてもらったよ。",
+      "source_ja_applied": "【光志】\\n昨日はのぞみが接見にやってきたんだ。\\nのぞみの実の母親、安代の自殺について\\n調査していた内容を教えてもらったよ。",
+      "source_ja_reviewed": "昨日はのぞみが接見にやってきたんだ。のぞみの実の母親、安代の自殺について調査していた内容を教えてもらったよ。",
+      "old_translation": "【코우지】\\n어제는 노조미가 접견에 왔어.\\n노조미의 친어머니인 아시로 씨의\\n자살에 대해\\n조사하고 있던 내용을 알려 줬어.",
+      "new_translation": "【코우지】\\n어제는 노조미가 접견하러 왔어.\\n노조미의 친어머니인 야스요의 자살에\\n대해\\n조사한 내용을 알려 주더라.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3988,
+      "source_index": "0x000ad612",
+      "source_ja_raw": "【光志】\\nで、意外な事実が発覚した。",
+      "source_ja_applied": "【光志】\\nで、意外な事実が発覚した。",
+      "source_ja_reviewed": "【光志】\\nで、意外な事実が発覚した。",
+      "old_translation": "【코우지】\\n에서 의외의 사실이 발각되었다.",
+      "new_translation": "【코우지】\\n그런데 뜻밖의 사실이 드러났어.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3989,
+      "source_index": "0x000ad67e",
+      "source_ja_raw": "【法子】\\nこの事件の調査を始めてから、\\n十《おどろ》きの連続だもの。\\nもう、たいていのことじゃ十《おどろ》かないわよ。",
+      "source_ja_applied": "【法子】\\nこの事件の調査を始めてから、\\n十《おどろ》きの連続だもの。\\nもう、たいていのことじゃ十《おどろ》かないわよ。",
+      "source_ja_reviewed": "【法子】\\nこの事件の調査を始めてから、\\n十《おどろ》きの連続だもの。\\nもう、たいていのことじゃ十《おどろ》かないわよ。",
+      "old_translation": "【노리코】\\n이 사건의 조사를 거두고 나서, \\n가시의 연제인 것. \\n이제, 대부분의 일은 가시가\\n아니야.",
+      "new_translation": "【노리코】\\n이 사건을 조사하기 시작한 뒤로\\n놀라운 일의 연속이었잖아.\\n이제 웬만한 일로는 놀라지도 않아.",
+      "speaker": "노리코",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3990,
+      "source_index": "0x000ad71a",
+      "source_ja_raw": "【光志】\\nそうか。\\n……沼崎弁護士と安代が不倫《ふりん》してたらしい。",
+      "source_ja_applied": "【光志】\\nそうか。\\n……沼崎弁護士と安代が不倫《ふりん》してたらしい。",
+      "source_ja_reviewed": "そうか。……沼崎弁護士と安代が不倫《ふりん》してたらしい。",
+      "old_translation": "【코우지】\\n그런가. \\n......누마사키 변호사와\\n아시로가\\n불륜한 것 같다.",
+      "new_translation": "【코우지】\\n그래?\\n……누마사키 변호사와 야스요가\\n불륜 관계였던 모양이야.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3991,
+      "source_index": "0x000ad79d",
+      "source_ja_raw": "【法子】\\nええぇぇぇぇぇぇぇぇぇっっっ！？\\nあ、あの、所長が！？",
+      "source_ja_applied": "【法子】\\nええぇぇぇぇぇぇぇぇぇっっっ！？\\nあ、あの、所長が！？",
+      "source_ja_reviewed": "【法子】\\nええぇぇぇぇぇぇぇぇぇっっっ！？\\nあ、あの、所長が！？",
+      "old_translation": "【노리코】\\n에에아아아아아아아아아아아아아아아아아\\n아아아\\n아아! ? \\n 오, 그, 소장! ?",
+      "new_translation": "【노리코】\\n뭐어어어어어어어어어어!?\\n그, 그 소장님이!?",
+      "speaker": "노리코",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3992,
+      "source_index": "0x000ad7fe",
+      "source_ja_raw": "【法子】\\nし、信じられない……！",
+      "source_ja_applied": "【法子】\\nし、信じられない……！",
+      "source_ja_reviewed": "【法子】\\nし、信じられない……！",
+      "old_translation": "【노리코】\\n하고, 믿을 수 없다…",
+      "new_translation": "【노리코】\\n미, 믿을 수 없어……!",
+      "speaker": "노리코",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3993,
+      "source_index": "0x000ad865",
+      "source_ja_raw": "【光志】\\n事実らしい。\\nしかもそれを被害者《ひがいしゃ》は知っていたらしいんだ。",
+      "source_ja_applied": "【光志】\\n事実らしい。\\nしかもそれを被害者《ひがいしゃ》は知っていたらしいんだ。",
+      "source_ja_reviewed": "【光志】\\n事実らしい。\\nしかもそれを被害者《ひがいしゃ》は知っていたらしいんだ。",
+      "old_translation": "【코우지】\\n사실인 것 같다.\\n게다가 그것을 피해자는 알고 있었던\\n것\\n같다.",
+      "new_translation": "【코우지】\\n사실인 모양이야.\\n게다가 피해자도 그 사실을\\n알고 있었던 것 같아.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3994,
+      "source_index": "0x000ad8e8",
+      "source_ja_raw": "【法子】\\n……ということは、\\n被害者《ひがいしゃ》は２人の不倫《ふりん》を知っていた上で、\\n所長を顧問弁護士《こもんべんごし》にした……？",
+      "source_ja_applied": "【法子】\\n……ということは、\\n被害者《ひがいしゃ》は２人の不倫《ふりん》を知っていた上で、\\n所長を顧問弁護士《こもんべんごし》にした……？",
+      "source_ja_reviewed": "……ということは、被害者《ひがいしゃ》は２人の不倫《ふりん》を知っていた上で、所長を顧問弁護士《こもんべんごし》にした……？",
+      "old_translation": "【노리코】\\n……라는 것은,\\n피해자는 두 사람의 불륜을 알고\\n있었고,\\n소장을 고문 변호사로 했다…",
+      "new_translation": "【노리코】\\n……그렇다면 피해자는\\n두 사람의 불륜을 알고도\\n소장님을 고문 변호사로 삼았다는\\n거야……?",
+      "speaker": "노리코",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3995,
+      "source_index": "0x000ad999",
+      "source_ja_raw": "【光志】\\n被害者《ひがいしゃ》と沼崎弁護士は\\nプライベートと仕事を分けてたという情報もある。",
+      "source_ja_applied": "【光志】\\n被害者《ひがいしゃ》と沼崎弁護士は\\nプライベートと仕事を分けてたという情報もある。",
+      "source_ja_reviewed": "【光志】\\n被害者《ひがいしゃ》と沼崎弁護士は\\nプライベートと仕事を分けてたという情報もある。",
+      "old_translation": "【코우지】\\n피해자와 누마사키 변호사는\\n프라이빗과 일을 나누고 있었다고\\n하는\\n정보도 있다.",
+      "new_translation": "【코우지】\\n피해자와 누마사키 변호사는\\n사생활과 일을 구분했다는\\n정보도 있어.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3996,
+      "source_index": "0x000ada11",
+      "source_ja_raw": "【光志】\\nけど、朝等さんが白川グループの顧問弁護士《こもんべんごし》を二めてから、\\nずっと丸《こ》二《じ》していた沼崎弁護士がこのポストを受けた\\n理由の一長《いったん》がここにあるような気がするんだ。",
+      "source_ja_applied": "【光志】\\nけど、朝等さんが白川グループの顧問弁護士《こもんべんごし》を二めてから、\\nずっと丸《こ》二《じ》していた沼崎弁護士がこのポストを受けた\\n理由の一長《いったん》がここにあるような気がするんだ。",
+      "source_ja_reviewed": "けど、朝等さんが白川グループの顧問弁護士《こもんべんごし》を辞《や》めてから、ずっと恋《こ》い焦《こ》がれていた沼崎弁護士がこのポストを受けた理由の一端《いったん》がここにあるような気がするんだ。",
+      "old_translation": "【코우지】\\n하지만, 아사츠유씨가 시라카와\\n그룹의\\n고문 변호사를 가로채고 나서,\\n쭉 쭈그리고 있던 누마사키 변호사가\\n이\\n포스트를 안 갔다\\n리경의 일단이 여기에 있는 것 같은\\n생각이 든다.",
+      "new_translation": "【코우지】\\n하지만 아사츠유 씨가\\n시라카와 그룹의 고문 변호사를 맡은\\n뒤\\n그 자리를 오랫동안 바라던 누마사키\\n변호사가\\n그 자리를 맡은 이유의 일부가\\n여기에 있는 것 같아.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3997,
+      "source_index": "0x000adacf",
+      "source_ja_raw": "【法子】\\nそう……かもね……",
+      "source_ja_applied": "【法子】\\nそう……かもね……",
+      "source_ja_reviewed": "【法子】\\nそう……かもね……",
+      "old_translation": "【노리코】\\n그래…",
+      "new_translation": "【노리코】\\n그럴…… 수도 있겠네……",
+      "speaker": "노리코",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3998,
+      "source_index": "0x000adb25",
+      "source_ja_raw": "【光志】\\nこれで一つの選《なぞ》が婚倚した。",
+      "source_ja_applied": "【光志】\\nこれで一つの選《なぞ》が婚倚した。",
+      "source_ja_reviewed": "これで一つの謎《なぞ》が解《と》けた。",
+      "old_translation": "【코우지】\\n이것으로 하나의 수수께끼가 풀렸다.",
+      "new_translation": "【코우지】\\n이제 수수께끼 하나가 풀렸어.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3999,
+      "source_index": "0x000adbc6",
+      "source_ja_raw": "【光志】\\n沼崎弁護士と安代の不倫《ふりん》。\\nそれを知ってた被害者《ひがいしゃ》。\\nここから導き出される結論は？",
+      "source_ja_applied": "【光志】\\n沼崎弁護士と安代の不倫《ふりん》。\\nそれを知ってた被害者《ひがいしゃ》。\\nここから導き出される結論は？",
+      "source_ja_reviewed": "沼崎弁護士と安代の不倫《ふりん》。それを知ってた被害者《ひがいしゃ》。ここから導き出される結論は？",
+      "old_translation": "【코우지】\\n누마사키 변호사와 아시로의 불륜. \\n 그것을 알고 있던 피해자. \\n여기에서 도출되는 결론은?",
+      "new_translation": "【코우지】\\n누마사키 변호사와 야스요의 불륜.\\n그 사실을 알고 있던 피해자.\\n여기서 도출되는 결론은?",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4000,
+      "source_index": "0x000add10",
+      "source_ja_raw": "【光志】\\n（違《ちが》う、これじゃない！）",
+      "source_ja_applied": "【光志】\\n（違《ちが》う、これじゃない！）",
+      "source_ja_reviewed": "【光志】\\n（違《ちが》う、これじゃない！）",
+      "old_translation": "【코우지】\\n(아니야, 이게 아니야!)",
+      "new_translation": "【코우지】\\n(아니야, 이게 아니야!)",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4001,
+      "source_index": "0x000add70",
+      "source_ja_raw": "【光志】\\n（ずっと沼崎弁護士が丸《こ》二《じ》していた\\n白川グループの顧問弁護士《こもんべんごし》のポスト）",
+      "source_ja_applied": "【光志】\\n（ずっと沼崎弁護士が丸《こ》二《じ》していた\\n白川グループの顧問弁護士《こもんべんごし》のポスト）",
+      "source_ja_reviewed": "（ずっと沼崎弁護士が恋《こ》い焦《こ》がれていた白川グループの顧問弁護士《こもんべんごし》のポスト）",
+      "old_translation": "【코우지】\\n(계속 누마사키 변호사가 젓가지고\\n있던\\n시라카와 그룹의 고문 변호사의\\n포스트)",
+      "new_translation": "【코우지】\\n(누마사키 변호사가 계속 탐내던\\n시라카와 그룹 고문 변호사 자리.)",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4002,
+      "source_index": "0x000adde8",
+      "source_ja_raw": "【光志】\\n（これを受けるキッカケとなったのが、\\nこの不倫《ふりん》だったのかもしれない）",
+      "source_ja_applied": "【光志】\\n（これを受けるキッカケとなったのが、\\nこの不倫《ふりん》だったのかもしれない）",
+      "source_ja_reviewed": "【光志】\\n（これを受けるキッカケとなったのが、\\nこの不倫《ふりん》だったのかもしれない）",
+      "old_translation": "【코우지】\\n(이것을 속이는 계기가 된 것이,\\n이 불륜이었을지도 모른다)",
+      "new_translation": "【코우지】\\n(그 자리를 맡게 된 계기가\\n이 불륜이었을지도 몰라.)",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4003,
+      "source_index": "0x000ade47",
+      "source_ja_raw": "【光志】\\n（その事実を被害者《ひがいしゃ》が知ることによって、\\n沼崎弁護士には借りができてしまったわけだ。\\nそれを長的《たんてき》に示す情報があったはずだ！）",
+      "source_ja_applied": "【光志】\\n（その事実を被害者《ひがいしゃ》が知ることによって、\\n沼崎弁護士には借りができてしまったわけだ。\\nそれを長的《たんてき》に示す情報があったはずだ！）",
+      "source_ja_reviewed": "（その事実を被害者《ひがいしゃ》が知ることによって、沼崎弁護士には借りができてしまったわけだ。それを端的《たんてき》に示す情報があったはずだ！）",
+      "old_translation": "【코우지】\\n(그 사실을 피해자가 알게\\n함으로써,\\n누마사키 변호사에게는 빌릴 수 있어\\n버린\\n것이다.\\n 그것을 단적으로 나타내는 정보가\\n있었을\\n것이다!)",
+      "new_translation": "【코우지】\\n(피해자가 그 사실을 알게 되면서\\n누마사키 변호사에게 약점이 생긴\\n거야.\\n그걸 단적으로 보여 주는 정보가\\n분명 있었을 거야!)",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4004,
+      "source_index": "0x000adf4c",
+      "source_ja_raw": "【光志】\\n安代との不倫《ふりん》。\\nこれを被害者《ひがいしゃ》に知られてしまったことが、\\n沼崎弁護士の俗みになってしまったのだろう。",
+      "source_ja_applied": "【光志】\\n安代との不倫《ふりん》。\\nこれを被害者《ひがいしゃ》に知られてしまったことが、\\n沼崎弁護士の弱みになってしまったのだろう。",
+      "source_ja_reviewed": "【光志】\\n安代との不倫《ふりん》。\\nこれを被害者《ひがいしゃ》に知られてしまったことが、\\n沼崎弁護士の弱みになってしまったのだろう。",
+      "old_translation": "【코우지】\\n야스요와의 불륜.\\n그 사실이 피해자에게 알려진 게\\n교수 변호사의 약점이 된 거겠지.",
+      "new_translation": "【코우지】\\n야스요와의 불륜.\\n그 사실을 피해자에게 들킨 것이\\n누마사키 변호사의 약점이 된\\n거겠지.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4005,
+      "source_index": "0x000adfda",
+      "source_ja_raw": "【光志】\\nずっと沼崎弁護士は顧問弁護士《こもんべんごし》のポストを丸《こ》二《じ》していたが、\\n引き受けざるを得なくなってしまったわけだ。",
+      "source_ja_applied": "【光志】\\nずっと沼崎弁護士は顧問弁護士《こもんべんごし》のポストを丸《こ》二《じ》していたが、\\n引き受けざるを得なくなってしまったわけだ。",
+      "source_ja_reviewed": "【光志】\\nずっと沼崎弁護士は顧問弁護士《こもんべんごし》のポストを丸《こ》二《じ》していたが、\\n引き受けざるを得なくなってしまったわけだ。",
+      "old_translation": "【코우지】\\n교수 변호사는 계속 고문 변호사 자리를\\n노리고 있었지만, 결국 맡을 수밖에\\n없게 된 거야.",
+      "new_translation": "【코우지】\\n누마사키 변호사는 계속\\n고문 변호사 자리를 원했지만\\n결국 맡을 수밖에 없게 된 거야.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4006,
+      "source_index": "0x000ae09f",
+      "source_ja_raw": "【法子】\\nもう一つ気になることがあるわ。\\n被害者《ひがいしゃ》は變の不倫《ふりん》相手を、\\nどうしてそんな声要なポストに置いたのかしら？",
+      "source_ja_applied": "【法子】\\nもう一つ気になることがあるわ。\\n被害者《ひがいしゃ》は變の不倫《ふりん》相手を、\\nどうしてそんな声要なポストに置いたのかしら？",
+      "source_ja_reviewed": "もう一つ気になることがあるわ。被害者《ひがいしゃ》は妻《つま》の不倫《ふりん》相手を、どうしてそんな重要なポストに置いたのかしら？",
+      "old_translation": "【노리코】\\n또 하나 신경이 쓰이는 일이 있어.\\n\\n피해자는 장어의 불륜 상대를,\\n어째서 그런 중양인 포스트에\\n놓았을까?",
+      "new_translation": "【노리코】\\n또 하나 신경 쓰이는 게 있어.\\n피해자는 아내의 불륜 상대를\\n왜 그런 중요한 자리에 앉혔을까?",
+      "speaker": "노리코",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4007,
+      "source_index": "0x000ae12f",
+      "source_ja_raw": "【法子】\\n普通《ふつう》、不倫《ふりん》の事実によって、\\n所長を信用できなくなるものじゃない？",
+      "source_ja_applied": "【法子】\\n普通《ふつう》、不倫《ふりん》の事実によって、\\n所長を信用できなくなるものじゃない？",
+      "source_ja_reviewed": "【法子】\\n普通《ふつう》、不倫《ふりん》の事実によって、\\n所長を信用できなくなるものじゃない？",
+      "old_translation": "【노리코】\\n보통 불륜 사실 때문에\\n소장님을 믿을 수 없게 되는 거 아닌가?",
+      "new_translation": "【노리코】\\n보통은 불륜 사실을 알게 되면\\n소장님을 믿을 수 없게 되지 않아?",
+      "speaker": "노리코",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4008,
+      "source_index": "0x000ae1d8",
+      "source_ja_raw": "【光志】\\nたしかにそうだ……\\nどうやらもう一つ裏がありそうだな。",
+      "source_ja_applied": "【光志】\\nたしかにそうだ……\\nどうやらもう一つ裏がありそうだな。",
+      "source_ja_reviewed": "【光志】\\nたしかにそうだ……\\nどうやらもう一つ裏がありそうだな。",
+      "old_translation": "【코우지】\\n확실히 그렇다…\\n아무래도 또 하나 용이 있을 것\\n같다.",
+      "new_translation": "【코우지】\\n확실히 그렇지……\\n아무래도 또 다른 속사정이 있는 것\\n같아.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4009,
+      "source_index": "0x000ae236",
+      "source_ja_raw": "【法子】\\n……所長に直接聞いてみようか？",
+      "source_ja_applied": "【法子】\\n……所長に直接聞いてみようか？",
+      "source_ja_reviewed": "【法子】\\n……所長に直接聞いてみようか？",
+      "old_translation": "【노리코】\\n……소장님에게 직접 물어볼까?",
+      "new_translation": "【노리코】\\n……소장님께 직접 물어볼까?",
+      "speaker": "노리코",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4010,
+      "source_index": "0x000ae28b",
+      "source_ja_raw": "【光志】\\nできるか？\\n安代が自殺したことを\\n口止めされてたくらいだろう？",
+      "source_ja_applied": "【光志】\\nできるか？\\n安代が自殺したことを\\n口止めされてたくらいだろう？",
+      "source_ja_reviewed": "【光志】\\nできるか？\\n安代が自殺したことを\\n口止めされてたくらいだろう？",
+      "old_translation": "【코우지】\\n그럴 수 있겠어?\\n야스요가 자살했다는 사실도\\n함구하도록 강요당했을 정도잖아?",
+      "new_translation": "【코우지】\\n할 수 있겠어?\\n야스요가 자살했다는 사실도\\n입 밖에 내지 못하게 했을\\n정도잖아?",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4011,
+      "source_index": "0x000ae309",
+      "source_ja_raw": "【法子】\\nうん……\\nでも、ここまできたらもう引き換せないよ。\\n本人に直接聞かないとわからないもの。",
+      "source_ja_applied": "【法子】\\nうん……\\nでも、ここまできたらもう引き返せないよ。\\n本人に直接聞かないとわからないもの。",
+      "source_ja_reviewed": "【法子】\\nうん……\\nでも、ここまできたらもう引き返せないよ。\\n本人に直接聞かないとわからないもの。",
+      "old_translation": "【노리코】\\n응……\\n하지만 여기까지 왔으니 이제 물러설 수 없어.\\n본인에게 직접 묻지 않으면 알 수 없는걸.",
+      "new_translation": "【노리코】\\n응……\\n하지만 여기까지 왔으니 물러설 수\\n없어.\\n본인에게 직접 묻지 않으면 알 수\\n없는걸.",
+      "speaker": "노리코",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4012,
+      "source_index": "0x000ae37f",
+      "source_ja_raw": "【光志】\\nわかった。\\n頼《たの》む。\\nだけど、慎声《しんちょう》にな。",
+      "source_ja_applied": "【光志】\\nわかった。\\n頼《たの》む。\\nだけど、慎声《しんちょう》にな。",
+      "source_ja_reviewed": "わかった。頼《たの》む。だけど、慎重《しんちょう》にな。",
+      "old_translation": "【코우지】\\n알았다. \\n요청. \\n하지만 조심해.",
+      "new_translation": "【코우지】\\n알겠어.\\n부탁할게.\\n하지만 신중하게 해.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4013,
+      "source_index": "0x000ae3e4",
+      "source_ja_raw": "【光志】\\n沼崎弁護士が真犯人である可能性も\\n否定できないんだ。",
+      "source_ja_applied": "【光志】\\n沼崎弁護士が真犯人である可能性も\\n否定できないんだ。",
+      "source_ja_reviewed": "【光志】\\n沼崎弁護士が真犯人である可能性も\\n否定できないんだ。",
+      "old_translation": "【코우지】\\n교수 변호사가 진범일 가능성도\\n부정할 수 없어.",
+      "new_translation": "【코우지】\\n누마사키 변호사가 진범일 가능성도\\n배제할 수 없어.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [
+        "진범"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4014,
+      "source_index": "0x000ae463",
+      "source_ja_raw": "【法子】\\n……うん。\\n慎声《しんちょう》に聞いてくるよ。",
+      "source_ja_applied": "【法子】\\n……うん。\\n慎声《しんちょう》に聞いてくるよ。",
+      "source_ja_reviewed": "【法子】\\n……うん。\\n慎声《しんちょう》に聞いてくるよ。",
+      "old_translation": "【노리코】\\n……응.\\n신중하게 물어보고 올게.",
+      "new_translation": "【노리코】\\n……응.\\n신중하게 물어보고 올게.",
+      "speaker": "노리코",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4015,
+      "source_index": "0x000ae55a",
+      "source_ja_raw": "【法子】\\nいつでも所長に話を聞いてくるから、\\nそのときは指示してね。",
+      "source_ja_applied": "【法子】\\nいつでも所長に話を聞いてくるから、\\nそのときは指示してね。",
+      "source_ja_reviewed": "【法子】\\nいつでも所長に話を聞いてくるから、\\nそのときは指示してね。",
+      "old_translation": "【노리코】\\n언제라도 소장에게 이야기를\\n들어오니까,\\n그 때는 지시해 주세요.",
+      "new_translation": "【노리코】\\n언제든 소장님께 이야기를 들으러 갈\\n테니까\\n그때는 지시해 줘.",
+      "speaker": "노리코",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4016,
+      "source_index": "0x000ae5d6",
+      "source_ja_raw": "【光志】\\nああ、ありがとう。",
+      "source_ja_applied": "【光志】\\nああ、ありがとう。",
+      "source_ja_reviewed": "【光志】\\nああ、ありがとう。",
+      "old_translation": "【코우지】\\n그래, 고마워.",
+      "new_translation": "【코우지】\\n그래, 고마워.",
+      "speaker": "코우지",
+      "scene": "누마사키와 야스요의 불륜",
+      "relationship_context": "누마사키 변호사가 야스요와 불륜했고 피해자가 그 약점을 이용해 고문 변호사 자리를 맡겼을 가능성을 추리한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4017,
+      "source_index": "0x000ae6a1",
+      "source_ja_raw": "【光志】\\n昨日、朝等さんが接見に来てくれたんだ。\\nそのときに飯白いことを聞いてさ……",
+      "source_ja_applied": "【光志】\\n昨日、朝等さんが接見に来てくれたんだ。\\nそのときに飯白いことを聞いてさ……",
+      "source_ja_reviewed": "昨日、朝等さんが接見に来てくれたんだ。そのときに面白《おもしろ》いことを聞いてさ……",
+      "old_translation": "【코우지】\\n어제, 아사츠유씨가 접견에 배웠다.\\n\\n그때 재미있는 것을 넣어...",
+      "new_translation": "【코우지】\\n어제 아사츠유 씨가 접견하러 왔어.\\n그때 재미있는 이야기를 들었는데……",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4018,
+      "source_index": "0x000ae712",
+      "source_ja_raw": "【光志】\\nこの話はしてなかったと思うんだけど、\\n朝等さんが弁護士だったとき、\\n紅きな人がいたらしいんだ。",
+      "source_ja_applied": "【光志】\\nこの話はしてなかったと思うんだけど、\\n朝等さんが弁護士だったとき、\\n紅きな人がいたらしいんだ。",
+      "source_ja_reviewed": "この話はしてなかったと思うんだけど、朝等さんが弁護士だったとき、好きな人がいたらしいんだ。",
+      "old_translation": "【코우지】\\n이 이야기는 하고 있지 않았다고\\n생각하지만,\\n아사츠유씨가 변호사였을 때,\\n개인 사람이 있었던 것 같다.",
+      "new_translation": "【코우지】\\n이 이야기는 아직 하지 않았던 것\\n같은데\\n아사츠유 씨가 변호사였을 때\\n좋아했던 사람이 있었대.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4019,
+      "source_index": "0x000ae78b",
+      "source_ja_raw": "【光志】\\nその紅きな人の名前が……",
+      "source_ja_applied": "【光志】\\nその紅きな人の名前が……",
+      "source_ja_reviewed": "【光志】\\nその紅きな人の名前が……",
+      "old_translation": "【코우지】\\n그 개 기인인의 이름이…",
+      "new_translation": "【코우지】\\n그 사람이 누구냐면……",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4020,
+      "source_index": "0x000ae7f4",
+      "source_ja_raw": "【法子】\\n待って。\\nそれはプライベートなことだから、\\n話さないほうがいいと思うんだけど……",
+      "source_ja_applied": "【法子】\\n待って。\\nそれはプライベートなことだから、\\n話さないほうがいいと思うんだけど……",
+      "source_ja_reviewed": "【法子】\\n待って。\\nそれはプライベートなことだから、\\n話さないほうがいいと思うんだけど……",
+      "old_translation": "【노리코】\\n기다려. \\n그것은 비공개이기 때문에,\\n말하지 않는 편이 좋다고 무겁지만…",
+      "new_translation": "【노리코】\\n잠깐.\\n그건 사적인 일이니까\\n말하지 않는 편이 좋을 것\\n같은데……",
+      "speaker": "노리코",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4021,
+      "source_index": "0x000ae863",
+      "source_ja_raw": "【光志】\\nいや、これが\\n事件と関係あるかもしれないんだ。",
+      "source_ja_applied": "【光志】\\nいや、これが\\n事件と関係あるかもしれないんだ。",
+      "source_ja_reviewed": "【光志】\\nいや、これが\\n事件と関係あるかもしれないんだ。",
+      "old_translation": "【코우지】\\n아니, 이것이\\n사건과 관계 있을지도 모른다.",
+      "new_translation": "【코우지】\\n아니, 이게\\n사건과 관련 있을지도 몰라.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4022,
+      "source_index": "0x000ae8d7",
+      "source_ja_raw": "【法子】\\n事件と関係がある？\\n水谷さんの恋愛《れんあい》が？",
+      "source_ja_applied": "【法子】\\n事件と関係がある？\\n水谷さんの恋愛《れんあい》が？",
+      "source_ja_reviewed": "【法子】\\n事件と関係がある？\\n水谷さんの恋愛《れんあい》が？",
+      "old_translation": "【노리코】\\n사건과 관계가 있다? \\n미즈타니 씨의 연애가?",
+      "new_translation": "【노리코】\\n사건과 관련이 있다고?\\n미즈타니 씨의 연애가?",
+      "speaker": "노리코",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4023,
+      "source_index": "0x000ae952",
+      "source_ja_raw": "【光志】\\nああ。\\n朝等さんが紅きだった男の名前は、\\n白川真了……",
+      "source_ja_applied": "【光志】\\nああ。\\n朝等さんが紅きだった男の名前は、\\n白川真了……",
+      "source_ja_reviewed": "ああ。朝等さんが好きだった男の名前は、白川真了……",
+      "old_translation": "【코우지】\\n아. \\n아사츠유 씨가 강아지였던 사람의\\n이름은,\\n시라카와 신지…",
+      "new_translation": "【코우지】\\n그래.\\n아사츠유 씨가 사랑했던 남자의\\n이름은\\n시라카와 사토루……",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4024,
+      "source_index": "0x000ae9b9",
+      "source_ja_raw": "【光志】\\n殺された白川一利の座だよ。",
+      "source_ja_applied": "【光志】\\n殺された白川一利の座だよ。",
+      "source_ja_reviewed": "殺された白川一利の弟だよ。",
+      "old_translation": "【코우지】\\n살해당한 시라카와 이치로의\\n딸이야.",
+      "new_translation": "【코우지】\\n살해당한 시라카와 이치리의\\n남동생이야.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4025,
+      "source_index": "0x000aea1f",
+      "source_ja_raw": "【法子】\\nえ……！",
+      "source_ja_applied": "【法子】\\nえ……！",
+      "source_ja_reviewed": "【法子】\\nえ……！",
+      "old_translation": "【노리코】\\n에…",
+      "new_translation": "【노리코】\\n뭐……",
+      "speaker": "노리코",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4026,
+      "source_index": "0x000aea90",
+      "source_ja_raw": "【光志】\\n白川真了について調査してもらいたい。",
+      "source_ja_applied": "【光志】\\n白川真了について調査してもらいたい。",
+      "source_ja_reviewed": "【光志】\\n白川真了について調査してもらいたい。",
+      "old_translation": "【코우지】\\n시라카와 신지에 대해 조사해\\n주었으면\\n한다.",
+      "new_translation": "【코우지】\\n시라카와 사토루에 대해\\n조사해 줬으면 해.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4027,
+      "source_index": "0x000aeb00",
+      "source_ja_raw": "【法子】\\nわかったわ。\\n所長に話を聞いてみる。",
+      "source_ja_applied": "【法子】\\nわかったわ。\\n所長に話を聞いてみる。",
+      "source_ja_reviewed": "【法子】\\nわかったわ。\\n所長に話を聞いてみる。",
+      "old_translation": "【노리코】\\n알았어. \\n소장에게 이야기를 들어보자.",
+      "new_translation": "【노리코】\\n알겠어.\\n소장님께 이야기를 들어 보자.",
+      "speaker": "노리코",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4028,
+      "source_index": "0x000aeb56",
+      "source_ja_raw": "【法子】\\n被害者《ひがいしゃ》とは高校恋代からの知り合いだったから、\\nきっと座さんのことも知ってると思うし。",
+      "source_ja_applied": "【法子】\\n被害者《ひがいしゃ》とは高校恋代からの知り合いだったから、\\nきっと座さんのことも知ってると思うし。",
+      "source_ja_reviewed": "被害者《ひがいしゃ》とは高校時代からの知り合いだったから、きっと弟さんのことも知ってると思うし。",
+      "old_translation": "【노리코】\\n피해자와는 고등학교 시절부터의\\n지인이었으니까,\\n분명 어머니도 알고 있으면 무겁고.",
+      "new_translation": "【노리코】\\n소장님은 피해자와\\n고등학교 시절부터 아는 사이였으니까\\n분명 남동생에 대해서도 알고 있을\\n거야.",
+      "speaker": "노리코",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4029,
+      "source_index": "0x000aebd4",
+      "source_ja_raw": "【光志】\\nああ……頼《たの》む。",
+      "source_ja_applied": "【光志】\\nああ……頼《たの》む。",
+      "source_ja_reviewed": "【光志】\\nああ……頼《たの》む。",
+      "old_translation": "【코우지】\\n아… … 부탁한다.",
+      "new_translation": "【코우지】\\n아아…… 부탁할게.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4030,
+      "source_index": "0x000aeca4",
+      "source_ja_raw": "【光志】\\n昨日、真太郎が来たんだ。\\nパパの様子が変だってね。",
+      "source_ja_applied": "【光志】\\n昨日、晋太郎が来たんだ。\\nパパの様子が変だってね。",
+      "source_ja_reviewed": "【光志】\\n昨日、晋太郎が来たんだ。\\nパパの様子が変だってね。",
+      "old_translation": "【코우지】\\n어제, 타타로가 짖었다. \\n아빠의 모습이 이상해.",
+      "new_translation": "【코우지】\\n어제 신타로가 왔어.\\n아버지 상태가 이상하다고 하더라.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4031,
+      "source_index": "0x000aed22",
+      "source_ja_raw": "【法子】\\nうーん……\\n言われてみればたしかに\\n上の空のときが多いような気がするけど……",
+      "source_ja_applied": "【法子】\\nうーん……\\n言われてみればたしかに\\n上の空のときが多いような気がするけど……",
+      "source_ja_reviewed": "【法子】\\nうーん……\\n言われてみればたしかに\\n上の空のときが多いような気がするけど……",
+      "old_translation": "【노리코】\\n음…\\n말해 보면 분명히\\n위의 하늘 때가 많은 것 같은\\n생각이\\n들지만…",
+      "new_translation": "【노리코】\\n음……\\n듣고 보니 확실히\\n멍하니 있을 때가 많은 것\\n같지만……",
+      "speaker": "노리코",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4032,
+      "source_index": "0x000aeda8",
+      "source_ja_raw": "【法子】\\nただ私は沼崎順ほど\\n所長との付き合いが長いわけじゃないし、\\n最近は調査で事務所を空けっぱなしだから。",
+      "source_ja_applied": "【法子】\\nただ私は沼崎順ほど\\n所長との付き合いが長いわけじゃないし、\\n最近は調査で事務所を空けっぱなしだから。",
+      "source_ja_reviewed": "【法子】\\nただ私は沼崎順ほど\\n所長との付き合いが長いわけじゃないし、\\n最近は調査で事務所を空けっぱなしだから。",
+      "old_translation": "【노리코】\\n단지 나는 누마사키강만큼\\n소장과의 교제가 긴 것은 아니고,\\n최근은 조사로 사무소를 비우기\\n때문에.",
+      "new_translation": "【노리코】\\n하지만 나는 누마사키 준만큼\\n소장님과 오래 알고 지낸 것도\\n아니고\\n요즘은 조사 때문에 사무소를\\n계속 비우고 있으니까.",
+      "speaker": "노리코",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4033,
+      "source_index": "0x000aee44",
+      "source_ja_raw": "【光志】\\nフム……\\n真太郎だから気がついたことなのか、\\n真太郎の考えすぎ、か……",
+      "source_ja_applied": "【光志】\\nフム……\\n晋太郎だから気がついたことなのか、\\n晋太郎の考えすぎ、か……",
+      "source_ja_reviewed": "【光志】\\nフム……\\n晋太郎だから気がついたことなのか、\\n晋太郎の考えすぎ、か……",
+      "old_translation": "【코우지】\\n흠…\\n타타로이기 때문에 깨달은 것인가,\\n타타로의 생각 너무,…",
+      "new_translation": "【코우지】\\n흠……\\n신타로라서 알아챈 걸까,\\n아니면 신타로가 너무 깊이 생각한\\n걸까……",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4034,
+      "source_index": "0x000aef85",
+      "source_ja_raw": "【光志】\\n昨日は女子高生コンビが\\n接見に来たよ。\\nちょっとした事実がわかった。",
+      "source_ja_applied": "【光志】\\n昨日は女子高生コンビが\\n接見に来たよ。\\nちょっとした事実がわかった。",
+      "source_ja_reviewed": "【光志】\\n昨日は女子高生コンビが\\n接見に来たよ。\\nちょっとした事実がわかった。",
+      "old_translation": "【코우지】\\n어제는 여고생 콤비가\\n접견에 배웠어. \\n작은 사실을 알았다.",
+      "new_translation": "【코우지】\\n어제는 여고생 콤비가\\n접견하러 왔어.\\n작은 사실을 하나 알게 됐지.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4035,
+      "source_index": "0x000aeffd",
+      "source_ja_raw": "【光志】\\n水無副月曜だけど、\\n徠の葵の話だと、\\n事件当日の望算ではスーツを持っていなかったらしい。",
+      "source_ja_applied": "【光志】\\n水無副月曜だけど、\\n徠の葵の話だと、\\n事件当日の望算ではスーツを持っていなかったらしい。",
+      "source_ja_reviewed": "水無月幸司だけど、葵の話だと、事件当日の捜査ではスーツを持っていなかったらしい。",
+      "old_translation": "【코우지】\\n미나즈키 코우지이지만,\\n경의 아오이의 이야기라면,\\n사건 당일의 단격으로는 슈트를\\n탄하고\\n있지 않은 것 같다.",
+      "new_translation": "【코우지】\\n미나즈키 코우지 말인데\\n아오이의 말에 따르면 사건 당일\\n행적상\\n정장을 가지고 있지 않았던\\n모양이야.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4036,
+      "source_index": "0x000af079",
+      "source_ja_raw": "【光志】\\nなんでも以前会各をクビになったとき、\\nスーツを落部惑《す》ててしまってたらしいんだ。",
+      "source_ja_applied": "【光志】\\nなんでも以前会各をクビになったとき、\\nスーツを落部惑《す》ててしまってたらしいんだ。",
+      "source_ja_reviewed": "なんでも以前会社をクビになったとき、スーツを全部捨《す》ててしまってたらしいんだ。",
+      "old_translation": "【코우지】\\n아무래도 예전에 회사에서 해고됐을\\n때,\\n슈트를 전부 버렸던 모양이야.",
+      "new_translation": "【코우지】\\n예전에 회사에서 해고됐을 때\\n정장을 전부 버렸다는 모양이야.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4037,
+      "source_index": "0x000af105",
+      "source_ja_raw": "【法子】\\n……なるほど。\\nでも、たとえ持っていなかったとしても友だちから借りるとか、\\n悪装《ぎそう》の方法はあるよね。",
+      "source_ja_applied": "【法子】\\n……なるほど。\\nでも、たとえ持っていなかったとしても友だちから借りるとか、\\n悪装《ぎそう》の方法はあるよね。",
+      "source_ja_reviewed": "……なるほど。でも、たとえ持っていなかったとしても友だちから借りるとか、偽装《ぎそう》の方法はあるよね。",
+      "old_translation": "【노리코】\\n… … 과연. \\n이라도, 설레지 않았다고 해도\\n친구로부터\\n빌릴까,\\n위장의 방법은 있겠지.",
+      "new_translation": "【노리코】\\n……그렇구나.\\n그래도 정장이 없었다고 해도\\n친구에게 빌리거나 변장할 방법은\\n있겠지.",
+      "speaker": "노리코",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4038,
+      "source_index": "0x000af1a0",
+      "source_ja_raw": "【光志】\\nそうだな。\\n裏付けが蠧れれば一番なんだが……",
+      "source_ja_applied": "【光志】\\nそうだな。\\n裏付けが取れれば一番なんだが……",
+      "source_ja_reviewed": "【光志】\\nそうだな。\\n裏付けが取れれば一番なんだが……",
+      "old_translation": "【코우지】\\n맞아.\\n용 붙이가 모르면 제일이지만…",
+      "new_translation": "【코우지】\\n맞아.\\n뒷받침할 증거를 찾으면 제일\\n좋겠지만……",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4039,
+      "source_index": "0x000af215",
+      "source_ja_raw": "【光志】\\n水無副が復職するという話は、\\n１ヶ副前から具体的《ぐたいてき》になってたらしい。",
+      "source_ja_applied": "【光志】\\n水無副が復職するという話は、\\n１ヶ副前から具体的《ぐたいてき》になってたらしい。",
+      "source_ja_reviewed": "水無月が復職するという話は、１ヶ月前から具体的《ぐたいてき》になってたらしい。",
+      "old_translation": "【코우지】\\n미나즈키가 복직한다는 이야기는,\\n1개월전부터 구체적으로 되어 있었던\\n것\\n같다.",
+      "new_translation": "【코우지】\\n미나즈키가 복직한다는 이야기는\\n한 달 전부터 구체적으로 진행되고\\n있었대.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4040,
+      "source_index": "0x000af28b",
+      "source_ja_raw": "【光志】\\nオレは白川一利が亡くなった直後に\\n水無副月曜が復職したことに\\n不審感《ふしんかん》を持ってた。",
+      "source_ja_applied": "【光志】\\nオレは白川一利が亡くなった直後に\\n水無副月曜が復職したことに\\n不審感《ふしんかん》を持ってた。",
+      "source_ja_reviewed": "オレは白川一利が亡くなった直後に水無月幸司が復職したことに不審感《ふしんかん》を持ってた。",
+      "old_translation": "【코우지】\\n저는 시라카와 이치로가 죽은 직후에\\n미나즈키 코우지가 복직한 것에\\n부진감을 망쳤다.",
+      "new_translation": "【코우지】\\n나는 시라카와 이치리가 죽은 직후\\n미나즈키 코우지가 복직한 걸\\n수상하게 생각했어.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4041,
+      "source_index": "0x000af325",
+      "source_ja_raw": "【光志】\\nだけど実際には、\\n１ヶ副前からそんな係きがあった。\\n事件と関係ない可能性が出たわけだ。",
+      "source_ja_applied": "【光志】\\nだけど実際には、\\n１ヶ副前からそんな係きがあった。\\n事件と関係ない可能性が出たわけだ。",
+      "source_ja_reviewed": "【光志】\\nだけど実際には、\\n１ヶ副前からそんな係きがあった。\\n事件と関係ない可能性が出たわけだ。",
+      "old_translation": "【코우지】\\n하지만 실제로는,\\n1개월전부터 그런 움직임이 있었다.\\n\\n사건과 관계없는 가능성이 나온\\n것이다.",
+      "new_translation": "【코우지】\\n하지만 실제로는\\n한 달 전부터 그런 움직임이 있었던\\n거야.\\n사건과 관계없을 가능성이 생긴\\n셈이지.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4042,
+      "source_index": "0x000af3b9",
+      "source_ja_raw": "【光志】\\nそこで法子に、\\n水無副が復職するに至った過程を\\n調査してもらいたいんだ。",
+      "source_ja_applied": "【光志】\\nそこで法子に、\\n水無副が復職するに至った過程を\\n調査してもらいたいんだ。",
+      "source_ja_reviewed": "そこで法子に、水無月が復職するに至った過程を調査してもらいたいんだ。",
+      "old_translation": "【코우지】\\n거기서 노리코에게,\\n미나즈키가 복직하기 위해 취한\\n과정을\\n조사해 주었으면 한다.",
+      "new_translation": "【코우지】\\n그래서 노리코에게\\n미나즈키가 복직하게 된 과정을\\n조사해 달라고 부탁하고 싶어.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4043,
+      "source_index": "0x000af429",
+      "source_ja_raw": "【光志】\\n場合によっては、\\n水無副が容疑《ようぎ》から外れるかもしれない。",
+      "source_ja_applied": "【光志】\\n場合によっては、\\n水無副が容疑《ようぎ》から外れるかもしれない。",
+      "source_ja_reviewed": "【光志】\\n場合によっては、\\n水無副が容疑《ようぎ》から外れるかもしれない。",
+      "old_translation": "【코우지】\\n경우에 따라서는,\\n미나즈키가 용의로부터 벗어날지도\\n모른다.",
+      "new_translation": "【코우지】\\n경우에 따라서는\\n미나즈키가 용의선상에서\\n벗어날지도 몰라.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4044,
+      "source_index": "0x000af4ab",
+      "source_ja_raw": "【法子】\\n……わかったわ。\\nそれなら直接、\\n新代表の白川朗に聞いてみるよ。",
+      "source_ja_applied": "【法子】\\n……わかったわ。\\nそれなら直接、\\n新代表の白川朗に聞いてみるよ。",
+      "source_ja_reviewed": "……わかったわ。それなら直接、新代表の白川朗に聞いてみるよ。",
+      "old_translation": "【노리코】\\n......알았어. \\n그렇다면 직접,\\n신대표의 시라카와 사토루에 두어\\n보자.",
+      "new_translation": "【노리코】\\n……알겠어.\\n그렇다면 직접\\n새 대표인 시라카와 아키라에게\\n물어볼게.",
+      "speaker": "노리코",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4045,
+      "source_index": "0x000af530",
+      "source_ja_raw": "【光志】\\nえっ……！？\\nできるのか？",
+      "source_ja_applied": "【光志】\\nえっ……！？\\nできるのか？",
+      "source_ja_reviewed": "【光志】\\nえっ……！？\\nできるのか？",
+      "old_translation": "【코우지】\\n엣… ? \\n할 수 있을까?",
+      "new_translation": "【코우지】\\n뭐……!?\\n가능하겠어?",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4046,
+      "source_index": "0x000af580",
+      "source_ja_raw": "【法子】\\n新しい代表は人当たりも良さそうだし、\\nこっちには恋付もないしね。\\nエラい人ほど直接攻撃《ちょくせつこうげき》のほうが陽いのよ。",
+      "source_ja_applied": "【法子】\\n新しい代表は人当たりも良さそうだし、\\nこっちには恋付もないしね。\\nエラい人ほど直接攻撃《ちょくせつこうげき》のほうが陽いのよ。",
+      "source_ja_reviewed": "新しい代表は人当たりも良さそうだし、こっちには時間もないしね。エラい人ほど直接攻撃《ちょくせつこうげき》のほうが早いのよ。",
+      "old_translation": "【노리코】\\n새로운 대표는 인당도 좋을 것\\n같고,\\n이쪽에는 시간도 없고. \\n 엘라 사람만큼 직접 암격 쪽이\\n원이야.",
+      "new_translation": "【노리코】\\n새 대표는 인상이 좋아 보이고\\n우리에게는 시간도 없잖아.\\n높은 사람일수록 직접 공략하는 편이\\n빨라.",
+      "speaker": "노리코",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4047,
+      "source_index": "0x000af628",
+      "source_ja_raw": "【光志】\\n……そうか。\\nじゃあ、それで頼《たの》むよ。",
+      "source_ja_applied": "【光志】\\n……そうか。\\nじゃあ、それで頼《たの》むよ。",
+      "source_ja_reviewed": "【光志】\\n……そうか。\\nじゃあ、それで頼《たの》むよ。",
+      "old_translation": "【코우지】\\n......그런가. \\n 그럼, 그걸 부탁해.",
+      "new_translation": "【코우지】\\n……그렇구나.\\n그럼 부탁할게.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4048,
+      "source_index": "0x000afb76",
+      "source_ja_raw": "【光志】\\nただいまー",
+      "source_ja_applied": "【光志】\\nただいまー",
+      "source_ja_reviewed": "【光志】\\nただいまー",
+      "old_translation": "【코우지】\\n다만 지금-",
+      "new_translation": "【코우지】\\n다녀왔어!",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4049,
+      "source_index": "0x000afbd2",
+      "source_ja_raw": "【七芝】\\nおかえり～\\n……って、帰って来ちゃダメじゃない！",
+      "source_ja_applied": "【七芝】\\nおかえり～\\n……って、帰って来ちゃダメじゃない！",
+      "source_ja_reviewed": "おかえり～……って、帰って来ちゃダメじゃない！",
+      "old_translation": "【나나시바】\\n어서 봐~\\n…",
+      "new_translation": "【나나시바】\\n어서 와~\\n……가 아니라, 돌아오면 안\\n되잖아!",
+      "speaker": "나나시바",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4050,
+      "source_index": "0x000afc23",
+      "source_ja_raw": "【光志】\\nまあ、仕方ないさ。\\nこれも人生だ。",
+      "source_ja_applied": "【光志】\\nまあ、仕方ないさ。\\nこれも人生だ。",
+      "source_ja_reviewed": "【光志】\\nまあ、仕方ないさ。\\nこれも人生だ。",
+      "old_translation": "【코우지】\\n음, 어쩔 수 없어. \\n이것도 인생이다.",
+      "new_translation": "【코우지】\\n뭐, 어쩔 수 없지.\\n이것도 인생이야.",
+      "speaker": "코우지",
+      "scene": "아사츠유의 과거와 미나즈키 복직 조사",
+      "relationship_context": "아사츠유가 사랑했던 사람이 사토루였다는 사실을 확인하고, 노리코는 소장과 시라카와 신임 대표에게 추가 조사를 시작한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 인물명이 훼손되어 관계·대사 흐름·사건 단서로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    }
+  ]
+}

@@ -1,0 +1,4567 @@
+{
+  "schema": "enkaku_retranslation_batch_v2",
+  "batch": 7,
+  "source_range": {
+    "order_start": 2051,
+    "order_end": 2300,
+    "count": 250
+  },
+  "purpose": "외부 기기·녹음 총성 추리에서 라이트 블루 종업원의 플레이어·리모컨·BGM 구조 확인까지 재번역",
+  "emulator_launched": false,
+  "display_width": 19,
+  "translation_policy": [
+    "외부 기기·외부 입력 단자·플레이어·리모컨은 같은 용어로 유지",
+    "방음 설비, 알리바이 조작, 녹음된 총성 재생의 인과를 보존",
+    "彩業元은 종업원으로, 아사츠유 관련 호칭과 가게 내부 용어를 문맥에 맞춰 통일",
+    "대사 본문은 프로젝트 기준 폭 19자에 맞춰 의미 단위로 줄바꿈"
+  ],
+  "counts": {
+    "entries": 250,
+    "changed": 234,
+    "wrapped_rows": 64
+  },
+  "translations": [
+    {
+      "order": 2051,
+      "source_index": "0x00071b91",
+      "source_ja_raw": "【光志】\\n外部効蹶をこのプレイヤーに接続したと\\n源定した場合、\\n矛盾《むじゅん》するクルーは……？",
+      "source_ja_applied": "【光志】\\n外部効蹶をこのプレイヤーに接続したと\\n源定した場合、\\n矛盾《むじゅん》するクルーは……？",
+      "source_ja_reviewed": "【光志】\\n外部機器をこのプレイヤーに接続したと\\n仮定した場合、\\n矛盾するクルーは……？",
+      "old_translation": "【코우지】\\n외부 음원을 이 플레이어에\\n접제했다고\\n동정했을 경우,\\n모순되는 승무원은…",
+      "new_translation": "【코우지】\\n외부 기기를 이 플레이어에\\n연결했다고\\n가정하면, 모순되는 단서는……?",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2052,
+      "source_index": "0x00071cc3",
+      "source_ja_raw": "【光志】\\n（違《ちが》う、これじゃない！）",
+      "source_ja_applied": "【光志】\\n（違《ちが》う、これじゃない！）",
+      "source_ja_reviewed": "【光志】\\n（違《ちが》う、これじゃない！）",
+      "old_translation": "【코우지】\\n(아니야, 이게 아니야!)",
+      "new_translation": "【코우지】\\n(아니야, 이게 아니야!)",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2053,
+      "source_index": "0x00071d23",
+      "source_ja_raw": "【光志】\\n（外部効蹶の効が穢れててはおかしい。\\nなぜなら、ＶＩＰルームでは別の効が率ってた\\nはずだからだ）",
+      "source_ja_applied": "【光志】\\n（外部効蹶の効が穢れててはおかしい。\\nなぜなら、ＶＩＰルームでは別の効が率ってた\\nはずだからだ）",
+      "source_ja_reviewed": "【光志】\\n（外部機器の曲が流れててはおかしい。\\nなぜなら、ＶＩＰルームでは別の曲が鳴ってた\\nはずだからだ）",
+      "old_translation": "【코우지】\\n(외부 음원의 소리를 보내고는\\n이상하다.\\n왜냐하면, VIP 룸에서는 다른\\n소리가\\n느껴져 있었다\\n이기 때문이다)",
+      "new_translation": "【코우지】\\n(외부 기기의 곡이 재생되지\\n않았다면 이상해.\\n왜냐하면 VIP룸에서는 다른 곡이\\n재생되고 있었을 테니까.)",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2054,
+      "source_index": "0x00071d94",
+      "source_ja_raw": "【光志】\\n（事件当日、ＶＩＰルーム内で\\n率っていた効を示す情報は……？）",
+      "source_ja_applied": "【光志】\\n（事件当日、ＶＩＰルーム内で\\n率っていた効を示す情報は……？）",
+      "source_ja_reviewed": "【光志】\\n（事件当日、ＶＩＰルーム内で\\n率っていた効を示す情報は……？）",
+      "old_translation": "【코우지】\\n(사건 당일, VIP룸 내에서\\n 받고 있던 소리를 나타내는\\n정보는……?)",
+      "new_translation": "【코우지】\\n(사건 당일 VIP룸 안에서\\n재생되고 있던 곡을 보여 주는\\n정보는……?)",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2055,
+      "source_index": "0x00071e6f",
+      "source_ja_raw": "【光志】\\n被害者《ひがいしゃ》のリクエストを受けて、\\n当日のＶＩＰルーム内にはクラシックが\\nかかってたはず……",
+      "source_ja_applied": "【光志】\\n被害者《ひがいしゃ》のリクエストを受けて、\\n当日のＶＩＰルーム内にはクラシックが\\nかかってたはず……",
+      "source_ja_reviewed": "【光志】\\n被害者《ひがいしゃ》のリクエストを受けて、\\n当日のＶＩＰルーム内にはクラシックが\\nかかってたはず……",
+      "old_translation": "【코우지】\\n피해자의 리퀘스트를 안고,\\n당일의 VIP룸내에는 클래식이\\n걸려 있었을 것…",
+      "new_translation": "【코우지】\\n피해자의 요청을 받아\\n당일 VIP룸 안에서는 클래식이\\n재생되고 있었을 거야……",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2056,
+      "source_index": "0x00071f1f",
+      "source_ja_raw": "【法子】\\nそうよ……\\n彩業元さんがそう言ってたわ。",
+      "source_ja_applied": "【法子】\\nそうよ……\\n彩業元さんがそう言ってたわ。",
+      "source_ja_reviewed": "【法子】\\nそうよ……\\n彩業元さんがそう言ってたわ。",
+      "old_translation": "【노리코】\\n그래......\\n종업원이 그렇게 말했어",
+      "new_translation": "【노리코】\\n맞아……\\n종업원이 그렇게 말했어.",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2057,
+      "source_index": "0x00071f91",
+      "source_ja_raw": "【光志】\\nたしかにクラシックが穢れてた。\\nだが果たして、銃声《じゅうせい》が堂内に率《な》り清《ひび》いたときにも\\nクラシックは穢れてたのか……？",
+      "source_ja_applied": "【光志】\\nたしかにクラシックが穢れてた。\\nだが果たして、銃声《じゅうせい》が堂内に率《な》り清《ひび》いたときにも\\nクラシックは穢れてたのか……？",
+      "source_ja_reviewed": "【光志】\\nたしかにクラシックが流れてた。\\nだが果たして、銃声が店内に鳴り響いたときにも\\nクラシックは流れてたのか……？",
+      "old_translation": "【코우지】\\n확실히 클래식을 보낼 수 있었다. \\n하지만 과연, 총성이 교내에 향해\\n울렸을\\n때에도\\n클래식은 보낼 수 있었는지…",
+      "new_translation": "【코우지】\\n확실히 클래식이 재생되고 있었어.\\n하지만 총성이 가게 안에 울려\\n퍼졌을 때에도\\n클래식이 재생되고 있었을까……?",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2058,
+      "source_index": "0x00072024",
+      "source_ja_raw": "【光志】\\n被害者《ひがいしゃ》のリクエストでクラシックが掛《か》かっていたのなら、\\n堂内のＢＧＭとは違《ちが》っていたハズ。",
+      "source_ja_applied": "【光志】\\n被害者《ひがいしゃ》のリクエストでクラシックが掛《か》かっていたのなら、\\n堂内のＢＧＭとは違《ちが》っていたハズ。",
+      "source_ja_reviewed": "【光志】\\n被害者のリクエストでクラシックが掛かっていたのなら、\\n店内のＢＧＭとは違っていたハズ。",
+      "old_translation": "【코우지】\\n피해자의 리퀘스트로 클래식이 걸려\\n있었다면,\\n교내의 BGM과는 다른 하즈.",
+      "new_translation": "【코우지】\\n피해자의 요청으로 클래식이 재생되고\\n있었다면,\\n가게 안의 BGM과는 달랐을 텐데.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2059,
+      "source_index": "0x000720ab",
+      "source_ja_raw": "【光志】\\nにもかかわらず、この件について、\\n誰《だれ》も違《い》和《わ》感《かん》を感じていない。\\n",
+      "source_ja_applied": "【光志】\\nにもかかわらず、この件について、\\n誰《だれ》も違《い》和《わ》感《かん》を感じていない。\\n",
+      "source_ja_reviewed": "【光志】\\nにもかかわらず、この件について、\\n誰も違和感を感じていない。",
+      "old_translation": "【코우지】\\n에도 불구하고, 이 건에 대해,\\n아무도 위화감을 느끼지 않았다. \\n",
+      "new_translation": "【코우지】\\n그런데도 이 점에 대해\\n아무도 이상함을 느끼지 않았어.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2060,
+      "source_index": "0x00072146",
+      "source_ja_raw": "【光志】\\nそこで法子に確認してきてもらいたいことがある。",
+      "source_ja_applied": "【光志】\\nそこで法子に確認してきてもらいたいことがある。",
+      "source_ja_reviewed": "【光志】\\nそこで法子に確認してきてもらいたいことがある。",
+      "old_translation": "【코우지】\\n거기서 노리코에 확인해 주었으면\\n하는\\n것이 있다.",
+      "new_translation": "【코우지】\\n그래서 노리코에게\\n확인해 달라는 게 있어.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2061,
+      "source_index": "0x000721a0",
+      "source_ja_raw": "【光志】\\n銃声《じゅうせい》が率《な》り清《ひび》いたあとで\\nＶＩＰルームに駆《か》け沽《こ》んだ人物……",
+      "source_ja_applied": "【光志】\\n銃声《じゅうせい》が率《な》り清《ひび》いたあとで\\nＶＩＰルームに駆《か》け込《こ》んだ人物……",
+      "source_ja_reviewed": "【光志】\\n銃声《じゅうせい》が率《な》り清《ひび》いたあとで\\nＶＩＰルームに駆《か》け込《こ》んだ人物……",
+      "old_translation": "【코우지】\\n총성이 느껴진 뒤에\\nVIP방으로 달려온 인물…",
+      "new_translation": "【코우지】\\n총성이 울린 뒤 VIP룸으로\\n뛰어 들어간 사람……",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2062,
+      "source_index": "0x00072220",
+      "source_ja_raw": "【光志】\\n具体的《ぐたいてき》には朝等さんか沼崎弁護士《せんせい》と話す機会があったら、\\nそのときＶＩＰルーム内にＢＧＭが穢れてたかどうか\\n確認してもらいたい。",
+      "source_ja_applied": "【光志】\\n具体的《ぐたいてき》には朝等さんか沼崎弁護士《せんせい》と話す機会があったら、\\nそのときＶＩＰルーム内にＢＧＭが穢れてたかどうか\\n確認してもらいたい。",
+      "source_ja_reviewed": "【光志】\\n具体的には朝等さんか沼崎弁護士と話す機会があったら、\\nそのときＶＩＰルーム内にＢＧＭが流れてたかどうか\\n確認してもらいたい。",
+      "old_translation": "【코우지】\\n구체적으로는 아사츠유씨나 누마사키\\n변호사와 이야기할 생각이 있으면,\\n그때 VIP 룸내에 BGM이\\n보내졌는지\\n아닌지\\n확인해 주었으면 한다.",
+      "new_translation": "【코우지】\\n구체적으로 아사츠유 씨나 누마사키\\n변호사와\\n이야기할 기회가 있으면,\\n그때 VIP룸 안에 BGM이\\n재생되고 있었는지\\n확인해 줘.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2063,
+      "source_index": "0x000722dd",
+      "source_ja_raw": "【法子】\\n……わかったわ。",
+      "source_ja_applied": "【法子】\\n……わかったわ。",
+      "source_ja_reviewed": "【法子】\\n……わかったわ。",
+      "old_translation": "【노리코】\\n……알겠어.",
+      "new_translation": "【노리코】\\n……알겠어.",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2064,
+      "source_index": "0x00072326",
+      "source_ja_raw": "【光志】\\nそれともう一つ、次にライトブルーに行ったときに\\nあらためて外部効蹶と接続した形跡《けいせき》がないか\\n確認してもらいたい。",
+      "source_ja_applied": "【光志】\\nそれともう一つ、次にライトブルーに行ったときに\\nあらためて外部効蹶と接続した形跡《けいせき》がないか\\n確認してもらいたい。",
+      "source_ja_reviewed": "【光志】\\nそれともう一つ、次にライトブルーに行ったときに\\nあらためて外部効蹶と接続した形跡《けいせき》がないか\\n確認してもらいたい。",
+      "old_translation": "【코우지】\\n그리고 또 하나, 실로 라이트\\n블루에\\n갔을 때에\\n다시 외부 음원과 접제한 경적이\\n없는지\\n확인해 주었으면 한다.",
+      "new_translation": "【코우지】\\n그리고 다음에 라이트 블루에 갔을\\n때\\n외부 기기와 연결한 흔적이 없는지도\\n확인해 줘.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2065,
+      "source_index": "0x000723b2",
+      "source_ja_raw": "【法子】\\n……ええ、こちらも了婚《りょうかい》。\\n慎声《しんちょう》に確認してくるわ。",
+      "source_ja_applied": "【法子】\\n……ええ、こちらも了婚《りょうかい》。\\n慎声《しんちょう》に確認してくるわ。",
+      "source_ja_reviewed": "【法子】\\n……ええ、こちらも了婚《りょうかい》。\\n慎声《しんちょう》に確認してくるわ。",
+      "old_translation": "【노리코】\\n… \\n 조심스럽게 확인해줄게.",
+      "new_translation": "【노리코】\\n……응, 이것도 알겠어.\\n신중하게 확인하고 올게.",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2066,
+      "source_index": "0x00072423",
+      "source_ja_raw": "【光志】\\nああ、頼《たの》んだぞ。",
+      "source_ja_applied": "【光志】\\nああ、頼《たの》んだぞ。",
+      "source_ja_reviewed": "【光志】\\nああ、頼《たの》んだぞ。",
+      "old_translation": "【코우지】\\n 아, 부탁해.",
+      "new_translation": "【코우지】\\n그래, 부탁할게.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2067,
+      "source_index": "0x000724c7",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2068,
+      "source_index": "0x000725b5",
+      "source_ja_raw": "【光志】\\nなるほど……\\n彩業元は誰《だれ》も\\nプレイヤーを移係させたことがない、か……",
+      "source_ja_applied": "【光志】\\nなるほど……\\n彩業元は誰《だれ》も\\nプレイヤーを移係させたことがない、か……",
+      "source_ja_reviewed": "【光志】\\nなるほど……\\n彩業元は誰《だれ》も\\nプレイヤーを移係させたことがない、か……",
+      "old_translation": "【코우지】\\n과연…\\n직원은 아무도\\n플레이어를 이동시킨 적이 없는가…",
+      "new_translation": "【코우지】\\n그렇군……\\n종업원은 아무도\\n플레이어를 옮긴 적이 없다……",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2069,
+      "source_index": "0x00072626",
+      "source_ja_raw": "【光志】\\n……ってことは、\\nプレイヤーを接続したのは外部の人付……\\nって線が農《こ》くなるな。",
+      "source_ja_applied": "【光志】\\n……ってことは、\\nプレイヤーを接続したのは外部の人付……\\nって線が農《こ》くなるな。",
+      "source_ja_reviewed": "【光志】\\n……ってことは、\\nプレイヤーを接続したのは外部の人間……\\nって線が濃くなるな。",
+      "old_translation": "【코우지】\\n……그렇다면 플레이어를 연결한 건 외부인……이라는 선이\\n짙어지겠네.",
+      "new_translation": "【코우지】\\n……그렇다면 플레이어를 연결한 건\\n외부인이라는 가능성이 커지네.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2070,
+      "source_index": "0x0007269e",
+      "source_ja_raw": "【光志】\\nあと、リモコンのくだりは\\n結構声要かもしれないな。",
+      "source_ja_applied": "【光志】\\nあと、リモコンのくだりは\\n結構声要かもしれないな。",
+      "source_ja_reviewed": "【光志】\\nあと、リモコンのくだりは\\n結構声要かもしれないな。",
+      "old_translation": "【코우지】\\n다음에, 리모컨의 주름은\\n결막중양일지도 모르겠다.",
+      "new_translation": "【코우지】\\n그리고 리모컨 이야기도\\n꽤 중요할 수 있겠어.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2071,
+      "source_index": "0x000726fb",
+      "source_ja_raw": "【光志】\\n争純になくなってたのか、\\n外部の人付が持ち去ったのか……",
+      "source_ja_applied": "【光志】\\n争純になくなってたのか、\\n外部の人付が持ち去ったのか……",
+      "source_ja_reviewed": "【光志】\\n争純になくなってたのか、\\n外部の人付が持ち去ったのか……",
+      "old_translation": "【코우지】\\n직순에 없어져 있었는지,\\n외부의 인간이 망설였는지…",
+      "new_translation": "【코우지】\\n그냥 없어진 건지,\\n외부인이 가져간 건지……",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2072,
+      "source_index": "0x00072779",
+      "source_ja_raw": "【法子】\\n持ち去った……って、なんのために？",
+      "source_ja_applied": "【法子】\\n持ち去った……って、なんのために？",
+      "source_ja_reviewed": "【法子】\\n持ち去った……って、なんのために？",
+      "old_translation": "【노리코】\\n간에 드러냈다… … 라고, 무엇을\\n위해서?",
+      "new_translation": "【노리코】\\n가져갔다니……\\n무슨 목적으로?",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2073,
+      "source_index": "0x000727ce",
+      "source_ja_raw": "【光志】\\nわからない。\\nただ、事件当日の現場の異進はすべて\\n無視できない情報だ。",
+      "source_ja_applied": "【光志】\\nわからない。\\nただ、事件当日の現場の異進はすべて\\n無視できない情報だ。",
+      "source_ja_reviewed": "【光志】\\nわからない。\\nただ、事件当日の現場の異変はすべて\\n無視できない情報だ。",
+      "old_translation": "【코우지】\\n모르겠어.\\n다만 사건 당일 현장의 이상 징후는 모두\\n무시할 수 없는 정보야.",
+      "new_translation": "【코우지】\\n모르겠어.\\n하지만 사건 당일 현장의 이상한\\n점은\\n전부 무시할 수 없는 정보야.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2074,
+      "source_index": "0x00072849",
+      "source_ja_raw": "【光志】\\n……！？",
+      "source_ja_applied": "【光志】\\n……！？",
+      "source_ja_reviewed": "【光志】\\n……！？",
+      "old_translation": "【코우지】\\n……! ?",
+      "new_translation": "【코우지】\\n……!?",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2075,
+      "source_index": "0x00072882",
+      "source_ja_raw": "【光志】\\nそうか……\\nそういうことか……！！",
+      "source_ja_applied": "【光志】\\nそうか……\\nそういうことか……！！",
+      "source_ja_reviewed": "【光志】\\nそうか……\\nそういうことか……！！",
+      "old_translation": "【코우지】\\n그런가......\\n그런가......! !",
+      "new_translation": "【코우지】\\n그렇구나……\\n그런 뜻이었어……!!",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2076,
+      "source_index": "0x000728ca",
+      "source_ja_raw": "【法子】\\nえっ……\\nなにかひらめいたの！？",
+      "source_ja_applied": "【法子】\\nえっ……\\nなにかひらめいたの！？",
+      "source_ja_reviewed": "【法子】\\nえっ……\\nなにかひらめいたの！？",
+      "old_translation": "【노리코】\\n엣......\\n무슨 일이 일어났어! ?",
+      "new_translation": "【노리코】\\n네……\\n뭔가 떠오른 거야!?",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2077,
+      "source_index": "0x0007290f",
+      "source_ja_raw": "【光志】\\nああ……\\nこの酔理が証間されれば、すべてがひっくり換る……",
+      "source_ja_applied": "【光志】\\nああ……\\nこの酔理が証間されれば、すべてがひっくり返る……",
+      "source_ja_reviewed": "【光志】\\nああ……\\nこの推理が証明されれば、すべてがひっくり返る……",
+      "old_translation": "【코우지】\\n아......\\n이 역리가 증명되면 모든 것이\\n뒤집힌다…",
+      "new_translation": "【코우지】\\n그래……\\n이 추리가 증명되면\\n모든 게 뒤집혀……",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2078,
+      "source_index": "0x00072967",
+      "source_ja_raw": "【法子】\\nどういうこと！？",
+      "source_ja_applied": "【法子】\\nどういうこと！？",
+      "source_ja_reviewed": "【法子】\\nどういうこと！？",
+      "old_translation": "【노리코】\\n무슨 일! ?",
+      "new_translation": "【노리코】\\n무슨 뜻이야!?",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2079,
+      "source_index": "0x000729a2",
+      "source_ja_raw": "【法子】\\nコウジはずっと外部効蹶とプレイヤーを\\n接続したんじゃないかってこだわってたけど……",
+      "source_ja_applied": "【法子】\\nコウジはずっと外部効蹶とプレイヤーを\\n接続したんじゃないかってこだわってたけど……",
+      "source_ja_reviewed": "【法子】\\nコウジはずっと外部効蹶とプレイヤーを\\n接続したんじゃないかってこだわってたけど……",
+      "old_translation": "【노리코】\\n코우지는 쭉 외부 음원과 플레이어를\\n접제한 것이 아니냐고 고집하고\\n있었지만…",
+      "new_translation": "【노리코】\\n코우지는 계속 외부 기기를\\n플레이어에\\n연결한 게 아닐까 하고\\n고집했지만……",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2080,
+      "source_index": "0x00072a06",
+      "source_ja_raw": "【光志】\\nああ、そこが声要なんだ。\\n源に、外部効蹶の中に\\n銃声《じゅうせい》が録効されてたらどうだ？",
+      "source_ja_applied": "【光志】\\nああ、そこが声要なんだ。\\n源に、外部効蹶の中に\\n銃声《じゅうせい》が録効されてたらどうだ？",
+      "source_ja_reviewed": "【光志】\\nああ、そこが重要なんだ。\\n仮に、外部機器の中に\\n銃声が録音されてたらどうだ？",
+      "old_translation": "【코우지】\\n 아, 거기가 중양이야. \\n동부에, 외부 음원안에\\n총성이 녹음되어 있으면 어떨까?",
+      "new_translation": "【코우지】\\n그래, 그게 중요한 부분이야.\\n아니, 외부 기기에 총성이\\n녹음되어 있었다면 어떨까?",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2081,
+      "source_index": "0x00072a75",
+      "source_ja_raw": "【法子】\\n外部効蹶に録効されてる銃声《じゅうせい》を\\nＶＩＰルームのスピーカーから率らしたってこと……？",
+      "source_ja_applied": "【法子】\\n外部効蹶に録効されてる銃声《じゅうせい》を\\nＶＩＰルームのスピーカーから率らしたってこと……？",
+      "source_ja_reviewed": "【法子】\\n外部機器に録音されてる銃声を\\nＶＩＰルームのスピーカーから鳴らしたってこと……？",
+      "old_translation": "【노리코】\\n외부 음원에 녹음되고 있는 총성을\\nVIP 룸의 스피커로부터 떠들었다고\\n하는\\n것…",
+      "new_translation": "【노리코】\\n외부 기기에 녹음된 총성을\\nVIP룸 스피커에서 울렸다는\\n뜻……?",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2082,
+      "source_index": "0x00072b5d",
+      "source_ja_raw": "【光志】\\n……ああっ、くそっ！\\n情報が一つ足りない！",
+      "source_ja_applied": "【光志】\\n……ああっ、くそっ！\\n情報が一つ足りない！",
+      "source_ja_reviewed": "【光志】\\n……ああっ、くそっ！\\n情報が一つ足りない！",
+      "old_translation": "【코우지】\\n… … 아, 젠장! \\n정보가 하나 없어!",
+      "new_translation": "【코우지】\\n……아아, 젠장!\\n정보가 하나 부족해!",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2083,
+      "source_index": "0x00072bac",
+      "source_ja_raw": "【光志】\\n事件発生恋、\\nＶＩＰルーム内にＢＧＭがかかってたかどうか、\\nそれがポイントなんだ！",
+      "source_ja_applied": "【光志】\\n事件発生恋、\\nＶＩＰルーム内にＢＧＭがかかってたかどうか、\\nそれがポイントなんだ！",
+      "source_ja_reviewed": "【光志】\\n事件発生時、\\nＶＩＰルーム内にＢＧＭがかかってたかどうか、\\nそれがポイントなんだ！",
+      "old_translation": "【코우지】\\n사건 발생시,\\nVIP 룸내에 BGM이 걸려\\n있었는지\\n아닌지,\\n그것이 포인트야!",
+      "new_translation": "【코우지】\\n사건이 발생했을 때\\nVIP룸 안에 BGM이 재생되고\\n있었는지,\\n그게 핵심이야!",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2084,
+      "source_index": "0x00072c16",
+      "source_ja_raw": "【法子】\\n事件発生恋のＢＧＭ……？\\nそれがわかれば声要なことがわかるの！？",
+      "source_ja_applied": "【法子】\\n事件発生恋のＢＧＭ……？\\nそれがわかれば声要なことがわかるの！？",
+      "source_ja_reviewed": "【法子】\\n事件発生恋のＢＧＭ……？\\nそれがわかれば声要なことがわかるの！？",
+      "old_translation": "【노리코】\\n사건 발생시의 BGM… \\n그것을 알면 무거운 것을 알 수\\n있습니다! ?",
+      "new_translation": "【노리코】\\n사건 발생 당시의 BGM……?\\n그걸 알면 중요한 걸 알 수\\n있어!?",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2085,
+      "source_index": "0x00072c76",
+      "source_ja_raw": "【光志】\\nああ……この事実がわかれば\\n客観的な証拠《しょうこ》が手に入る……",
+      "source_ja_applied": "【光志】\\nああ……この事実がわかれば\\n客観的な証拠《しょうこ》が手に入る……",
+      "source_ja_reviewed": "【光志】\\nああ……この事実がわかれば\\n客観的な証拠《しょうこ》が手に入る……",
+      "old_translation": "【코우지】\\n아… … 이 사실을 알면\\n객관적인 증거를 얻을 수 있습니다\\n......",
+      "new_translation": "【코우지】\\n그래……\\n이 사실을 알면\\n객관적인 증거를 손에 넣을 수\\n있어……",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2086,
+      "source_index": "0x00072cd6",
+      "source_ja_raw": "【光志】\\n盤辱させたくないから言えないけど、\\nとにかくすべての事実がひっくり換るような\\nことなんだっ！！",
+      "source_ja_applied": "【光志】\\n盤辱させたくないから言えないけど、\\nとにかくすべての事実がひっくり返るような\\nことなんだっ！！",
+      "source_ja_reviewed": "【光志】\\nネタバレさせたくないから言えないけど、\\nとにかくすべての事実がひっくり返るような\\nことなんだっ！！",
+      "old_translation": "【코우지】\\n혼란시키고 싶지 않아서 말할 수는 없지만,\\n모든 사실이 뒤집힐 만한 일이야!",
+      "new_translation": "【코우지】\\n스포일러하고 싶지는 않아서 말할 수\\n없지만,\\n아무튼 모든 사실을 뒤집을 만한\\n일이야!!",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2087,
+      "source_index": "0x00072d3f",
+      "source_ja_raw": "【法子】\\nうわ……\\nものスゴく気になる言い方……",
+      "source_ja_applied": "【法子】\\nうわ……\\nものスゴく気になる言い方……",
+      "source_ja_reviewed": "【法子】\\nうわ……\\nものスゴく気になる言い方……",
+      "old_translation": "【노리코】\\n우와…\\n것 굉장히 신경이 쓰이는 말 방법…",
+      "new_translation": "【노리코】\\n우와……\\n정말 신경 쓰이게 말하네……",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2088,
+      "source_index": "0x00072d8b",
+      "source_ja_raw": "【法子】\\n私、今晩眠《ねむ》れるかな……？",
+      "source_ja_applied": "【法子】\\n私、今晩眠《ねむ》れるかな……？",
+      "source_ja_reviewed": "【法子】\\n私、今晩眠《ねむ》れるかな……？",
+      "old_translation": "【노리코】\\n나, 오늘 밤 잠들 수 있을까……?",
+      "new_translation": "【노리코】\\n나, 오늘 밤 잠들 수 있을까……?",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2089,
+      "source_index": "0x00072dda",
+      "source_ja_raw": "【光志】\\nその通り。\\nそれを示す情報を今までに手に入れている。",
+      "source_ja_applied": "【光志】\\nその通り。\\nそれを示す情報を今までに手に入れている。",
+      "source_ja_reviewed": "【光志】\\nその通り。\\nそれを示す情報を今までに手に入れている。",
+      "old_translation": "【코우지】\\n그대로. \\n그것을 나타내는 정보를 지금까지\\n손에\\n넣고 있다.",
+      "new_translation": "【코우지】\\n맞아.\\n그걸 뒷받침할 정보를\\n지금까지 손에 넣었어.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2090,
+      "source_index": "0x00072e5a",
+      "source_ja_raw": "【光志】\\nＶＩＰルームのスピーカーから率った銃声《じゅうせい》は\\n外部効蹶に録効されたもの……\\nこれを裏付ける情報を組み合わせて考えるんだ！",
+      "source_ja_applied": "【光志】\\nＶＩＰルームのスピーカーから率った銃声《じゅうせい》は\\n外部効蹶に録効されたもの……\\nこれを裏付ける情報を組み合わせて考えるんだ！",
+      "source_ja_reviewed": "【光志】\\nＶＩＰルームのスピーカーから鳴った銃声は\\n外部機器に録音されたもの……\\nこれを裏付ける情報を組み合わせて考えるんだ！",
+      "old_translation": "【코우지】\\nVIP 룸의 스피커에서 떠오른\\n총성은\\n외부 음원에 녹음된 것…\\n이것을 용 붙이는 정보를 권해\\n생각한다!",
+      "new_translation": "【코우지】\\nVIP룸 스피커에서 울린 총성은\\n외부 기기에 녹음된 것……\\n이걸 뒷받침하는 정보들을\\n조합해서 생각하는 거야!",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2091,
+      "source_index": "0x00072f8f",
+      "source_ja_raw": "【光志】\\n（違《ちが》う、そうじゃない！）",
+      "source_ja_applied": "【光志】\\n（違《ちが》う、そうじゃない！）",
+      "source_ja_reviewed": "【光志】\\n（違《ちが》う、そうじゃない！）",
+      "old_translation": "【코우지】\\n(아니야, 그게 아니야!)",
+      "new_translation": "【코우지】\\n(아니야, 그런 게 아니야!)",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2092,
+      "source_index": "0x00072fd6",
+      "source_ja_raw": "【光志】\\n（駆効御策の携っていたＶＩＰルーム内の効を\\n堂内に率《な》り清《ひび》かせるための仕《・》掛《・》け《・》だ！）",
+      "source_ja_applied": "【光志】\\n（駆効御備の携っていたＶＩＰルーム内の効を\\n堂内に率《な》り清《ひび》かせるための仕《・》掛《・》け《・》だ！）",
+      "source_ja_reviewed": "【光志】\\n（防音設備の施されたＶＩＰルーム内の音を\\n店内に鳴り響かせるための仕掛けだ！）",
+      "old_translation": "【코우지】\\n(발음설구가 갖추어져 있던\\nVIP룸내의\\n소리를\\n교내에 느끼게 울리기 위한\\n장치다!)",
+      "new_translation": "【코우지】\\n(방음 설비가 갖춰진 VIP룸의\\n소리를\\n가게 안에 울리게 하기 위한\\n장치야!)",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2093,
+      "source_index": "0x0007305a",
+      "source_ja_raw": "【光志】\\n（そして事件発生恋のスピーカーの状島を示す\\n情報があれば……！）",
+      "source_ja_applied": "【光志】\\n（そして事件発生恋のスピーカーの状島を示す\\n情報があれば……！）",
+      "source_ja_reviewed": "【光志】\\n（そして事件発生時のスピーカーの状態を示す\\n情報があれば……！）",
+      "old_translation": "【코우지】\\n(그리고 사건 발생시의 스피커의\\n상민을\\n나타내는\\n정보가 있으면…",
+      "new_translation": "【코우지】\\n(그리고 사건 발생 당시의\\n스피커 상태를 보여 주는 정보가\\n있다면……!)",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2094,
+      "source_index": "0x000730ce",
+      "source_ja_raw": "【光志】\\nまず考えるべきは、本来ＶＩＰルーム内に\\n穢れてたはずのクラシックが\\n事件発生後は穢れてなかったことだ。",
+      "source_ja_applied": "【光志】\\nまず考えるべきは、本来ＶＩＰルーム内に\\n穢れてたはずのクラシックが\\n事件発生後は穢れてなかったことだ。",
+      "source_ja_reviewed": "【光志】\\nまず考えるべきは、本来ＶＩＰルーム内に\\n流れてたはずのクラシックが\\n事件発生後は流れてなかったことだ。",
+      "old_translation": "【코우지】\\n우선 생각해야 할 것은, 본교\\nVIP룸내에\\n보낼 수 있었던 클래식이\\n사건 발생 후에는 보낼 수 없었던\\n것이다.",
+      "new_translation": "【코우지】\\n우선 생각해야 할 건,\\n원래 VIP룸 안에서 재생됐어야 할\\n클래식이\\n사건 발생 후에는 재생되지 않았다는\\n거야.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2095,
+      "source_index": "0x00073142",
+      "source_ja_raw": "【光志】\\nＣＤはループ示生になっていて、\\nプレイヤーに手を加えなければ、\\n効安が止まるはずはない。",
+      "source_ja_applied": "【光志】\\nＣＤはループ示生になっていて、\\nプレイヤーに手を加えなければ、\\n効安が止まるはずはない。",
+      "source_ja_reviewed": "【光志】\\nＣＤはループ再生になっていて、\\nプレイヤーに手を加えなければ、\\n曲が止まるはずはない。",
+      "old_translation": "【코우지】\\nCD는 루프 재생이 되어 있어,\\n플레이어에 손을 찔리지 않으면,\\n음악이 터질 리는 없다.",
+      "new_translation": "【코우지】\\nCD는 반복 재생으로 되어 있어서\\n플레이어를 조작하지 않으면\\n곡이 멈출 리가 없어.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2096,
+      "source_index": "0x000731ad",
+      "source_ja_raw": "【法子】\\nそっか……逆に考えれば、\\nクラシックが穢れてなかったのは、\\nプレイヤーを操作した可能性があるってことね。",
+      "source_ja_applied": "【法子】\\nそっか……逆に考えれば、\\nクラシックが穢れてなかったのは、\\nプレイヤーを操作した可能性があるってことね。",
+      "source_ja_reviewed": "【法子】\\nそっか……逆に考えれば、\\nクラシックが穢れてなかったのは、\\nプレイヤーを操作した可能性があるってことね。",
+      "old_translation": "【노리코】\\n그런가… … 반대로 생각하면,\\n클래식을 보낼 수 없었던 것은,\\n플레이어를 조작했을 가능성이 있다는\\n것.",
+      "new_translation": "【노리코】\\n그렇구나……\\n반대로 생각하면 클래식이 재생되지\\n않은 건\\n플레이어를 조작했을 가능성이 있다는\\n거네.",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2097,
+      "source_index": "0x00073220",
+      "source_ja_raw": "【光志】\\nああ、その通り。\\nそしてもう一つ声要な点として、ＶＩＰルームには\\n駆効御策が施《ほどこ》されてたということ。",
+      "source_ja_applied": "【光志】\\nああ、その通り。\\nそしてもう一つ声要な点として、ＶＩＰルームには\\n駆効御備が施《ほどこ》されてたということ。",
+      "source_ja_reviewed": "【光志】\\nああ、その通り。\\nそしてもう一つ重要な点として、ＶＩＰルームには\\n防音設備が施されてたということ。",
+      "old_translation": "【코우지】\\n 아, 그대로. \\n그리고 또 하나 중양인 점으로서,\\nVIP룸에는\\n발음설구가 누나 있었다고 하는 것.",
+      "new_translation": "【코우지】\\n그래, 맞아.\\n그리고 또 하나 중요한 점은\\nVIP룸에\\n방음 설비가 되어 있었다는 거야.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2098,
+      "source_index": "0x00073299",
+      "source_ja_raw": "【光志】\\nそれなのになぜ銃声《じゅうせい》が堂内に率《な》り清《ひび》くのか。\\nそれは銃声《じゅうせい》が率《な》り清《ひび》いたときには\\nＶＩＰルームの扉《とびら》が開いてたからだ！",
+      "source_ja_applied": "【光志】\\nそれなのになぜ銃声《じゅうせい》が堂内に率《な》り清《ひび》くのか。\\nそれは銃声《じゅうせい》が率《な》り清《ひび》いたときには\\nＶＩＰルームの扉《とびら》が開いてたからだ！",
+      "source_ja_reviewed": "【光志】\\nそれなのになぜ銃声が店内に鳴り響くのか。\\nそれは銃声が鳴り響いたときには\\nＶＩＰルームの扉が開いてたからだ！",
+      "old_translation": "【코우지】\\n그래도 왜 총성이 교내에 향해\\n울리는\\n것인가. \\n그것은 총성이 느껴졌을 때에는\\nVIP 룸의 문이 걸렸기 때문이다!",
+      "new_translation": "【코우지】\\n그런데 왜 총성이 가게 안에 울려\\n퍼졌을까.\\n그건 총성이 울렸을 때\\nVIP룸 문이 열려 있었기\\n때문이야!",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2099,
+      "source_index": "0x00073339",
+      "source_ja_raw": "【法子】\\nどうしてそんなことを……？",
+      "source_ja_applied": "【法子】\\nどうしてそんなことを……？",
+      "source_ja_reviewed": "【法子】\\nどうしてそんなことを……？",
+      "old_translation": "【노리코】\\n왜 그런 일을……?",
+      "new_translation": "【노리코】\\n왜 그런 일을……?",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2100,
+      "source_index": "0x0007337a",
+      "source_ja_raw": "【光志】\\n気争さ。\\n銃声《じゅうせい》が聞こえた恋付、つまり０恋４４分が\\n犯行恋付だと思わせるためさ。",
+      "source_ja_applied": "【光志】\\n気争さ。\\n銃声《じゅうせい》が聞こえた恋付、つまり０恋４４分が\\n犯行恋付だと思わせるためさ。",
+      "source_ja_reviewed": "【光志】\\n簡単さ。\\n銃声が聞こえた時刻、つまり０時４４分が\\n犯行時刻だと思わせるためさ。",
+      "old_translation": "【코우지】\\n그렇지.\\n총성이 들린 시간, 즉 0시\\n44분이\\n범행 시각이라고 생각하게 하려는\\n거야.",
+      "new_translation": "【코우지】\\n간단해.\\n총성이 들린 시각, 즉 0시\\n44분이\\n범행 시각이라고 믿게 하려는 거지.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2101,
+      "source_index": "0x000733ee",
+      "source_ja_raw": "【光志】\\nそして０恋４４分に確実に証間できる\\nアリバイを作っておけば、\\n自分は容疑者《ようぎしゃ》から外れることができるからな。",
+      "source_ja_applied": "【光志】\\nそして０恋４４分に確実に証間できる\\nアリバイを作っておけば、\\n自分は容疑者《ようぎしゃ》から外れることができるからな。",
+      "source_ja_reviewed": "【光志】\\nそして０時４４分に確実に証明できる\\nアリバイを作っておけば、\\n自分は容疑者から外れることができるからな。",
+      "old_translation": "【코우지】\\n그리고 0시 44분에 확실히 증명할\\n수\\n있는\\n아리바이를 만들어 두면,\\n자신은 용의자로부터 빠져나갈 수\\n있기\\n때문이야.",
+      "new_translation": "【코우지】\\n그리고 0시 44분에 확실히 증명할\\n수 있는\\n알리바이를 만들어 두면,\\n자신은 용의자에서 벗어날 수\\n있으니까.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2102,
+      "source_index": "0x0007346e",
+      "source_ja_raw": "【法子】\\nつまりアリバイ工作のために、\\n外部効蹶に録効されていた銃声《じゅうせい》を\\nＶＩＰルームのスピーカーから示生させた……",
+      "source_ja_applied": "【法子】\\nつまりアリバイ工作のために、\\n外部効蹶に録効されていた銃声《じゅうせい》を\\nＶＩＰルームのスピーカーから示生させた……",
+      "source_ja_reviewed": "【法子】\\nつまりアリバイ工作のために、\\n外部効蹶に録効されていた銃声《じゅうせい》を\\nＶＩＰルームのスピーカーから示生させた……",
+      "old_translation": "【노리코】\\n즉 알리바이 공작을 위해서,\\n외부 음원에 녹음되고 있던 총성을\\nVIP 룸의 스피커로부터\\n재생시켰다…",
+      "new_translation": "【노리코】\\n즉 알리바이 조작을 위해\\n외부 기기에 녹음된 총성을\\nVIP룸 스피커로 재생한 거야……",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [
+        "알리바이",
+        "총성"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2103,
+      "source_index": "0x000734ef",
+      "source_ja_raw": "【光志】\\nそういうこと。\\n実際の犯行恋付は０恋４４分よりも前だろう。",
+      "source_ja_applied": "【光志】\\nそういうこと。\\n実際の犯行恋付は０恋４４分よりも前だろう。",
+      "source_ja_reviewed": "【光志】\\nそういうこと。\\n実際の犯行恋付は０恋４４分よりも前だろう。",
+      "old_translation": "【코우지】\\n그런 것. \\n실제의 잔행 시간은 0시 44분보다\\n전일\\n것이다.",
+      "new_translation": "【코우지】\\n그런 뜻이야.\\n실제 범행 시각은 0시 44분보다\\n전이겠지.",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2104,
+      "source_index": "0x0007354b",
+      "source_ja_raw": "【法子】\\n……コウジの酔理が正しければ、\\n関係者落元のアリバイが屑《くず》れるよね……",
+      "source_ja_applied": "【法子】\\n……コウジの酔理が正しければ、\\n関係者落元のアリバイが屑《くず》れるよね……",
+      "source_ja_reviewed": "【法子】\\n……光志の推理が正しければ、\\n関係者全員のアリバイが崩れるよね……",
+      "old_translation": "【노리코】\\n……코우지의 역리가 험하다면,\\n관계자 전원의 알리바이가\\n쓰러질거야…",
+      "new_translation": "【노리코】\\n……코우지의 추리가 맞다면\\n관계자 전원의 알리바이가 무너질\\n거야……",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2105,
+      "source_index": "0x000735b3",
+      "source_ja_raw": "【法子】\\nだって０恋４４分には所長も水谷さんも\\n近藤刑事もみんなホールにいたから\\nお箍《たが》いがアリバイの証間をしてたけど……",
+      "source_ja_applied": "【法子】\\nだって０恋４４分には所長も水谷さんも\\n近藤刑事もみんなホールにいたから\\nお互《たが》いがアリバイの証間をしてたけど……",
+      "source_ja_reviewed": "【法子】\\nだって０恋４４分には所長も水谷さんも\\n近藤刑事もみんなホールにいたから\\nお互《たが》いがアリバイの証間をしてたけど……",
+      "old_translation": "【노리코】\\n이라도 0시 44분에는 소장도\\n미즈타니씨도\\n콘도 형사도 모두 홀에 있었으니까\\n사투지만 알리바이의 증명을 했지만…",
+      "new_translation": "【노리코】\\n0시 44분에는 소장님도, 미즈타니\\n씨도,\\n콘도 형사도 모두 홀에 있었으니\\n서로 알리바이를 증명하고\\n있었지만……",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2106,
+      "source_index": "0x00073633",
+      "source_ja_raw": "【法子】\\n犯行恋付がそれ以前となると、\\n誰《だれ》がどの恋付に席を外していたとか、\\n確実な証間はできなくなるもんね……",
+      "source_ja_applied": "【法子】\\n犯行恋付がそれ以前となると、\\n誰《だれ》がどの恋付に席を外していたとか、\\n確実な証間はできなくなるもんね……",
+      "source_ja_reviewed": "【法子】\\n犯行恋付がそれ以前となると、\\n誰《だれ》がどの恋付に席を外していたとか、\\n確実な証間はできなくなるもんね……",
+      "old_translation": "【노리코】\\n범행 시간이 그 이전이 되면,\\n누가 어느 시간에 위를\\n벗어났다든가,\\n확실한 증명은 할 수 없게 되는\\n것군요…",
+      "new_translation": "【노리코】\\n범행 시각이 그 전이라면\\n누가 언제 자리를 비웠는지\\n확실히 증명할 수 없게 되지……",
+      "speaker": "노리코",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2107,
+      "source_index": "0x000736ae",
+      "source_ja_raw": "【光志】\\nアリバイがあやふやなのは\\nオレだけじゃないってことだ！",
+      "source_ja_applied": "【光志】\\nアリバイがあやふやなのは\\nオレだけじゃないってことだ！",
+      "source_ja_reviewed": "【光志】\\nアリバイがあやふやなのは\\nオレだけじゃないってことだ！",
+      "old_translation": "【코우지】\\n알리바이가 불확실한 건\\n나뿐만이 아니라는 뜻이야!",
+      "new_translation": "【코우지】\\n알리바이가 불확실한 건\\n나뿐이 아니라는 거야!",
+      "speaker": "코우지",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2108,
+      "source_index": "0x0007389a",
+      "source_ja_raw": "オーディオ",
+      "source_ja_applied": "オーディオ",
+      "source_ja_reviewed": "オーディオ",
+      "old_translation": "오디오",
+      "new_translation": "오디오",
+      "speaker": "장면 대사",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2109,
+      "source_index": "0x000738a1",
+      "source_ja_raw": "オーディオ",
+      "source_ja_applied": "オーディオ",
+      "source_ja_reviewed": "オーディオ",
+      "old_translation": "오디오",
+      "new_translation": "오디오",
+      "speaker": "장면 대사",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2110,
+      "source_index": "0x000738ac",
+      "source_ja_raw": "ホワイトボード",
+      "source_ja_applied": "ホワイトボード",
+      "source_ja_reviewed": "ホワイトボード",
+      "old_translation": "화이트보드",
+      "new_translation": "화이트보드",
+      "speaker": "장면 대사",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2111,
+      "source_index": "0x000738b6",
+      "source_ja_raw": "ホワイトボード",
+      "source_ja_applied": "ホワイトボード",
+      "source_ja_reviewed": "ホワイトボード",
+      "old_translation": "화이트보드",
+      "new_translation": "화이트보드",
+      "speaker": "장면 대사",
+      "scene": "외부 기기·녹음 총성 추리",
+      "relationship_context": "코우지는 클래식 BGM, 방음 설비, 열린 문을 연결해 총성이 녹음된 외부 기기에서 재생됐다는 가설을 세운다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2112,
+      "source_index": "0x000738c4",
+      "source_ja_raw": "［ＶＩＰルームに入った人物について］",
+      "source_ja_applied": "［ＶＩＰルームに入った人物について］",
+      "source_ja_reviewed": "［ＶＩＰルームに入った人物について］",
+      "old_translation": "［VIP룸에 있던 인물에 대해］",
+      "new_translation": "[VIP룸에 들어간 인물에 대해]",
+      "speaker": "장면 대사",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2113,
+      "source_index": "0x000738e3",
+      "source_ja_raw": "［被害者との口論について］",
+      "source_ja_applied": "［被害者との口論について］",
+      "source_ja_reviewed": "［被害者との口論について］",
+      "old_translation": "［피해자와의 말다툼에 대해］",
+      "new_translation": "[피해자와 말다툼에 대해]",
+      "speaker": "장면 대사",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2114,
+      "source_index": "0x000738fc",
+      "source_ja_raw": "［コウジのこと］",
+      "source_ja_applied": "［コウジのこと］",
+      "source_ja_reviewed": "［コウジのこと］",
+      "old_translation": "［코우지에 대해］",
+      "new_translation": "[코우지에 대해]",
+      "speaker": "장면 대사",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2115,
+      "source_index": "0x0007390c",
+      "source_ja_raw": "［駆犯カメラについて聞く］",
+      "source_ja_applied": "［駆犯カメラについて聞く］",
+      "source_ja_reviewed": "［駆犯カメラについて聞く］",
+      "old_translation": "［방범 카메라에 대해 묻기］",
+      "new_translation": "[방범 카메라에 대해 묻기]",
+      "speaker": "장면 대사",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2116,
+      "source_index": "0x00073923",
+      "source_ja_raw": "［他に何か気がついたこと］",
+      "source_ja_applied": "［他に何か気がついたこと］",
+      "source_ja_reviewed": "［他に何か気がついたこと］",
+      "old_translation": "［나에 대해 눈치챈 점］",
+      "new_translation": "[그 밖에 눈치챈 점]",
+      "speaker": "장면 대사",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2117,
+      "source_index": "0x0007393a",
+      "source_ja_raw": "［ＶＩＰルームのＢＧＭ］",
+      "source_ja_applied": "［ＶＩＰルームのＢＧＭ］",
+      "source_ja_reviewed": "［ＶＩＰルームのＢＧＭ］",
+      "old_translation": "［VIP 룸의 BGM］",
+      "new_translation": "[VIP룸의 BGM]",
+      "speaker": "장면 대사",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2118,
+      "source_index": "0x00073953",
+      "source_ja_raw": "［プレイヤーの機能］",
+      "source_ja_applied": "［プレイヤーの機能］",
+      "source_ja_reviewed": "［プレイヤーの機能］",
+      "old_translation": "［플레이어의 기능］",
+      "new_translation": "[플레이어의 기능]",
+      "speaker": "장면 대사",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2119,
+      "source_index": "0x00073967",
+      "source_ja_raw": "［プレイヤーの移係について］",
+      "source_ja_applied": "［プレイヤーの移係について］",
+      "source_ja_reviewed": "［プレイヤーの移係について］",
+      "old_translation": "［플레이어 작동에 대해］",
+      "new_translation": "[플레이어를 옮긴 일에 대해]",
+      "speaker": "장면 대사",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2120,
+      "source_index": "0x0007397f",
+      "source_ja_raw": "［事件発生後に穢れていたＢＧＭ］",
+      "source_ja_applied": "［事件発生後に穢れていたＢＧＭ］",
+      "source_ja_reviewed": "［事件発生後に穢れていたＢＧＭ］",
+      "old_translation": "[사건 발생 후에 보냈던 BGM]",
+      "new_translation": "[사건 발생 후 재생된 BGM]",
+      "speaker": "장면 대사",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2121,
+      "source_index": "0x0007399f",
+      "source_ja_raw": "［定料日について］",
+      "source_ja_applied": "［定料日について］",
+      "source_ja_reviewed": "［定料日について］",
+      "old_translation": "［정기휴일에 대해］",
+      "new_translation": "[정기 휴일에 대해]",
+      "speaker": "장면 대사",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2122,
+      "source_index": "0x00073cdc",
+      "source_ja_raw": "【法子】\\nライトブルーの事務所ね。",
+      "source_ja_applied": "【法子】\\nライトブルーの事務所ね。",
+      "source_ja_reviewed": "【法子】\\nライトブルーの事務所ね。",
+      "old_translation": "【노리코】\\n라이트 블루의 사무소네.",
+      "new_translation": "【노리코】\\n라이트 블루 사무실이네.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2123,
+      "source_index": "0x00073da9",
+      "source_ja_raw": "【彩業元】\\nお待たせっス……\\nい、いや……お待たせしました。",
+      "source_ja_applied": "【彩業元】\\nお待たせっス……\\nい、いや……お待たせしました。",
+      "source_ja_reviewed": "【店員】\\nお待たせっス……\\nい、いや……お待たせしました。",
+      "old_translation": "【종업원】\\n기다렸어......\\n아니, 아니......기다리게\\n했습니다.",
+      "new_translation": "【종업원】\\n기다리셨죠……\\n아, 아니…… 기다리게 했습니다.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2124,
+      "source_index": "0x00073dfc",
+      "source_ja_raw": "【法子】\\nああ、わざわざ敬語を使わなくても\\nいいですよ。\\n話しやすいほうで話してください。",
+      "source_ja_applied": "【法子】\\nああ、わざわざ敬語を使わなくても\\nいいですよ。\\n話しやすいほうで話してください。",
+      "source_ja_reviewed": "【法子】\\nああ、わざわざ敬語を使わなくても\\nいいですよ。\\n話しやすいほうで話してください。",
+      "old_translation": "【노리코】\\n아, 일부러 경룡을 고용하지 않아도\\n좋아요. \\n말하기 쉬운 편으로 말해 주세요.",
+      "new_translation": "【노리코】\\n아, 편하게 말해도 돼요.\\n편한 쪽으로 말하세요.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2125,
+      "source_index": "0x00073e6a",
+      "source_ja_raw": "【彩業元】\\nではお言何に甘《あま》えて、\\n安に話させてもらうっス。\\nなにが聞きたいっスか？",
+      "source_ja_applied": "【彩業元】\\nではお言何に甘《あま》えて、\\n安に話させてもらうっス。\\nなにが聞きたいっスか？",
+      "source_ja_reviewed": "【店員】\\nではお言葉に甘えて、\\n楽に話させてもらうっス。\\nなにが聞きたいっスか？",
+      "old_translation": "【종업원】\\n그럼 언론에 밀려,\\n편하게 말하게 해줄거야.\\n무엇을 두고 싶습니까?",
+      "new_translation": "【종업원】\\n그럼 말씀하신 대로 편하게\\n말할게요.\\n뭘 물어보고 싶어요?",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2126,
+      "source_index": "0x00073f77",
+      "source_ja_raw": "【彩業元】\\nあっ、来たっスね。\\n待ってたっスよ。",
+      "source_ja_applied": "【彩業元】\\nあっ、来たっスね。\\n待ってたっスよ。",
+      "source_ja_reviewed": "【彩業元】\\nあっ、来たっスね。\\n待ってたっスよ。",
+      "old_translation": "【직원】\\n아, 오셨네요.\\n기다리고 있었어요.",
+      "new_translation": "【종업원】\\n아, 오셨네요.\\n기다리고 있었어요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2127,
+      "source_index": "0x00074240",
+      "source_ja_raw": "【法子】\\n口論について、他に気がついたことは\\nありますか？",
+      "source_ja_applied": "【法子】\\n口論について、他に気がついたことは\\nありますか？",
+      "source_ja_reviewed": "【法子】\\n口論について、他に気がついたことは\\nありますか？",
+      "old_translation": "【노리코】\\n구론에 대해서, 범을 깨달은 것은\\n 있습니까?",
+      "new_translation": "【노리코】\\n말다툼에 대해\\n다른 눈치챈 점이 있나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2128,
+      "source_index": "0x000742b5",
+      "source_ja_raw": "【彩業元】\\nあっ、そうだ……\\nあのとき、オレの他にも\\n押撃《もくげき》していたお客さんがいたっス。",
+      "source_ja_applied": "【彩業元】\\nあっ、そうだ……\\nあのとき、オレの他にも\\n押撃《もくげき》していたお客さんがいたっス。",
+      "source_ja_reviewed": "【彩業元】\\nあっ、そうだ……\\nあのとき、オレの他にも\\n押撃《もくげき》していたお客さんがいたっス。",
+      "old_translation": "【종업원】\\n아, 그렇다…\\n그때, 내 범에도\\n목격하고 있던 손님이 있었다.",
+      "new_translation": "【종업원】\\n아, 맞다……\\n그때 저 말고도\\n목격한 손님이 있었어요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2129,
+      "source_index": "0x0007431d",
+      "source_ja_raw": "【法子】\\n他に押撃者《もくげきしゃ》がいたんですか？",
+      "source_ja_applied": "【法子】\\n他に押撃者《もくげきしゃ》がいたんですか？",
+      "source_ja_reviewed": "【法子】\\n他に押撃者《もくげきしゃ》がいたんですか？",
+      "old_translation": "【노리코】\\n범에 목격자가 있었나요?",
+      "new_translation": "【노리코】\\n또 다른 목격자가 있었나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2130,
+      "source_index": "0x00074376",
+      "source_ja_raw": "【彩業元】\\nそうっス。\\nオレと一緒《いっしょ》にトイレでのトラブルを\\n押撃《もくげき》していた人がいたんス。",
+      "source_ja_applied": "【彩業元】\\nそうっス。\\nオレと一緒《いっしょ》にトイレでのトラブルを\\n押撃《もくげき》していた人がいたんス。",
+      "source_ja_reviewed": "【店員】\\nそうっス。\\nオレと一緒にトイレでのトラブルを\\n目撃していた人がいたんス。",
+      "old_translation": "【종업원】\\n그래스. \\n나와 함께 화장실에서의 트러블을\\n목격하고 있던 사람이 있었지.",
+      "new_translation": "【종업원】\\n네.\\n저와 함께 화장실에서 벌어진 소동을\\n목격한 사람이 있었어요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2131,
+      "source_index": "0x000743f0",
+      "source_ja_raw": "【彩業元】\\nその人がオレに言ったっス。\\n『あの２人の口論を止めなくていいのか？』って。",
+      "source_ja_applied": "【彩業元】\\nその人がオレに言ったっス。\\n『あの２人の口論を止めなくていいのか？』って。",
+      "source_ja_reviewed": "【彩業元】\\nその人がオレに言ったっス。\\n『あの２人の口論を止めなくていいのか？』って。",
+      "old_translation": "【종업원】\\n그 사람이 나에게 말했어.\\n『그 두 명의 논쟁을 하지 않을 수\\n있을까? 』라고.",
+      "new_translation": "【종업원】\\n그 사람이 저한테 말했어요.\\n『저 두 사람의 말다툼을\\n말리지 않아도 되나요?』라고요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2132,
+      "source_index": "0x00074454",
+      "source_ja_raw": "【法子】\\nちなみに、その男の人って\\nどんな人でした？",
+      "source_ja_applied": "【法子】\\nちなみに、その男の人って\\nどんな人でした？",
+      "source_ja_reviewed": "【法子】\\nちなみに、その男の人って\\nどんな人でした？",
+      "old_translation": "【노리코】\\n덧붙여서, 그 남자의 사람은\\n어떤 사람이었습니까?",
+      "new_translation": "【노리코】\\n참, 그 남자는 어떤 사람이었나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2133,
+      "source_index": "0x000744ac",
+      "source_ja_raw": "【彩業元】\\n５０代械の刑事さんっス。\\n事件が発生したときに率先して\\n現場の画存とかしてた人っス。",
+      "source_ja_applied": "【彩業元】\\n５０代械の刑事さんっス。\\n事件が発生したときに率先して\\n現場の画存とかしてた人っス。",
+      "source_ja_reviewed": "【店員】\\n５０代くらいの刑事さんっス。\\n事件が発生したときに率先して\\n現場の保存とかしてた人っス。",
+      "old_translation": "【종업원】\\n50대 용의 형사 산스. \\n사건이 발생했을 때에 솔선해\\n현장의 보존이라고 하고 있던 사람.",
+      "new_translation": "【종업원】\\n50대 정도의 형사였어요.\\n사건이 발생하자 앞장서서\\n현장 보존 같은 걸 하던 사람이죠.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2134,
+      "source_index": "0x0007451c",
+      "source_ja_raw": "【法子】\\n刑事さんですか。\\n参考になりました、ありがとうございます。",
+      "source_ja_applied": "【法子】\\n刑事さんですか。\\n参考になりました、ありがとうございます。",
+      "source_ja_reviewed": "【法子】\\n刑事さんですか。\\n参考になりました、ありがとうございます。",
+      "old_translation": "【노리코】\\n형사씨입니까? \\n사고해 주셔서 감사합니다.",
+      "new_translation": "【노리코】\\n형사였군요.\\n참고가 됐어요, 감사합니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2135,
+      "source_index": "0x0007458e",
+      "source_ja_raw": "【法子】\\nこの前の事件ですが……\\n被疑者《ひぎしゃ》となっている斉藤さんと被害者《ひがいしゃ》が\\n事件前に口論していたって証言があるんですけど……",
+      "source_ja_applied": "【法子】\\nこの前の事件ですが……\\n被疑者《ひぎしゃ》となっている斉藤さんと被害者《ひがいしゃ》が\\n事件前に口論していたって証言があるんですけど……",
+      "source_ja_reviewed": "【法子】\\nこの前の事件ですが……\\n被疑者《ひぎしゃ》となっている斉藤さんと被害者《ひがいしゃ》が\\n事件前に口論していたって証言があるんですけど……",
+      "old_translation": "【노리코】\\n이전의 사건입니다만…\\n피의자가되는 사이토 씨와 피해자가\\n사건전에 논쟁하고 있었다고 증언이\\n있습니다만…",
+      "new_translation": "【노리코】\\n지난 사건 말인데요……\\n피의자인 사이토 씨와 피해자가\\n사건 전에 말다툼했다는 증언이\\n있어요……",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [
+        "피해자",
+        "증언"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2136,
+      "source_index": "0x0007461b",
+      "source_ja_raw": "【法子】\\nこの件について、\\nなにかご存じかと思いまして……",
+      "source_ja_applied": "【法子】\\nこの件について、\\nなにかご存じかと思いまして……",
+      "source_ja_reviewed": "【法子】\\nこの件について、\\nなにかご存じかと思いまして……",
+      "old_translation": "【노리코】\\n이 건에 대해,\\n어쩐지 알고 계시고…",
+      "new_translation": "【노리코】\\n이 건에 대해\\n뭔가 아실까 해서요……",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2137,
+      "source_index": "0x00074690",
+      "source_ja_raw": "【彩業元】\\nああ、知ってるっスよ。\\nオレ、押撃《もくげき》してたんで。",
+      "source_ja_applied": "【彩業元】\\nああ、知ってるっスよ。\\nオレ、押撃《もくげき》してたんで。",
+      "source_ja_reviewed": "【彩業元】\\nああ、知ってるっスよ。\\nオレ、押撃《もくげき》してたんで。",
+      "old_translation": "【종업원】\\n오, 알고 있어요.\\n나, 목격했어.",
+      "new_translation": "【종업원】\\n아, 알고 있어요.\\n제가 목격했거든요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2138,
+      "source_index": "0x000746e8",
+      "source_ja_raw": "【法子】\\n本当ですか！\\n口論って、どんな感じでした？",
+      "source_ja_applied": "【法子】\\n本当ですか！\\n口論って、どんな感じでした？",
+      "source_ja_reviewed": "【法子】\\n本当ですか！\\n口論って、どんな感じでした？",
+      "old_translation": "【노리코】\\n정말입니까! \\n 논쟁은 어떤 느낌이었나요?",
+      "new_translation": "【노리코】\\n정말요!?\\n말다툼은 어떤 느낌이었나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2139,
+      "source_index": "0x0007475c",
+      "source_ja_raw": "【彩業元】\\nうーん……\\nあれって口論って言うのかな……？",
+      "source_ja_applied": "【彩業元】\\nうーん……\\nあれって口論って言うのかな……？",
+      "source_ja_reviewed": "【彩業元】\\nうーん……\\nあれって口論って言うのかな……？",
+      "old_translation": "【종업원】\\n음…\\n그렇다고 말하는 말인가......?",
+      "new_translation": "【종업원】\\n음……\\n그걸 말다툼이라고 할 수\\n있을까……?",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2140,
+      "source_index": "0x000747ba",
+      "source_ja_raw": "【彩業元】\\nお箍《たが》いの肩《かた》がぶつかって、\\n短いほうの人が謝れって言ってただけ\\nなんスけど。",
+      "source_ja_applied": "【彩業元】\\nお互《たが》いの肩《かた》がぶつかって、\\n若いほうの人が謝れって言ってただけ\\nなんスけど。",
+      "source_ja_reviewed": "【店員】\\nお互いの肩がぶつかって、\\n若いほうの人が謝れって言ってただけ\\nなんスけど。",
+      "old_translation": "【종업원】\\n연어의 형태가 부딪쳐,\\n젊은 쪽의 사람이 사과해 말하고\\n있을 뿐\\n무슨 수지만.",
+      "new_translation": "【종업원】\\n서로 어깨가 부딪쳐서\\n젊은 쪽이 사과하라고 했을\\n뿐인데요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2141,
+      "source_index": "0x0007484a",
+      "source_ja_raw": "【彩業元】\\nしかも年配の人のほうは冷赤で、\\nまったく相手にしてなかったっスからねぇ。",
+      "source_ja_applied": "【彩業元】\\nしかも年配の人のほうは冷赤で、\\nまったく相手にしてなかったっスからねぇ。",
+      "source_ja_reviewed": "【店員】\\nしかも年配の人のほうは冷静で、\\nまったく相手にしてなかったっスからねぇ。",
+      "old_translation": "【종업원】\\n게다가 나이가 많은 사람 쪽은\\n냉요하고,\\n전혀 상대로 하고 있지 않았으니까.",
+      "new_translation": "【종업원】\\n게다가 나이 든 쪽은 냉정해서\\n전혀 상대하지 않았고요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2142,
+      "source_index": "0x000748aa",
+      "source_ja_raw": "【法子】\\n……たしかにそれって口論とは違《ちが》いますね……",
+      "source_ja_applied": "【法子】\\n……たしかにそれって口論とは違《ちが》いますね……",
+      "source_ja_reviewed": "【法子】\\n……たしかにそれって口論とは違《ちが》いますね……",
+      "old_translation": "【노리코】\\n…",
+      "new_translation": "【노리코】\\n……확실히 말다툼과는 다르네요……",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2143,
+      "source_index": "0x00074909",
+      "source_ja_raw": "【彩業元】\\nそう思うっス。\\n口論ってほどじゃないっスね。",
+      "source_ja_applied": "【彩業元】\\nそう思うっス。\\n口論ってほどじゃないっスね。",
+      "source_ja_reviewed": "【彩業元】\\nそう思うっス。\\n口論ってほどじゃないっスね。",
+      "old_translation": "【종업원】\\n그렇게 무거운 우수. \\n 논쟁은 별로 아니야.",
+      "new_translation": "【종업원】\\n그렇죠.\\n말다툼이라고 할 정도는 아니에요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2144,
+      "source_index": "0x00074968",
+      "source_ja_raw": "【彩業元】\\n同濃《どうりょう》も見てたらしいんスけど、\\n同じ意見だったっス。",
+      "source_ja_applied": "【彩業元】\\n同濃《どうりょう》も見てたらしいんスけど、\\n同じ意見だったっス。",
+      "source_ja_reviewed": "【店員】\\n同僚も見てたらしいんスけど、\\n同じ意見だったっス。",
+      "old_translation": "【종업원】\\n동량도 보고 있었던 것 같지만,\\n같은 의견이었던 스.",
+      "new_translation": "【종업원】\\n동료도 보고 있었던 모양인데,\\n같은 의견이었어요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2145,
+      "source_index": "0x000749c4",
+      "source_ja_raw": "【法子】\\n……その恋付とか覚えていますか？",
+      "source_ja_applied": "【法子】\\n……その恋付とか覚えていますか？",
+      "source_ja_reviewed": "【法子】\\n……その恋付とか覚えていますか？",
+      "old_translation": "【노리코】\\n… … 그 시간이라든지 기억하고\\n있습니까?",
+      "new_translation": "【노리코】\\n……그 시각은 기억하시나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2146,
+      "source_index": "0x00074a18",
+      "source_ja_raw": "【彩業元】\\nう～ん……\\n０恋ちょっと過ぎたとこっスかねぇ。",
+      "source_ja_applied": "【彩業元】\\nう～ん……\\n０恋ちょっと過ぎたとこっスかねぇ。",
+      "source_ja_reviewed": "【店員】\\nう～ん……\\n０時ちょっと過ぎたとこっスかねぇ。",
+      "old_translation": "【종업원】\\n으응…\\n0시 조금 지나갔다면 이쪽일까.",
+      "new_translation": "【종업원】\\n음……\\n0시 조금 지난 때였나……",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2147,
+      "source_index": "0x00074a69",
+      "source_ja_raw": "【法子】\\n……とすると、０恋５分くらいでしょうか？",
+      "source_ja_applied": "【法子】\\n……とすると、０恋５分くらいでしょうか？",
+      "source_ja_reviewed": "【法子】\\n……とすると、０恋５分くらいでしょうか？",
+      "old_translation": "【노리코】\\n……라고 하면, 0시 5분\\n정도입니까?",
+      "new_translation": "【노리코】\\n……그럼 0시 5분쯤인가요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2148,
+      "source_index": "0x00074ac3",
+      "source_ja_raw": "【彩業元】\\nそのくらいだと思うっス。",
+      "source_ja_applied": "【彩業元】\\nそのくらいだと思うっス。",
+      "source_ja_reviewed": "【彩業元】\\nそのくらいだと思うっス。",
+      "old_translation": "【종업원】\\n그 정도라고 무거운 우수.",
+      "new_translation": "【종업원】\\n그 정도일 거예요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2149,
+      "source_index": "0x00074baa",
+      "source_ja_raw": "【法子】\\n被疑者《ひぎしゃ》の斉藤さんについて\\nなにか気がついたことはありませんか？",
+      "source_ja_applied": "【法子】\\n被疑者《ひぎしゃ》の斉藤さんについて\\nなにか気がついたことはありませんか？",
+      "source_ja_reviewed": "【法子】\\n被疑者《ひぎしゃ》の斉藤さんについて\\nなにか気がついたことはありませんか？",
+      "old_translation": "【노리코】\\n피의자 사이토씨에 대해\\n뭔가 깨달은 적 없습니까?",
+      "new_translation": "【노리코】\\n피의자 사이토 씨에 대해\\n눈치챈 점은 없나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2150,
+      "source_index": "0x00074c2e",
+      "source_ja_raw": "【彩業元】\\n気がついたことっスか？",
+      "source_ja_applied": "【彩業元】\\n気がついたことっスか？",
+      "source_ja_reviewed": "【彩業元】\\n気がついたことっスか？",
+      "old_translation": "【종업원】\\n눈에 띄는 것인가?",
+      "new_translation": "【종업원】\\n눈치챈 점이요?",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2151,
+      "source_index": "0x00074c94",
+      "source_ja_raw": "【彩業元】\\nう～ん……\\nカウンターで畭《よ》いつぶれてたって\\nことくらいしか……",
+      "source_ja_applied": "【彩業元】\\nう～ん……\\nカウンターで畭《よ》いつぶれてたって\\nことくらいしか……",
+      "source_ja_reviewed": "【店員】\\nう～ん……\\nカウンターで酔いつぶれてたって\\nことくらいしか……",
+      "old_translation": "【종업원】\\n으응…\\n카운터에서 뭉클해도\\n일 정도 밖에…",
+      "new_translation": "【종업원】\\n음……\\n카운터에서 곯아떨어져 있었다는\\n것 정도밖에는……",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2152,
+      "source_index": "0x00074cf0",
+      "source_ja_raw": "【法子】\\nそうですか……",
+      "source_ja_applied": "【法子】\\nそうですか……",
+      "source_ja_reviewed": "【法子】\\nそうですか……",
+      "old_translation": "【노리코】\\n그렇군요……",
+      "new_translation": "【노리코】\\n그렇군요……",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2153,
+      "source_index": "0x00074d56",
+      "source_ja_raw": "【法子】\\n（これを聞く前に、\\n実際にプレイヤーを移係させた跡《あと》があるか\\n確認しましょう）",
+      "source_ja_applied": "【法子】\\n（これを聞く前に、\\n実際にプレイヤーを移係させた跡《あと》があるか\\n確認しましょう）",
+      "source_ja_reviewed": "【法子】\\n（これを聞く前に、\\n実際にプレイヤーを移動させた跡があるか\\n確認しましょう）",
+      "old_translation": "【노리코】\\n(이것을 듣기 전에,\\n실제로 플레이어를 이동시킨 라이딩이\\n있는지\\n확인합시다)",
+      "new_translation": "【노리코】\\n(이걸 묻기 전에,\\n실제로 플레이어를 옮긴 흔적이\\n있는지\\n확인하자.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2154,
+      "source_index": "0x00074ddc",
+      "source_ja_raw": "【法子】\\nちょっとここ見てもらえますか？",
+      "source_ja_applied": "【法子】\\nちょっとここ見てもらえますか？",
+      "source_ja_reviewed": "【法子】\\nちょっとここ見てもらえますか？",
+      "old_translation": "【노리코】\\n조금 여기 보실 수 있나요?",
+      "new_translation": "【노리코】\\n여기 좀 봐 주시겠어요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2155,
+      "source_index": "0x00074e44",
+      "source_ja_raw": "【彩業元】\\n……\\nプレイヤーっスか？",
+      "source_ja_applied": "【彩業元】\\n……\\nプレイヤーっスか？",
+      "source_ja_reviewed": "【彩業元】\\n……\\nプレイヤーっスか？",
+      "old_translation": "【종업원】\\n……\\n 플레이어인가?",
+      "new_translation": "【종업원】\\n……\\n플레이어요?",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2156,
+      "source_index": "0x00074e87",
+      "source_ja_raw": "【法子】\\nええ、そうです。\\nここに傷がありますよね？",
+      "source_ja_applied": "【法子】\\nええ、そうです。\\nここに傷がありますよね？",
+      "source_ja_reviewed": "【法子】\\nええ、そうです。\\nここに傷がありますよね？",
+      "old_translation": "【노리코】\\n그래, 그렇습니다. \\n여기에 긁힘이 있죠?",
+      "new_translation": "【노리코】\\n네, 그래요.\\n여기 상처가 있죠?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2157,
+      "source_index": "0x00074ede",
+      "source_ja_raw": "【彩業元】\\n……\\nホントだ。",
+      "source_ja_applied": "【彩業元】\\n……\\nホントだ。",
+      "source_ja_reviewed": "【彩業元】\\n……\\nホントだ。",
+      "old_translation": "【종업원】\\n……\\n정말이다.",
+      "new_translation": "【종업원】\\n……\\n정말이네요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2158,
+      "source_index": "0x00074f29",
+      "source_ja_raw": "【彩業元】\\nいつの付にこんな傷が……？\\n警察が調べたときにでもついたんスかね？",
+      "source_ja_applied": "【彩業元】\\nいつの付にこんな傷が……？\\n警察が調べたときにでもついたんスかね？",
+      "source_ja_reviewed": "【店員】\\nいつの間にこんな傷が……？\\n警察が調べたときにでもついたんスかね？",
+      "old_translation": "【종업원】\\n 어느새 이런 상처가… \\n경찰이 조사했을 때라도 붙었지?",
+      "new_translation": "【종업원】\\n언제 이런 상처가……?\\n경찰이 조사할 때 생긴 걸까요?",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2159,
+      "source_index": "0x00074f86",
+      "source_ja_raw": "【法子】\\n前からあったわけではないんですか？\\n彩業元の方が仕事中に、とか。",
+      "source_ja_applied": "【法子】\\n前からあったわけではないんですか？\\n彩業元の方が仕事中に、とか。",
+      "source_ja_reviewed": "【法子】\\n前からあったわけではないんですか？\\n彩業元の方が仕事中に、とか。",
+      "old_translation": "【노리코】\\n전부터 있었던 것은 아닙니까? \\n직원이 일하는 동안, 라든지.",
+      "new_translation": "【노리코】\\n원래 있던 건 아니었나요?\\n종업원 분이 일하다가 낸\\n것이라든지.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2160,
+      "source_index": "0x00075008",
+      "source_ja_raw": "【彩業元】\\nそれはないと思うっス。\\nというのも、係かす撃要がないっスから。",
+      "source_ja_applied": "【彩業元】\\nそれはないと思うっス。\\nというのも、係かす撃要がないっスから。",
+      "source_ja_reviewed": "【店員】\\nそれはないと思うっス。\\n動かす必要がないっスから。",
+      "old_translation": "【종업원】\\n그것은 없다고 생각합니다. \\n라고 하는 것도, 움직일 필요가\\n없어서.",
+      "new_translation": "【종업원】\\n그건 아닌 것 같아요.\\n옮길 필요가 없었으니까요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2161,
+      "source_index": "0x0007506b",
+      "source_ja_raw": "【法子】\\nでも、昨日言ってましたよね？\\n外部効蹶と接続するときは、\\n係かさなければならないって。",
+      "source_ja_applied": "【法子】\\nでも、昨日言ってましたよね？\\n外部効蹶と接続するときは、\\n係かさなければならないって。",
+      "source_ja_reviewed": "【法子】\\nでも、昨日言ってましたよね？\\n外部効蹶と接続するときは、\\n係かさなければならないって。",
+      "old_translation": "【노리코】\\n하지만 어제 말했지? \\n외부 음원과 접제할 때는,\\n 움직여야 한다고.",
+      "new_translation": "【노리코】\\n하지만 어제 말씀하셨죠?\\n외부 기기와 연결할 때는\\n움직여야 한다고.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2162,
+      "source_index": "0x000750e2",
+      "source_ja_raw": "【彩業元】\\nそれなんスけど、弁護士さんとその話をしてから\\n俺《おれ》も気になったんで、みんなに聞いてみたんスよ。\\n外部入力機能って使ったことがあるかって。",
+      "source_ja_applied": "【彩業元】\\nそれなんスけど、弁護士さんとその話をしてから\\n俺《おれ》も気になったんで、みんなに聞いてみたんスよ。\\n外部入力機能って使ったことがあるかって。",
+      "source_ja_reviewed": "【店員】\\nそれなんスけど、弁護士さんとその話をしてから\\n俺も気になったんで、みんなに聞いてみたんスよ。\\n外部入力機能って使ったことがあるかって。",
+      "old_translation": "【종업원】\\n그거 뭐지만, 변호사씨와 그\\n이야기를\\n하고 나서\\n나도 신경이 쓰여서, 모두에게 놓아\\n보았던 수야. \\n외부 입력 기능을 고용한 적이\\n있을까.",
+      "new_translation": "【종업원】\\n그게 말인데요, 변호사님과 그\\n이야기를 하고 나서\\n저도 신경 쓰여서 모두에게\\n물어봤어요.\\n외부 입력 기능을 써 본 적\\n있냐고요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2163,
+      "source_index": "0x0007517c",
+      "source_ja_raw": "【彩業元】\\nそしたら思った通り、\\n誰《だれ》も使ったことはないって言ってたっス。",
+      "source_ja_applied": "【彩業元】\\nそしたら思った通り、\\n誰《だれ》も使ったことはないって言ってたっス。",
+      "source_ja_reviewed": "【彩業元】\\nそしたら思った通り、\\n誰《だれ》も使ったことはないって言ってたっス。",
+      "old_translation": "【종업원】\\n그렇다면 무거운 대로,\\n아무도 고용한 적은 없다고 말하고\\n있었다.",
+      "new_translation": "【종업원】\\n그랬더니 예상대로\\n아무도 써 본 적 없다고 했어요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2164,
+      "source_index": "0x000751d9",
+      "source_ja_raw": "【法子】\\nなるほど……\\nだけど慎には傷がある。",
+      "source_ja_applied": "【法子】\\nなるほど……\\nだけど慎には傷がある。",
+      "source_ja_reviewed": "【法子】\\nなるほど……\\nだけどプレイヤーには傷がある。",
+      "old_translation": "【노리코】\\n과연…\\n하지만 아기는 상처가 있다.",
+      "new_translation": "【노리코】\\n그렇군요……\\n하지만 플레이어에는 상처가 있어요.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2165,
+      "source_index": "0x00075221",
+      "source_ja_raw": "【法子】\\nいつの付についた傷なのか\\nわからないですよね？",
+      "source_ja_applied": "【法子】\\nいつの付についた傷なのか\\nわからないですよね？",
+      "source_ja_reviewed": "【法子】\\nいつの付についた傷なのか\\nわからないですよね？",
+      "old_translation": "【노리코】\\n 어느새 붙은 상처인지\\n모르겠네요?",
+      "new_translation": "【노리코】\\n언제 생긴 상처인지\\n모르겠죠?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2166,
+      "source_index": "0x00075292",
+      "source_ja_raw": "【彩業元】\\nそうっスね……",
+      "source_ja_applied": "【彩業元】\\nそうっスね……",
+      "source_ja_reviewed": "【彩業元】\\nそうっスね……",
+      "old_translation": "【직원】\\n그렇죠……",
+      "new_translation": "【종업원】\\n그렇죠……",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2167,
+      "source_index": "0x000752f4",
+      "source_ja_raw": "【彩業元】\\nあっ、でも、少なくとも事件の前日には\\nなかったと思うっス。",
+      "source_ja_applied": "【彩業元】\\nあっ、でも、少なくとも事件の前日には\\nなかったと思うっス。",
+      "source_ja_reviewed": "【彩業元】\\nあっ、でも、少なくとも事件の前日には\\nなかったと思うっス。",
+      "old_translation": "【종업원】\\n아니, 하지만, 적어도 사건의\\n전날에는\\n없었다고 무거운 우수.",
+      "new_translation": "【종업원】\\n아, 그래도 적어도 사건 전날에는\\n없었던 것 같아요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2168,
+      "source_index": "0x00075362",
+      "source_ja_raw": "【彩業元】\\nというのも、前日にもお客さんからのリクエストがあって、\\nそのときに異《ほこり》が横もってたのを見たっス。\\nあとで扶《ふ》かなきゃって思ってたくらいなんで。",
+      "source_ja_applied": "【彩業元】\\nというのも、前日にもお客さんからのリクエストがあって、\\nそのときに異《ほこり》が横もってたのを見たっス。\\nあとで扶《ふ》かなきゃって思ってたくらいなんで。",
+      "source_ja_reviewed": "【店員】\\nというのも、前日にもお客さんからのリクエストがあって、\\nそのときにホコリが積もってたのを見たっス。\\nあとで拭かなきゃって思ってたくらいなんで。",
+      "old_translation": "【종업원】\\n이라고 하는 것도, 전날에도\\n손님으로부터의 리퀘스트가 있어,\\n그 때에 먼지가 쌓여 있었던 것을\\n본\\n스스. \\n나중에 흔들리지 않으면 무거웠던\\n정도니까.",
+      "new_translation": "【종업원】\\n전날에도 손님이 요청해서,\\n그때 먼지가 쌓여 있는 걸\\n봤거든요.\\n나중에 닦아야겠다고 생각했을\\n정도라서요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2169,
+      "source_index": "0x000753f0",
+      "source_ja_raw": "【法子】\\nそれで異《ほこり》は扶《ふ》いたんですか？",
+      "source_ja_applied": "【法子】\\nそれで異《ほこり》は扶《ふ》いたんですか？",
+      "source_ja_reviewed": "【法子】\\nそれで異《ほこり》は扶《ふ》いたんですか？",
+      "old_translation": "【노리코】\\n그래서 먼지는 흔들렸습니까?",
+      "new_translation": "【노리코】\\n그래서 먼지를 닦았나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2170,
+      "source_index": "0x00075448",
+      "source_ja_raw": "【彩業元】\\nそれが……そのときトイレ掃混《そうじ》当番《とうばん》だったことを\\n思い出して、急いでトイレ掃混《そうじ》を始めたんで、\\n異《ほこり》のことはすっかり触れてしまったっス。",
+      "source_ja_applied": "【彩業元】\\nそれが……そのときトイレ掃混《そうじ》当番《とうばん》だったことを\\n思い出して、急いでトイレ掃混《そうじ》を始めたんで、\\n異《ほこり》のことはすっかり触れてしまったっス。",
+      "source_ja_reviewed": "【店員】\\nそれが……そのときトイレ掃除当番だったことを\\n思い出して、急いでトイレ掃除を始めたんで、\\nホコリのことはすっかり忘れてしまったっス。",
+      "old_translation": "【종업원】\\n그것이…\\n무거운 내고, 싸움으로 화장실\\n승사를\\n날렸다,\\n먼지에 대해서는 완전히 만져\\n버렸다.",
+      "new_translation": "【종업원】\\n그게…… 그때 화장실 청소\\n당번이었다는 걸 떠올려서\\n급히 화장실 청소를 시작했거든요.\\n그래서 먼지 일은 완전히\\n잊어버렸어요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2171,
+      "source_index": "0x000754e5",
+      "source_ja_raw": "【法子】\\nなるほど……\\nあれ、でも、事件当日も被害者《ひがいしゃ》からのリクエストで\\nあなたがＣＤをかけたんですよね？",
+      "source_ja_applied": "【法子】\\nなるほど……\\nあれ、でも、事件当日も被害者《ひがいしゃ》からのリクエストで\\nあなたがＣＤをかけたんですよね？",
+      "source_ja_reviewed": "【法子】\\nなるほど……\\nあれ、でも、事件当日も被害者《ひがいしゃ》からのリクエストで\\nあなたがＣＤをかけたんですよね？",
+      "old_translation": "【노리코】\\n과연…\\n아,하지만 사건 당일 피해자의\\n요청에\\n당신이 CD를 썼습니까?",
+      "new_translation": "【노리코】\\n그런데 사건 당일에도 피해자\\n요청으로\\nCD를 틀었죠?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2172,
+      "source_index": "0x00075568",
+      "source_ja_raw": "【彩業元】\\nええ、そうっスよ。",
+      "source_ja_applied": "【彩業元】\\nええ、そうっスよ。",
+      "source_ja_reviewed": "【彩業元】\\nええ、そうっスよ。",
+      "old_translation": "【종업원】\\n그래, 그래요.",
+      "new_translation": "【종업원】\\n네, 그래요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2173,
+      "source_index": "0x000755a6",
+      "source_ja_raw": "【法子】\\nそのときには異《ほこり》はたまってなかったんですか？",
+      "source_ja_applied": "【法子】\\nそのときには異《ほこり》はたまってなかったんですか？",
+      "source_ja_reviewed": "【法子】\\nそのときには異《ほこり》はたまってなかったんですか？",
+      "old_translation": "【노리코】\\n그때에는 먼지는 쌓이지 않았습니까?",
+      "new_translation": "【노리코】\\n그때는 먼지가 쌓여 있지 않았나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2174,
+      "source_index": "0x00075601",
+      "source_ja_raw": "【彩業元】\\nそれなんスけど……\\n触れちゃったんスよね。\\nすみません。",
+      "source_ja_applied": "【彩業元】\\nそれなんスけど……\\n触れちゃったんスよね。\\nすみません。",
+      "source_ja_reviewed": "【彩業元】\\nそれなんスけど……\\n触れちゃったんスよね。\\nすみません。",
+      "old_translation": "【종업원】\\n그게 뭐야...\\n만져 버렸어요.\\n죄송합니다.",
+      "new_translation": "【종업원】\\n그게……\\n닦아 버렸거든요.\\n죄송합니다.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2175,
+      "source_index": "0x00075655",
+      "source_ja_raw": "【法子】\\nそうですか……\\n参考になりました。\\nありがとうございます。",
+      "source_ja_applied": "【法子】\\nそうですか……\\n参考になりました。\\nありがとうございます。",
+      "source_ja_reviewed": "【法子】\\nそうですか……\\n参考になりました。\\nありがとうございます。",
+      "old_translation": "【노리코】\\n그렇습니까… …\\n사고가 되었습니다. \\n감사합니다.",
+      "new_translation": "【노리코】\\n그렇군요……\\n참고가 됐어요.\\n감사합니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2176,
+      "source_index": "0x000756d5",
+      "source_ja_raw": "【彩業元】\\nこの堂の人は\\n誰《だれ》もプレイヤーを移係させてないっス。",
+      "source_ja_applied": "【彩業元】\\nこの堂の人は\\n誰《だれ》もプレイヤーを移係させてないっス。",
+      "source_ja_reviewed": "【店員】\\nこの店の人は\\n誰もプレイヤーを移動させてないっス。",
+      "old_translation": "【종업원】\\n이 교의 사람은\\n아무도 플레이어를 이동시키지\\n않았다.",
+      "new_translation": "【종업원】\\n이 가게 사람은\\n아무도 플레이어를 옮기지 않았어요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2177,
+      "source_index": "0x0007574c",
+      "source_ja_raw": "【法子】\\n銃声《じゅうせい》が堂内に率《な》り清《ひび》いたのを聞いて、\\n関係者がＶＩＰルームに駆《か》け付《つ》けたらしいですね？",
+      "source_ja_applied": "【法子】\\n銃声《じゅうせい》が堂内に率《な》り清《ひび》いたのを聞いて、\\n関係者がＶＩＰルームに駆《か》け付《つ》けたらしいですね？",
+      "source_ja_reviewed": "【法子】\\n銃声が店内に鳴り響いたのを聞いて、\\n関係者がＶＩＰルームに駆け付けたらしいですね？",
+      "old_translation": "【노리코】\\n총성이 건물 안에 울려 퍼진 것을 듣고\\n관계자들이 VIP 룸으로 달려갔다고 하네요?",
+      "new_translation": "【노리코】\\n총성이 가게 안에 울려 퍼지는 걸\\n듣고\\n관계자들이 VIP룸으로 달려갔다고\\n하죠?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2178,
+      "source_index": "0x000757d0",
+      "source_ja_raw": "【法子】\\nそのときにＶＩＰルーム内に穢れていたＢＧＭって\\nわかりますか？",
+      "source_ja_applied": "【法子】\\nそのときにＶＩＰルーム内に穢れていたＢＧＭって\\nわかりますか？",
+      "source_ja_reviewed": "【法子】\\nそのときにＶＩＰルーム内に穢れていたＢＧＭって\\nわかりますか？",
+      "old_translation": "【노리코】\\n그때 VIP룸 안에 보냈던 BGM은\\n알겠습니까?",
+      "new_translation": "【노리코】\\n그때 VIP룸 안에서 재생되고 있던\\nBGM은\\n알 수 있나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2179,
+      "source_index": "0x00075836",
+      "source_ja_raw": "【彩業元】\\nたしか、お客さんはクラシックを\\nリクエストしたはずなんで、\\nたぶんクラシックＣＤが穢れてたと思うっス。",
+      "source_ja_applied": "【彩業元】\\nたしか、お客さんはクラシックを\\nリクエストしたはずなんで、\\nたぶんクラシックＣＤが穢れてたと思うっス。",
+      "source_ja_reviewed": "【店員】\\nたしか、お客さんはクラシックを\\nリクエストしたはずなんで、\\nたぶんクラシックＣＤが流れてたと思うっス。",
+      "old_translation": "【종업원】\\n확실히, 손님은 클래식을\\n리퀘스트했을 테니까,\\n아마 클래식 CD가 보냈다고 무거운\\n우수.",
+      "new_translation": "【종업원】\\n손님이 클래식을 요청했던 것\\n같아서,\\n아마 클래식 CD가\\n재생되고 있었을 거예요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2180,
+      "source_index": "0x000758a4",
+      "source_ja_raw": "【法子】\\nそれは事件発生後に実際に穢れてましたか？",
+      "source_ja_applied": "【法子】\\nそれは事件発生後に実際に穢れてましたか？",
+      "source_ja_reviewed": "【法子】\\nそれは事件発生後に実際に穢れてましたか？",
+      "old_translation": "【노리코】\\n그건 사건 발생 후 실제로\\n보냈습니까?",
+      "new_translation": "【노리코】\\n사건 발생 후 실제로 재생되고\\n있었나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2181,
+      "source_index": "0x00075918",
+      "source_ja_raw": "【彩業元】\\nうーん……",
+      "source_ja_applied": "【彩業元】\\nうーん……",
+      "source_ja_reviewed": "【彩業元】\\nうーん……",
+      "old_translation": "【종업원】\\n흠…",
+      "new_translation": "【종업원】\\n음……",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2182,
+      "source_index": "0x0007595f",
+      "source_ja_raw": "【彩業元】\\n実際に穢れてたかって聞かれると\\nＶＩＰルームの中に入ってないんで\\nわからないっス……",
+      "source_ja_applied": "【彩業元】\\n実際に穢れてたかって聞かれると\\nＶＩＰルームの中に入ってないんで\\nわからないっス……",
+      "source_ja_reviewed": "【彩業元】\\n実際に穢れてたかって聞かれると\\nＶＩＰルームの中に入ってないんで\\nわからないっス……",
+      "old_translation": "【종업원】\\n실제로 보내고 싶어서 놓으면\\nVIP 룸 안에 들어가지 않아\\n모르겠어...",
+      "new_translation": "【종업원】\\n실제로 재생되고 있었냐고 하면\\nVIP룸 안에 들어가지 않아서\\n모르겠어요……",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2183,
+      "source_index": "0x000759ed",
+      "source_ja_raw": "【彩業元】\\nたしか銃声《じゅうせい》が聞こえた後でＶＩＰルームの中に入ったのは、\\nお客さんの男の人２人と女の人１人だけで、\\nこの堂の人付は誰《だれ》も入ってないっスから。",
+      "source_ja_applied": "【彩業元】\\nたしか銃声《じゅうせい》が聞こえた後でＶＩＰルームの中に入ったのは、\\nお客さんの男の人２人と女の人１人だけで、\\nこの堂の人付は誰《だれ》も入ってないっスから。",
+      "source_ja_reviewed": "【店員】\\nたしか銃声が聞こえた後でＶＩＰルームの中に入ったのは、\\nお客さんの男の人２人と女の人１人だけで、\\nこの店の人間は誰も入ってないっスから。",
+      "old_translation": "【종업원】\\n확실히 총성이 들린 뒤에 VIP룸\\n안에\\n들어간 것은,\\n손님의 남자의 사람 2명과 여자의\\n사람\\n1명만으로,\\n이 가게의 인간은 아무도 들어가지\\n않았으니까.",
+      "new_translation": "【종업원】\\n총성을 들은 후 VIP룸에 들어간\\n건\\n남자 손님 2명과 여자 손님\\n1명뿐이고,\\n이 가게 사람들은 아무도 들어가지\\n않았거든요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2184,
+      "source_index": "0x00075a9d",
+      "source_ja_raw": "【彩業元】\\n自分にはＢＧＭがかかってたかどうかは\\nわからないっス。",
+      "source_ja_applied": "【彩業元】\\n自分にはＢＧＭがかかってたかどうかは\\nわからないっス。",
+      "source_ja_reviewed": "【彩業元】\\n自分にはＢＧＭがかかってたかどうかは\\nわからないっス。",
+      "old_translation": "【종업원】\\n자신에게는 BGM이 걸려 있었는지\\n어떨지는는\\n모른다.",
+      "new_translation": "【종업원】\\n저는 BGM이 재생되고 있었는지\\n모르겠어요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2185,
+      "source_index": "0x00075b10",
+      "source_ja_raw": "【法子】\\n事件の当日、\\nＶＩＰルームに入った人物について\\n調べているんです。",
+      "source_ja_applied": "【法子】\\n事件の当日、\\nＶＩＰルームに入った人物について\\n調べているんです。",
+      "source_ja_reviewed": "【法子】\\n事件の当日、\\nＶＩＰルームに入った人物について\\n調べているんです。",
+      "old_translation": "【노리코】\\n사건 당일,\\nVIP방에 들어간 인물에 대해\\n조사하고 있습니다.",
+      "new_translation": "【노리코】\\n사건 당일 VIP룸에 들어간 사람을\\n조사 중이에요.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2186,
+      "source_index": "0x00075b6f",
+      "source_ja_raw": "【法子】\\nなにか思い当たることとかないですか？",
+      "source_ja_applied": "【法子】\\nなにか思い当たることとかないですか？",
+      "source_ja_reviewed": "【法子】\\nなにか思い当たることとかないですか？",
+      "old_translation": "【노리코】\\n무엇인가 무거운 치는 것 같지\\n않습니까?",
+      "new_translation": "【노리코】\\n뭔가 기억나는 건 없나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2187,
+      "source_index": "0x00075bdb",
+      "source_ja_raw": "【彩業元】\\nそうっスね……",
+      "source_ja_applied": "【彩業元】\\nそうっスね……",
+      "source_ja_reviewed": "【彩業元】\\nそうっスね……",
+      "old_translation": "【직원】\\n그렇죠……",
+      "new_translation": "【종업원】\\n그렇네요……",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2188,
+      "source_index": "0x00075c24",
+      "source_ja_raw": "【彩業元】\\nここで撮いてる人たちの意見をまとめると、\\nあの日、ＶＩＰルームに入ったのは\\n今わかってるだけで５人っス。",
+      "source_ja_applied": "【彩業元】\\nここで撮いてる人たちの意見をまとめると、\\nあの日、ＶＩＰルームに入ったのは\\n今わかってるだけで５人っス。",
+      "source_ja_reviewed": "【店員】\\nここで働いてる人たちの意見をまとめると、\\nあの日、ＶＩＰルームに入ったのは\\n今わかってるだけで５人っス。",
+      "old_translation": "【종업원】\\n여기서 추악하고 있는 사람들의\\n의견을\\n정리하면,\\n그 날, VIP룸에 들어간 것은\\n지금 알고 있는 것만으로 5명스.",
+      "new_translation": "【종업원】\\n여기서 일하는 사람들의 의견을\\n종합하면,\\n그날 VIP룸에 들어간 사람은\\n지금까지 확인된 것만 5명이에요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2189,
+      "source_index": "0x00075ca7",
+      "source_ja_raw": "【彩業元】\\n１人は殺された人。\\n１人はその人の連れの、弁護士さん。",
+      "source_ja_applied": "【彩業元】\\n１人は殺された人。\\n１人はその人の連れの、弁護士さん。",
+      "source_ja_reviewed": "【彩業元】\\n１人は殺された人。\\n１人はその人の連れの、弁護士さん。",
+      "old_translation": "【종업원】\\n한 사람은 살해당한 사람.\\n한 사람은 그 사람의 동행인인\\n변호사 씨.",
+      "new_translation": "【종업원】\\n한 명은 살해된 사람.\\n한 명은 그 사람과 함께 온\\n변호사.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2190,
+      "source_index": "0x00075d10",
+      "source_ja_raw": "【彩業元】\\nそして１人は、カウンターで埜んでた女の人……\\nたしかマスターの知り合いらしいっス。",
+      "source_ja_applied": "【彩業元】\\nそして１人は、カウンターで埜んでた女の人……\\nたしかマスターの知り合いらしいっス。",
+      "source_ja_reviewed": "【彩業元】\\nそして１人は、カウンターで埜んでた女の人……\\nたしかマスターの知り合いらしいっス。",
+      "old_translation": "【종업원】\\n그리고 1명은, 카운터에서 컸던\\n여자의\\n사람…\\n확실히 마스터의 아는 것 같습니다.",
+      "new_translation": "【종업원】\\n그리고 한 명은 카운터에서 술을\\n마시던 여자……\\n아마 마스터의 지인일 거예요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2191,
+      "source_index": "0x00075d77",
+      "source_ja_raw": "【法子】\\n水谷朝等さんですね。\\n伺《うかが》っています。",
+      "source_ja_applied": "【法子】\\n水谷朝等さんですね。\\n伺《うかが》っています。",
+      "source_ja_reviewed": "【法子】\\n水谷朝等さんですね。\\n伺《うかが》っています。",
+      "old_translation": "【노리코】\\n미즈타니 아사츠유씨군요. \\n 묻고 있습니다.",
+      "new_translation": "【노리코】\\n미즈타니 아사츠유 씨죠.\\n들었습니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2192,
+      "source_index": "0x00075dd4",
+      "source_ja_raw": "【彩業元】\\nそして現場画存した刑事さん。\\nこの３人は少なくとも事件が発生したあとで\\nＶＩＰルームに入ったっス。",
+      "source_ja_applied": "【彩業元】\\nそして現場画存した刑事さん。\\nこの３人は少なくとも事件が発生したあとで\\nＶＩＰルームに入ったっス。",
+      "source_ja_reviewed": "【店員】\\nそして現場保存した刑事さん。\\nこの３人は少なくとも事件が発生したあとで\\nＶＩＰルームに入ったっス。",
+      "old_translation": "【종업원】\\n그리고 현장 보존한 형사씨. \\n이 3명은 적어도 사건이 발생한\\n뒤로\\nVIP 룸에 들어갔다.",
+      "new_translation": "【종업원】\\n그리고 현장을 보존한 형사.\\n이 세 사람은 적어도 사건이 발생한\\n뒤\\nVIP룸에 들어갔어요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2193,
+      "source_index": "0x00075e4b",
+      "source_ja_raw": "【法子】\\n事件発生前に入った人の情報とか\\nわかりませんか？",
+      "source_ja_applied": "【法子】\\n事件発生前に入った人の情報とか\\nわかりませんか？",
+      "source_ja_reviewed": "【法子】\\n事件発生前に入った人の情報とか\\nわかりませんか？",
+      "old_translation": "【노리코】\\n사건 발생 전에 들어간 사람의\\n정보라든지\\n모르십니까?",
+      "new_translation": "【노리코】\\n사건 발생 전에 들어간 사람의\\n정보는\\n알 수 없나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2194,
+      "source_index": "0x00075ec4",
+      "source_ja_raw": "【彩業元】\\n申し切ないっス。\\nそこまではよくわからないっス。",
+      "source_ja_applied": "【彩業元】\\n申し訳ないっス。\\nそこまではよくわからないっス。",
+      "source_ja_reviewed": "【彩業元】\\n申し訳ないっス。\\nそこまではよくわからないっス。",
+      "old_translation": "【종업원】\\n죄송합니다. \\n거기까지는 잘 모르겠어요.",
+      "new_translation": "【종업원】\\n죄송하지만\\n그 정도까지는 잘 모르겠어요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2195,
+      "source_index": "0x00075f39",
+      "source_ja_raw": "【彩業元】\\nあっ、だけど、短い男の人が\\nＶＩＰルームから戻《もど》ってくるのは\\nオレ、見たっスよ。",
+      "source_ja_applied": "【彩業元】\\nあっ、だけど、若い男の人が\\nＶＩＰルームから戻《もど》ってくるのは\\nオレ、見たっスよ。",
+      "source_ja_reviewed": "【彩業元】\\nあっ、だけど、若い男の人が\\nＶＩＰルームから戻《もど》ってくるのは\\nオレ、見たっスよ。",
+      "old_translation": "【종업원】\\n아, 하지만, 젊은 남자의 사람이\\nVIP방에서 돌아오는 것은\\n나, 본 적이야.",
+      "new_translation": "【종업원】\\n아, 그래도 젊은 남자가\\nVIP룸에서 돌아오는 건 봤어요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2196,
+      "source_index": "0x00075fa4",
+      "source_ja_raw": "【法子】\\n短い男の人？\\nそれはどんな方ですか？",
+      "source_ja_applied": "【法子】\\n若い男の人？\\nそれはどんな方ですか？",
+      "source_ja_reviewed": "【法子】\\n若い男の人？\\nそれはどんな方ですか？",
+      "old_translation": "【노리코】\\n젊은 남자의 사람? \\n그게 뭐야?",
+      "new_translation": "【노리코】\\n젊은 남자요?\\n어떤 사람이었나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2197,
+      "source_index": "0x00076013",
+      "source_ja_raw": "【彩業元】\\nハッキリとは覚えてないっス……",
+      "source_ja_applied": "【彩業元】\\nハッキリとは覚えてないっス……",
+      "source_ja_reviewed": "【彩業元】\\nハッキリとは覚えてないっス……",
+      "old_translation": "【종업원】\\n분명히는 기억하지 못했구나…",
+      "new_translation": "【종업원】\\n확실히 기억나진 않아요……",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2198,
+      "source_index": "0x00076065",
+      "source_ja_raw": "【彩業元】\\n他の男の人は中年以上の年晩《ねんれい》だったんスけど、\\nその人だけはそれより短い人だったって\\nことくらいしか……",
+      "source_ja_applied": "【彩業元】\\n他の男の人は中年以上の年晩《ねんれい》だったんスけど、\\nその人だけはそれより若い人だったって\\nことくらいしか……",
+      "source_ja_reviewed": "【店員】\\n他の男の人は中年以上の年齢だったんスけど、\\nその人だけはそれより若い人だったって\\nことくらいしか……",
+      "old_translation": "【종업원】\\n다른 남자의 사람은 중년 이상의\\n나이였지만,\\n그 사람만은 그것보다 젊은\\n사람이었다고\\n일 정도밖에…",
+      "new_translation": "【종업원】\\n다른 남자들은 중년 이상이었는데,\\n그 사람만 그보다 젊었다는 것\\n정도밖에는……",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2199,
+      "source_index": "0x000760e0",
+      "source_ja_raw": "【法子】\\nそうですか……\\nどんな服を着てたかなども覚えていませんか？",
+      "source_ja_applied": "【法子】\\nそうですか……\\nどんな服を着てたかなども覚えていませんか？",
+      "source_ja_reviewed": "【法子】\\nそうですか……\\nどんな服を着てたかなども覚えていませんか？",
+      "old_translation": "【노리코】\\n그래요......\\n어떤 옷을 입었는지 등도 기억하지\\n않습니까?",
+      "new_translation": "【노리코】\\n어떤 옷을 입었는지도\\n기억나지 않나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2200,
+      "source_index": "0x00076141",
+      "source_ja_raw": "【彩業元】\\nうーん……\\nあまり覚えてないっスけど、\\n少なくともスーツではなかったと思うっス。",
+      "source_ja_applied": "【彩業元】\\nうーん……\\nあまり覚えてないっスけど、\\n少なくともスーツではなかったと思うっス。",
+      "source_ja_reviewed": "【彩業元】\\nうーん……\\nあまり覚えてないっスけど、\\n少なくともスーツではなかったと思うっス。",
+      "old_translation": "【종업원】\\n음…\\n별로 기억하지 못했지만,\\n적어도 정장이 아니었고 무거운\\n우수.",
+      "new_translation": "【종업원】\\n음…… 잘 기억나진 않지만,\\n적어도 정장은 아니었던 것 같아요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2201,
+      "source_index": "0x000761a3",
+      "source_ja_raw": "【法子】\\nそうですか。\\nありがとうございます。",
+      "source_ja_applied": "【法子】\\nそうですか。\\nありがとうございます。",
+      "source_ja_reviewed": "【法子】\\nそうですか。\\nありがとうございます。",
+      "old_translation": "【노리코】\\n그렇군요.\\n감사합니다.",
+      "new_translation": "【노리코】\\n그렇군요.\\n감사합니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2202,
+      "source_index": "0x000761e8",
+      "source_ja_raw": "【法子】\\n他になにか気がついたことは\\nありますか？",
+      "source_ja_applied": "【法子】\\n他になにか気がついたことは\\nありますか？",
+      "source_ja_reviewed": "【法子】\\n他になにか気がついたことは\\nありますか？",
+      "old_translation": "【노리코】\\n범에 뭔가 깨달은 것은\\n 있습니까?",
+      "new_translation": "【노리코】\\n그 밖에 뭔가 눈치챈 점은\\n없나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2203,
+      "source_index": "0x00076256",
+      "source_ja_raw": "【彩業元】\\nこれは警察の人から聞いた話なんスけど、\\nＶＩＰルーム周りのドアには\\n指紋《しもん》がついてなかったらしいっス。",
+      "source_ja_applied": "【彩業元】\\nこれは警察の人から聞いた話なんスけど、\\nＶＩＰルーム周りのドアには\\n指紋《しもん》がついてなかったらしいっス。",
+      "source_ja_reviewed": "【店員】\\nこれは警察の人から聞いた話なんスけど、\\nＶＩＰルーム周りのドアには\\n指紋がついてなかったらしいっス。",
+      "old_translation": "【종업원】\\n이것은 경찰의 사람으로부터 둔\\n이야기인데,\\nVIP룸 주위의 문에는\\n지문이 붙어 있지 않았던 것 같다.",
+      "new_translation": "【종업원】\\n경찰에게 들은 이야기인데,\\nVIP룸 주변 문에는\\n지문이 없었다고 해요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2204,
+      "source_index": "0x000762dc",
+      "source_ja_raw": "【彩業元】\\nだからＶＩＰルームに入った人物を\\n特定しきれないってぼやいてました。",
+      "source_ja_applied": "【彩業元】\\nだからＶＩＰルームに入った人物を\\n特定しきれないってぼやいてました。",
+      "source_ja_reviewed": "【彩業元】\\nだからＶＩＰルームに入った人物を\\n特定しきれないってぼやいてました。",
+      "old_translation": "【종업원】\\n그래서 VIP룸에 들어간 인물을\\n특정할 수 없다고 흐리게 하고\\n있었습니다.",
+      "new_translation": "【종업원】\\n그래서 VIP룸에 들어간 인물을\\n찾지 못한다고 하더라고요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2205,
+      "source_index": "0x0007634b",
+      "source_ja_raw": "【法子】\\n指紋《しもん》がついていない……？\\nどういうことかしら……",
+      "source_ja_applied": "【法子】\\n指紋《しもん》がついていない……？\\nどういうことかしら……",
+      "source_ja_reviewed": "【法子】\\n指紋《しもん》がついていない……？\\nどういうことかしら……",
+      "old_translation": "【노리코】\\n지문이 붙지 않았다… \\n무슨 일이야......",
+      "new_translation": "【노리코】\\n지문이 없다……?\\n무슨 뜻일까……",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2206,
+      "source_index": "0x000763a6",
+      "source_ja_raw": "【法子】\\nええ、そうらしいですね。",
+      "source_ja_applied": "【法子】\\nええ、そうらしいですね。",
+      "source_ja_reviewed": "【法子】\\nええ、そうらしいですね。",
+      "old_translation": "【노리코】\\n그래, 그렇네요.",
+      "new_translation": "【노리코】\\n네, 그런 모양이네요.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2207,
+      "source_index": "0x000763e5",
+      "source_ja_raw": "【法子】\\nそうだ、参考までにお聞きしたいんですけど、\\nＶＩＰルーム周りのドアっていうのは、\\n具体的《ぐたいてき》にはどこのドアのことかわかりますか？",
+      "source_ja_applied": "【法子】\\nそうだ、参考までにお聞きしたいんですけど、\\nＶＩＰルーム周りのドアっていうのは、\\n具体的《ぐたいてき》にはどこのドアのことかわかりますか？",
+      "source_ja_reviewed": "【法子】\\nそうだ、参考までにお聞きしたいんですけど、\\nＶＩＰルーム周りのドアっていうのは、\\n具体的にはどこのドアのことかわかりますか？",
+      "old_translation": "【노리코】\\n그렇다, 사고까지 두고 싶습니다만,\\nVIP룸 주위의 문이라고 하는\\n것은,\\n구체적으로는 어디의 문을 알 수\\n있습니까?",
+      "new_translation": "【노리코】\\n참고로 여쭤보고 싶은데,\\nVIP룸 주변 문이라는 건\\n구체적으로 어느 문인가요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원 조사",
+      "relationship_context": "종업원은 목격자·플레이어 이동·BGM·VIP룸 출입자 정보를 말하고, 노리코는 새로운 단서를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2208,
+      "source_index": "0x00076492",
+      "source_ja_raw": "【彩業元】\\nえっと……",
+      "source_ja_applied": "【彩業元】\\nえっと……",
+      "source_ja_reviewed": "【彩業元】\\nえっと……",
+      "old_translation": "【종업원】\\n 어...",
+      "new_translation": "【종업원】\\n음……",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2209,
+      "source_index": "0x00076538",
+      "source_ja_raw": "【彩業元】\\nホールからＶＩＰルームに向かう途中《とちゅう》にある\\nドアと……",
+      "source_ja_applied": "【彩業元】\\nホールからＶＩＰルームに向かう途中《とちゅう》にある\\nドアと……",
+      "source_ja_reviewed": "【彩業元】\\nホールからＶＩＰルームに向かう途中《とちゅう》にある\\nドアと……",
+      "old_translation": "【종업원】\\n홀에서 VIP룸으로 향하는 도중에\\n있는\\n도어와…",
+      "new_translation": "【종업원】\\n홀에서 VIP룸으로 가는 도중에\\n있는\\n문과……",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2210,
+      "source_index": "0x000765e3",
+      "source_ja_raw": "【彩業元】\\n事務所からＶＩＰルームに向かう途中《とちゅう》にある\\nドアと……",
+      "source_ja_applied": "【彩業元】\\n事務所からＶＩＰルームに向かう途中《とちゅう》にある\\nドアと……",
+      "source_ja_reviewed": "【彩業元】\\n事務所からＶＩＰルームに向かう途中《とちゅう》にある\\nドアと……",
+      "old_translation": "【종업원】\\n사무소에서 VIP룸으로 향하는\\n도중에\\n있는\\n도어와…",
+      "new_translation": "【종업원】\\n사무실에서 VIP룸으로 가는 도중에\\n있는\\n문과……",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2211,
+      "source_index": "0x00076691",
+      "source_ja_raw": "【彩業元】\\nＶＩＰルームの入り口のドアっスね。",
+      "source_ja_applied": "【彩業元】\\nＶＩＰルームの入り口のドアっスね。",
+      "source_ja_reviewed": "【彩業元】\\nＶＩＰルームの入り口のドアっスね。",
+      "old_translation": "【종업원】\\nVIP 룸의 입구의 도어스네.",
+      "new_translation": "【종업원】\\nVIP룸 입구 문이요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2212,
+      "source_index": "0x00076750",
+      "source_ja_raw": "【彩業元】\\nどっちのドアの裏表とも、\\n指紋《しもん》がなかったらしいっス。",
+      "source_ja_applied": "【彩業元】\\nどっちのドアの裏表とも、\\n指紋《しもん》がなかったらしいっス。",
+      "source_ja_reviewed": "【店員】\\nどっちのドアの裏表とも、\\n指紋がなかったらしいっス。",
+      "old_translation": "【종업원】\\n어느 도어의 용표도,\\n지문이 없었던 것 같다.",
+      "new_translation": "【종업원】\\n두 문 모두 양쪽에\\n지문이 없었다고 해요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2213,
+      "source_index": "0x000767b7",
+      "source_ja_raw": "【彩業元】\\n残ってた指紋《しもん》は、\\n銃声《じゅうせい》が堂内に率《な》り清《ひび》いたあとにＶＩＰルームへ\\nいの一番に完《と》び沽《こ》んだ刑事さんのものだけらしいっス。",
+      "source_ja_applied": "【彩業元】\\n残ってた指紋《しもん》は、\\n銃声《じゅうせい》が堂内に率《な》り清《ひび》いたあとにＶＩＰルームへ\\nいの一番に完《と》び込《こ》んだ刑事さんのものだけらしいっス。",
+      "source_ja_reviewed": "【店員】\\n残ってた指紋は、\\n銃声が店内に鳴り響いたあとにＶＩＰルームへ\\nいの一番に飛び込んだ刑事さんのものだけらしいっス。",
+      "old_translation": "【종업원】\\n타고 있던 지문은,\\n총성이 교내에 향해 울린 뒤에\\nVIP룸에\\n이의 제일에 흠뻑 자란 형사씨의 것\\n뿐인\\n것 같다.",
+      "new_translation": "【종업원】\\n남은 지문은 총성이 울린 뒤\\nVIP룸에\\n가장 먼저 뛰어 들어간\\n형사의 것뿐이래요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2214,
+      "source_index": "0x00076855",
+      "source_ja_raw": "【法子】\\n（おそらく近藤刑事のことね……）",
+      "source_ja_applied": "【法子】\\n（おそらく近藤刑事のことね……）",
+      "source_ja_reviewed": "【法子】\\n（おそらく近藤刑事のことね……）",
+      "old_translation": "【노리코】\\n(아마 콘도 형사의 일이구나…",
+      "new_translation": "【노리코】\\n(아마 콘도 형사 말이네……)",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2215,
+      "source_index": "0x0007689e",
+      "source_ja_raw": "【法子】\\nわかりました。\\n貞声な情報をありがとうございました。",
+      "source_ja_applied": "【法子】\\nわかりました。\\n貴声な情報をありがとうございました。",
+      "source_ja_reviewed": "【法子】\\nわかりました。\\n貴声な情報をありがとうございました。",
+      "old_translation": "【노리코】\\n알았습니다. \\n의중한 정보에 감사드립니다.",
+      "new_translation": "【노리코】\\n알겠어요.\\n귀중한 정보 감사합니다.",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2216,
+      "source_index": "0x00076931",
+      "source_ja_raw": "【彩業元】\\nドアに指紋《しもん》がついてなかったって、\\n結構ミステリーっスね！",
+      "source_ja_applied": "【彩業元】\\nドアに指紋《しもん》がついてなかったって、\\n結構ミステリーっスね！",
+      "source_ja_reviewed": "【彩業元】\\nドアに指紋《しもん》がついてなかったって、\\n結構ミステリーっスね！",
+      "old_translation": "【종업원】\\n문에 지문이 붙어 있지 않았다고,\\n결막 미스터리스!",
+      "new_translation": "【종업원】\\n문에 지문이 없었다니,\\n꽤 미스터리네요!",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2217,
+      "source_index": "0x000769ac",
+      "source_ja_raw": "【法子】\\nえっと……\\nこの写真を見てもらえますか？",
+      "source_ja_applied": "【法子】\\nえっと……\\nこの写真を見てもらえますか？",
+      "source_ja_reviewed": "【法子】\\nえっと……\\nこの写真を見てもらえますか？",
+      "old_translation": "【노리코】\\n 음......\\n이 사진을 볼 수 있나요?",
+      "new_translation": "【노리코】\\n음……\\n이 사진을 봐 주시겠어요?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2218,
+      "source_index": "0x00076a67",
+      "source_ja_raw": "【彩業元】\\nああ、カウンターの写真っスね。",
+      "source_ja_applied": "【彩業元】\\nああ、カウンターの写真っスね。",
+      "source_ja_reviewed": "【彩業元】\\nああ、カウンターの写真っスね。",
+      "old_translation": "【종업원】\\n아, 카운터의 사진이군요.",
+      "new_translation": "【종업원】\\n아, 카운터 사진이네요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2219,
+      "source_index": "0x00076aad",
+      "source_ja_raw": "【法子】\\nこの写真の、この部分……",
+      "source_ja_applied": "【法子】\\nこの写真の、この部分……",
+      "source_ja_reviewed": "【法子】\\nこの写真の、この部分……",
+      "old_translation": "【노리코】\\n이 사진의, 이 부분…",
+      "new_translation": "【노리코】\\n이 사진의 이 부분……",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2220,
+      "source_index": "0x00076b3b",
+      "source_ja_raw": "【法子】\\nこれって、\\n駆犯カメラじゃないですか？",
+      "source_ja_applied": "【法子】\\nこれって、\\n駆犯カメラじゃないですか？",
+      "source_ja_reviewed": "【法子】\\nこれって、\\n防犯カメラじゃないですか？",
+      "old_translation": "【노리코】\\n이것은,\\n발잔 카메라가 아닌가요?",
+      "new_translation": "【노리코】\\n이거, 방범 카메라 아닌가요?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2221,
+      "source_index": "0x00076b90",
+      "source_ja_raw": "【彩業元】\\nあ、そうっス。",
+      "source_ja_applied": "【彩業元】\\nあ、そうっス。",
+      "source_ja_reviewed": "【彩業元】\\nあ、そうっス。",
+      "old_translation": "【종업원】\\n아, 그래스.",
+      "new_translation": "【종업원】\\n아, 맞아요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2222,
+      "source_index": "0x00076bcc",
+      "source_ja_raw": "【法子】\\nやっぱり！\\nこのカメラで屠影《さつえい》された事件当恋の映像って、\\n残ってないでしょうか？",
+      "source_ja_applied": "【法子】\\nやっぱり！\\nこのカメラで屠影《さつえい》された事件当恋の映像って、\\n残ってないでしょうか？",
+      "source_ja_reviewed": "【法子】\\nやっぱり！\\nこのカメラで撮影された事件当時の映像って、\\n残ってないでしょうか？",
+      "old_translation": "【노리코】\\n 역시! \\n이 카메라로 촬영된 사건 당시의\\n발휘는,\\n타고 있지 않을까요?",
+      "new_translation": "【노리코】\\n역시!\\n이 카메라로 촬영한 사건 당시\\n영상이\\n남아 있지 않을까요?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2223,
+      "source_index": "0x00076c5d",
+      "source_ja_raw": "【彩業元】\\nえっと……\\nオレではわからないんで、\\nマスターに聞いてくるっス。",
+      "source_ja_applied": "【彩業元】\\nえっと……\\nオレではわからないんで、\\nマスターに聞いてくるっス。",
+      "source_ja_reviewed": "【彩業元】\\nえっと……\\nオレではわからないんで、\\nマスターに聞いてくるっス。",
+      "old_translation": "【종업원】\\n어...\\n나는 모르겠다.\\n마스터에 넣어 오는 것.",
+      "new_translation": "【종업원】\\n음…… 저는 모르니까\\n마스터에게 물어보고 올게요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2224,
+      "source_index": "0x00076cb5",
+      "source_ja_raw": "【法子】\\nお願いします。",
+      "source_ja_applied": "【法子】\\nお願いします。",
+      "source_ja_reviewed": "【法子】\\nお願いします。",
+      "old_translation": "【노리코】\\n미안합니다.",
+      "new_translation": "【노리코】\\n부탁드릴게요.",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2225,
+      "source_index": "0x00076d1c",
+      "source_ja_raw": "【法子】\\nさあ……なにが出てくるかしら……？",
+      "source_ja_applied": "【法子】\\nさあ……なにが出てくるかしら……？",
+      "source_ja_reviewed": "【法子】\\nさあ……なにが出てくるかしら……？",
+      "old_translation": "【노리코】\\n자아......뭐가\\n나올까......?",
+      "new_translation": "【노리코】\\n자……\\n뭐가 나올까……?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2226,
+      "source_index": "0x00076dbb",
+      "source_ja_raw": "【彩業元】\\nお待たせしたっス。\\nこのビデオテープに事件前後の\\n映像が入ってるっス。",
+      "source_ja_applied": "【彩業元】\\nお待たせしたっス。\\nこのビデオテープに事件前後の\\n映像が入ってるっス。",
+      "source_ja_reviewed": "【店員】\\nお待たせしたっス。\\nこのビデオテープに事件前後の\\n映像が入ってるっス。",
+      "old_translation": "【종업원】\\n기다리게 했어. \\n이 비디오 테이프에 사건 전후의\\n발휘가 들어가 있어.",
+      "new_translation": "【종업원】\\n기다리게 했어요.\\n이 비디오테이프에 사건 전후의\\n영상이 들어 있어요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2227,
+      "source_index": "0x00076e1e",
+      "source_ja_raw": "【法子】\\nえっ……\\nこれってお借りできるんですか？",
+      "source_ja_applied": "【法子】\\nえっ……\\nこれってお借りできるんですか？",
+      "source_ja_reviewed": "【法子】\\nえっ……\\nこれってお借りできるんですか？",
+      "old_translation": "【노리코】\\n엣......\\n이것은 빌릴 수 있나요?",
+      "new_translation": "【노리코】\\n네……\\n이거 빌릴 수 있나요?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2228,
+      "source_index": "0x00076e74",
+      "source_ja_raw": "【彩業元】\\nいや、マスターは弁護士さんにあげるって\\n言ってたっス。",
+      "source_ja_applied": "【彩業元】\\nいや、マスターは弁護士さんにあげるって\\n言ってたっス。",
+      "source_ja_reviewed": "【彩業元】\\nいや、マスターは弁護士さんにあげるって\\n言ってたっス。",
+      "old_translation": "【종업원】\\n아니, 마스터는 변호사 씨에게\\n준다고\\n 말하고 있었다.",
+      "new_translation": "【종업원】\\n아니요, 마스터가 변호사님에게\\n드리라고 했어요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2229,
+      "source_index": "0x00076ec8",
+      "source_ja_raw": "【法子】\\nいいんですか！？",
+      "source_ja_applied": "【法子】\\nいいんですか！？",
+      "source_ja_reviewed": "【法子】\\nいいんですか！？",
+      "old_translation": "【노리코】\\n좋아요! ?",
+      "new_translation": "【노리코】\\n정말 그래도 되나요!?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2230,
+      "source_index": "0x00076f10",
+      "source_ja_raw": "【彩業元】\\nええ、どうぞ。",
+      "source_ja_applied": "【彩業元】\\nええ、どうぞ。",
+      "source_ja_reviewed": "【彩業元】\\nええ、どうぞ。",
+      "old_translation": "【종업원】\\n그래, 제발.",
+      "new_translation": "【종업원】\\n네, 가져가세요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2231,
+      "source_index": "0x00076f4c",
+      "source_ja_raw": "【法子】\\nありがとうございます！",
+      "source_ja_applied": "【法子】\\nありがとうございます！",
+      "source_ja_reviewed": "【法子】\\nありがとうございます！",
+      "old_translation": "【노리코】\\n감사합니다!",
+      "new_translation": "【노리코】\\n감사합니다!",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2232,
+      "source_index": "0x00076fbe",
+      "source_ja_raw": "【彩業元】\\n付《ま》違《ちが》いなく駆犯カメラっス。",
+      "source_ja_applied": "【彩業元】\\n付《ま》違《ちが》いなく駆犯カメラっス。",
+      "source_ja_reviewed": "【店員】\\n間違いなく防犯カメラっス。",
+      "old_translation": "【종업원】\\n확실히 발잔 카메라스.",
+      "new_translation": "【종업원】\\n틀림없이 방범 카메라예요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2233,
+      "source_index": "0x0007701f",
+      "source_ja_raw": "【法子】\\n当日、ＶＩＰルームに穢れていたＢＧＭについて\\nお聞きしたいんですけど……",
+      "source_ja_applied": "【法子】\\n当日、ＶＩＰルームに穢れていたＢＧＭについて\\nお聞きしたいんですけど……",
+      "source_ja_reviewed": "【法子】\\n当日、ＶＩＰルームに穢れていたＢＧＭについて\\nお聞きしたいんですけど……",
+      "old_translation": "【노리코】\\n당일, VIP룸에 보냈던 BGM에\\n대해서\\n두고 싶습니다만…",
+      "new_translation": "【노리코】\\n당일 VIP룸에서 재생되던 BGM에\\n대해\\n여쭤보고 싶은데요……",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2234,
+      "source_index": "0x000770a7",
+      "source_ja_raw": "【彩業元】\\nたしか亡くなった人のリクエストを受けて、\\nクラシックＣＤを穢してたっス。",
+      "source_ja_applied": "【彩業元】\\nたしか亡くなった人のリクエストを受けて、\\nクラシックＣＤを穢してたっス。",
+      "source_ja_reviewed": "【店員】\\nたしか亡くなった人のリクエストを受けて、\\nクラシックＣＤを流してたっス。",
+      "old_translation": "【종업원】\\n아직 죽은 사람의 리퀘스트를 안고,\\n클래식 CD를 보냈다.",
+      "new_translation": "【종업원】\\n돌아가신 분의 요청으로\\n클래식 CD를 재생했어요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2235,
+      "source_index": "0x0007710a",
+      "source_ja_raw": "【法子】\\nリクエスト、ですか？",
+      "source_ja_applied": "【法子】\\nリクエスト、ですか？",
+      "source_ja_reviewed": "【法子】\\nリクエスト、ですか？",
+      "old_translation": "【노리코】\\n요청?",
+      "new_translation": "【노리코】\\n요청이요?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2236,
+      "source_index": "0x00077154",
+      "source_ja_raw": "【彩業元】\\nええ、ＶＩＰルーム内のＢＧＭはこのプレイヤーで\\n連理《せいぎょ》してるんで、これで示生できるものであれば\\n紅きな曲を穢すことができるっス。",
+      "source_ja_applied": "【彩業元】\\nええ、ＶＩＰルーム内のＢＧＭはこのプレイヤーで\\n連理《せいぎょ》してるんで、これで示生できるものであれば\\n紅きな曲を穢すことができるっス。",
+      "source_ja_reviewed": "【店員】\\nええ、ＶＩＰルーム内のＢＧＭはこのプレイヤーで\\n制御してるんで、これで再生できるものであれば\\nどんな曲を流すこともできるっス。",
+      "old_translation": "【종업원】\\n그래, VIP 룸내의 BGM은 이\\n플레이어로\\n제어하고 있어, 이것으로 재생할 수\\n있는\\n것이면\\n개인 곡을 보낼 수 있어요.",
+      "new_translation": "【종업원】\\nVIP룸 안의 BGM은 이\\n플레이어로 제어해서,\\n이걸로 재생할 수 있는 곡이면\\n어떤 곡이든 틀 수 있어요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2237,
+      "source_index": "0x000771df",
+      "source_ja_raw": "【法子】\\nそれでクラシックのＣＤを\\n穢していたわけですね。",
+      "source_ja_applied": "【法子】\\nそれでクラシックのＣＤを\\n穢していたわけですね。",
+      "source_ja_reviewed": "【法子】\\nそれでクラシックのＣＤを\\n穢していたわけですね。",
+      "old_translation": "【노리코】\\n그래서 클래식의 CD를\\n송하고 있었던 것이군요.",
+      "new_translation": "【노리코】\\n그래서 클래식 CD를\\n재생했던 거군요.",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2238,
+      "source_index": "0x00077239",
+      "source_ja_raw": "【彩業元】\\nリピートモードにしてあるから、\\n最後まで穢れたあとは最初の曲にループするんで、\\nずっとＢＧＭは率りっぱなしになるっス。",
+      "source_ja_applied": "【彩業元】\\nリピートモードにしてあるから、\\n最後まで穢れたあとは最初の曲にループするんで、\\nずっとＢＧＭは率りっぱなしになるっス。",
+      "source_ja_reviewed": "【店員】\\nリピートモードにしてあるから、\\n最後まで流れたあとは最初の曲にループするんで、\\nずっとＢＧＭは鳴りっぱなしになるっス。",
+      "old_translation": "【종업원】\\n리피트 모드로 하고 있으니까,\\n마지막까지 보냈던 뒤는 최초의 곡에\\n루프\\n하는 것으로,\\n계속 BGM은 능숙하게 되는 것.",
+      "new_translation": "【종업원】\\n반복 모드라서 끝까지 재생되면\\n첫 곡으로 돌아가 계속 BGM이\\n나와요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2239,
+      "source_index": "0x000772d8",
+      "source_ja_raw": "【法子】\\n他になにか気がついたことや\\n思い出したことはありませんか？",
+      "source_ja_applied": "【法子】\\n他になにか気がついたことや\\n思い出したことはありませんか？",
+      "source_ja_reviewed": "【法子】\\n他になにか気がついたことや\\n思い出したことはありませんか？",
+      "old_translation": "【노리코】\\n범에 뭔가 깨달은 적이나\\n무거운 내놓은 적 없습니까?",
+      "new_translation": "【노리코】\\n그 밖에 기억나는 점이나\\n눈치챈 점은 없나요?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2240,
+      "source_index": "0x00077351",
+      "source_ja_raw": "【彩業元】\\nうーん……\\n特にないっスね。",
+      "source_ja_applied": "【彩業元】\\nうーん……\\n特にないっスね。",
+      "source_ja_reviewed": "【彩業元】\\nうーん……\\n特にないっスね。",
+      "old_translation": "【종업원】\\n흠……\\n특히 없어요.",
+      "new_translation": "【종업원】\\n음……\\n특별히 없어요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2241,
+      "source_index": "0x000773a9",
+      "source_ja_raw": "【法子】\\nこのプレイヤーで示生できる効安って\\n例えばどんなものがありますか？",
+      "source_ja_applied": "【法子】\\nこのプレイヤーで示生できる効安って\\n例えばどんなものがありますか？",
+      "source_ja_reviewed": "【法子】\\nこのプレイヤーで再生できる音源って\\n例えばどんなものがありますか？",
+      "old_translation": "【노리코】\\n이 플레이어로 재생할 수 있는\\n음악은\\n나이면 어떤 것이 있습니까?",
+      "new_translation": "【노리코】\\n이 플레이어로 재생할 수 있는\\n음원에는\\n어떤 것들이 있나요?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2242,
+      "source_index": "0x00077428",
+      "source_ja_raw": "【彩業元】\\nえっと、まずＣＤっスね。",
+      "source_ja_applied": "【彩業元】\\nえっと、まずＣＤっスね。",
+      "source_ja_reviewed": "【彩業元】\\nえっと、まずＣＤっスね。",
+      "old_translation": "【종업원】\\n 음, 우선 CD스네요.",
+      "new_translation": "【종업원】\\n음, 우선 CD죠.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2243,
+      "source_index": "0x0007747c",
+      "source_ja_raw": "【彩業元】\\nお客さんが持ってきたＣＤも\\nもちろんかけられるっス。",
+      "source_ja_applied": "【彩業元】\\nお客さんが持ってきたＣＤも\\nもちろんかけられるっス。",
+      "source_ja_reviewed": "【彩業元】\\nお客さんが持ってきたＣＤも\\nもちろんかけられるっス。",
+      "old_translation": "【종업원】\\n고객이 탄해 온 CD도\\n물론 걸릴 수 있어요.",
+      "new_translation": "【종업원】\\n손님이 가져온 CD도\\n물론 틀 수 있어요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2244,
+      "source_index": "0x000774db",
+      "source_ja_raw": "【彩業元】\\nあとチューナーが内蔵されてるんで、\\nラジオもかけられるっス。",
+      "source_ja_applied": "【彩業元】\\nあとチューナーが内蔵されてるんで、\\nラジオもかけられるっス。",
+      "source_ja_reviewed": "【彩業元】\\nあとチューナーが内蔵されてるんで、\\nラジオもかけられるっス。",
+      "old_translation": "【종업원】\\n게다가 튜너가 내장돼 있어서\\n라디오도 틀 수 있어요.",
+      "new_translation": "【종업원】\\n튜너가 내장돼 있어서\\n라디오도 틀 수 있고요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2245,
+      "source_index": "0x00077542",
+      "source_ja_raw": "【彩業元】\\nそれとお客さんが持ってる\\n外部効蹶とかに入ってる効安も\\nかけることができるっス。",
+      "source_ja_applied": "【彩業元】\\nそれとお客さんが持ってる\\n外部効蹶とかに入ってる効安も\\nかけることができるっス。",
+      "source_ja_reviewed": "【店員】\\nそれとお客さんが持ってる\\n外部機器とかに入ってる音源も\\nかけることができるっス。",
+      "old_translation": "【종업원】\\n그리고 손님이 탄하고 있는\\n외부 음원이라든지 들어가 있는\\n음악도\\n걸을 수 있어요.",
+      "new_translation": "【종업원】\\n그 밖에 손님이 가지고 있는\\n외부 기기 등에 들어 있는 음원도\\n틀 수 있어요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2246,
+      "source_index": "0x000775a7",
+      "source_ja_raw": "【法子】\\nそんなこともできるんですね。",
+      "source_ja_applied": "【法子】\\nそんなこともできるんですね。",
+      "source_ja_reviewed": "【法子】\\nそんなこともできるんですね。",
+      "old_translation": "【노리코】\\n그런 일도 할 수 있네요.",
+      "new_translation": "【노리코】\\n그런 것도 가능하군요.",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2247,
+      "source_index": "0x000775f4",
+      "source_ja_raw": "【彩業元】\\nこのプレイヤーの裏拗に外部入力長子《がいぶにゅうりょくたんし》があるんで、\\nそこにつなげればできるっス。",
+      "source_ja_applied": "【彩業元】\\nこのプレイヤーの裏拗に外部入力長子《がいぶにゅうりょくたんし》があるんで、\\nそこにつなげればできるっス。",
+      "source_ja_reviewed": "【店員】\\nこのプレイヤーの裏側に外部入力端子があるんで、\\nそこにつなげればできるっス。",
+      "old_translation": "【종업원】\\n이 플레이어의 용측에 외부 입력\\n단자가\\n있기 때문에,\\n거기에 연결하면 할 수 있다.",
+      "new_translation": "【종업원】\\n이 플레이어 뒤쪽에 외부 입력\\n단자가 있어서,\\n거기에 연결하면 돼요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2248,
+      "source_index": "0x00077674",
+      "source_ja_raw": "【彩業元】\\n長子《たんし》が裏なんで、一度このプレイヤーを\\n関由させないといけないっスから\\nちょっと飯倒《めんどう》っスけどね。",
+      "source_ja_applied": "【彩業元】\\n長子《たんし》が裏なんで、一度このプレイヤーを\\n回由させないといけないっスから\\nちょっと飯倒《めんどう》っスけどね。",
+      "source_ja_reviewed": "【店員】\\n端子が裏なんで、一度このプレイヤーを\\n動かさせないといけないっスから\\nちょっと面倒っスけどね。",
+      "old_translation": "【종업원】\\n단자가 용이므로, 한번 이\\n플레이어를\\n림전시키지 않으면 안 되는\\n것으로부터\\n조금 면적이지만.",
+      "new_translation": "【종업원】\\n단자가 뒤에 있어서 플레이어를 한\\n번 움직여야 하니\\n좀 번거롭지만요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2249,
+      "source_index": "0x0007771c",
+      "source_ja_raw": "【法子】\\n事件に関して、\\nなにか思い出したことはありませんか？",
+      "source_ja_applied": "【法子】\\n事件に関して、\\nなにか思い出したことはありませんか？",
+      "source_ja_reviewed": "【法子】\\n事件に関して、\\nなにか思い出したことはありませんか？",
+      "old_translation": "【노리코】\\n사건에 관해서,\\n무엇인가 무거운 내놓은 적\\n없습니까?",
+      "new_translation": "【노리코】\\n사건에 관해\\n기억나는 건 없나요?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2250,
+      "source_index": "0x00077794",
+      "source_ja_raw": "【彩業元】\\nあ、そう言えば……",
+      "source_ja_applied": "【彩業元】\\nあ、そう言えば……",
+      "source_ja_reviewed": "【彩業元】\\nあ、そう言えば……",
+      "old_translation": "【종업원】\\n아, 그렇게 말하면…",
+      "new_translation": "【종업원】\\n아, 그러고 보니……",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2251,
+      "source_index": "0x000777d4",
+      "source_ja_raw": "【彩業元】\\n…………",
+      "source_ja_applied": "【彩業元】\\n…………",
+      "source_ja_reviewed": "【彩業元】\\n…………",
+      "old_translation": "【종업원】\\n…………",
+      "new_translation": "【종업원】\\n…………",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2252,
+      "source_index": "0x00077835",
+      "source_ja_raw": "【彩業元】\\n……いや、なんでもないっス。",
+      "source_ja_applied": "【彩業元】\\n……いや、なんでもないっス。",
+      "source_ja_reviewed": "【彩業元】\\n……いや、なんでもないっス。",
+      "old_translation": "【종업원】\\n… … 아니, 아무것도 아냐.",
+      "new_translation": "【종업원】\\n……아니요, 아무것도 아니에요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2253,
+      "source_index": "0x0007787a",
+      "source_ja_raw": "【法子】\\nそんな……言いかけてやめないでくださいよ……",
+      "source_ja_applied": "【法子】\\nそんな……言いかけてやめないでくださいよ……",
+      "source_ja_reviewed": "【法子】\\nそんな……言いかけてやめないでくださいよ……",
+      "old_translation": "【노리코】\\n그런…",
+      "new_translation": "【노리코】\\n그런……\\n말하다 말고 그만두지 마세요……",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2254,
+      "source_index": "0x000778d3",
+      "source_ja_raw": "【彩業元】\\nいや、大したことじゃないっスから。",
+      "source_ja_applied": "【彩業元】\\nいや、大したことじゃないっスから。",
+      "source_ja_reviewed": "【彩業元】\\nいや、大したことじゃないっスから。",
+      "old_translation": "【종업원】\\n아니, 큰 일이 아니잖아요.",
+      "new_translation": "【종업원】\\n아니, 별것 아니어서요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2255,
+      "source_index": "0x0007791a",
+      "source_ja_raw": "【法子】\\n大したことじゃなくても\\n教えてください！\\nお願いします！",
+      "source_ja_applied": "【法子】\\n大したことじゃなくても\\n教えてください！\\nお願いします！",
+      "source_ja_reviewed": "【法子】\\n大したことじゃなくても\\n教えてください！\\nお願いします！",
+      "old_translation": "【노리코】\\n대단한 일이 아니어도\\n가르쳐 주세요! \\n 미안해요!",
+      "new_translation": "【노리코】\\n별것 아니어도 말해 주세요!\\n부탁드려요!",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2256,
+      "source_index": "0x00077979",
+      "source_ja_raw": "【彩業元】\\nそ、そこまで言うなら……\\nホントに大したこと、ないっスよ？",
+      "source_ja_applied": "【彩業元】\\nそ、そこまで言うなら……\\nホントに大したこと、ないっスよ？",
+      "source_ja_reviewed": "【彩業元】\\nそ、そこまで言うなら……\\nホントに大したこと、ないっスよ？",
+      "old_translation": "【종업원】\\n그, 거기까지 말한다면…\\n정말로 큰 일, 아니야?",
+      "new_translation": "【종업원】\\n그, 그렇게까지 말하시면……\\n정말 별것 아닌데요?",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2257,
+      "source_index": "0x000779f6",
+      "source_ja_raw": "【彩業元】\\nお客さんに頼《たの》まれて、\\nＣＤをかけようと思ってリモコンを探したんスけど、\\n見当たらなかったんスよ。",
+      "source_ja_applied": "【彩業元】\\nお客さんに頼《たの》まれて、\\nＣＤをかけようと思ってリモコンを探したんスけど、\\n見当たらなかったんスよ。",
+      "source_ja_reviewed": "【店員】\\nお客さんに頼まれて、\\nＣＤをかけようと思ってリモコンを探したんスけど、\\n見当たらなかったんスよ。",
+      "old_translation": "【종업원】\\n고객에게 부탁받고,\\nCD를 걸려고 무거워 리모컨을\\n찾았지만,\\n보이지 않았던 수야.",
+      "new_translation": "【종업원】\\n손님이 부탁해서 CD를 틀려고\\n리모컨을 찾았는데,\\n안 보이더라고요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2258,
+      "source_index": "0x00077a6d",
+      "source_ja_raw": "【法子】\\nリモコン……って、\\nこのプレイヤーのリモコンですか？",
+      "source_ja_applied": "【法子】\\nリモコン……って、\\nこのプレイヤーのリモコンですか？",
+      "source_ja_reviewed": "【法子】\\nリモコン……って、\\nこのプレイヤーのリモコンですか？",
+      "old_translation": "【노리코】\\n리모컨… … 라고,\\n이 플레이어의 리모컨입니까?",
+      "new_translation": "【노리코】\\n리모컨……\\n이 플레이어 리모컨인가요?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2259,
+      "source_index": "0x00077ae3",
+      "source_ja_raw": "【彩業元】\\nそうっス。",
+      "source_ja_applied": "【彩業元】\\nそうっス。",
+      "source_ja_reviewed": "【彩業元】\\nそうっス。",
+      "old_translation": "【종업원】\\n그래스.",
+      "new_translation": "【종업원】\\n네.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2260,
+      "source_index": "0x00077b29",
+      "source_ja_raw": "【彩業元】\\nいつもならリモコンはプレイヤーの上に\\n置いてあるんスけど、\\nあの日はリモコンがなかったんスよ。",
+      "source_ja_applied": "【彩業元】\\nいつもならリモコンはプレイヤーの上に\\n置いてあるんスけど、\\nあの日はリモコンがなかったんスよ。",
+      "source_ja_reviewed": "【彩業元】\\nいつもならリモコンはプレイヤーの上に\\n置いてあるんスけど、\\nあの日はリモコンがなかったんスよ。",
+      "old_translation": "【종업원】\\n언제나라면 리모콘은 플레이어 위에\\n두고 있는 거지만,\\n그날은 리모컨이 없었어요.",
+      "new_translation": "【종업원】\\n평소라면 리모컨은 플레이어 위에\\n놓여 있는데,\\n그날은 리모컨이 없었어요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2261,
+      "source_index": "0x00077b9e",
+      "source_ja_raw": "【彩業元】\\nね、大したこと、ないっスよね？",
+      "source_ja_applied": "【彩業元】\\nね、大したこと、ないっスよね？",
+      "source_ja_reviewed": "【彩業元】\\nね、大したこと、ないっスよね？",
+      "old_translation": "【직원】\\n그렇죠, 별일 아니죠?",
+      "new_translation": "【종업원】\\n그렇죠, 별것 아니죠?",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2262,
+      "source_index": "0x00077be4",
+      "source_ja_raw": "【法子】\\n（た、たしかに大した話じゃないかも……）",
+      "source_ja_applied": "【法子】\\n（た、たしかに大した話じゃないかも……）",
+      "source_ja_reviewed": "【法子】\\n（た、たしかに大した話じゃないかも……）",
+      "old_translation": "【노리코】\\n(타, 확실히 큰 이야기가\\n아닐지도……)",
+      "new_translation": "【노리코】\\n(그, 그러게……\\n별일 아닐지도……)",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2263,
+      "source_index": "0x00077c30",
+      "source_ja_raw": "【法子】\\nえっと……\\n素朴《そぼく》な疑問があるんですけど……",
+      "source_ja_applied": "【法子】\\nえっと……\\n素朴《そぼく》な疑問があるんですけど……",
+      "source_ja_reviewed": "【法子】\\nえっと……\\n素朴《そぼく》な疑問があるんですけど……",
+      "old_translation": "【노리코】\\n 음......\\n소소한 의문이 있습니다만......",
+      "new_translation": "【노리코】\\n음……\\n사소한 의문이 있는데요……",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2264,
+      "source_index": "0x00077c91",
+      "source_ja_raw": "【彩業元】\\nなんスか？",
+      "source_ja_applied": "【彩業元】\\nなんスか？",
+      "source_ja_reviewed": "【彩業元】\\nなんスか？",
+      "old_translation": "【직원】\\n뭔데요?",
+      "new_translation": "【종업원】\\n뭔데요?",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2265,
+      "source_index": "0x00077cca",
+      "source_ja_raw": "【法子】\\n同じ形のプレイヤーが\\n２慎重んでるじゃないですか。",
+      "source_ja_applied": "【法子】\\n同じ形のプレイヤーが\\n２慎重んでるじゃないですか。",
+      "source_ja_reviewed": "【法子】\\n同じ形のプレイヤーが\\n２台並んでるじゃないですか。",
+      "old_translation": "【노리코】\\n같은 경의 플레이어가\\n2보효하고 있지 않습니까.",
+      "new_translation": "【노리코】\\n같은 모양의 플레이어가\\n두 대 놓여 있잖아요.",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2266,
+      "source_index": "0x00077d1b",
+      "source_ja_raw": "【法子】\\nリモコンを使うと、盤線……というか、\\n上蹶ボタンを株《お》すと２慎ともついちゃうとか\\nそんなことにはならないんですか？",
+      "source_ja_applied": "【法子】\\nリモコンを使うと、盤線……というか、\\n上蹶ボタンを株《お》すと２慎ともついちゃうとか\\nそんなことにはならないんですか？",
+      "source_ja_reviewed": "【法子】\\nリモコンを使うと、電波……というか、\\n上のボタンを押すと２台ともついちゃうとか\\nそんなことにはならないんですか？",
+      "old_translation": "【노리코】\\n리모컨을 사용하면 혼선…… 아니,\\n전원 버튼을 누르면 두 대 모두 켜진다든지\\n그런 일은 없나요?",
+      "new_translation": "【노리코】\\n리모컨을 쓰면, 전파……라고 할까,\\n위쪽 버튼을 누를 때\\n두 대 모두 켜지는 일은 없나요?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2267,
+      "source_index": "0x00077da3",
+      "source_ja_raw": "【彩業元】\\nそれはないっス。\\nこのプレイヤー、\\n２改類の疚形に対応してるっスから。",
+      "source_ja_applied": "【彩業元】\\nそれはないっス。\\nこのプレイヤー、\\n２改類の波形に対応してるっスから。",
+      "source_ja_reviewed": "【店員】\\nそれはないっス。\\nこのプレイヤー、\\n２種類の波形に対応してるっスから。",
+      "old_translation": "【종업원】\\n그건 아니에요.\\n이 플레이어는\\n두 종류의 흔적에 대응하니까요.",
+      "new_translation": "【종업원】\\n그럴 리 없어요.\\n이 플레이어는\\n두 종류의 파형에 대응하거든요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2268,
+      "source_index": "0x00077e04",
+      "source_ja_raw": "【法子】\\n２改類のハケイ……？",
+      "source_ja_applied": "【法子】\\n２改類のハケイ……？",
+      "source_ja_reviewed": "【法子】\\n２改類のハケイ……？",
+      "old_translation": "【노리코】\\n2 히로미의 하케이…",
+      "new_translation": "【노리코】\\n두 종류의 파형……?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2269,
+      "source_index": "0x00077e52",
+      "source_ja_raw": "【彩業元】\\nえっと……気争に説間すると、\\nそれぞれが專門のリモコンになってるって\\n思ってもらえれば付《ま》違《ちが》いないっス。",
+      "source_ja_applied": "【彩業元】\\nえっと……気争に説間すると、\\nそれぞれが專門のリモコンになってるって\\n思ってもらえれば付《ま》違《ちが》いないっス。",
+      "source_ja_reviewed": "【店員】\\nえっと……簡単に説明すると、\\nそれぞれが専用のリモコンになってるって\\n思ってもらえれば間違いないっス。",
+      "old_translation": "【종업원】\\n음…\\n각각이 케이몬의 리모컨이되어 있다고\\n생각해 주시면 틀림없음.",
+      "new_translation": "【종업원】\\n음…… 쉽게 설명하면,\\n각각 전용 리모컨이라고 생각하시면\\n틀림없어요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2270,
+      "source_index": "0x00077edb",
+      "source_ja_raw": "【彩業元】\\nこれを見てくださいっス。",
+      "source_ja_applied": "【彩業元】\\nこれを見てくださいっス。",
+      "source_ja_reviewed": "【彩業元】\\nこれを見てくださいっス。",
+      "old_translation": "【직원】\\n이것을 봐주세요.",
+      "new_translation": "【종업원】\\n이걸 보세요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2271,
+      "source_index": "0x00077f89",
+      "source_ja_raw": "【法子】\\nＶＩＰルーム用……\\nホール用……",
+      "source_ja_applied": "【法子】\\nＶＩＰルーム用……\\nホール用……",
+      "source_ja_reviewed": "【法子】\\nＶＩＰルーム用……\\nホール用……",
+      "old_translation": "【노리코】\\nVIP룸용……\\n홀용…",
+      "new_translation": "【노리코】\\nVIP룸용……\\n홀용……",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2272,
+      "source_index": "0x00077fe0",
+      "source_ja_raw": "【彩業元】\\nそうっス。\\n付《ま》違《ちが》えないように、きちんと書いてあるっス。",
+      "source_ja_applied": "【彩業元】\\nそうっス。\\n付《ま》違《ちが》えないように、きちんと書いてあるっス。",
+      "source_ja_reviewed": "【彩業元】\\nそうっス。\\n付《ま》違《ちが》えないように、きちんと書いてあるっス。",
+      "old_translation": "【종업원】\\n그래.\\n실수하지 않도록, 제대로 쓰여져\\n있는\\n스.",
+      "new_translation": "【종업원】\\n네.\\n잘못 보지 않도록 제대로 적혀\\n있어요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2273,
+      "source_index": "0x0007804a",
+      "source_ja_raw": "【彩業元】\\n当日見当たらなかったのは\\nこっちの『ＶＩＰルーム用』っス。",
+      "source_ja_applied": "【彩業元】\\n当日見当たらなかったのは\\nこっちの『ＶＩＰルーム用』っス。",
+      "source_ja_reviewed": "【店員】\\n当日見当たらなかったのは\\nこっちの『ＶＩＰルーム用』っス。",
+      "old_translation": "【종업원】\\n당일 눈에 띄지 않았던 것은\\n이쪽의 「VIP 룸용」스.",
+      "new_translation": "【종업원】\\n당일 찾을 수 없었던 건\\n이쪽의 『VIP룸용』이에요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2274,
+      "source_index": "0x000780a5",
+      "source_ja_raw": "【法子】\\nでも、今は見つかったんですね？",
+      "source_ja_applied": "【法子】\\nでも、今は見つかったんですね？",
+      "source_ja_reviewed": "【法子】\\nでも、今は見つかったんですね？",
+      "old_translation": "【노리코】\\n에서도, 지금은 발견되었군요?",
+      "new_translation": "【노리코】\\n하지만 지금은 찾았군요?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2275,
+      "source_index": "0x000780f6",
+      "source_ja_raw": "【彩業元】\\n事件後に署の下に屈ちてたのを見つけたっス。\\n誰《だれ》かが屈としてしまったんスね。",
+      "source_ja_applied": "【彩業元】\\n事件後に署の下に屈ちてたのを見つけたっス。\\n誰《だれ》かが屈としてしまったんスね。",
+      "source_ja_reviewed": "【店員】\\n事件後に机の下に落ちてたのを見つけたっス。\\n誰かが落としてしまったんスね。",
+      "old_translation": "【종업원】\\n사건 후 통증 밑에 살았던 것을\\n발견했다.\\n누군가가 살아 버렸어요.",
+      "new_translation": "【종업원】\\n사건 후 책상 아래에 떨어져 있는\\n걸 찾았어요.\\n누군가 떨어뜨린 거죠.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2276,
+      "source_index": "0x0007816b",
+      "source_ja_raw": "【彩業元】\\nね、大したこと、ないっスよね？",
+      "source_ja_applied": "【彩業元】\\nね、大したこと、ないっスよね？",
+      "source_ja_reviewed": "【彩業元】\\nね、大したこと、ないっスよね？",
+      "old_translation": "【직원】\\n그렇죠, 별일 아니죠?",
+      "new_translation": "【종업원】\\n그렇죠, 별것 아니죠?",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2277,
+      "source_index": "0x000781b1",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2278,
+      "source_index": "0x000781ea",
+      "source_ja_raw": "【法子】\\n（どうなんだろう？\\nコウジなら、\\nここからなにか導き出すのかもしれない……）",
+      "source_ja_applied": "【法子】\\n（どうなんだろう？\\nコウジなら、\\nここからなにか導き出すのかもしれない……）",
+      "source_ja_reviewed": "【法子】\\n（どうなんだろう？\\nコウジなら、\\nここからなにか導き出すのかもしれない……）",
+      "old_translation": "【노리코】\\n(어떻게 될까?\\n코우지라면,\\n여기에서 뭔가 이끌어낼지도\\n모른다……)",
+      "new_translation": "【노리코】\\n(어떨까?\\n코우지라면 여기서 뭔가\\n이끌어 내겠지……)",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2279,
+      "source_index": "0x00078283",
+      "source_ja_raw": "【彩業元】\\nリモコンが見当らなかったこと以外は\\n特にないっス。",
+      "source_ja_applied": "【彩業元】\\nリモコンが見当らなかったこと以外は\\n特にないっス。",
+      "source_ja_reviewed": "【彩業元】\\nリモコンが見当らなかったこと以外は\\n特にないっス。",
+      "old_translation": "【종업원】\\n리모콘이 보이지 않았던 것 이외는\\n특히 없었다.",
+      "new_translation": "【종업원】\\n리모컨을 찾을 수 없었다는 것\\n외에는\\n특별한 건 없어요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2280,
+      "source_index": "0x000782dc",
+      "source_ja_raw": "【法子】\\nこのお堂の定料日を教えてもらえますか？",
+      "source_ja_applied": "【法子】\\nこのお堂の定料日を教えてもらえますか？",
+      "source_ja_reviewed": "【法子】\\nこの店の定休日を教えてもらえますか？",
+      "old_translation": "【노리코】\\n이 교의 정기 휴일을 가르쳐\\n주시겠습니까?",
+      "new_translation": "【노리코】\\n이 가게의 정기 휴일을\\n알려 주시겠어요?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2281,
+      "source_index": "0x0007834c",
+      "source_ja_raw": "【彩業元】\\n水曜日っス。",
+      "source_ja_applied": "【彩業元】\\n水曜日っス。",
+      "source_ja_reviewed": "【彩業元】\\n水曜日っス。",
+      "old_translation": "【종업원】\\n수요일 즈.",
+      "new_translation": "【종업원】\\n수요일이에요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2282,
+      "source_index": "0x0007839a",
+      "source_ja_raw": "【彩業元】\\nちなみに営業恋付は１７恋からっス。",
+      "source_ja_applied": "【彩業元】\\nちなみに営業恋付は１７恋からっス。",
+      "source_ja_reviewed": "【店員】\\nちなみに営業開始は１７時からっス。",
+      "old_translation": "【종업원】\\n덧붙여 영업시간은 17시부터.",
+      "new_translation": "【종업원】\\n참고로 영업 시작은\\n17시부터예요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2283,
+      "source_index": "0x0007891e",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2284,
+      "source_index": "0x00078957",
+      "source_ja_raw": "【法子】\\n（たしかにコウジの指摘《してき》通《どお》りだわ。\\nこれは確実に係かしてるわね……）",
+      "source_ja_applied": "【法子】\\n（たしかにコウジの指摘《してき》通《どお》りだわ。\\nこれは確実に係かしてるわね……）",
+      "source_ja_reviewed": "【法子】\\n（たしかに光志の指摘通りだわ。\\nこれは確実に動かしてるわね……）",
+      "old_translation": "【노리코】\\n(확실히 코우지의 지적대로다.\\n이것은 확실히 움직이고 있는군요…",
+      "new_translation": "【노리코】\\n(확실히 코우지 말대로네.\\n이건 분명 움직인 흔적이야……)",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2285,
+      "source_index": "0x00078a32",
+      "source_ja_raw": "【法子】\\n（プレイヤーを移係させた跡《あと》があるわ）",
+      "source_ja_applied": "【法子】\\n（プレイヤーを移係させた跡《あと》があるわ）",
+      "source_ja_reviewed": "【法子】\\n（プレイヤーを移係させた跡《あと》があるわ）",
+      "old_translation": "【노리코】\\n(플레이어를 작동시킨 흔적이 있어)",
+      "new_translation": "【노리코】\\n(플레이어를 옮긴 흔적이 있어.)",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2286,
+      "source_index": "0x00078afe",
+      "source_ja_raw": "【法子】\\n（どちらも同じ\\nオーディオプレイヤーね）",
+      "source_ja_applied": "【法子】\\n（どちらも同じ\\nオーディオプレイヤーね）",
+      "source_ja_reviewed": "【法子】\\n（どちらも同じ\\nオーディオプレイヤーね）",
+      "old_translation": "【노리코】\\n(둘 다 같은\\n오디오 플레이어네)",
+      "new_translation": "【노리코】\\n(둘 다 같은 오디오 플레이어네.)",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2287,
+      "source_index": "0x00078b48",
+      "source_ja_raw": "【法子】\\n（同じものが２慎……って、\\nなにか意味があるのかな？）",
+      "source_ja_applied": "【法子】\\n（同じものが２慎……って、\\nなにか意味があるのかな？）",
+      "source_ja_reviewed": "【法子】\\n（同じものが２慎……って、\\nなにか意味があるのかな？）",
+      "old_translation": "【노리코】\\n(같은 것이 2방……\\n뭔가 의미가 있습니까? )",
+      "new_translation": "【노리코】\\n(같은 게 두 대……\\n이게 무슨 의미가 있을까?)",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2288,
+      "source_index": "0x00078c11",
+      "source_ja_raw": "【法子】\\n（同じオーディオプレイヤーが\\n重んでるわ）",
+      "source_ja_applied": "【法子】\\n（同じオーディオプレイヤーが\\n重んでるわ）",
+      "source_ja_reviewed": "【法子】\\n（同じオーディオプレイヤーが\\n重んでるわ）",
+      "old_translation": "【노리코】\\n(같은 오디오 플레이어가\\n놓여 있네)",
+      "new_translation": "【노리코】\\n(같은 오디오 플레이어가\\n놓여 있네.)",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2289,
+      "source_index": "0x00078c5d",
+      "source_ja_raw": "【法子】\\n（たしか上のプレイヤーがＶＩＰルームのＢＧＭを連理《せいぎょ》してて\\n下がそれ以外の堂内のＢＧＭを連理《せいぎょ》してるって\\n話だったわね）",
+      "source_ja_applied": "【法子】\\n（たしか上のプレイヤーがＶＩＰルームのＢＧＭを連理《せいぎょ》してて\\n下がそれ以外の堂内のＢＧＭを連理《せいぎょ》してるって\\n話だったわね）",
+      "source_ja_reviewed": "【法子】\\n（たしか上のプレイヤーがＶＩＰルームのＢＧＭを制御してて\\n下がそれ以外の店内のＢＧＭを制御してるって\\n話だったわね）",
+      "old_translation": "【노리코】\\n(확실히 위의 플레이어가 VIP\\n룸의\\nBGM을 제어하고 \\n아래가 그 이외의 교내의 BGM을\\n제어하고 있다고\\n화였어)",
+      "new_translation": "【노리코】\\n(위 플레이어가 VIP룸 BGM을\\n제어하고\\n아래가 나머지 가게 안 BGM을\\n제어한다는\\n얘기였지.)",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2290,
+      "source_index": "0x00078d82",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2291,
+      "source_index": "0x00078dbb",
+      "source_ja_raw": "【法子】\\n（たしかにコウジの指摘《してき》通《どお》りだわ。\\nこれはプレイヤーを移係させた跡《あと》に違《ちが》いないわね……）",
+      "source_ja_applied": "【法子】\\n（たしかにコウジの指摘《してき》通《どお》りだわ。\\nこれはプレイヤーを移係させた跡《あと》に違《ちが》いないわね……）",
+      "source_ja_reviewed": "【法子】\\n（たしかに光志の指摘通りだわ。\\nこれはプレイヤーを移動させた跡に\\n違いないわね……）",
+      "old_translation": "【노리코】\\n(확실히 코우지의 지적대로야.\\n이것은 플레이어를 이동시킨 호랑이에\\n틀림없네…",
+      "new_translation": "【노리코】\\n(확실히 코우지 말대로야.\\n이건 플레이어를 옮긴 흔적이\\n틀림없어……)",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2292,
+      "source_index": "0x00078e44",
+      "source_ja_raw": "【法子】\\n（プレイヤーを移係させた跡《あと》があるわ）",
+      "source_ja_applied": "【法子】\\n（プレイヤーを移係させた跡《あと》があるわ）",
+      "source_ja_reviewed": "【法子】\\n（プレイヤーを移係させた跡《あと》があるわ）",
+      "old_translation": "【노리코】\\n(플레이어를 작동시킨 흔적이 있어)",
+      "new_translation": "【노리코】\\n(플레이어를 옮긴 흔적이 있어.)",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2293,
+      "source_index": "0x00078ea8",
+      "source_ja_raw": "【法子】\\n（同じオーディオプレイヤーが\\n重んでるわ）",
+      "source_ja_applied": "【法子】\\n（同じオーディオプレイヤーが\\n重んでるわ）",
+      "source_ja_reviewed": "【法子】\\n（同じオーディオプレイヤーが\\n重んでるわ）",
+      "old_translation": "【노리코】\\n(같은 오디오 플레이어가\\n놓여 있네)",
+      "new_translation": "【노리코】\\n(같은 오디오 플레이어가\\n놓여 있네.)",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2294,
+      "source_index": "0x00078f1a",
+      "source_ja_raw": "【彩業元】\\n上のプレイヤーがＶＩＰルームを連理《せいぎょ》してて、\\n下のプレイヤーはその他の堂内のＢＧＭを\\n連理《せいぎょ》してるっス。",
+      "source_ja_applied": "【彩業元】\\n上のプレイヤーがＶＩＰルームを連理《せいぎょ》してて、\\n下のプレイヤーはその他の堂内のＢＧＭを\\n連理《せいぎょ》してるっス。",
+      "source_ja_reviewed": "【店員】\\n上のプレイヤーがＶＩＰルームを制御してて、\\n下のプレイヤーはその他の店内のＢＧＭを\\n制御してるっス。",
+      "old_translation": "【종업원】\\n위의 플레이어가 VIP룸을 제어하고\\n있고,\\n아래의 플레이어는 그 범의 교내의\\nBGM을\\n제어하고 있다.",
+      "new_translation": "【종업원】\\n위 플레이어가 VIP룸을 제어하고,\\n아래 플레이어는 가게 안 나머지\\nBGM을\\n제어해요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2295,
+      "source_index": "0x0007901e",
+      "source_ja_raw": "【法子】\\n（同じオーディオプレイヤーが\\n重んでるわ）",
+      "source_ja_applied": "【法子】\\n（同じオーディオプレイヤーが\\n重んでるわ）",
+      "source_ja_reviewed": "【法子】\\n（同じオーディオプレイヤーが\\n重んでるわ）",
+      "old_translation": "【노리코】\\n(같은 오디오 플레이어가\\n놓여 있네)",
+      "new_translation": "【노리코】\\n(같은 오디오 플레이어가\\n놓여 있네.)",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2296,
+      "source_index": "0x0007906a",
+      "source_ja_raw": "【法子】\\n同じプレイヤーが２慎……って、\\nなにか意味があるんですか？",
+      "source_ja_applied": "【法子】\\n同じプレイヤーが２慎……って、\\nなにか意味があるんですか？",
+      "source_ja_reviewed": "【法子】\\n同じプレイヤーが２慎……って、\\nなにか意味があるんですか？",
+      "old_translation": "【노리코】\\n같은 플레이어가 2보…\\n뭔가 의미가 있습니까?",
+      "new_translation": "【노리코】\\n같은 플레이어가 두 대……\\n무슨 의미가 있나요?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2297,
+      "source_index": "0x000790e8",
+      "source_ja_raw": "【彩業元】\\nああ、これ、上のプレイヤーは\\nＶＩＰルームのＢＧＭを\\n連理《せいぎょ》してるモンなんスよ。",
+      "source_ja_applied": "【彩業元】\\nああ、これ、上のプレイヤーは\\nＶＩＰルームのＢＧＭを\\n連理《せいぎょ》してるモンなんスよ。",
+      "source_ja_reviewed": "【店員】\\nああ、これ、上のプレイヤーは\\nＶＩＰルームのＢＧＭを\\n制御してるモンなんスよ。",
+      "old_translation": "【종업원】\\n아, 이것, 위의 플레이어는\\nVIP 룸의 BGM을\\n제어하고 있는 몬이야.",
+      "new_translation": "【종업원】\\n아, 이거요? 위 플레이어는\\nVIP룸 BGM을 제어하는 거예요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2298,
+      "source_index": "0x00079156",
+      "source_ja_raw": "【法子】\\nＶＩＰルームのＢＧＭ？",
+      "source_ja_applied": "【法子】\\nＶＩＰルームのＢＧＭ？",
+      "source_ja_reviewed": "【法子】\\nＶＩＰルームのＢＧＭ？",
+      "old_translation": "【노리코】\\nVIP룸의 BGM?",
+      "new_translation": "【노리코】\\nVIP룸 BGM?",
+      "speaker": "노리코",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2299,
+      "source_index": "0x000791a6",
+      "source_ja_raw": "【彩業元】\\nはい、ＶＩＰルーム内はお客さんのリクエストで、\\n紅きなＢＧＭを穢せるようになってるんス。",
+      "source_ja_applied": "【彩業元】\\nはい、ＶＩＰルーム内はお客さんのリクエストで、\\n紅きなＢＧＭを穢せるようになってるんス。",
+      "source_ja_reviewed": "【店員】\\nはい、ＶＩＰルーム内はお客さんのリクエストで、\\n好きなＢＧＭを流せるようになってるんス。",
+      "old_translation": "【종업원】\\n 네, VIP 룸내는 손님의\\n리퀘스트로,\\n개 키나 BGM을 보낼 수 있게\\n되어\\n있는 수.",
+      "new_translation": "【종업원】\\n네, VIP룸 안은 손님 요청으로\\n원하는 BGM을 틀 수 있게 되어\\n있어요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2300,
+      "source_index": "0x0007921f",
+      "source_ja_raw": "【彩業元】\\nで、下のプレイヤーは\\n堂内に穢れてるＢＧＭを\\n連理《せいぎょ》するものっス。",
+      "source_ja_applied": "【彩業元】\\nで、下のプレイヤーは\\n堂内に穢れてるＢＧＭを\\n連理《せいぎょ》するものっス。",
+      "source_ja_reviewed": "【店員】\\nで、下のプレイヤーは\\n店内に流れてるＢＧＭを\\n制御するものっス。",
+      "old_translation": "【종업원】\\n으로, 아래의 플레이어는\\n교내에 보낼 수 있는 BGM을\\n제어하는 것.",
+      "new_translation": "【종업원】\\n그리고 아래 플레이어는\\n가게 안에서 재생되는 BGM을\\n제어하는 거예요.",
+      "speaker": "종업원",
+      "scene": "플레이어·리모컨·BGM 구조 확인",
+      "relationship_context": "노리코와 종업원이 방범 카메라 영상, 외부 입력 단자, 두 플레이어와 전용 리모컨의 구조를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    }
+  ]
+}

@@ -1,0 +1,4535 @@
+{
+  "schema": "enkaku_retranslation_batch_v2",
+  "batch": 8,
+  "source_range": {
+    "order_start": 2301,
+    "order_end": 2550,
+    "count": 250
+  },
+  "purpose": "라이트 블루 재조사와 VIP룸 자동 잠금 구조에서 누마사키 사무소·에이타로 정보까지 재번역",
+  "emulator_launched": false,
+  "display_width": 19,
+  "translation_policy": [
+    "非常口는 비상구, 暗証番号은 비밀번호, オートロック은 자동 잠금으로 통일",
+    "종업원은 편한 말투, 노리코는 정중한 조사 말투, 에이타로는 차분한 상사 말투로 처리",
+    "VIP룸 문과 비밀번호의 출입 구조를 반복 선택지에서도 동일하게 유지",
+    "대사 본문은 프로젝트 기준 폭 19자에 맞춰 의미 단위로 줄바꿈"
+  ],
+  "counts": {
+    "entries": 250,
+    "changed": 223,
+    "wrapped_rows": 40
+  },
+  "translations": [
+    {
+      "order": 2301,
+      "source_index": "0x00079285",
+      "source_ja_raw": "【法子】\\nなるほど……満得。",
+      "source_ja_applied": "【法子】\\nなるほど……満得。",
+      "source_ja_reviewed": "【法子】\\nなるほど……納得。",
+      "old_translation": "【노리코】\\n과연……납득.",
+      "new_translation": "【노리코】\\n그렇군요…… 알겠어요.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2302,
+      "source_index": "0x000792c4",
+      "source_ja_raw": "【法子】\\n参考までにお聞きしたいんですけど、\\nＶＩＰルームで穢すＢＧＭは\\nリクエストできるんですよね？",
+      "source_ja_applied": "【法子】\\n参考までにお聞きしたいんですけど、\\nＶＩＰルームで穢すＢＧＭは\\nリクエストできるんですよね？",
+      "source_ja_reviewed": "【法子】\\n参考までにお聞きしたいんですけど、\\nＶＩＰルームで流すＢＧＭは\\nリクエストできるんですよね？",
+      "old_translation": "【노리코】\\n사고까지 두고 싶습니다만,\\nVIP 룸에서 보내는 BGM은\\n리퀘스트할 수 있지요?",
+      "new_translation": "【노리코】\\n참고로 여쭤보고 싶은데,\\nVIP룸에서 틀 BGM은\\n요청할 수 있는 거죠?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2303,
+      "source_index": "0x0007932f",
+      "source_ja_raw": "【法子】\\nどんな効安を穢せるんですか？",
+      "source_ja_applied": "【法子】\\nどんな効安を穢せるんですか？",
+      "source_ja_reviewed": "【法子】\\nどんな効安を穢せるんですか？",
+      "old_translation": "【노리코】\\n어떤 음악을 보낼 수 있습니까?",
+      "new_translation": "【노리코】\\n어떤 음원을 틀 수 있나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2304,
+      "source_index": "0x0007937f",
+      "source_ja_raw": "【彩業元】\\nお堂にあるＣＤであればもちろん大丈夫《だいじょうぶ》っスけど、\\nお客さんからの持《も》ち沽《こ》みにも対応してるっス。",
+      "source_ja_applied": "【彩業元】\\nお堂にあるＣＤであればもちろん大丈夫《だいじょうぶ》っスけど、\\nお客さんからの持《も》ち込《こ》みにも対応してるっス。",
+      "source_ja_reviewed": "【店員】\\nお店にあるＣＤであればもちろん大丈夫っスけど、\\nお客さんからの持ち込みにも対応してるっス。",
+      "old_translation": "【종업원】\\n가게에 있는 CD라면 물론 괜찮을\\n수\\n있지만,\\n손님으로부터의 탄식에에도 대응하고\\n있어요.",
+      "new_translation": "【종업원】\\n가게에 있는 CD라면 물론 괜찮고,\\n손님이 가져온 것도 가능해요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2305,
+      "source_index": "0x0007940a",
+      "source_ja_raw": "【彩業元】\\n他に聞きたいことはあるっスか？",
+      "source_ja_applied": "【彩業元】\\n他に聞きたいことはあるっスか？",
+      "source_ja_reviewed": "【彩業元】\\n他に聞きたいことはあるっスか？",
+      "old_translation": "【종업원】\\n범에 넣고 싶은 것은 있나요?",
+      "new_translation": "【종업원】\\n더 물어볼 게 있나요?",
+      "speaker": "종업원",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2306,
+      "source_index": "0x0007944f",
+      "source_ja_raw": "【法子】\\n今のところは大丈夫《だいじょうぶ》です。\\nありがとうございました。",
+      "source_ja_applied": "【法子】\\n今のところは大丈夫《だいじょうぶ》です。\\nありがとうございました。",
+      "source_ja_reviewed": "【法子】\\n今のところは大丈夫《だいじょうぶ》です。\\nありがとうございました。",
+      "old_translation": "【노리코】\\n지금은 괜찮습니다. \\n감사합니다.",
+      "new_translation": "【노리코】\\n지금은 괜찮아요.\\n감사합니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2307,
+      "source_index": "0x000794af",
+      "source_ja_raw": "【法子】\\n（署とイスがあるわ）",
+      "source_ja_applied": "【法子】\\n（署とイスがあるわ）",
+      "source_ja_reviewed": "【法子】\\n（署とイスがあるわ）",
+      "old_translation": "【노리코】\\n(책상과 의자가 있네)",
+      "new_translation": "【노리코】\\n(책상과 의자가 있어.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2308,
+      "source_index": "0x000794ed",
+      "source_ja_raw": "【法子】\\n（彩業元たちの料憩所《きゅうけいじょ》も崋《か》ねてるみたい。\\n私も料みたいところだけど、\\nもうひと賻《ふ》ん張《ば》りしなくちゃ）",
+      "source_ja_applied": "【法子】\\n（彩業元たちの料憩所《きゅうけいじょ》も崋《か》ねてるみたい。\\n私も料みたいところだけど、\\nもうひと賻《ふ》ん張《ば》りしなくちゃ）",
+      "source_ja_reviewed": "【法子】\\n（彩業元たちの休憩所も兼ねてるみたい。\\n私も休みたいところだけど、\\nもうひと踏ん張りしなくちゃ）",
+      "old_translation": "【노리코】\\n(종업원들의 휴게소도 파고 있는 것\\n같다.\\n나도 쉬고 싶은 곳이지만,\\n다시 한번 밟아야 한다)",
+      "new_translation": "【노리코】\\n(종업원들의 휴게실도 겸하는\\n모양이네.\\n나도 쉬고 싶지만,\\n조금만 더 힘내야지.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2309,
+      "source_index": "0x000795d1",
+      "source_ja_raw": "【法子】\\n（彩業元用の上話があるわ。\\n急病の連絡《れんらく》を受ける恋に使うことが多そう）",
+      "source_ja_applied": "【法子】\\n（彩業元用の上話があるわ。\\n急病の連絡《れんらく》を受ける恋に使うことが多そう）",
+      "source_ja_reviewed": "【法子】\\n（彩業元用の上話があるわ。\\n急病の連絡《れんらく》を受ける恋に使うことが多そう）",
+      "old_translation": "【노리코】\\n(직원용 전화가 있네.\\n업무 연락을 할 때 많이 쓰나 봐.)",
+      "new_translation": "【노리코】\\n(종업원용 전화가 있네.\\n급한 연락을 받을 때\\n주로 쓰는 모양이야.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2310,
+      "source_index": "0x0007963c",
+      "source_ja_raw": "【法子】\\n（だから押の前にホワイトボードがあるのね。\\n……なんて、酔理してみるけど、\\nどうなのかしら？）",
+      "source_ja_applied": "【法子】\\n（だから押の前にホワイトボードがあるのね。\\n……なんて、酔理してみるけど、\\nどうなのかしら？）",
+      "source_ja_reviewed": "【法子】\\n（だから机の前にホワイトボードがあるのね。\\n……なんて、推理してみるけど、\\nどうなのかしら？）",
+      "old_translation": "【노리코】\\n(그래서 벽 옆에 화이트보드가 있는 거네.\\n……라고 추측해 봤는데,\\n어떨까?)",
+      "new_translation": "【노리코】\\n(그래서 책상 앞에 화이트보드가\\n있는 거구나.\\n……라고 추리해 보지만,\\n어떨까?)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2311,
+      "source_index": "0x000796b1",
+      "source_ja_raw": "【法子】\\n（動彩業元のスケジュールが書いてあるわ。\\n水曜日は落元料みになっているわね）",
+      "source_ja_applied": "【法子】\\n（動彩業元のスケジュールが書いてあるわ。\\n水曜日は落元料みになっているわね）",
+      "source_ja_reviewed": "【法子】\\n（店員のスケジュールが書いてあるわ。\\n水曜日は定休日になっているわね）",
+      "old_translation": "【노리코】\\n(전 직원의 스케줄이 적혀 있네.\\n수요일은 전원 휴무구나.)",
+      "new_translation": "【노리코】\\n(근무 종업원의 스케줄이 적혀\\n있네.\\n수요일은 정기 휴무로 되어 있어.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2312,
+      "source_index": "0x00079764",
+      "source_ja_raw": "【彩業元】\\nえっと、他に聞きたいこととか\\nあるっスか？",
+      "source_ja_applied": "【彩業元】\\nえっと、他に聞きたいこととか\\nあるっスか？",
+      "source_ja_reviewed": "【彩業元】\\nえっと、他に聞きたいこととか\\nあるっスか？",
+      "old_translation": "【직원】\\n저기, 저에게 물어보고 싶은 게\\n있나요?",
+      "new_translation": "【종업원】\\n음, 또 물어볼 게 있나요?",
+      "speaker": "종업원",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2313,
+      "source_index": "0x000797b0",
+      "source_ja_raw": "【法子】\\nえっと……\\nいえ、今日聞きたいことは、\\n大体聞いたと思います。",
+      "source_ja_applied": "【法子】\\nえっと……\\nいえ、今日聞きたいことは、\\n大体聞いたと思います。",
+      "source_ja_reviewed": "【法子】\\nえっと……\\nいえ、今日聞きたいことは、\\n大体聞いたと思います。",
+      "old_translation": "【노리코】\\n저기……\\n아니요, 오늘 묻고 싶은 건\\n대체로 물어본 것 같아요.",
+      "new_translation": "【노리코】\\n음……\\n아니요, 오늘 물어볼 건\\n대체로 다 물어본 것 같아요.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2314,
+      "source_index": "0x00079819",
+      "source_ja_raw": "【彩業元】\\nそれじゃ、そろそろ仕事に戻《もど》らせてもらうっスが、\\n大丈夫《だいじょうぶ》ですか？",
+      "source_ja_applied": "【彩業元】\\nそれじゃ、そろそろ仕事に戻《もど》らせてもらうっスが、\\n大丈夫《だいじょうぶ》ですか？",
+      "source_ja_reviewed": "【彩業元】\\nそれじゃ、そろそろ仕事に戻《もど》らせてもらうっスが、\\n大丈夫《だいじょうぶ》ですか？",
+      "old_translation": "【직원】\\n그럼 슬슬 일하러 돌아가도 될까요?\\n괜찮으세요?",
+      "new_translation": "【종업원】\\n그럼 이제 일하러 돌아가도 될까요?",
+      "speaker": "종업원",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2315,
+      "source_index": "0x00079882",
+      "source_ja_raw": "【法子】\\nはい、大丈夫《だいじょうぶ》です。\\nありがとうございました。",
+      "source_ja_applied": "【法子】\\nはい、大丈夫《だいじょうぶ》です。\\nありがとうございました。",
+      "source_ja_reviewed": "【法子】\\nはい、大丈夫《だいじょうぶ》です。\\nありがとうございました。",
+      "old_translation": "【노리코】\\n네, 괜찮습니다.\\n감사했습니다.",
+      "new_translation": "【노리코】\\n네, 괜찮아요.\\n감사합니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2316,
+      "source_index": "0x000798e5",
+      "source_ja_raw": "【彩業元】\\nそれじゃ、失礼します。",
+      "source_ja_applied": "【彩業元】\\nそれじゃ、失礼します。",
+      "source_ja_reviewed": "【彩業元】\\nそれじゃ、失礼します。",
+      "old_translation": "【직원】\\n그럼 실례하겠습니다.",
+      "new_translation": "【종업원】\\n그럼 실례할게요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2317,
+      "source_index": "0x00079954",
+      "source_ja_raw": "【法子】\\n（……私もそろそろ戻《もど》ろうかな？）",
+      "source_ja_applied": "【法子】\\n（……私もそろそろ戻《もど》ろうかな？）",
+      "source_ja_reviewed": "【法子】\\n（……私もそろそろ戻《もど》ろうかな？）",
+      "old_translation": "【노리코】\\n(……나도 슬슬 돌아갈까?)",
+      "new_translation": "【노리코】\\n(……나도 이제 돌아갈까?)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2318,
+      "source_index": "0x000799ac",
+      "source_ja_raw": "【法子】\\n（……？\\nアレ、これってなんだろう？）",
+      "source_ja_applied": "【法子】\\n（……？\\nアレ、これってなんだろう？）",
+      "source_ja_reviewed": "【法子】\\n（……？\\nアレ、これってなんだろう？）",
+      "old_translation": "【노리코】\\n(……?\\n아레, 이게 뭐지?)",
+      "new_translation": "【노리코】\\n(……?\\n어라, 이건 뭐지?)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2319,
+      "source_index": "0x000799f7",
+      "source_ja_raw": "【法子】\\n（……一応、写真を屠《と》っておこっと）",
+      "source_ja_applied": "【法子】\\n（……一応、写真を屠《と》っておこっと）",
+      "source_ja_reviewed": "【法子】\\n（……一応、写真を屠《と》っておこっと）",
+      "old_translation": "【노리코】\\n(…",
+      "new_translation": "【노리코】\\n(일단 사진을 찍어 두자.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 재조사와 내부 구조",
+      "relationship_context": "노리코는 종업원 휴게 공간과 플레이어 구조를 확인하고, 현장 내부를 세밀하게 관찰한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2320,
+      "source_index": "0x00079ac0",
+      "source_ja_raw": "事務所前",
+      "source_ja_applied": "事務所前",
+      "source_ja_reviewed": "事務所前",
+      "old_translation": "사무소 앞",
+      "new_translation": "사무실 앞",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2321,
+      "source_index": "0x00079ac9",
+      "source_ja_raw": "事務所前",
+      "source_ja_applied": "事務所前",
+      "source_ja_reviewed": "事務所前",
+      "old_translation": "사무소 앞",
+      "new_translation": "사무실 앞",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2322,
+      "source_index": "0x00079ae2",
+      "source_ja_raw": "非進口",
+      "source_ja_applied": "非進口",
+      "source_ja_reviewed": "非進口",
+      "old_translation": "비상구",
+      "new_translation": "비상구",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2323,
+      "source_index": "0x00079ae9",
+      "source_ja_raw": "非進口",
+      "source_ja_applied": "非進口",
+      "source_ja_reviewed": "非進口",
+      "old_translation": "비상구",
+      "new_translation": "비상구",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2324,
+      "source_index": "0x00079dc8",
+      "source_ja_raw": "【法子】\\n（奥には非進口があるわね。\\nこの算望を使う事島にならないことを猪《いの》るわ）",
+      "source_ja_applied": "【法子】\\n（奥には非進口があるわね。\\nこの算望を使う事島にならないことを猪《いの》るわ）",
+      "source_ja_reviewed": "【法子】\\n（奥には非常口があるわね。\\nこの階段を使う事態にならないことを祈るわ）",
+      "old_translation": "【노리코】\\n(안쪽에 비상구가 있네.\\n이 계단을 이용할 일이 없기를 빌어야겠어)",
+      "new_translation": "【노리코】\\n(안쪽에 비상구가 있네.\\n이 계단을 사용할 일이 생기지\\n않기를 바라.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2325,
+      "source_index": "0x0007a07e",
+      "source_ja_raw": "【法子】\\n（分際い扉《とびら》ね）",
+      "source_ja_applied": "【法子】\\n（分厚い扉《とびら》ね）",
+      "source_ja_reviewed": "【法子】\\n（分厚い扉《とびら》ね）",
+      "old_translation": "【노리코】\\n(두꺼운 문이네)",
+      "new_translation": "【노리코】\\n(두꺼운 문이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2326,
+      "source_index": "0x0007a0c1",
+      "source_ja_raw": "【法子】\\n（鍵好《かぎあな》があるから、\\nどうやら鍵《かぎ》を掛《か》けることができるみたいね）",
+      "source_ja_applied": "【法子】\\n（鍵好《かぎあな》があるから、\\nどうやら鍵《かぎ》を掛《か》けることができるみたいね）",
+      "source_ja_reviewed": "【法子】\\n（鍵穴があるから、\\nどうやら鍵を掛けることができるみたいね）",
+      "old_translation": "【노리코】\\n(열쇠 구멍이 있기 때문에,\\n아무래도 열쇠를 걸 수 있는 것\\n같네)",
+      "new_translation": "【노리코】\\n(열쇠 구멍이 있으니\\n잠글 수 있는 모양이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2327,
+      "source_index": "0x0007a127",
+      "source_ja_raw": "【法子】\\n（今は鍵《かぎ》がかかってないから\\n扉《とびら》が開くわよ）",
+      "source_ja_applied": "【法子】\\n（今は鍵《かぎ》がかかってないから\\n扉《とびら》が開くわよ）",
+      "source_ja_reviewed": "【法子】\\n（今は鍵《かぎ》がかかってないから\\n扉《とびら》が開くわよ）",
+      "old_translation": "【노리코】\\n(지금은 잠겨 있지 않으니\\n문이 열리겠어)",
+      "new_translation": "【노리코】\\n(지금은 잠겨 있지 않으니\\n문이 열리네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2328,
+      "source_index": "0x0007a214",
+      "source_ja_raw": "【法子】\\n（少し衣《うす》暗《ぐら》いくらいの樹間だけど、\\nそれが高級感を感じさせる雰《ふん》囲《い》気《き》を\\n蔵出してるわ）",
+      "source_ja_applied": "【法子】\\n（少し衣《うす》暗《ぐら》いくらいの樹間だけど、\\nそれが高級感を感じさせる雰《ふん》囲《い》気《き》を\\n蔵出してるわ）",
+      "source_ja_reviewed": "【法子】\\n（少し薄暗いくらいの空間だけど、\\nそれが高級感を感じさせる雰囲気を\\n醸し出してるわ）",
+      "old_translation": "【노리코】\\n(조금 어두운 정도의 묘명이지만,\\n그것이 고기감을 느끼게 하는\\n분동기를\\n계출하고 있어)",
+      "new_translation": "【노리코】\\n(조금 어두운 정도의 공간이지만,\\n고급스러움을 느끼게 하는 분위기를\\n자아내고 있어.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2329,
+      "source_index": "0x0007a494",
+      "source_ja_raw": "【法子】\\n（ここが、コウジが口論してたっていう\\nトイレね）",
+      "source_ja_applied": "【法子】\\n（ここが、コウジが口論してたっていう\\nトイレね）",
+      "source_ja_reviewed": "【法子】\\n（ここが、コウジが口論してたっていう\\nトイレね）",
+      "old_translation": "【노리코】\\n(여기가, 코우지가 말다툼이라고\\n하는\\n화장실)",
+      "new_translation": "【노리코】\\n(여기가 코우지가 말다툼했다는\\n화장실이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2330,
+      "source_index": "0x0007a509",
+      "source_ja_raw": "【彩業元】\\nちょっとすみません……\\n掃混《そうじ》させていただきます。",
+      "source_ja_applied": "【彩業元】\\nちょっとすみません……\\n掃混《そうじ》させていただきます。",
+      "source_ja_reviewed": "【店員】\\nちょっとすみません……\\n掃除させていただきます。",
+      "old_translation": "【종업원】\\n조금 죄송합니다…\\n승사하겠습니다.",
+      "new_translation": "【종업원】\\n잠시 실례할게요……\\n청소하겠습니다.",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2331,
+      "source_index": "0x0007a55f",
+      "source_ja_raw": "【法子】\\nえっ……！？\\nあっ、もしかしてここの彩業元の方ですか？",
+      "source_ja_applied": "【法子】\\nえっ……！？\\nあっ、もしかしてここの彩業元の方ですか？",
+      "source_ja_reviewed": "【法子】\\nえっ……！？\\nあっ、もしかしてここの彩業元の方ですか？",
+      "old_translation": "【노리코】\\n엣......! ?\\n네, 혹시 여기 직원이신가요?",
+      "new_translation": "【노리코】\\n네……!?\\n아, 혹시 여기 종업원분이세요?",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2332,
+      "source_index": "0x0007a5c2",
+      "source_ja_raw": "【彩業元】\\nそうっスよ。",
+      "source_ja_applied": "【彩業元】\\nそうっスよ。",
+      "source_ja_reviewed": "【彩業元】\\nそうっスよ。",
+      "old_translation": "【종업원】\\n그래요.",
+      "new_translation": "【종업원】\\n네.",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2333,
+      "source_index": "0x0007a5fc",
+      "source_ja_raw": "【法子】\\nちょうど良かった。\\n私、弁護士の新城法子と申します。\\nちょっとお伺《うかが》いしたいことがあるんですが……？",
+      "source_ja_applied": "【法子】\\nちょうど良かった。\\n私、弁護士の新城法子と申します。\\nちょっとお伺《うかが》いしたいことがあるんですが……？",
+      "source_ja_reviewed": "【法子】\\nちょうど良かった。\\n私、弁護士の新城法子と申します。\\nちょっとお伺《うかが》いしたいことがあるんですが……？",
+      "old_translation": "【노리코】\\n그냥 좋았다. \\n나, 변호사의 신조 노리코라고\\n합니다. \\n조금 묻고 싶은 것이\\n있습니다만......?",
+      "new_translation": "【노리코】\\n마침 잘 됐네요.\\n저는 변호사 신조 노리코라고\\n합니다.\\n잠깐 여쭤볼 게 있는데……?",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2334,
+      "source_index": "0x0007a682",
+      "source_ja_raw": "【彩業元】\\nああ、弁護士さんですか。\\nマスターから話は聞いてます。",
+      "source_ja_applied": "【彩業元】\\nああ、弁護士さんですか。\\nマスターから話は聞いてます。",
+      "source_ja_reviewed": "【彩業元】\\nああ、弁護士さんですか。\\nマスターから話は聞いてます。",
+      "old_translation": "【종업원】\\n 아, 변호사 씨? \\n마스터로부터 이야기는 놓고\\n있습니다.",
+      "new_translation": "【종업원】\\n아, 변호사님이세요?\\n마스터에게 얘기 들었어요.",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2335,
+      "source_index": "0x0007a6fe",
+      "source_ja_raw": "【彩業元】\\nここじゃなんですから、\\n事務所で話、しませんか？",
+      "source_ja_applied": "【彩業元】\\nここじゃなんですから、\\n事務所で話、しませんか？",
+      "source_ja_reviewed": "【彩業元】\\nここじゃなんですから、\\n事務所で話、しませんか？",
+      "old_translation": "【종업원】\\n여기이니까,\\n사무소에서 이야기, 하지\\n않겠습니까?",
+      "new_translation": "【종업원】\\n여기서 말하기 그러니\\n사무실에서 이야기하지 않을래요?",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2336,
+      "source_index": "0x0007a750",
+      "source_ja_raw": "【法子】\\nええ、そうですね。",
+      "source_ja_applied": "【法子】\\nええ、そうですね。",
+      "source_ja_reviewed": "【法子】\\nええ、そうですね。",
+      "old_translation": "【노리코】\\n그래, 그렇네요.",
+      "new_translation": "【노리코】\\n네, 그러죠.",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2337,
+      "source_index": "0x0007a7b2",
+      "source_ja_raw": "【彩業元】\\nそれじゃ、\\n先に事務所に行っててください。",
+      "source_ja_applied": "【彩業元】\\nそれじゃ、\\n先に事務所に行っててください。",
+      "source_ja_reviewed": "【彩業元】\\nそれじゃ、\\n先に事務所に行っててください。",
+      "old_translation": "【종업원】\\n그럼,\\n처음에 사무실에 가 주세요.",
+      "new_translation": "【종업원】\\n그럼 먼저 사무실에 가 계세요.",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2338,
+      "source_index": "0x0007a801",
+      "source_ja_raw": "【法子】\\nわかりました。",
+      "source_ja_applied": "【法子】\\nわかりました。",
+      "source_ja_reviewed": "【法子】\\nわかりました。",
+      "old_translation": "【노리코】\\n알았습니다.",
+      "new_translation": "【노리코】\\n알겠어요.",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2339,
+      "source_index": "0x0007a90c",
+      "source_ja_raw": "【法子】\\n（掃混《そうじ》が行き饑いてて土移ね）",
+      "source_ja_applied": "【法子】\\n（掃混《そうじ》が行き饑いてて土移ね）",
+      "source_ja_reviewed": "【法子】\\n（掃除が行き届いててキレイね）",
+      "old_translation": "【노리코】\\n청소가 잘 되어 있어서 깨끗하네.",
+      "new_translation": "【노리코】\\n(청소가 철저해서 깨끗하네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2340,
+      "source_index": "0x0007a971",
+      "source_ja_raw": "【法子】\\n（キレイな洗飯慎ね。\\n後も大きくて、お化敬《けしょう》も直しやすそう）",
+      "source_ja_applied": "【法子】\\n（キレイな洗飯慎ね。\\n後も大きくて、お化敬《けしょう》も直しやすそう）",
+      "source_ja_reviewed": "【法子】\\n（キレイな洗面台ね。\\n鏡も大きくて、お化粧も直しやすそう）",
+      "old_translation": "【노리코】\\n(예쁜 거울이네.\\n크기도 커서 화장 고치기 좋겠어)",
+      "new_translation": "【노리코】\\n(깨끗한 세면대네.\\n거울도 커서 화장 고치기 좋겠다.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2341,
+      "source_index": "0x0007a9d2",
+      "source_ja_raw": "【法子】\\n（……といいながら、実はお化敬《けしょう》苦手なのよね。\\nどうすれば上手になれるのかな？）",
+      "source_ja_applied": "【法子】\\n（……といいながら、実はお化敬《けしょう》苦手なのよね。\\nどうすれば上手になれるのかな？）",
+      "source_ja_reviewed": "【法子】\\n（……といいながら、実はお化敬《けしょう》苦手なのよね。\\nどうすれば上手になれるのかな？）",
+      "old_translation": "【노리코】\\n(……라고 말하지만, 사실 화장을 잘 못해.\\n어떻게 하면 잘할 수 있을까?)",
+      "new_translation": "【노리코】\\n(……라고 말하지만, 사실 화장을\\n잘 못해.\\n어떻게 하면 잘할 수 있을까?)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2342,
+      "source_index": "0x0007aa50",
+      "source_ja_raw": "【法子】\\n（キレイな洗飯慎ね。\\n後も大きくて、お化敬《けしょう》も直しやすそう）",
+      "source_ja_applied": "【法子】\\n（キレイな洗飯慎ね。\\n後も大きくて、お化敬《けしょう》も直しやすそう）",
+      "source_ja_reviewed": "【法子】\\n（キレイな洗飯慎ね。\\n後も大きくて、お化敬《けしょう》も直しやすそう）",
+      "old_translation": "【노리코】\\n(예쁜 거울이네.\\n크기도 커서 화장 고치기 좋겠어)",
+      "new_translation": "【노리코】\\n(깨끗한 세면대네.\\n거울도 커서 화장 고치기 좋겠다.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2343,
+      "source_index": "0x0007aad0",
+      "source_ja_raw": "ＶＩＰルーム扉",
+      "source_ja_applied": "ＶＩＰルーム扉",
+      "source_ja_reviewed": "ＶＩＰルーム扉",
+      "old_translation": "VIP 룸 문",
+      "new_translation": "VIP룸 문",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2344,
+      "source_index": "0x0007aadc",
+      "source_ja_raw": "ＶＩＰルーム扉",
+      "source_ja_applied": "ＶＩＰルーム扉",
+      "source_ja_reviewed": "ＶＩＰルーム扉",
+      "old_translation": "VIP 룸 문",
+      "new_translation": "VIP룸 문",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2345,
+      "source_index": "0x0007aaec",
+      "source_ja_raw": "？？？",
+      "source_ja_applied": "？？？",
+      "source_ja_reviewed": "？？？",
+      "old_translation": "? ? ?",
+      "new_translation": "???",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2346,
+      "source_index": "0x0007ad0e",
+      "source_ja_raw": "【法子】\\n（この中で殺人が行なわれたのね）",
+      "source_ja_applied": "【法子】\\n（この中で殺人が行なわれたのね）",
+      "source_ja_reviewed": "【法子】\\n（この中で殺人が行なわれたのね）",
+      "old_translation": "【노리코】\\n(이 중에서 살인이 일어났네)",
+      "new_translation": "【노리코】\\n(여기서 살인이 일어났구나.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2347,
+      "source_index": "0x0007ad55",
+      "source_ja_raw": "【法子】\\n（……中を見てみたいけど、\\n警察が現場画存をしてるから\\n中には入れないわ）",
+      "source_ja_applied": "【法子】\\n（……中を見てみたいけど、\\n警察が現場画存をしてるから\\n中には入れないわ）",
+      "source_ja_reviewed": "【法子】\\n（……中を見てみたいけど、\\n警察が現場画存をしてるから\\n中には入れないわ）",
+      "old_translation": "【노리코】\\n(……안을 보고 싶지만,\\n경찰이 현장 보존을하고 있기 때문에\\n안에 들어갈 수 없어)",
+      "new_translation": "【노리코】\\n(……안쪽을 보고 싶지만,\\n경찰이 현장을 보존하고 있어서\\n들어갈 수 없어.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2348,
+      "source_index": "0x0007adba",
+      "source_ja_raw": "【法子】\\n（残念だけどあきらめるしかないわね……）",
+      "source_ja_applied": "【法子】\\n（残念だけどあきらめるしかないわね……）",
+      "source_ja_reviewed": "【法子】\\n（残念だけどあきらめるしかないわね……）",
+      "old_translation": "【노리코】\\n(승기이지만 포기할 수밖에 없네…",
+      "new_translation": "【노리코】\\n(아쉽지만 포기할 수밖에\\n없겠네……)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2349,
+      "source_index": "0x0007ae0a",
+      "source_ja_raw": "【法子】\\n（ＶＩＰルームのドアね）",
+      "source_ja_applied": "【法子】\\n（ＶＩＰルームのドアね）",
+      "source_ja_reviewed": "【法子】\\n（ＶＩＰルームのドアね）",
+      "old_translation": "【노리코】\\n(VIP 룸 문이네)",
+      "new_translation": "【노리코】\\n(VIP룸 문이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2350,
+      "source_index": "0x0007ae4d",
+      "source_ja_raw": "【法子】\\n（中に入りたいところだけど、\\n現場画存してるから\\n入れないわ……）",
+      "source_ja_applied": "【法子】\\n（中に入りたいところだけど、\\n現場画存してるから\\n入れないわ……）",
+      "source_ja_reviewed": "【法子】\\n（中に入りたいところだけど、\\n現場画存してるから\\n入れないわ……）",
+      "old_translation": "【노리코】\\n(안으로 들어가고 싶지만,\\n현장을 보존하고 있어서\\n들어갈 수 없어……)",
+      "new_translation": "【노리코】\\n(안에 들어가고 싶지만,\\n현장을 보존하고 있어서\\n들어갈 수 없어……)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2351,
+      "source_index": "0x0007aeef",
+      "source_ja_raw": "【法子】\\n（このドアはオートロックよ。\\nドアの向こう拗に行く？）",
+      "source_ja_applied": "【法子】\\n（このドアはオートロックよ。\\nドアの向こう拗に行く？）",
+      "source_ja_reviewed": "【法子】\\n（このドアはオートロックよ。\\nドアの向こう側に行く？）",
+      "old_translation": "【노리코】\\n(이 문은 자동 잠금이야.\\n문 반대편으로 가 볼까?)",
+      "new_translation": "【노리코】\\n(이 문은 자동 잠금이야.\\n문 건너편으로 갈까?)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2352,
+      "source_index": "0x0007af71",
+      "source_ja_raw": "【法子】\\n（それじゃ、向こう拗に行くわよ）",
+      "source_ja_applied": "【法子】\\n（それじゃ、向こう拗に行くわよ）",
+      "source_ja_reviewed": "【法子】\\n（それじゃ、向こう拗に行くわよ）",
+      "old_translation": "【노리코】\\n(그럼 저쪽으로 가자)",
+      "new_translation": "【노리코】\\n(그럼 건너편으로 갈게.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2353,
+      "source_index": "0x0007afea",
+      "source_ja_raw": "【法子】\\n（そうね。\\nもう少しこの綴りを調べましょう）",
+      "source_ja_applied": "【法子】\\n（そうね。\\nもう少しこの綴りを調べましょう）",
+      "source_ja_reviewed": "【法子】\\n（そうね。\\nもう少しこの綴りを調べましょう）",
+      "old_translation": "【노리코】\\n(그렇지.\\n이 주변을 조금 더 조사해 보자)",
+      "new_translation": "【노리코】\\n(그래.\\n조금 더 이 주변을 조사해 보자.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2354,
+      "source_index": "0x0007b041",
+      "source_ja_raw": "【法子】\\n（ドアがあるわ。\\n何か必意書きの様なものが書かれているわね。\\nえっと……）",
+      "source_ja_applied": "【法子】\\n（ドアがあるわ。\\n何か必意書きの様なものが書かれているわね。\\nえっと……）",
+      "source_ja_reviewed": "【法子】\\n（ドアがあるわ。\\n何か必意書きの様なものが書かれているわね。\\nえっと……）",
+      "old_translation": "【노리코】\\n(문이 있네.\\n뭔가 주의사항 같은 것이 적혀 있어.\\n음……)",
+      "new_translation": "【노리코】\\n(문이 있어.\\n주의사항 같은 게 적혀 있네.\\n음……)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2355,
+      "source_index": "0x0007b0a4",
+      "source_ja_raw": "【法子】\\n（どうやらこのドアはオートロックになっていて、\\nこちらからは無条件で出られるけど、\\n向こうから戻《もど》るためには暗証番潔の入力が撃要らしいわ）",
+      "source_ja_applied": "【法子】\\n（どうやらこのドアはオートロックになっていて、\\nこちらからは無条件で出られるけど、\\n向こうから戻《もど》るためには暗証番潔の入力が撃要らしいわ）",
+      "source_ja_reviewed": "【法子】\\n（どうやらこのドアはオートロックになっていて、\\nこちらからは無条件で出られるけど、\\n向こうから戻るためには暗証番号の入力が必要らしいわ）",
+      "old_translation": "【노리코】\\n(아무래도 이 문은 자동 잠금이라\\n이쪽에서는 아무 조건 없이 나갈 수 있지만,\\n반대편에서 돌아오려면 비밀번호를 입력해야 하나 봐.)",
+      "new_translation": "【노리코】\\n(이 문은 자동 잠금이라\\n이쪽에서는 자유롭게 나갈 수\\n있지만,\\n건너편에서 돌아오려면\\n비밀번호 입력이 필요한 모양이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2356,
+      "source_index": "0x0007b131",
+      "source_ja_raw": "【法子】\\n（暗証番潔はＶＩＰルームの使用者が\\n自由に御定できるみたい）",
+      "source_ja_applied": "【法子】\\n（暗証番潔はＶＩＰルームの使用者が\\n自由に御定できるみたい）",
+      "source_ja_reviewed": "【法子】\\n（暗証番号はＶＩＰルームの使用者が\\n自由に設定できるみたい）",
+      "old_translation": "【노리코】\\n(비밀번호는 VIP 룸 이용자가\\n자유롭게 설정할 수 있는 모양이네)",
+      "new_translation": "【노리코】\\n(비밀번호는 VIP룸 사용자가\\n자유롭게 정할 수 있는 모양이야.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2357,
+      "source_index": "0x0007b190",
+      "source_ja_raw": "【法子】\\n（……ということは、\\n事件当日暗証番潔を知っていたのは、\\n被害者《ひがいしゃ》のみだったのかな……？）",
+      "source_ja_applied": "【法子】\\n（……ということは、\\n事件当日暗証番潔を知っていたのは、\\n被害者《ひがいしゃ》のみだったのかな……？）",
+      "source_ja_reviewed": "【法子】\\n（……ということは、\\n事件当日暗証番潔を知っていたのは、\\n被害者《ひがいしゃ》のみだったのかな……？）",
+      "old_translation": "【노리코】\\n(……그렇다는 건,\\n사건 당일 비밀번호를 알고 있던 건\\n피해자뿐이었던 걸까……?)",
+      "new_translation": "【노리코】\\n(……그렇다면 사건 당일 비밀번호를\\n알고 있던 사람은\\n피해자뿐이었을까……?)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2358,
+      "source_index": "0x0007b216",
+      "source_ja_raw": "【法子】\\n（私は暗証番潔を知らないから、\\nドアの向こう拗に行ったら戻《もど》ってこられなくなるわね。\\nそれでもドアの向こう拗に行く？）",
+      "source_ja_applied": "【法子】\\n（私は暗証番潔を知らないから、\\nドアの向こう拗に行ったら戻《もど》ってこられなくなるわね。\\nそれでもドアの向こう拗に行く？）",
+      "source_ja_reviewed": "【法子】\\n（私は暗証番潔を知らないから、\\nドアの向こう拗に行ったら戻《もど》ってこられなくなるわね。\\nそれでもドアの向こう拗に行く？）",
+      "old_translation": "【노리코】\\n(나는 비밀번호를 모르니까\\n문 반대편으로 가면 돌아올 수 없겠네.\\n그래도 문 반대편으로 갈까?)",
+      "new_translation": "【노리코】\\n(나는 비밀번호를 모르니\\n건너편으로 가면 돌아오지 못하겠네.\\n그래도 건너편으로 갈까?)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2359,
+      "source_index": "0x0007b2c7",
+      "source_ja_raw": "【法子】\\n（それじゃ、向こう拗に行くわよ）",
+      "source_ja_applied": "【法子】\\n（それじゃ、向こう拗に行くわよ）",
+      "source_ja_reviewed": "【法子】\\n（それじゃ、向こう拗に行くわよ）",
+      "old_translation": "【노리코】\\n(그럼 저쪽으로 가자)",
+      "new_translation": "【노리코】\\n(그럼 건너편으로 갈게.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2360,
+      "source_index": "0x0007b340",
+      "source_ja_raw": "【法子】\\n（そうね。\\nもう少しこの綴りを調べましょう）",
+      "source_ja_applied": "【法子】\\n（そうね。\\nもう少しこの綴りを調べましょう）",
+      "source_ja_reviewed": "【法子】\\n（そうね。\\nもう少しこの綴りを調べましょう）",
+      "old_translation": "【노리코】\\n(그렇지.\\n이 주변을 조금 더 조사해 보자)",
+      "new_translation": "【노리코】\\n(그래.\\n조금 더 이 주변을 조사해 보자.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2361,
+      "source_index": "0x0007b3f4",
+      "source_ja_raw": "事務所",
+      "source_ja_applied": "事務所",
+      "source_ja_reviewed": "事務所",
+      "old_translation": "사무소",
+      "new_translation": "사무실",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2362,
+      "source_index": "0x0007b3fb",
+      "source_ja_raw": "事務所",
+      "source_ja_applied": "事務所",
+      "source_ja_reviewed": "事務所",
+      "old_translation": "사무소",
+      "new_translation": "사무실",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2363,
+      "source_index": "0x0007b406",
+      "source_ja_raw": "？？？",
+      "source_ja_applied": "？？？",
+      "source_ja_reviewed": "？？？",
+      "old_translation": "? ? ?",
+      "new_translation": "???",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2364,
+      "source_index": "0x0007b5b4",
+      "source_ja_raw": "【法子】\\n（前のドアを開けると\\nＶＩＰルームね）",
+      "source_ja_applied": "【法子】\\n（前のドアを開けると\\nＶＩＰルームね）",
+      "source_ja_reviewed": "【法子】\\n（前のドアを開けると\\nＶＩＰルームね）",
+      "old_translation": "【노리코】\\n(이 문을 열면\\nVIP룸이네.)",
+      "new_translation": "【노리코】\\n(앞의 문을 열면 VIP룸이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2365,
+      "source_index": "0x0007b614",
+      "source_ja_raw": "【法子】\\n（……って、あれ？\\nドアが開かないわ）",
+      "source_ja_applied": "【法子】\\n（……って、あれ？\\nドアが開かないわ）",
+      "source_ja_reviewed": "【法子】\\n（……って、あれ？\\nドアが開かないわ）",
+      "old_translation": "【노리코】\\n(……어라?\\n문이 안 열려.)",
+      "new_translation": "【노리코】\\n(……어라?\\n문이 안 열려.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2366,
+      "source_index": "0x0007b660",
+      "source_ja_raw": "【法子】\\n（………）",
+      "source_ja_applied": "【法子】\\n（………）",
+      "source_ja_reviewed": "【法子】\\n（………）",
+      "old_translation": "【노리코】\\n(………)",
+      "new_translation": "【노리코】\\n(………) ",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2367,
+      "source_index": "0x0007b69b",
+      "source_ja_raw": "【法子】\\n（どうやら、こちらの通路からは\\nＶＩＰルームに入れないよう、\\nオートロックになってるみたい）",
+      "source_ja_applied": "【法子】\\n（どうやら、こちらの通路からは\\nＶＩＰルームに入れないよう、\\nオートロックになってるみたい）",
+      "source_ja_reviewed": "【法子】\\n（どうやら、こちらの通路からは\\nＶＩＰルームに入れないよう、\\nオートロックになってるみたい）",
+      "old_translation": "【노리코】\\n(아무래도 이 통로에서는 VIP룸에\\n들어갈 수 없도록\\n자동 잠금이 되어 있나 봐.)",
+      "new_translation": "【노리코】\\n(이 통로에서는 VIP룸에 들어갈\\n수 없도록\\n자동 잠금이 되어 있는 모양이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2368,
+      "source_index": "0x0007b7df",
+      "source_ja_raw": "【法子】\\n（事務所のドアよ）",
+      "source_ja_applied": "【法子】\\n（事務所のドアよ）",
+      "source_ja_reviewed": "【法子】\\n（事務所のドアよ）",
+      "old_translation": "【노리코】\\n(사무소의 문이야)",
+      "new_translation": "【노리코】\\n(사무실 문이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2369,
+      "source_index": "0x0007b81f",
+      "source_ja_raw": "【法子】\\n（一部がガラスになっていて、\\n中が見えるようになってるわ）",
+      "source_ja_applied": "【法子】\\n（一部がガラスになっていて、\\n中が見えるようになってるわ）",
+      "source_ja_reviewed": "【法子】\\n（一部がガラスになっていて、\\n中が見えるようになってるわ）",
+      "old_translation": "【노리코】\\n(일부가 유리가 되어 있어,\\n안이 보이게 되어 있어)",
+      "new_translation": "【노리코】\\n(일부가 유리로 되어 있어서\\n안이 보이게 되어 있네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2370,
+      "source_index": "0x0007b8eb",
+      "source_ja_raw": "【法子】\\n（ドアに必意書きが書かれているわね）",
+      "source_ja_applied": "【法子】\\n（ドアに必意書きが書かれているわね）",
+      "source_ja_reviewed": "【法子】\\n（ドアに必意書きが書かれているわね）",
+      "old_translation": "【노리코】\\n(문에 주의서가 쓰여져 있네)",
+      "new_translation": "【노리코】\\n(문에 주의사항이 적혀 있네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2371,
+      "source_index": "0x0007b935",
+      "source_ja_raw": "【法子】\\n（このドアはオートロックになってるみたい。\\nロックを外すためには、\\n暗証番潔の入力が撃要みたいね）",
+      "source_ja_applied": "【法子】\\n（このドアはオートロックになってるみたい。\\nロックを外すためには、\\n暗証番潔の入力が撃要みたいね）",
+      "source_ja_reviewed": "【法子】\\n（このドアはオートロックになってるみたい。\\nロックを外すためには、\\n暗証番号の入力が必要みたいね）",
+      "old_translation": "【노리코】\\n(이 문은 자동 잠금되어있는 것\\n같습니다.\\n자물쇠를 제거하려면,\\n비밀번호의 입력이 필요 같네요)",
+      "new_translation": "【노리코】\\n(이 문은 자동 잠금인 모양이야.\\n잠금을 풀려면\\n비밀번호 입력이 필요한 것 같네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2372,
+      "source_index": "0x0007b9a5",
+      "source_ja_raw": "【法子】\\n（でも私は暗証番潔を知らないから、\\n開けることができないわ）",
+      "source_ja_applied": "【法子】\\n（でも私は暗証番潔を知らないから、\\n開けることができないわ）",
+      "source_ja_reviewed": "【法子】\\n（でも私は暗証番潔を知らないから、\\n開けることができないわ）",
+      "old_translation": "【노리코】\\n(하지만 나는 비밀번호를 모르기\\n때문에,\\n제거할 수 없어)",
+      "new_translation": "【노리코】\\n(하지만 나는 비밀번호를 모르니\\n열 수 없어.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2373,
+      "source_index": "0x0007b9fe",
+      "source_ja_raw": "【法子】\\n（暗証番潔はＶＩＰルームの使用者が\\n自由に御定できるみたい）",
+      "source_ja_applied": "【法子】\\n（暗証番潔はＶＩＰルームの使用者が\\n自由に御定できるみたい）",
+      "source_ja_reviewed": "【法子】\\n（暗証番潔はＶＩＰルームの使用者が\\n自由に御定できるみたい）",
+      "old_translation": "【노리코】\\n(비밀번호는 VIP 룸 이용자가\\n자유롭게 설정할 수 있는 모양이네)",
+      "new_translation": "【노리코】\\n(비밀번호는 VIP룸 사용자가\\n자유롭게 정할 수 있는 모양이야.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2374,
+      "source_index": "0x0007ba5d",
+      "source_ja_raw": "【法子】\\n（……ということは、\\n事件当日暗証番潔を知っていたのは、\\n被害者《ひがいしゃ》のみだったのかな……？）",
+      "source_ja_applied": "【法子】\\n（……ということは、\\n事件当日暗証番潔を知っていたのは、\\n被害者《ひがいしゃ》のみだったのかな……？）",
+      "source_ja_reviewed": "【法子】\\n（……ということは、\\n事件当日暗証番潔を知っていたのは、\\n被害者《ひがいしゃ》のみだったのかな……？）",
+      "old_translation": "【노리코】\\n(……그렇다는 건,\\n사건 당일 비밀번호를 알고 있던 건\\n피해자뿐이었던 걸까……?)",
+      "new_translation": "【노리코】\\n(……그렇다면 사건 당일 비밀번호를\\n알고 있던 사람은\\n피해자뿐이었을까……?)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2375,
+      "source_index": "0x0007badc",
+      "source_ja_raw": "【法子】\\n（このドアはオートロックで励まってるわよ。\\n開けるためには暗証番潔が撃要だけど、\\n私はその番潔を知らないわ）",
+      "source_ja_applied": "【法子】\\n（このドアはオートロックで励まってるわよ。\\n開けるためには暗証番潔が撃要だけど、\\n私はその番潔を知らないわ）",
+      "source_ja_reviewed": "【法子】\\n（このドアはオートロックで励まってるわよ。\\n開けるためには暗証番潔が撃要だけど、\\n私はその番潔を知らないわ）",
+      "old_translation": "【노리코】\\n(이 문은 자동 잠금으로 잠겨 있네.\\n열려면 비밀번호가 필요하지만,\\n나는 그 번호를 모르겠어)",
+      "new_translation": "【노리코】\\n(이 문은 자동 잠금으로 잠겨\\n있어.\\n열려면 비밀번호가 필요하지만,\\n나는 그 번호를 몰라.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2376,
+      "source_index": "0x0007bbfc",
+      "source_ja_raw": "テーブル席",
+      "source_ja_applied": "テーブル席",
+      "source_ja_reviewed": "テーブル席",
+      "old_translation": "테이블 위",
+      "new_translation": "테이블석",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2377,
+      "source_index": "0x0007bc04",
+      "source_ja_raw": "テーブル席",
+      "source_ja_applied": "テーブル席",
+      "source_ja_reviewed": "テーブル席",
+      "old_translation": "테이블 위",
+      "new_translation": "테이블석",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2378,
+      "source_index": "0x0007bc10",
+      "source_ja_raw": "廊下へ",
+      "source_ja_applied": "廊下へ",
+      "source_ja_reviewed": "廊下へ",
+      "old_translation": "복도로",
+      "new_translation": "복도로",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2379,
+      "source_index": "0x0007bc16",
+      "source_ja_raw": "廊下へ",
+      "source_ja_applied": "廊下へ",
+      "source_ja_reviewed": "廊下へ",
+      "old_translation": "복도로",
+      "new_translation": "복도로",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2380,
+      "source_index": "0x0007bc20",
+      "source_ja_raw": "廊下へ",
+      "source_ja_applied": "廊下へ",
+      "source_ja_reviewed": "廊下へ",
+      "old_translation": "복도로",
+      "new_translation": "복도로",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2381,
+      "source_index": "0x0007bc26",
+      "source_ja_raw": "廊下へ",
+      "source_ja_applied": "廊下へ",
+      "source_ja_reviewed": "廊下へ",
+      "old_translation": "복도로",
+      "new_translation": "복도로",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2382,
+      "source_index": "0x0007bee9",
+      "source_ja_raw": "【法子】\\n（ここは事件現場となった\\nライトブルーね）",
+      "source_ja_applied": "【法子】\\n（ここは事件現場となった\\nライトブルーね）",
+      "source_ja_reviewed": "【法子】\\n（ここは事件現場となった\\nライトブルーね）",
+      "old_translation": "【노리코】\\n(여기가 사건 현장이 된\\n라이트 블루구나)",
+      "new_translation": "【노리코】\\n(여기가 사건 현장이 된\\n라이트 블루네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2383,
+      "source_index": "0x0007bf5c",
+      "source_ja_raw": "【彩業元】\\nいらっしゃいませ……\\nあっ、弁護士さん、ご苦労様っス。",
+      "source_ja_applied": "【彩業元】\\nいらっしゃいませ……\\nあっ、弁護士さん、ご苦労様っス。",
+      "source_ja_reviewed": "【彩業元】\\nいらっしゃいませ……\\nあっ、弁護士さん、ご苦労様っス。",
+      "old_translation": "【직원】\\n어서 오세요……\\n아, 변호사님, 수고 많으십니다.",
+      "new_translation": "【종업원】\\n어서 오세요……\\n아, 변호사님, 수고 많으십니다.",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2384,
+      "source_index": "0x0007bfb5",
+      "source_ja_raw": "【法子】\\nああ、ちょうど良かった。\\n少しお話を聞かせてもらいたいんですけど、\\nいいですか？",
+      "source_ja_applied": "【法子】\\nああ、ちょうど良かった。\\n少しお話を聞かせてもらいたいんですけど、\\nいいですか？",
+      "source_ja_reviewed": "【法子】\\nああ、ちょうど良かった。\\n少しお話を聞かせてもらいたいんですけど、\\nいいですか？",
+      "old_translation": "【노리코】\\n 아, 그냥 좋았어요. \\n조금 이야기를 드리겠습니다.\\n좋아요?",
+      "new_translation": "【노리코】\\n아, 마침 잘 됐네요.\\n조금 이야기를 듣고 싶은데,\\n괜찮을까요?",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2385,
+      "source_index": "0x0007c023",
+      "source_ja_raw": "【彩業元】\\nえっと、それじゃあ、\\n事務所で聞くっス。",
+      "source_ja_applied": "【彩業元】\\nえっと、それじゃあ、\\n事務所で聞くっス。",
+      "source_ja_reviewed": "【彩業元】\\nえっと、それじゃあ、\\n事務所で聞くっス。",
+      "old_translation": "【직원】\\n저기, 그럼\\n사무소에서 듣겠습니다.",
+      "new_translation": "【종업원】\\n음, 그럼 사무실에서 듣죠.",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2386,
+      "source_index": "0x0007c071",
+      "source_ja_raw": "【法子】\\nあ、はい、了婚《りょうかい》です。",
+      "source_ja_applied": "【法子】\\nあ、はい、了婚《りょうかい》です。",
+      "source_ja_reviewed": "【法子】\\nあ、はい、了婚《りょうかい》です。",
+      "old_translation": "【노리코】\\n아, 네, 알겠습니다.",
+      "new_translation": "【노리코】\\n아, 네, 알겠어요.",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2387,
+      "source_index": "0x0007c0c6",
+      "source_ja_raw": "【彩業元】\\nじゃあ先に行ってるっス。",
+      "source_ja_applied": "【彩業元】\\nじゃあ先に行ってるっス。",
+      "source_ja_reviewed": "【彩業元】\\nじゃあ先に行ってるっス。",
+      "old_translation": "【종업원】\\n그럼 먼저 가고 있어.",
+      "new_translation": "【종업원】\\n그럼 먼저 가 있을게요.",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2388,
+      "source_index": "0x0007c121",
+      "source_ja_raw": "【法子】\\n……それじゃ、どうしようかしら？",
+      "source_ja_applied": "【法子】\\n……それじゃ、どうしようかしら？",
+      "source_ja_reviewed": "【法子】\\n……それじゃ、どうしようかしら？",
+      "old_translation": "【노리코】\\n… … 그럼, 어떻게 할까?",
+      "new_translation": "【노리코】\\n……그럼 어떻게 할까?",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2389,
+      "source_index": "0x0007c1c7",
+      "source_ja_raw": "【法子】\\n入り口に戻《もど》ってきたわね。\\nどうしようかしら？",
+      "source_ja_applied": "【法子】\\n入り口に戻《もど》ってきたわね。\\nどうしようかしら？",
+      "source_ja_reviewed": "【法子】\\n入り口に戻《もど》ってきたわね。\\nどうしようかしら？",
+      "old_translation": "【노리코】\\n입구로 돌아왔네요. \\n어떻게 할까?",
+      "new_translation": "【노리코】\\n입구로 돌아왔네.\\n어떻게 할까?",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2390,
+      "source_index": "0x0007c3a7",
+      "source_ja_raw": "【法子】\\n（コウジと水谷さんが埜んでた場所ね）",
+      "source_ja_applied": "【法子】\\n（コウジと水谷さんが埜んでた場所ね）",
+      "source_ja_reviewed": "【法子】\\n（コウジと水谷さんが埜んでた場所ね）",
+      "old_translation": "【노리코】\\n(코우지와 미즈타니 씨가 술을 마시던 곳이네.)",
+      "new_translation": "【노리코】\\n(코우지와 미즈타니 씨가\\n술을 마시던 곳이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2391,
+      "source_index": "0x0007c3f2",
+      "source_ja_raw": "【法子】\\n（たくさんのお轉が重んでるわ）",
+      "source_ja_applied": "【法子】\\n（たくさんのお轉が重んでるわ）",
+      "source_ja_reviewed": "【法子】\\n（たくさんのお轉が重んでるわ）",
+      "old_translation": "【노리코】\\n(많은 술이 놓여 있네)",
+      "new_translation": "【노리코】\\n(술이 많이 놓여 있네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2392,
+      "source_index": "0x0007c43d",
+      "source_ja_raw": "【法子】\\n（テーブル席ね。\\n奥には通路があるわ）",
+      "source_ja_applied": "【法子】\\n（テーブル席ね。\\n奥には通路があるわ）",
+      "source_ja_reviewed": "【法子】\\n（テーブル席ね。\\n奥には通路があるわ）",
+      "old_translation": "【노리코】\\n(테이블 위네.\\n안쪽에는 통로가 있어.)",
+      "new_translation": "【노리코】\\n(테이블석이네.\\n안쪽에 통로가 있어.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2393,
+      "source_index": "0x0007c4aa",
+      "source_ja_raw": "【法子】\\n（マスターはとても礒《いそが》しそう……\\n用事もないのに話しかけるのはやめましょう）",
+      "source_ja_applied": "【法子】\\n（マスターはとても礒《いそが》しそう……\\n用事もないのに話しかけるのはやめましょう）",
+      "source_ja_reviewed": "【法子】\\n（マスターはとても礒《いそが》しそう……\\n用事もないのに話しかけるのはやめましょう）",
+      "old_translation": "【노리코】\\n(마스터는 매우 칭찬할 것 같아…\\n일도 없는데 말을 걸어 버리자)",
+      "new_translation": "【노리코】\\n(마스터는 무척 바빠 보이네……\\n용무도 없는데 말을 거는 건\\n그만두자.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2394,
+      "source_index": "0x0007c532",
+      "source_ja_raw": "【法子】\\n（これで調査を終わりにしようかしら？）",
+      "source_ja_applied": "【法子】\\n（これで調査を終わりにしようかしら？）",
+      "source_ja_reviewed": "【法子】\\n（これで調査を終わりにしようかしら？）",
+      "old_translation": "【노리코】\\n(이제 조사를 끝낼까?)",
+      "new_translation": "【노리코】\\n(이제 조사를 끝낼까……?)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2395,
+      "source_index": "0x0007c5ea",
+      "source_ja_raw": "【法子】\\n今日はこれくらいにしておきましょう。",
+      "source_ja_applied": "【法子】\\n今日はこれくらいにしておきましょう。",
+      "source_ja_reviewed": "【法子】\\n今日はこれくらいにしておきましょう。",
+      "old_translation": "【노리코】\\n오늘은 이 정도로 해 두죠.",
+      "new_translation": "【노리코】\\n오늘은 이 정도로 해 두죠.",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2396,
+      "source_index": "0x0007c635",
+      "source_ja_raw": "【法子】\\n（もう少しここにいましょう）",
+      "source_ja_applied": "【法子】\\n（もう少しここにいましょう）",
+      "source_ja_reviewed": "【法子】\\n（もう少しここにいましょう）",
+      "old_translation": "【노리코】\\n(조금 더 여기 있자)",
+      "new_translation": "【노리코】\\n(조금 더 여기 있자.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2397,
+      "source_index": "0x0007c68a",
+      "source_ja_raw": "【法子】\\n（まだ調べないといけないものがあるわ）",
+      "source_ja_applied": "【法子】\\n（まだ調べないといけないものがあるわ）",
+      "source_ja_reviewed": "【法子】\\n（まだ調べないといけないものがあるわ）",
+      "old_translation": "【노리코】\\n(아직 조사해야 할 게 있어)",
+      "new_translation": "【노리코】\\n(아직 조사해야 할 게 있어.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2398,
+      "source_index": "0x0007c730",
+      "source_ja_raw": "【法子】\\nライトブルーの調査は\\nこんな感じだったわ。",
+      "source_ja_applied": "【法子】\\nライトブルーの調査は\\nこんな感じだったわ。",
+      "source_ja_reviewed": "【法子】\\nライトブルーの調査は\\nこんな感じだったわ。",
+      "old_translation": "【노리코】\\n라이트 블루 조사는\\n이런 내용이었어.",
+      "new_translation": "【노리코】\\n라이트 블루 조사는\\n이런 내용이었어.",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2399,
+      "source_index": "0x0007c7fd",
+      "source_ja_raw": "【光志】\\nそうか……\\nあのＶＴＲはもう残ってないのか……",
+      "source_ja_applied": "【光志】\\nそうか……\\nあのＶＴＲはもう残ってないのか……",
+      "source_ja_reviewed": "【光志】\\nそうか……\\nあのＶＴＲはもう残ってないのか……",
+      "old_translation": "【코우지】\\n그런가…\\n그 VTR은 더 이상 타지\\n않았는지…",
+      "new_translation": "【코우지】\\n그렇구나……\\n그 VTR은 이제 남아 있지 않은\\n건가……",
+      "speaker": "코우지",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2400,
+      "source_index": "0x0007c85a",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2401,
+      "source_index": "0x0007c8b9",
+      "source_ja_raw": "【光志】\\nまあ、ないものは仕方ない。\\nなら当初の押的通り、事件の會後関係を道穴《ついきゅう》するのみ。\\n気持ちを切《き》り馨《か》えよう！",
+      "source_ja_applied": "【光志】\\nまあ、ないものは仕方ない。\\nなら当初の押的通り、事件の背後関係を道穴《ついきゅう》するのみ。\\n気持ちを切《き》り馨《か》えよう！",
+      "source_ja_reviewed": "【光志】\\nまあ、ないものは仕方ない。\\nなら当初の目的通り、事件の背後関係を追及するのみ。\\n気持ちを切り替えよう！",
+      "old_translation": "【코우지】\\n음, 없는 것은 어쩔 수 없다. \\n라면 당초의 목적대로, 사건의 혼후\\n관계를 추급할 뿐. \\n기간을 잘라!",
+      "new_translation": "【코우지】\\n없는 건 어쩔 수 없지.\\n그럼 처음 계획대로\\n사건의 배후 관계를 추궁하는\\n수밖에.\\n기분을 전환하자!",
+      "speaker": "코우지",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2402,
+      "source_index": "0x0007c9f6",
+      "source_ja_raw": "オーディオ",
+      "source_ja_applied": "オーディオ",
+      "source_ja_reviewed": "オーディオ",
+      "old_translation": "오디오",
+      "new_translation": "오디오",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2403,
+      "source_index": "0x0007c9fd",
+      "source_ja_raw": "オーディオ",
+      "source_ja_applied": "オーディオ",
+      "source_ja_reviewed": "オーディオ",
+      "old_translation": "오디오",
+      "new_translation": "오디오",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2404,
+      "source_index": "0x0007ca08",
+      "source_ja_raw": "ホワイトボード",
+      "source_ja_applied": "ホワイトボード",
+      "source_ja_reviewed": "ホワイトボード",
+      "old_translation": "화이트보드",
+      "new_translation": "화이트보드",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2405,
+      "source_index": "0x0007ca12",
+      "source_ja_raw": "ホワイトボード",
+      "source_ja_applied": "ホワイトボード",
+      "source_ja_reviewed": "ホワイトボード",
+      "old_translation": "화이트보드",
+      "new_translation": "화이트보드",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2406,
+      "source_index": "0x0007ca20",
+      "source_ja_raw": "［ＶＩＰルームに入った人物について］",
+      "source_ja_applied": "［ＶＩＰルームに入った人物について］",
+      "source_ja_reviewed": "［ＶＩＰルームに入った人物について］",
+      "old_translation": "［VIP룸에 있던 인물에 대해］",
+      "new_translation": "[VIP룸에 들어간 인물]",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2407,
+      "source_index": "0x0007ca3f",
+      "source_ja_raw": "［被害者との口論について］",
+      "source_ja_applied": "［被害者との口論について］",
+      "source_ja_reviewed": "［被害者との口論について］",
+      "old_translation": "［피해자와의 말다툼에 대해］",
+      "new_translation": "[당시의 말다툼]",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2408,
+      "source_index": "0x0007ca58",
+      "source_ja_raw": "［コウジのこと］",
+      "source_ja_applied": "［コウジのこと］",
+      "source_ja_reviewed": "［コウジのこと］",
+      "old_translation": "［코우지에 대해］",
+      "new_translation": "[코우지에 관해]",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2409,
+      "source_index": "0x0007ca68",
+      "source_ja_raw": "［駆犯カメラについて聞く］",
+      "source_ja_applied": "［駆犯カメラについて聞く］",
+      "source_ja_reviewed": "［駆犯カメラについて聞く］",
+      "old_translation": "［방범 카메라에 대해 묻기］",
+      "new_translation": "[방범 카메라에 대해 묻기]",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2410,
+      "source_index": "0x0007ca7f",
+      "source_ja_raw": "［他に何か気がついたこと］",
+      "source_ja_applied": "［他に何か気がついたこと］",
+      "source_ja_reviewed": "［他に何か気がついたこと］",
+      "old_translation": "［나에 대해 눈치챈 점］",
+      "new_translation": "[그 밖에 눈치챈 점]",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2411,
+      "source_index": "0x0007ca96",
+      "source_ja_raw": "［ＶＩＰルームのＢＧＭ］",
+      "source_ja_applied": "［ＶＩＰルームのＢＧＭ］",
+      "source_ja_reviewed": "［ＶＩＰルームのＢＧＭ］",
+      "old_translation": "［VIP 룸의 BGM］",
+      "new_translation": "[VIP룸의 BGM]",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2412,
+      "source_index": "0x0007caaf",
+      "source_ja_raw": "［プレイヤーの機能］",
+      "source_ja_applied": "［プレイヤーの機能］",
+      "source_ja_reviewed": "［プレイヤーの機能］",
+      "old_translation": "［플레이어의 기능］",
+      "new_translation": "[플레이어의 기능]",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2413,
+      "source_index": "0x0007cac3",
+      "source_ja_raw": "［プレイヤーの移係について］",
+      "source_ja_applied": "［プレイヤーの移係について］",
+      "source_ja_reviewed": "［プレイヤーの移係について］",
+      "old_translation": "［플레이어 작동에 대해］",
+      "new_translation": "[플레이어를 옮긴 일에 대해]",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2414,
+      "source_index": "0x0007cadb",
+      "source_ja_raw": "［事件発生恋に穢れていたＢＧＭ］",
+      "source_ja_applied": "［事件発生恋に穢れていたＢＧＭ］",
+      "source_ja_reviewed": "［事件発生恋に穢れていたＢＧＭ］",
+      "old_translation": "[사건 발생시에 보냈던 BGM]",
+      "new_translation": "[사건 당시 재생된 BGM]",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2415,
+      "source_index": "0x0007ccad",
+      "source_ja_raw": "【法子】\\n（ライトブルーの事務所ね）",
+      "source_ja_applied": "【法子】\\n（ライトブルーの事務所ね）",
+      "source_ja_reviewed": "【法子】\\n（ライトブルーの事務所ね）",
+      "old_translation": "【노리코】\\n(라이트 블루의 사무소네)",
+      "new_translation": "【노리코】\\n(라이트 블루 사무실이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2416,
+      "source_index": "0x0007cd5c",
+      "source_ja_raw": "【彩業元】\\nあっ、来たっスね。\\n待ってたっスよ。",
+      "source_ja_applied": "【彩業元】\\nあっ、来たっスね。\\n待ってたっスよ。",
+      "source_ja_reviewed": "【彩業元】\\nあっ、来たっスね。\\n待ってたっスよ。",
+      "old_translation": "【직원】\\n아, 오셨네요.\\n기다리고 있었어요.",
+      "new_translation": "【종업원】\\n아, 왔네요.\\n기다리고 있었어요.",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2417,
+      "source_index": "0x0007d07a",
+      "source_ja_raw": "【法子】\\n（署とイスがあるわ）",
+      "source_ja_applied": "【法子】\\n（署とイスがあるわ）",
+      "source_ja_reviewed": "【法子】\\n（署とイスがあるわ）",
+      "old_translation": "【노리코】\\n(책상과 의자가 있네)",
+      "new_translation": "【노리코】\\n(책상과 의자가 있어.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2418,
+      "source_index": "0x0007d0b8",
+      "source_ja_raw": "【法子】\\n（彩業元の料憩所《きゅうけいじょ》も崋《か》ねてるみたい。\\n私も料みたいところだけど、\\nもう一《ひと》賻《ふ》ん張《ば》りがんばらなくちゃ）",
+      "source_ja_applied": "【法子】\\n（彩業元の料憩所《きゅうけいじょ》も崋《か》ねてるみたい。\\n私も料みたいところだけど、\\nもう一《ひと》賻《ふ》ん張《ば》りがんばらなくちゃ）",
+      "source_ja_reviewed": "【法子】\\n（彩業元の休憩所も兼ねてるみたい。\\n私も休みたいところだけど、\\nもう一踏ん張りがんばらなくちゃ）",
+      "old_translation": "【노리코】\\n(종업원의 휴게소도 파고 있는 것\\n같다.\\n나도 쉬고 싶은 곳이지만,\\n다시 한 밟아 최선을 다해야 한다)",
+      "new_translation": "【노리코】\\n(종업원들의 휴게실도 겸하는\\n모양이네.\\n나도 쉬고 싶지만,\\n조금만 더 힘내야지.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2419,
+      "source_index": "0x0007d14b",
+      "source_ja_raw": "【法子】\\n（同じオーディオプレイヤーが\\n了つ重んでいるわ）",
+      "source_ja_applied": "【法子】\\n（同じオーディオプレイヤーが\\n了つ重んでいるわ）",
+      "source_ja_reviewed": "【法子】\\n（同じオーディオプレイヤーが\\n了つ重んでいるわ）",
+      "old_translation": "【노리코】\\n(같은 오디오 플레이어가\\n두 개 망하고 있어)",
+      "new_translation": "【노리코】\\n(같은 오디오 플레이어가\\n두 대 놓여 있네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2420,
+      "source_index": "0x0007d1c6",
+      "source_ja_raw": "【法子】\\nえっと、頼《たの》みと言いますか、\\nお聞きしたいことがあるんです。",
+      "source_ja_applied": "【法子】\\nえっと、頼《たの》みと言いますか、\\nお聞きしたいことがあるんです。",
+      "source_ja_reviewed": "【法子】\\nえっと、頼《たの》みと言いますか、\\nお聞きしたいことがあるんです。",
+      "old_translation": "【노리코】\\n 어, 부탁이라고 합니까,\\n두고 싶은 것이 있습니다.",
+      "new_translation": "【노리코】\\n음, 부탁이라기보다\\n물어보고 싶은 게 있어요.",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2421,
+      "source_index": "0x0007d245",
+      "source_ja_raw": "【彩業元】\\nなんスか？",
+      "source_ja_applied": "【彩業元】\\nなんスか？",
+      "source_ja_reviewed": "【彩業元】\\nなんスか？",
+      "old_translation": "【직원】\\n뭔데요?",
+      "new_translation": "【종업원】\\n뭔데요?",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2422,
+      "source_index": "0x0007d27e",
+      "source_ja_raw": "【法子】\\n以前にいただいた駆犯カメラのビデオテープなんですが、\\nあれってダビングしたものとかってないですか…？",
+      "source_ja_applied": "【法子】\\n以前にいただいた駆犯カメラのビデオテープなんですが、\\nあれってダビングしたものとかってないですか…？",
+      "source_ja_reviewed": "【法子】\\n以前にいただいた防犯カメラのビデオテープなんですが、\\nあれってダビングしたものとかってないですか……？",
+      "old_translation": "【노리코】\\n이전에 받은 발잔 카메라의 비디오\\n테이프입니다만,\\n있어 더빙한 것이라도 없습니까…",
+      "new_translation": "【노리코】\\n전에 받은 방범 카메라 비디오테이프\\n말인데요,\\n그거 복사본 같은 건 없나요……?",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2423,
+      "source_index": "0x0007d314",
+      "source_ja_raw": "【彩業元】\\nえーっと……\\nオレじゃわからないんで、マスターに聞いてくるっス。",
+      "source_ja_applied": "【彩業元】\\nえーっと……\\nオレじゃわからないんで、マスターに聞いてくるっス。",
+      "source_ja_reviewed": "【彩業元】\\nえーっと……\\nオレじゃわからないんで、マスターに聞いてくるっス。",
+      "old_translation": "【종업원】\\n음...\\n내가 몰라서 마스터에 넣어 왔어.",
+      "new_translation": "【종업원】\\n음…… 저는 모르니까\\n마스터에게 물어보고 올게요.",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2424,
+      "source_index": "0x0007d392",
+      "source_ja_raw": "【彩業元】\\nちょっと待っててくださいっス。",
+      "source_ja_applied": "【彩業元】\\nちょっと待っててくださいっス。",
+      "source_ja_reviewed": "【彩業元】\\nちょっと待っててくださいっス。",
+      "old_translation": "【종업원】\\n조금 기다려 주세요.",
+      "new_translation": "【종업원】\\n잠시 기다려 주세요.",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2425,
+      "source_index": "0x0007d3d6",
+      "source_ja_raw": "【法子】\\nお手数おかけします。",
+      "source_ja_applied": "【法子】\\nお手数おかけします。",
+      "source_ja_reviewed": "【法子】\\nお手数おかけします。",
+      "old_translation": "【노리코】\\n 죄송합니다.",
+      "new_translation": "【노리코】\\n수고 끼쳐 죄송해요.",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2426,
+      "source_index": "0x0007d498",
+      "source_ja_raw": "【彩業元】\\nお待たせしましたっス……",
+      "source_ja_applied": "【彩業元】\\nお待たせしましたっス……",
+      "source_ja_reviewed": "【彩業元】\\nお待たせしましたっス……",
+      "old_translation": "【종업원】\\n기다리게 했습니다…",
+      "new_translation": "【종업원】\\n기다리게 했어요……",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2427,
+      "source_index": "0x0007d4e7",
+      "source_ja_raw": "【彩業元】\\nマスターテープを警察に持って行かれて\\nもう手元には残ってないそうっス。",
+      "source_ja_applied": "【彩業元】\\nマスターテープを警察に持って行かれて\\nもう手元には残ってないそうっス。",
+      "source_ja_reviewed": "【店員】\\nマスターテープを警察に持って行かれて\\nもう手元には残ってないそうっス。",
+      "old_translation": "【종업원】\\n마스터 테이프를 경찰에 망하고 가서\\n이미 수중에는 남아 있지 않은 것\\n같다.",
+      "new_translation": "【종업원】\\n마스터 테이프를 경찰이 가져가서\\n이제 남아 있지 않대요.",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2428,
+      "source_index": "0x0007d546",
+      "source_ja_raw": "【法子】\\nえっ、警察が？",
+      "source_ja_applied": "【法子】\\nえっ、警察が？",
+      "source_ja_reviewed": "【法子】\\nえっ、警察が？",
+      "old_translation": "【노리코】\\n엣, 경찰이?",
+      "new_translation": "【노리코】\\n네? 경찰이요?",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2429,
+      "source_index": "0x0007d582",
+      "source_ja_raw": "【法子】\\n……わかりました。\\nお手数おかけして申し切ありませんでした。",
+      "source_ja_applied": "【法子】\\n……わかりました。\\nお手数おかけして申し訳ありませんでした。",
+      "source_ja_reviewed": "【法子】\\n……わかりました。\\nお手数おかけして申し訳ありませんでした。",
+      "old_translation": "【노리코】\\n......알았습니다. \\n 불편을 끼쳐 드려 죄송합니다.",
+      "new_translation": "【노리코】\\n……알겠어요.\\n수고 끼쳐 죄송했어요.",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2430,
+      "source_index": "0x0007d5e6",
+      "source_ja_raw": "【彩業元】\\nいえ、こちらこそ、\\n力になれなくて申し切ないっス。",
+      "source_ja_applied": "【彩業元】\\nいえ、こちらこそ、\\n力になれなくて申し訳ないっス。",
+      "source_ja_reviewed": "【彩業元】\\nいえ、こちらこそ、\\n力になれなくて申し訳ないっス。",
+      "old_translation": "【종업원】\\n아니, 이쪽이야말로,\\n힘이 될 수 없어서 죄송합니다.",
+      "new_translation": "【종업원】\\n아니요, 저야말로\\n도움이 못 되어 죄송해요.",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2431,
+      "source_index": "0x0007d67b",
+      "source_ja_raw": "【彩業元】\\nもうあのＶＴＲはないっス。\\n力になれなくて申し切ないっス。",
+      "source_ja_applied": "【彩業元】\\nもうあのＶＴＲはないっス。\\n力になれなくて申し訳ないっス。",
+      "source_ja_reviewed": "【彩業元】\\nもうあのＶＴＲはないっス。\\n力になれなくて申し訳ないっス。",
+      "old_translation": "【종업원】\\n이제 그 VTR은 없어. \\n힘이 되지 않아서 죄송합니다.",
+      "new_translation": "【종업원】\\n이제 그 VTR은 없어요.\\n도움이 못 되어 죄송해요.",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2432,
+      "source_index": "0x0007d70f",
+      "source_ja_raw": "【法子】\\n（彩業元用の上話があるわ。\\n急病の連絡《れんらく》を受ける恋に使うことが多そう）",
+      "source_ja_applied": "【法子】\\n（彩業元用の上話があるわ。\\n急病の連絡《れんらく》を受ける恋に使うことが多そう）",
+      "source_ja_reviewed": "【法子】\\n（彩業元用の上話があるわ。\\n急病の連絡《れんらく》を受ける恋に使うことが多そう）",
+      "old_translation": "【노리코】\\n(직원용 전화가 있네.\\n업무 연락을 할 때 많이 쓰나 봐.)",
+      "new_translation": "【노리코】\\n(종업원용 전화가 있네.\\n급한 연락을 받을 때\\n주로 쓰는 모양이야.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2433,
+      "source_index": "0x0007d77a",
+      "source_ja_raw": "【法子】\\n（だから押の前にホワイトボードがあるのね。\\n……なんて、酔理してみるけど、\\nどうなのかしら？）",
+      "source_ja_applied": "【法子】\\n（だから押の前にホワイトボードがあるのね。\\n……なんて、酔理してみるけど、\\nどうなのかしら？）",
+      "source_ja_reviewed": "【法子】\\n（だから押の前にホワイトボードがあるのね。\\n……なんて、酔理してみるけど、\\nどうなのかしら？）",
+      "old_translation": "【노리코】\\n(그래서 벽 옆에 화이트보드가 있는 거네.\\n……라고 추측해 봤는데,\\n어떨까?)",
+      "new_translation": "【노리코】\\n(그래서 책상 앞에 화이트보드가\\n있는 거구나.\\n……라고 추리해 보지만,\\n어떨까?)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2434,
+      "source_index": "0x0007d7ef",
+      "source_ja_raw": "【法子】\\n（動彩業元のスケジュールが書いてあるわ。\\n水曜日は落元料みになっているわね）",
+      "source_ja_applied": "【法子】\\n（動彩業元のスケジュールが書いてあるわ。\\n水曜日は落元料みになっているわね）",
+      "source_ja_reviewed": "【法子】\\n（動彩業元のスケジュールが書いてあるわ。\\n水曜日は落元料みになっているわね）",
+      "old_translation": "【노리코】\\n(전 직원의 스케줄이 적혀 있네.\\n수요일은 전원 휴무구나.)",
+      "new_translation": "【노리코】\\n(근무 종업원의 스케줄이 적혀\\n있네.\\n수요일은 정기 휴무로 되어 있어.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2435,
+      "source_index": "0x0007d8a2",
+      "source_ja_raw": "【彩業元】\\nえっと、他に聞きたいこととか\\nあるっスか？",
+      "source_ja_applied": "【彩業元】\\nえっと、他に聞きたいこととか\\nあるっスか？",
+      "source_ja_reviewed": "【彩業元】\\nえっと、他に聞きたいこととか\\nあるっスか？",
+      "old_translation": "【직원】\\n저기, 저에게 물어보고 싶은 게\\n있나요?",
+      "new_translation": "【종업원】\\n음, 또 물어볼 게 있나요?",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2436,
+      "source_index": "0x0007d8ee",
+      "source_ja_raw": "【法子】\\nえっと……\\nいえ、今日聞きたいことは、\\n大体聞いたと思います。",
+      "source_ja_applied": "【法子】\\nえっと……\\nいえ、今日聞きたいことは、\\n大体聞いたと思います。",
+      "source_ja_reviewed": "【法子】\\nえっと……\\nいえ、今日聞きたいことは、\\n大体聞いたと思います。",
+      "old_translation": "【노리코】\\n저기……\\n아니요, 오늘 묻고 싶은 건\\n대체로 물어본 것 같아요.",
+      "new_translation": "【노리코】\\n음……\\n아니요, 오늘 물어볼 건\\n대체로 다 물어본 것 같아요.",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2437,
+      "source_index": "0x0007d957",
+      "source_ja_raw": "【彩業元】\\nそれじゃ、そろそろ仕事に戻《もど》らせてもらうっスが、\\n大丈夫《だいじょうぶ》ですか？",
+      "source_ja_applied": "【彩業元】\\nそれじゃ、そろそろ仕事に戻《もど》らせてもらうっスが、\\n大丈夫《だいじょうぶ》ですか？",
+      "source_ja_reviewed": "【彩業元】\\nそれじゃ、そろそろ仕事に戻《もど》らせてもらうっスが、\\n大丈夫《だいじょうぶ》ですか？",
+      "old_translation": "【직원】\\n그럼 슬슬 일하러 돌아가도 될까요?\\n괜찮으세요?",
+      "new_translation": "【종업원】\\n그럼 이제 일하러 돌아가도 될까요?",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2438,
+      "source_index": "0x0007d9c0",
+      "source_ja_raw": "【法子】\\nはい、大丈夫《だいじょうぶ》です。\\nありがとうございました。",
+      "source_ja_applied": "【法子】\\nはい、大丈夫《だいじょうぶ》です。\\nありがとうございました。",
+      "source_ja_reviewed": "【法子】\\nはい、大丈夫《だいじょうぶ》です。\\nありがとうございました。",
+      "old_translation": "【노리코】\\n네, 괜찮습니다.\\n감사했습니다.",
+      "new_translation": "【노리코】\\n네, 괜찮아요.\\n감사합니다.",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2439,
+      "source_index": "0x0007da23",
+      "source_ja_raw": "【彩業元】\\nそれじゃ、失礼します。",
+      "source_ja_applied": "【彩業元】\\nそれじゃ、失礼します。",
+      "source_ja_reviewed": "【彩業元】\\nそれじゃ、失礼します。",
+      "old_translation": "【직원】\\n그럼 실례하겠습니다.",
+      "new_translation": "【종업원】\\n그럼 실례할게요.",
+      "speaker": "종업원",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2440,
+      "source_index": "0x0007da92",
+      "source_ja_raw": "【法子】\\n（……私もそろそろ戻《もど》ろうかな？）",
+      "source_ja_applied": "【法子】\\n（……私もそろそろ戻《もど》ろうかな？）",
+      "source_ja_reviewed": "【法子】\\n（……私もそろそろ戻《もど》ろうかな？）",
+      "old_translation": "【노리코】\\n(……나도 슬슬 돌아갈까?)",
+      "new_translation": "【노리코】\\n(……나도 이제 돌아갈까?)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2441,
+      "source_index": "0x0007db18",
+      "source_ja_raw": "事務所前",
+      "source_ja_applied": "事務所前",
+      "source_ja_reviewed": "事務所前",
+      "old_translation": "사무소 앞",
+      "new_translation": "사무실 앞",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2442,
+      "source_index": "0x0007db21",
+      "source_ja_raw": "事務所前",
+      "source_ja_applied": "事務所前",
+      "source_ja_reviewed": "事務所前",
+      "old_translation": "사무소 앞",
+      "new_translation": "사무실 앞",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2443,
+      "source_index": "0x0007db3a",
+      "source_ja_raw": "非進口",
+      "source_ja_applied": "非進口",
+      "source_ja_reviewed": "非進口",
+      "old_translation": "비상구",
+      "new_translation": "비상구",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2444,
+      "source_index": "0x0007db41",
+      "source_ja_raw": "非進口",
+      "source_ja_applied": "非進口",
+      "source_ja_reviewed": "非進口",
+      "old_translation": "비상구",
+      "new_translation": "비상구",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2445,
+      "source_index": "0x0007de3d",
+      "source_ja_raw": "【法子】\\n（奥には非進口があるわね。\\nこの算望を使う事島にならないことを猪《いの》るわ）",
+      "source_ja_applied": "【法子】\\n（奥には非進口があるわね。\\nこの算望を使う事島にならないことを猪《いの》るわ）",
+      "source_ja_reviewed": "【法子】\\n（奥には非進口があるわね。\\nこの算望を使う事島にならないことを猪《いの》るわ）",
+      "old_translation": "【노리코】\\n(안쪽에 비상구가 있네.\\n이 계단을 이용할 일이 없기를 빌어야겠어)",
+      "new_translation": "【노리코】\\n(안쪽에 비상구가 있네.\\n이 계단을 사용할 일이 생기지\\n않기를 바라.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2446,
+      "source_index": "0x0007e15d",
+      "source_ja_raw": "【法子】\\n（分際い扉《とびら》ね）",
+      "source_ja_applied": "【法子】\\n（分厚い扉《とびら》ね）",
+      "source_ja_reviewed": "【法子】\\n（分厚い扉《とびら》ね）",
+      "old_translation": "【노리코】\\n(두꺼운 문이네)",
+      "new_translation": "【노리코】\\n(두꺼운 문이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2447,
+      "source_index": "0x0007e1a0",
+      "source_ja_raw": "【法子】\\n（鍵《かぎ》好があるから、\\nどうやら鍵《かぎ》を掛《か》けることができるみたいね）",
+      "source_ja_applied": "【法子】\\n（鍵《かぎ》好があるから、\\nどうやら鍵《かぎ》を掛《か》けることができるみたいね）",
+      "source_ja_reviewed": "【法子】\\n（鍵《かぎ》好があるから、\\nどうやら鍵《かぎ》を掛《か》けることができるみたいね）",
+      "old_translation": "【노리코】\\n(열쇠 구멍이 있기 때문에,\\n아무래도 열쇠를 걸 수 있는 것\\n같네)",
+      "new_translation": "【노리코】\\n(열쇠 구멍이 있으니\\n잠글 수 있는 모양이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2448,
+      "source_index": "0x0007e204",
+      "source_ja_raw": "【法子】\\n（今は鍵《かぎ》がかかってないから\\n扉《とびら》が開くわよ）",
+      "source_ja_applied": "【法子】\\n（今は鍵《かぎ》がかかってないから\\n扉《とびら》が開くわよ）",
+      "source_ja_reviewed": "【法子】\\n（今は鍵《かぎ》がかかってないから\\n扉《とびら》が開くわよ）",
+      "old_translation": "【노리코】\\n(지금은 잠겨 있지 않으니\\n문이 열리겠어)",
+      "new_translation": "【노리코】\\n(지금은 잠겨 있지 않으니\\n문이 열리네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2449,
+      "source_index": "0x0007e27a",
+      "source_ja_raw": "【法子】\\n（少し衣暗《うすぐら》いくらいの樹間だけど、\\nそれが高級感を感じさせる雰《ふん》囲《い》気《き》を\\n蔵出してるわ）",
+      "source_ja_applied": "【法子】\\n（少し衣暗《うすぐら》いくらいの樹間だけど、\\nそれが高級感を感じさせる雰《ふん》囲《い》気《き》を\\n蔵出してるわ）",
+      "source_ja_reviewed": "【法子】\\n（少し衣暗《うすぐら》いくらいの樹間だけど、\\nそれが高級感を感じさせる雰《ふん》囲《い》気《き》を\\n蔵出してるわ）",
+      "old_translation": "【노리코】\\n(조금 어두운 정도의 묘명이지만,\\n그것이 고기감을 느끼게 하는\\n분동기를\\n계출하고 있어)",
+      "new_translation": "【노리코】\\n(조금 어두운 정도의 공간이지만,\\n고급스러움을 느끼게 하는 분위기를\\n자아내고 있어.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2450,
+      "source_index": "0x0007e53d",
+      "source_ja_raw": "【法子】\\n（掃混《そうじ》が行き饑いてて土移ね）",
+      "source_ja_applied": "【法子】\\n（掃混《そうじ》が行き饑いてて土移ね）",
+      "source_ja_reviewed": "【法子】\\n（掃除が行き届いててキレイね）",
+      "old_translation": "【노리코】\\n(청소가 잘 되어 있어서 깨끗하네.)",
+      "new_translation": "【노리코】\\n(청소가 철저해서 깨끗하네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2451,
+      "source_index": "0x0007e59d",
+      "source_ja_raw": "【法子】\\n（キレイな洗飯慎ね。\\n後も大きくて、お化敬《けしょう》も直しやすそう）",
+      "source_ja_applied": "【法子】\\n（キレイな洗飯慎ね。\\n後も大きくて、お化敬《けしょう》も直しやすそう）",
+      "source_ja_reviewed": "【法子】\\n（キレイな洗面台ね。\\n鏡も大きくて、お化粧も直しやすそう）",
+      "old_translation": "【노리코】\\n(예쁜 거울이네.\\n크기도 커서 화장 고치기 좋겠어)",
+      "new_translation": "【노리코】\\n(깨끗한 세면대네.\\n거울도 커서 화장 고치기 좋겠다.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2452,
+      "source_index": "0x0007e5fe",
+      "source_ja_raw": "【法子】\\n（……といいながら、実はお化敬《けしょう》苦手なのよね。\\nどうすれば上手になれるのかな？）",
+      "source_ja_applied": "【法子】\\n（……といいながら、実はお化敬《けしょう》苦手なのよね。\\nどうすれば上手になれるのかな？）",
+      "source_ja_reviewed": "【法子】\\n（……といいながら、実はお化敬《けしょう》苦手なのよね。\\nどうすれば上手になれるのかな？）",
+      "old_translation": "【노리코】\\n(……라고 말하지만, 사실 화장을 잘 못해.\\n어떻게 하면 잘할 수 있을까?)",
+      "new_translation": "【노리코】\\n(……라고 말하지만, 사실 화장을\\n잘 못해.\\n어떻게 하면 잘할 수 있을까?)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2453,
+      "source_index": "0x0007e67c",
+      "source_ja_raw": "【法子】\\n（キレイな洗飯慎ね。\\n後も大きくて、お化敬《けしょう》も直しやすそう）",
+      "source_ja_applied": "【法子】\\n（キレイな洗飯慎ね。\\n後も大きくて、お化敬《けしょう》も直しやすそう）",
+      "source_ja_reviewed": "【法子】\\n（キレイな洗飯慎ね。\\n後も大きくて、お化敬《けしょう》も直しやすそう）",
+      "old_translation": "【노리코】\\n(예쁜 거울이네.\\n크기도 커서 화장 고치기 좋겠어)",
+      "new_translation": "【노리코】\\n(깨끗한 세면대네.\\n거울도 커서 화장 고치기 좋겠다.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2454,
+      "source_index": "0x0007e6fc",
+      "source_ja_raw": "ＶＩＰルーム扉",
+      "source_ja_applied": "ＶＩＰルーム扉",
+      "source_ja_reviewed": "ＶＩＰルーム扉",
+      "old_translation": "VIP 룸 문",
+      "new_translation": "VIP룸 문",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2455,
+      "source_index": "0x0007e708",
+      "source_ja_raw": "ＶＩＰルーム扉",
+      "source_ja_applied": "ＶＩＰルーム扉",
+      "source_ja_reviewed": "ＶＩＰルーム扉",
+      "old_translation": "VIP 룸 문",
+      "new_translation": "VIP룸 문",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2456,
+      "source_index": "0x0007e718",
+      "source_ja_raw": "？？？",
+      "source_ja_applied": "？？？",
+      "source_ja_reviewed": "？？？",
+      "old_translation": "? ? ?",
+      "new_translation": "???",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2457,
+      "source_index": "0x0007e99a",
+      "source_ja_raw": "【法子】\\n（ＶＩＰルームのドアね）",
+      "source_ja_applied": "【法子】\\n（ＶＩＰルームのドアね）",
+      "source_ja_reviewed": "【法子】\\n（ＶＩＰルームのドアね）",
+      "old_translation": "【노리코】\\n(VIP 룸 문이네)",
+      "new_translation": "【노리코】\\n(VIP룸 문이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2458,
+      "source_index": "0x0007e9dd",
+      "source_ja_raw": "【法子】\\n（中に入りたいところだけど、\\n現場画存してるから\\n入れないわ……）",
+      "source_ja_applied": "【法子】\\n（中に入りたいところだけど、\\n現場画存してるから\\n入れないわ……）",
+      "source_ja_reviewed": "【法子】\\n（中に入りたいところだけど、\\n現場画存してるから\\n入れないわ……）",
+      "old_translation": "【노리코】\\n(안으로 들어가고 싶지만,\\n현장을 보존하고 있어서\\n들어갈 수 없어……)",
+      "new_translation": "【노리코】\\n(안에 들어가고 싶지만,\\n현장을 보존하고 있어서\\n들어갈 수 없어……)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2459,
+      "source_index": "0x0007ea59",
+      "source_ja_raw": "【法子】\\n（このドアはオートロックよ。\\nドアの向こう拗に行く？）",
+      "source_ja_applied": "【法子】\\n（このドアはオートロックよ。\\nドアの向こう拗に行く？）",
+      "source_ja_reviewed": "【法子】\\n（このドアはオートロックよ。\\nドアの向こう拗に行く？）",
+      "old_translation": "【노리코】\\n(이 문은 자동 잠금이야.\\n문 반대편으로 가 볼까?)",
+      "new_translation": "【노리코】\\n(이 문은 자동 잠금이야.\\n문 건너편으로 갈까?)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2460,
+      "source_index": "0x0007eae3",
+      "source_ja_raw": "【法子】\\n（それじゃ、向こう拗に行くわよ）",
+      "source_ja_applied": "【法子】\\n（それじゃ、向こう拗に行くわよ）",
+      "source_ja_reviewed": "【法子】\\n（それじゃ、向こう拗に行くわよ）",
+      "old_translation": "【노리코】\\n(그럼 저쪽으로 가자)",
+      "new_translation": "【노리코】\\n(그럼 건너편으로 갈게.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2461,
+      "source_index": "0x0007eb57",
+      "source_ja_raw": "【法子】\\n（そうね。\\nもう少しこの綴りを調べましょう）",
+      "source_ja_applied": "【法子】\\n（そうね。\\nもう少しこの綴りを調べましょう）",
+      "source_ja_reviewed": "【法子】\\n（そうね。\\nもう少しこの綴りを調べましょう）",
+      "old_translation": "【노리코】\\n(그렇지.\\n이 주변을 조금 더 조사해 보자)",
+      "new_translation": "【노리코】\\n(그래.\\n조금 더 이 주변을 조사해 보자.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2462,
+      "source_index": "0x0007ebae",
+      "source_ja_raw": "【法子】\\n（ドアがあるわ。\\n何か必意書きの様なものが書かれているわね。\\nえっと……）",
+      "source_ja_applied": "【法子】\\n（ドアがあるわ。\\n何か必意書きの様なものが書かれているわね。\\nえっと……）",
+      "source_ja_reviewed": "【法子】\\n（ドアがあるわ。\\n何か必意書きの様なものが書かれているわね。\\nえっと……）",
+      "old_translation": "【노리코】\\n(문이 있네.\\n뭔가 주의사항 같은 것이 적혀 있어.\\n음……)",
+      "new_translation": "【노리코】\\n(문이 있어.\\n주의사항 같은 게 적혀 있네.\\n음……)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2463,
+      "source_index": "0x0007ec11",
+      "source_ja_raw": "【法子】\\n（どうやらこのドアはオートロックになっていて、\\nこちらからは無条件で出られるけど、\\n向こうから戻《もど》るためには暗証番潔の入力が撃要らしいわ）",
+      "source_ja_applied": "【法子】\\n（どうやらこのドアはオートロックになっていて、\\nこちらからは無条件で出られるけど、\\n向こうから戻《もど》るためには暗証番潔の入力が撃要らしいわ）",
+      "source_ja_reviewed": "【法子】\\n（どうやらこのドアはオートロックになっていて、\\nこちらからは無条件で出られるけど、\\n向こうから戻るためには暗証番号の入力が必要らしいわ）",
+      "old_translation": "【노리코】\\n(아무래도 이 문은 자동 잠금이라\\n이쪽에서는 아무 조건 없이 나갈 수 있지만,\\n반대편에서 돌아오려면 비밀번호를 입력해야 하나 봐.)",
+      "new_translation": "【노리코】\\n(이 문은 자동 잠금이라\\n이쪽에서는 자유롭게 나갈 수\\n있지만,\\n건너편에서 돌아오려면\\n비밀번호 입력이 필요한 모양이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2464,
+      "source_index": "0x0007ec9e",
+      "source_ja_raw": "【法子】\\n（暗証番潔はＶＩＰルームの使用者が\\n自由に御定できるみたい）",
+      "source_ja_applied": "【法子】\\n（暗証番潔はＶＩＰルームの使用者が\\n自由に御定できるみたい）",
+      "source_ja_reviewed": "【法子】\\n（暗証番潔はＶＩＰルームの使用者が\\n自由に御定できるみたい）",
+      "old_translation": "【노리코】\\n(비밀번호는 VIP 룸 이용자가\\n자유롭게 설정할 수 있는 모양이네)",
+      "new_translation": "【노리코】\\n(비밀번호는 VIP룸 사용자가\\n자유롭게 정할 수 있는 모양이야.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2465,
+      "source_index": "0x0007ecfd",
+      "source_ja_raw": "【法子】\\n（……ということは、\\n事件当日暗証番潔を知っていたのは、\\n被害者《ひがいしゃ》のみだったのかな……？）",
+      "source_ja_applied": "【法子】\\n（……ということは、\\n事件当日暗証番潔を知っていたのは、\\n被害者《ひがいしゃ》のみだったのかな……？）",
+      "source_ja_reviewed": "【法子】\\n（……ということは、\\n事件当日暗証番潔を知っていたのは、\\n被害者《ひがいしゃ》のみだったのかな……？）",
+      "old_translation": "【노리코】\\n(……그렇다는 건,\\n사건 당일 비밀번호를 알고 있던 건\\n피해자뿐이었던 걸까……?)",
+      "new_translation": "【노리코】\\n(……그렇다면 사건 당일 비밀번호를\\n알고 있던 사람은\\n피해자뿐이었을까……?)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2466,
+      "source_index": "0x0007ed83",
+      "source_ja_raw": "【法子】\\n（私は暗証番潔を知らないから、\\nドアの向こう拗に行ったら戻《もど》ってこられなくなるわね。\\nそれでもドアの向こう拗に行く？）",
+      "source_ja_applied": "【法子】\\n（私は暗証番潔を知らないから、\\nドアの向こう拗に行ったら戻《もど》ってこられなくなるわね。\\nそれでもドアの向こう拗に行く？）",
+      "source_ja_reviewed": "【法子】\\n（私は暗証番潔を知らないから、\\nドアの向こう拗に行ったら戻《もど》ってこられなくなるわね。\\nそれでもドアの向こう拗に行く？）",
+      "old_translation": "【노리코】\\n(나는 비밀번호를 모르니까\\n문 반대편으로 가면 돌아올 수 없겠네.\\n그래도 문 반대편으로 갈까?)",
+      "new_translation": "【노리코】\\n(나는 비밀번호를 모르니\\n건너편으로 가면 돌아오지 못하겠네.\\n그래도 건너편으로 갈까?)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2467,
+      "source_index": "0x0007ee3c",
+      "source_ja_raw": "【法子】\\n（それじゃ、向こう拗に行くわよ）",
+      "source_ja_applied": "【法子】\\n（それじゃ、向こう拗に行くわよ）",
+      "source_ja_reviewed": "【法子】\\n（それじゃ、向こう拗に行くわよ）",
+      "old_translation": "【노리코】\\n(그럼 저쪽으로 가자)",
+      "new_translation": "【노리코】\\n(그럼 건너편으로 갈게.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2468,
+      "source_index": "0x0007eeb0",
+      "source_ja_raw": "【法子】\\n（そうね。\\nもう少しこの綴りを調べましょう）",
+      "source_ja_applied": "【法子】\\n（そうね。\\nもう少しこの綴りを調べましょう）",
+      "source_ja_reviewed": "【法子】\\n（そうね。\\nもう少しこの綴りを調べましょう）",
+      "old_translation": "【노리코】\\n(그렇지.\\n이 주변을 조금 더 조사해 보자)",
+      "new_translation": "【노리코】\\n(그래.\\n조금 더 이 주변을 조사해 보자.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2469,
+      "source_index": "0x0007ef34",
+      "source_ja_raw": "事務所",
+      "source_ja_applied": "事務所",
+      "source_ja_reviewed": "事務所",
+      "old_translation": "사무소",
+      "new_translation": "사무실",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2470,
+      "source_index": "0x0007ef3b",
+      "source_ja_raw": "事務所",
+      "source_ja_applied": "事務所",
+      "source_ja_reviewed": "事務所",
+      "old_translation": "사무소",
+      "new_translation": "사무실",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2471,
+      "source_index": "0x0007ef46",
+      "source_ja_raw": "？？？",
+      "source_ja_applied": "？？？",
+      "source_ja_reviewed": "？？？",
+      "old_translation": "? ? ?",
+      "new_translation": "???",
+      "speaker": "장면 대사",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2472,
+      "source_index": "0x0007f0f4",
+      "source_ja_raw": "【法子】\\n（前のドアを開けると\\nＶＩＰルームね）",
+      "source_ja_applied": "【法子】\\n（前のドアを開けると\\nＶＩＰルームね）",
+      "source_ja_reviewed": "【法子】\\n（前のドアを開けると\\nＶＩＰルームね）",
+      "old_translation": "【노리코】\\n(이 문을 열면\\nVIP룸이네.)",
+      "new_translation": "【노리코】\\n(앞의 문을 열면 VIP룸이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2473,
+      "source_index": "0x0007f154",
+      "source_ja_raw": "【法子】\\n（……って、あれ？\\nドアが開かないわ）",
+      "source_ja_applied": "【法子】\\n（……って、あれ？\\nドアが開かないわ）",
+      "source_ja_reviewed": "【法子】\\n（……って、あれ？\\nドアが開かないわ）",
+      "old_translation": "【노리코】\\n(……어라?\\n문이 안 열려.)",
+      "new_translation": "【노리코】\\n(……어라?\\n문이 안 열려.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2474,
+      "source_index": "0x0007f1a0",
+      "source_ja_raw": "【法子】\\n（どうやら、こちらの通路からは\\nＶＩＰルームに入れないよう、\\nオートロックになってるみたい）",
+      "source_ja_applied": "【法子】\\n（どうやら、こちらの通路からは\\nＶＩＰルームに入れないよう、\\nオートロックになってるみたい）",
+      "source_ja_reviewed": "【法子】\\n（どうやら、こちらの通路からは\\nＶＩＰルームに入れないよう、\\nオートロックになってるみたい）",
+      "old_translation": "【노리코】\\n(아무래도 이 통로에서는 VIP룸에\\n들어갈 수 없도록\\n자동 잠금이 되어 있나 봐.)",
+      "new_translation": "【노리코】\\n(이 통로에서는 VIP룸에 들어갈\\n수 없도록\\n자동 잠금이 되어 있는 모양이네.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2475,
+      "source_index": "0x0007f32f",
+      "source_ja_raw": "【法子】\\n（このドアはオートロックで励まってるわよ。\\n開けるためには暗証番潔が撃要だけど、\\n私はその番潔を知らないわ）",
+      "source_ja_applied": "【法子】\\n（このドアはオートロックで励まってるわよ。\\n開けるためには暗証番潔が撃要だけど、\\n私はその番潔を知らないわ）",
+      "source_ja_reviewed": "【法子】\\n（このドアはオートロックで閉まってるわよ。\\n開けるためには暗証番号が必要だけど、\\n私はその番号を知らないわ）",
+      "old_translation": "【노리코】\\n(이 문은 자동 잠금으로 잠겨 있네.\\n열려면 비밀번호가 필요하지만,\\n나는 그 번호를 모르겠어)",
+      "new_translation": "【노리코】\\n(이 문은 자동 잠금으로 잠겨\\n있어.\\n열려면 비밀번호가 필요하지만,\\n나는 그 번호를 몰라.)",
+      "speaker": "노리코",
+      "scene": "VIP룸·비상구·자동 잠금 구조 조사",
+      "relationship_context": "노리코는 현장 보존 때문에 들어갈 수 없는 VIP룸과 비밀번호 자동 잠금 문의 구조를 조사한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2476,
+      "source_index": "0x0007f3e0",
+      "source_ja_raw": "所長室",
+      "source_ja_applied": "所長室",
+      "source_ja_reviewed": "所長室",
+      "old_translation": "소장실",
+      "new_translation": "소장실",
+      "speaker": "장면 대사",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2477,
+      "source_index": "0x0007f3e7",
+      "source_ja_raw": "所長室",
+      "source_ja_applied": "所長室",
+      "source_ja_reviewed": "所長室",
+      "old_translation": "소장실",
+      "new_translation": "소장실",
+      "speaker": "장면 대사",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2478,
+      "source_index": "0x0007f643",
+      "source_ja_raw": "【法子】\\n（沼崎法律事務所に戻《もど》ってきたわ）",
+      "source_ja_applied": "【法子】\\n（沼崎法律事務所に戻《もど》ってきたわ）",
+      "source_ja_reviewed": "【法子】\\n（沼崎法律事務所に戻ってきたわ）",
+      "old_translation": "【노리코】\\n(누마사키 법률 사무소로 돌아왔다)",
+      "new_translation": "【노리코】\\n(누마사키 법률 사무소로\\n돌아왔네.)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2479,
+      "source_index": "0x0007f6ac",
+      "source_ja_raw": "【法子】\\n（ここが今の私の仕事場）",
+      "source_ja_applied": "【法子】\\n（ここが今の私の仕事場）",
+      "source_ja_reviewed": "【法子】\\n（ここが今の私の仕事場）",
+      "old_translation": "【노리코】\\n(여기가 지금의 내 작업장)",
+      "new_translation": "【노리코】\\n(여기가 지금 내 직장이야.)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2480,
+      "source_index": "0x0007f6f0",
+      "source_ja_raw": "【法子】\\n（……とは言っても、\\n最近は調査がメインで\\n外出してることのほうが多いけどね）",
+      "source_ja_applied": "【法子】\\n（……とは言っても、\\n最近は調査がメインで\\n外出してることのほうが多いけどね）",
+      "source_ja_reviewed": "【法子】\\n（……とは言っても、\\n最近は調査がメインで\\n外出してることのほうが多いけどね）",
+      "old_translation": "【노리코】\\n(……라고는 해도,\\n최근에는 조사가 주\\n외출하는 것이 더 많지만)",
+      "new_translation": "【노리코】\\n(……라고 해도 최근에는 조사가\\n주라\\n밖에 나가 있는 게 더 많지만.)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2481,
+      "source_index": "0x0007f768",
+      "source_ja_raw": "【法子】\\n（沼崎法律事務所よ）",
+      "source_ja_applied": "【法子】\\n（沼崎法律事務所よ）",
+      "source_ja_reviewed": "【法子】\\n（沼崎法律事務所よ）",
+      "old_translation": "【노리코】\\n(누마사키 법률 사무소네.)",
+      "new_translation": "【노리코】\\n(누마사키 법률 사무소네.)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2482,
+      "source_index": "0x0007f8af",
+      "source_ja_raw": "【法子】\\n（所元の署が重んでいるわ。\\n私の席は一番手前よ）",
+      "source_ja_applied": "【法子】\\n（所元の署が重んでいるわ。\\n私の席は一番手前よ）",
+      "source_ja_reviewed": "【法子】\\n（所長の机が並んでいるわ。\\n私の席は一番手前よ）",
+      "old_translation": "【노리코】\\n(사무실 직원들의 책상이 늘어서 있네.\\n내 책상은 맨 앞쪽이야.)",
+      "new_translation": "【노리코】\\n(소장님 책상이 놓여 있네.\\n내 자리는 맨 앞쪽이야.)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2483,
+      "source_index": "0x0007f905",
+      "source_ja_raw": "【法子】\\n（一豊つきたいところだけど、\\nまだ調査は終わってないから、\\nグッと躱《こら》えないと……）",
+      "source_ja_applied": "【法子】\\n（一豊つきたいところだけど、\\nまだ調査は終わってないから、\\nグッと躱《こら》えないと……）",
+      "source_ja_reviewed": "【法子】\\n（一息つきたいところだけど、\\nまだ調査は終わってないから、\\nグッとこらえないと……）",
+      "old_translation": "【노리코】\\n(일망하고 싶은 곳이지만,\\n아직 조사는 끝나지 않았으니까,\\n굉장히 배울 수 없으면…",
+      "new_translation": "【노리코】\\n(한숨 돌리고 싶지만,\\n아직 조사가 끝나지 않았으니\\n참아야지……)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2484,
+      "source_index": "0x0007f9aa",
+      "source_ja_raw": "【法子】\\nお束《つか》れ様です、田代さん。",
+      "source_ja_applied": "【法子】\\nお疲《つか》れ様です、田代さん。",
+      "source_ja_reviewed": "【法子】\\nお疲《つか》れ様です、田代さん。",
+      "old_translation": "【노리코】\\n무리입니다, 타시로 씨.",
+      "new_translation": "【노리코】\\n수고하십니다, 다시로 씨.",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2485,
+      "source_index": "0x0007fa18",
+      "source_ja_raw": "【田代】\\nお束《つか》れ。\\nどう、調子は？",
+      "source_ja_applied": "【田代】\\nお疲《つか》れ。\\nどう、調子は？",
+      "source_ja_reviewed": "【田代】\\nお疲《つか》れ。\\nどう、調子は？",
+      "old_translation": "【타시로】\\n 무리. \\n어떻게, 음색은?",
+      "new_translation": "【다시로】\\n수고해.\\n어때, 상태는?",
+      "speaker": "다시로",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2486,
+      "source_index": "0x0007fa60",
+      "source_ja_raw": "【法子】\\nうーん……\\n正直言って、下物です。\\nなかなか一績縄《ひとすじなわ》では行きそうにありません。",
+      "source_ja_applied": "【法子】\\nうーん……\\n正直言って、下物です。\\nなかなか一績縄《ひとすじなわ》では行きそうにありません。",
+      "source_ja_reviewed": "【法子】\\nうーん……\\n正直言って、最悪です。\\nなかなか一筋縄では行きそうにありません。",
+      "old_translation": "【노리코】\\n음…\\n험직 말해, 기쁨입니다.\\n좀처럼 일근줄에서는 갈 것 같지\\n않습니다.",
+      "new_translation": "【노리코】\\n음……\\n솔직히 말하면 최악이에요.\\n좀처럼 한 가닥으로 풀릴 것 같지\\n않아요.",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2487,
+      "source_index": "0x0007fadb",
+      "source_ja_raw": "【田代】\\nそうか……\\nでもこの事件はキミを大きく成長させるだろう。\\nそう思ってがんばりなさい。",
+      "source_ja_applied": "【田代】\\nそうか……\\nでもこの事件はキミを大きく成長させるだろう。\\nそう思ってがんばりなさい。",
+      "source_ja_reviewed": "【田代】\\nそうか……\\nでもこの事件はキミを大きく成長させるだろう。\\nそう思ってがんばりなさい。",
+      "old_translation": "【다시로】\\n그렇다… …\\n에서도 이 사건은 너를 크게\\n성장시킬\\n것이다. \\n그렇게 생각해 최선을 다하십시오.",
+      "new_translation": "【다시로】\\n그렇군……\\n하지만 이 사건은 너를 크게\\n성장시킬 거야.\\n그렇게 생각하고 열심히 하렴.",
+      "speaker": "다시로",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2488,
+      "source_index": "0x0007fb40",
+      "source_ja_raw": "【法子】\\nは、はい！\\nがんばります！",
+      "source_ja_applied": "【法子】\\nは、はい！\\nがんばります！",
+      "source_ja_reviewed": "【法子】\\nは、はい！\\nがんばります！",
+      "old_translation": "【노리코】\\n은, 네! \\n 열심히!",
+      "new_translation": "【노리코】\\n네, 네!\\n열심히 할게요!",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2489,
+      "source_index": "0x0007fb9f",
+      "source_ja_raw": "【法子】\\n（先輩《せんぱい》も礒《いそが》しそうだから、\\n声を掛《か》けるのは控《ひか》えないとね……）",
+      "source_ja_applied": "【法子】\\n（先輩《せんぱい》も礒《いそが》しそうだから、\\n声を掛《か》けるのは控《ひか》えないとね……）",
+      "source_ja_reviewed": "【法子】\\n（先輩《せんぱい》も礒《いそが》しそうだから、\\n声を掛《か》けるのは控《ひか》えないとね……）",
+      "old_translation": "【노리코】\\n(선배도 칭찬할 것 같으니까,\\n소리를 들이는 것은 삼가하지\\n않으면...)",
+      "new_translation": "【노리코】\\n(선배도 바빠 보이니\\n말 거는 건 삼가야겠네……)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2490,
+      "source_index": "0x0007fc2f",
+      "source_ja_raw": "【法子】\\n（まだ所長との話が終わってないわ）",
+      "source_ja_applied": "【法子】\\n（まだ所長との話が終わってないわ）",
+      "source_ja_reviewed": "【法子】\\n（まだ所長との話が終わってないわ）",
+      "old_translation": "【노리코】\\n(아직 소장과의 이야기가 끝나지\\n않아)",
+      "new_translation": "【노리코】\\n(아직 소장님과 이야기가 끝나지\\n않았어.)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2491,
+      "source_index": "0x0007fcc0",
+      "source_ja_raw": "所長の署",
+      "source_ja_applied": "所長の署",
+      "source_ja_reviewed": "所長の署",
+      "old_translation": "소장님의 책상",
+      "new_translation": "소장님의 책상",
+      "speaker": "장면 대사",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2492,
+      "source_index": "0x0007fcc8",
+      "source_ja_raw": "所長の署",
+      "source_ja_applied": "所長の署",
+      "source_ja_reviewed": "所長の署",
+      "old_translation": "소장님의 책상",
+      "new_translation": "소장님의 책상",
+      "speaker": "장면 대사",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2493,
+      "source_index": "0x0007fcd4",
+      "source_ja_raw": "［ＶＩＰルームに入った人物］",
+      "source_ja_applied": "［ＶＩＰルームに入った人物］",
+      "source_ja_reviewed": "［ＶＩＰルームに入った人物］",
+      "old_translation": "[ VIP 룸에 들어간 인물 ]",
+      "new_translation": "[VIP룸에 들어간 인물]",
+      "speaker": "장면 대사",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2494,
+      "source_index": "0x0007fcef",
+      "source_ja_raw": "［当日の服装］",
+      "source_ja_applied": "［当日の服装］",
+      "source_ja_reviewed": "［当日の服装］",
+      "old_translation": "[당일의 복장]",
+      "new_translation": "[당일의 옷차림]",
+      "speaker": "장면 대사",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2495,
+      "source_index": "0x0007fd01",
+      "source_ja_raw": "［一利と朝等の関係］",
+      "source_ja_applied": "［一利と朝等の関係］",
+      "source_ja_reviewed": "［一利と朝等の関係］",
+      "old_translation": "[이치로와 아사츠유의 관계]",
+      "new_translation": "[가쓰요와 아사츠유의 관계]",
+      "speaker": "장면 대사",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2496,
+      "source_index": "0x0007fd18",
+      "source_ja_raw": "［事件発生後のＢＧＭについて］",
+      "source_ja_applied": "［事件発生後のＢＧＭについて］",
+      "source_ja_reviewed": "［事件発生後のＢＧＭについて］",
+      "old_translation": "［사건 발생 후의 BGM에 대해］",
+      "new_translation": "[사건 발생 후의 BGM]",
+      "speaker": "장면 대사",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2497,
+      "source_index": "0x0007fd36",
+      "source_ja_raw": "［何か気がついたこと］",
+      "source_ja_applied": "［何か気がついたこと］",
+      "source_ja_reviewed": "［何か気がついたこと］",
+      "old_translation": "［몇 가지 눈치챈 점］",
+      "new_translation": "[눈치챈 점]",
+      "speaker": "장면 대사",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2498,
+      "source_index": "0x0007ff05",
+      "source_ja_raw": "【法子】\\n失礼します。",
+      "source_ja_applied": "【法子】\\n失礼します。",
+      "source_ja_reviewed": "【法子】\\n失礼します。",
+      "old_translation": "【노리코】\\n실례하겠습니다.",
+      "new_translation": "【노리코】\\n실례합니다.",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2499,
+      "source_index": "0x0007ffad",
+      "source_ja_raw": "【栄太郎】\\n……新城順か。\\nお束《つか》れ様。",
+      "source_ja_applied": "【栄太郎】\\n……新城順か。\\nお疲《つか》れ様。",
+      "source_ja_reviewed": "【栄太郎】\\n……新城君か。\\nお疲れ様。",
+      "old_translation": "【신타로】\\n……신조 씨인가.\\n수고했네.",
+      "new_translation": "【에이타로】\\n……신조 군인가.\\n수고했네.",
+      "speaker": "에이타로",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2500,
+      "source_index": "0x0008000c",
+      "source_ja_raw": "【法子】\\nあれ、所長？\\nいつもはこの恋付、\\nいらっしゃらないのに……？",
+      "source_ja_applied": "【法子】\\nあれ、所長？\\nいつもはこの恋付、\\nいらっしゃらないのに……？",
+      "source_ja_reviewed": "【法子】\\nあれ、所長？\\nいつもはこの恋付、\\nいらっしゃらないのに……？",
+      "old_translation": "【노리코】\\n어, 소장님?\\n평소에는 이 시간에\\n안 계시는데……?",
+      "new_translation": "【노리코】\\n어, 소장님?\\n평소에는 이 시간에 안\\n계시는데요……?",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2501,
+      "source_index": "0x0008006f",
+      "source_ja_raw": "【法子】\\nあれ、所長？\\n今日はお料みじゃありませんでした？",
+      "source_ja_applied": "【法子】\\nあれ、所長？\\n今日はお料みじゃありませんでした？",
+      "source_ja_reviewed": "【法子】\\nあれ、所長？\\n今日はお料みじゃありませんでした？",
+      "old_translation": "【노리코】\\n어, 소장님?\\n오늘은 쉬는 날 아니었나요?",
+      "new_translation": "【노리코】\\n어, 소장님?\\n오늘은 쉬는 날 아니었나요?",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2502,
+      "source_index": "0x000800e6",
+      "source_ja_raw": "【栄太郎】\\nあぁ、間日の胸判のために、\\nちょっと書類を携理しないといけなくてね。",
+      "source_ja_applied": "【栄太郎】\\nあぁ、間日の胸判のために、\\nちょっと書類を携理しないといけなくてね。",
+      "source_ja_reviewed": "【栄太郎】\\nあぁ、明日の公判のために、\\nちょっと書類を整理しないといけなくてね。",
+      "old_translation": "【신타로】\\n아, 내일 재판을 위해\\n조금 서류를 정리해야 해서 말이지.",
+      "new_translation": "【에이타로】\\n아, 내일 공판 준비 때문에\\n서류를 처리해야 해서 말이야.",
+      "speaker": "에이타로",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2503,
+      "source_index": "0x00080146",
+      "source_ja_raw": "【法子】\\nそうだったんですか……\\nでもちょうど聞きたいことが\\nあったので助かりました。",
+      "source_ja_applied": "【法子】\\nそうだったんですか……\\nでもちょうど聞きたいことが\\nあったので助かりました。",
+      "source_ja_reviewed": "【法子】\\nそうだったんですか……\\nでもちょうど聞きたいことが\\nあったので助かりました。",
+      "old_translation": "【노리코】\\n그러셨군요……\\n마침 여쭤보고 싶은 게\\n있었는데 잘됐어요.",
+      "new_translation": "【노리코】\\n그랬군요……\\n마침 물어볼 게 있었는데 잘\\n됐네요.",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2504,
+      "source_index": "0x000801c8",
+      "source_ja_raw": "【栄太郎】\\n聞きたいこと……？\\nなにかな？",
+      "source_ja_applied": "【栄太郎】\\n聞きたいこと……？\\nなにかな？",
+      "source_ja_reviewed": "【栄太郎】\\n聞きたいこと……？\\nなにかな？",
+      "old_translation": "【신타로】\\n말하고 싶은 것……?\\n무엇이지?",
+      "new_translation": "【에이타로】\\n물어볼 것……?\\n뭔가?",
+      "speaker": "에이타로",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2505,
+      "source_index": "0x00080214",
+      "source_ja_raw": "【法子】\\nお束《つか》れ様です、所長。\\n少しお話をお伺《うかが》いしたいんですけど、\\nよろしいですか？",
+      "source_ja_applied": "【法子】\\nお疲《つか》れ様です、所長。\\n少しお話をお伺《うかが》いしたいんですけど、\\nよろしいですか？",
+      "source_ja_reviewed": "【法子】\\nお疲《つか》れ様です、所長。\\n少しお話をお伺《うかが》いしたいんですけど、\\nよろしいですか？",
+      "old_translation": "【노리코】\\n무리입니다, 소장.\\n조금 이야기를 듣고 싶습니다만,\\n맞습니까?",
+      "new_translation": "【노리코】\\n수고하십니다, 소장님.\\n이야기를 좀 여쭤보고 싶은데\\n괜찮을까요?",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2506,
+      "source_index": "0x0008028d",
+      "source_ja_raw": "【栄太郎】\\n話……？\\nなにかな？",
+      "source_ja_applied": "【栄太郎】\\n話……？\\nなにかな？",
+      "source_ja_reviewed": "【栄太郎】\\n話……？\\nなにかな？",
+      "old_translation": "【신타로】\\n이야기……?\\n무슨 일이지?",
+      "new_translation": "【에이타로】\\n이야기……?\\n뭔데?",
+      "speaker": "에이타로",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2507,
+      "source_index": "0x000802de",
+      "source_ja_raw": "【法子】\\n失礼します。",
+      "source_ja_applied": "【法子】\\n失礼します。",
+      "source_ja_reviewed": "【法子】\\n失礼します。",
+      "old_translation": "【노리코】\\n실례하겠습니다.",
+      "new_translation": "【노리코】\\n실례합니다.",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2508,
+      "source_index": "0x00080386",
+      "source_ja_raw": "【栄太郎】\\n……新城順か。\\nお束《つか》れ様。",
+      "source_ja_applied": "【栄太郎】\\n……新城順か。\\nお疲《つか》れ様。",
+      "source_ja_reviewed": "【栄太郎】\\n……新城順か。\\nお疲《つか》れ様。",
+      "old_translation": "【신타로】\\n……신조 씨인가.\\n수고했네.",
+      "new_translation": "【에이타로】\\n……신조 군인가.\\n수고했네.",
+      "speaker": "에이타로",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2509,
+      "source_index": "0x000803e5",
+      "source_ja_raw": "【法子】\\nあれ、所長？\\nいつもはこの恋付、\\nいらっしゃらないのに……？",
+      "source_ja_applied": "【法子】\\nあれ、所長？\\nいつもはこの恋付、\\nいらっしゃらないのに……？",
+      "source_ja_reviewed": "【法子】\\nあれ、所長？\\nいつもはこの恋付、\\nいらっしゃらないのに……？",
+      "old_translation": "【노리코】\\n어, 소장님?\\n평소에는 이 시간에\\n안 계시는데……?",
+      "new_translation": "【노리코】\\n어, 소장님?\\n평소에는 이 시간에 안\\n계시는데요……?",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2510,
+      "source_index": "0x00080448",
+      "source_ja_raw": "【法子】\\nあれ、所長？\\n今日はお料みじゃありませんでした？",
+      "source_ja_applied": "【法子】\\nあれ、所長？\\n今日はお料みじゃありませんでした？",
+      "source_ja_reviewed": "【法子】\\nあれ、所長？\\n今日はお料みじゃありませんでした？",
+      "old_translation": "【노리코】\\n어, 소장님?\\n오늘은 쉬는 날 아니었나요?",
+      "new_translation": "【노리코】\\n어, 소장님?\\n오늘은 쉬는 날 아니었나요?",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2511,
+      "source_index": "0x000804bf",
+      "source_ja_raw": "【栄太郎】\\nあぁ、間日の胸判のために、\\nちょっと書類を携理しないといけなくてね。",
+      "source_ja_applied": "【栄太郎】\\nあぁ、間日の胸判のために、\\nちょっと書類を携理しないといけなくてね。",
+      "source_ja_reviewed": "【栄太郎】\\nあぁ、間日の胸判のために、\\nちょっと書類を携理しないといけなくてね。",
+      "old_translation": "【신타로】\\n아, 내일 재판을 위해\\n조금 서류를 정리해야 해서 말이지.",
+      "new_translation": "【에이타로】\\n아, 내일 공판 준비 때문에\\n서류를 처리해야 해서 말이야.",
+      "speaker": "에이타로",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2512,
+      "source_index": "0x0008051f",
+      "source_ja_raw": "【法子】\\nそうだったんですか……\\nでもちょうど聞きたいことが\\nあったので助かりました。",
+      "source_ja_applied": "【法子】\\nそうだったんですか……\\nでもちょうど聞きたいことが\\nあったので助かりました。",
+      "source_ja_reviewed": "【法子】\\nそうだったんですか……\\nでもちょうど聞きたいことが\\nあったので助かりました。",
+      "old_translation": "【노리코】\\n그러셨군요……\\n마침 여쭤보고 싶은 게\\n있었는데 잘됐어요.",
+      "new_translation": "【노리코】\\n그랬군요……\\n마침 물어볼 게 있었는데 잘\\n됐네요.",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2513,
+      "source_index": "0x000805a1",
+      "source_ja_raw": "【栄太郎】\\n聞きたいこと……？\\nなにかな？",
+      "source_ja_applied": "【栄太郎】\\n聞きたいこと……？\\nなにかな？",
+      "source_ja_reviewed": "【栄太郎】\\n聞きたいこと……？\\nなにかな？",
+      "old_translation": "【신타로】\\n말하고 싶은 것……?\\n무엇이지?",
+      "new_translation": "【에이타로】\\n물어볼 것……?\\n뭔가?",
+      "speaker": "에이타로",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2514,
+      "source_index": "0x00080685",
+      "source_ja_raw": "【法子】\\n（沼崎所長……仕事には注しいけど、\\n人には優しい。上曜の鑑《かがみ》よね）",
+      "source_ja_applied": "【法子】\\n（沼崎所長……仕事には注しいけど、\\n人には優しい。上曜の鑑《かがみ》よね）",
+      "source_ja_reviewed": "【法子】\\n（沼崎所長……仕事には厳しいけど、\\n人には優しい。上司の鑑よね）",
+      "old_translation": "【노리코】\\n(누마사키 소장… … 일에는\\n힘들지만,\\n사람에게는 놀다. 상사의 거울이야)",
+      "new_translation": "【노리코】\\n(누마사키 소장님……\\n일에는 엄격하지만 사람에게는\\n상냥해.\\n상사의 본보기네.)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2515,
+      "source_index": "0x000806ee",
+      "source_ja_raw": "【法子】\\n（私もこういう斑になれるのかな……）",
+      "source_ja_applied": "【法子】\\n（私もこういう斑になれるのかな……）",
+      "source_ja_reviewed": "【法子】\\n（私もこういう斑になれるのかな……）",
+      "old_translation": "【노리코】\\n(나도 이런 잉어가 될 수\\n있을까……)",
+      "new_translation": "【노리코】\\n(나도 이런 사람이 될 수\\n있을까……)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2516,
+      "source_index": "0x0008075d",
+      "source_ja_raw": "【栄太郎】\\nん、どうしたのかな？",
+      "source_ja_applied": "【栄太郎】\\nん、どうしたのかな？",
+      "source_ja_reviewed": "【栄太郎】\\nん、どうしたのかな？",
+      "old_translation": "【신타로】\\n응, 어땠어?",
+      "new_translation": "【에이타로】\\n응?\\n왜 그러니?",
+      "speaker": "에이타로",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2517,
+      "source_index": "0x0008079c",
+      "source_ja_raw": "【法子】\\nい、いえ、なんでもないです……",
+      "source_ja_applied": "【法子】\\nい、いえ、なんでもないです……",
+      "source_ja_reviewed": "【法子】\\nい、いえ、なんでもないです……",
+      "old_translation": "【노리코】\\n아니, 아니, 아무것도 아닙니다…",
+      "new_translation": "【노리코】\\n아, 아니요.\\n아무것도 아니에요……",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2518,
+      "source_index": "0x000807e5",
+      "source_ja_raw": "【法子】\\n（私もこういう弁護士になれたらいいな……）",
+      "source_ja_applied": "【法子】\\n（私もこういう弁護士になれたらいいな……）",
+      "source_ja_reviewed": "【法子】\\n（私もこういう弁護士になれたらいいな……）",
+      "old_translation": "【노리코】\\n(나도 이런 변호사가 되면 좋겠다……)",
+      "new_translation": "【노리코】\\n(나도 이런 변호사가 되면\\n좋겠다……)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2519,
+      "source_index": "0x00080876",
+      "source_ja_raw": "【法子】\\n所長の署……\\nとても綺麗《きれい》に片付いてますね。",
+      "source_ja_applied": "【法子】\\n所長の署……\\nとても綺麗《きれい》に片付いてますね。",
+      "source_ja_reviewed": "【法子】\\n所長の署……\\nとても綺麗《きれい》に片付いてますね。",
+      "old_translation": "【노리코】\\n소장의 통증…\\n매우 깨끗이 독립하고 있네요.",
+      "new_translation": "【노리코】\\n소장님 책상……\\n정말 깔끔하게 정리되어 있네요.",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2520,
+      "source_index": "0x000808f2",
+      "source_ja_raw": "【栄太郎】\\n散らかっているのが\\n我慢《がまん》できない性営でね。",
+      "source_ja_applied": "【栄太郎】\\n散らかっているのが\\n我慢《がまん》できない性営でね。",
+      "source_ja_reviewed": "【栄太郎】\\n散らかっているのが\\n我慢できない性格でね。",
+      "old_translation": "【신타로】\\n 거칠고 있는 것이\\n 참을 수 없는 성각으로.",
+      "new_translation": "【에이타로】\\n어지럽혀져 있는 걸\\n참지 못하는 성격이라서 말이야.",
+      "speaker": "에이타로",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2521,
+      "source_index": "0x00080946",
+      "source_ja_raw": "【法子】\\n私も所長を見習わなくては\\nいけませんね。",
+      "source_ja_applied": "【法子】\\n私も所長を見習わなくては\\nいけませんね。",
+      "source_ja_reviewed": "【法子】\\n私も所長を見習わなくては\\nいけませんね。",
+      "old_translation": "【노리코】\\n나도 소장을 보지 않으면\\n안돼.",
+      "new_translation": "【노리코】\\n저도 소장님을 본받아야겠어요.",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2522,
+      "source_index": "0x0008099e",
+      "source_ja_raw": "【栄太郎】\\n新城順はまだ携頓《せいとん》しているよ。\\n他の者たちときたら……",
+      "source_ja_applied": "【栄太郎】\\n新城順はまだ携頓《せいとん》しているよ。\\n他の者たちときたら……",
+      "source_ja_reviewed": "【栄太郎】\\n新城君はまだ整頓しているよ。\\n他の者たちときたら……",
+      "old_translation": "【신타로】\\n신죠가와는 아직 정돈하고 있어. \\n범인들 때면......",
+      "new_translation": "【에이타로】\\n신조 군은 아직 잘 정리하고\\n있잖아.\\n다른 사람들은……",
+      "speaker": "에이타로",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2523,
+      "source_index": "0x00080a22",
+      "source_ja_raw": "【栄太郎】\\nまあ、それぞれがやりやすいように\\n仕事をしてくれるのが一番なんだけどね。",
+      "source_ja_applied": "【栄太郎】\\nまあ、それぞれがやりやすいように\\n仕事をしてくれるのが一番なんだけどね。",
+      "source_ja_reviewed": "【栄太郎】\\nまあ、それぞれがやりやすいように\\n仕事をしてくれるのが一番なんだけどね。",
+      "old_translation": "【신타로】\\n음, 각각이 하기 쉽도록\\n일을 해 주는 것이 제일이지만.",
+      "new_translation": "【에이타로】\\n뭐, 각자가 일하기 편하게 하는 게\\n제일이지만 말이야.",
+      "speaker": "에이타로",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2524,
+      "source_index": "0x00080a84",
+      "source_ja_raw": "【法子】\\n（とても綺麗《きれい》に片付いてるわ）",
+      "source_ja_applied": "【法子】\\n（とても綺麗《きれい》に片付いてるわ）",
+      "source_ja_reviewed": "【法子】\\n（とても綺麗《きれい》に片付いてるわ）",
+      "old_translation": "【노리코】\\n(아주 깔끔하게 정리되어 있네)",
+      "new_translation": "【노리코】\\n(정말 깔끔하게 정리되어 있네.)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2525,
+      "source_index": "0x00080aeb",
+      "source_ja_raw": "【法子】\\n（所長の署……\\nとても綺麗《きれい》に片付いてるわ）",
+      "source_ja_applied": "【法子】\\n（所長の署……\\nとても綺麗《きれい》に片付いてるわ）",
+      "source_ja_reviewed": "【法子】\\n（所長の署……\\nとても綺麗《きれい》に片付いてるわ）",
+      "old_translation": "【노리코】\\n(소장의 통증…\\n매우 아름답게 독립되어 있어)",
+      "new_translation": "【노리코】\\n(소장님 책상……\\n정말 깔끔하게 정리되어 있어.)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2526,
+      "source_index": "0x00080b42",
+      "source_ja_raw": "【法子】\\n（この綴に所長の几帳飯《きちょうめん》さが\\n出てるわね）",
+      "source_ja_applied": "【法子】\\n（この綴に所長の几帳飯《きちょうめん》さが\\n出てるわね）",
+      "source_ja_reviewed": "【法子】\\n（この辺に所長の几帳面さが\\n出てるわね）",
+      "old_translation": "【노리코】\\n(이 무엇에 소장의 꼼꼼함이\\n나오네)",
+      "new_translation": "【노리코】\\n(이런 데서 소장님의 꼼꼼함이\\n드러나네.)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2527,
+      "source_index": "0x00080b99",
+      "source_ja_raw": "【法子】\\n（私も見習わなくちゃ……）",
+      "source_ja_applied": "【法子】\\n（私も見習わなくちゃ……）",
+      "source_ja_reviewed": "【法子】\\n（私も見習わなくちゃ……）",
+      "old_translation": "【노리코】\\n(나도 어설프지 않으면…",
+      "new_translation": "【노리코】\\n(나도 본받아야지……)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2528,
+      "source_index": "0x00080be3",
+      "source_ja_raw": "【法子】\\n（とても綺麗《きれい》に片付いてるわ）",
+      "source_ja_applied": "【法子】\\n（とても綺麗《きれい》に片付いてるわ）",
+      "source_ja_reviewed": "【法子】\\n（とても綺麗《きれい》に片付いてるわ）",
+      "old_translation": "【노리코】\\n(아주 깔끔하게 정리되어 있네)",
+      "new_translation": "【노리코】\\n(정말 깔끔하게 정리되어 있네.)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2529,
+      "source_index": "0x00080da2",
+      "source_ja_raw": "【法子】\\n（これで調査を終わりにしようかしら？）",
+      "source_ja_applied": "【法子】\\n（これで調査を終わりにしようかしら？）",
+      "source_ja_reviewed": "【法子】\\n（これで調査を終わりにしようかしら？）",
+      "old_translation": "【노리코】\\n(이제 조사를 끝낼까?)",
+      "new_translation": "【노리코】\\n(이제 조사를 끝낼까……?)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2530,
+      "source_index": "0x00080e52",
+      "source_ja_raw": "【法子】\\nそれでは、私はこの綴で失礼します。\\nお礒《いそが》しい中ありがとうございました。",
+      "source_ja_applied": "【法子】\\nそれでは、私はこの綴で失礼します。\\nお礒《いそが》しい中ありがとうございました。",
+      "source_ja_reviewed": "【法子】\\nそれでは、私はこの綴で失礼します。\\nお礒《いそが》しい中ありがとうございました。",
+      "old_translation": "【노리코】\\n그럼 저는 이만 실례하겠습니다.\\n바쁘신데도 감사했습니다.",
+      "new_translation": "【노리코】\\n그럼 저는 이만 실례하겠습니다.\\n바쁘신 중에 감사합니다.",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2531,
+      "source_index": "0x00080edb",
+      "source_ja_raw": "【栄太郎】\\nうむ。\\n引き続き調査を続けてくれ。",
+      "source_ja_applied": "【栄太郎】\\nうむ。\\n引き続き調査を続けてくれ。",
+      "source_ja_reviewed": "【栄太郎】\\nうむ。\\n引き続き調査を続けてくれ。",
+      "old_translation": "【신타로】\\n음.\\n계속해서 조사를 진행해 주게.",
+      "new_translation": "【에이타로】\\n음.\\n계속 조사해 주게.",
+      "speaker": "에이타로",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2532,
+      "source_index": "0x00080f26",
+      "source_ja_raw": "【法子】\\nはい。\\nそれでは失礼します。",
+      "source_ja_applied": "【法子】\\nはい。\\nそれでは失礼します。",
+      "source_ja_reviewed": "【法子】\\nはい。\\nそれでは失礼します。",
+      "old_translation": "【노리코】\\n네.\\n그럼 실례하겠습니다.",
+      "new_translation": "【노리코】\\n네.\\n그럼 실례하겠습니다.",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2533,
+      "source_index": "0x00080f7f",
+      "source_ja_raw": "【法子】\\n（もう少し話を聞きましょう）",
+      "source_ja_applied": "【法子】\\n（もう少し話を聞きましょう）",
+      "source_ja_reviewed": "【法子】\\n（もう少し話を聞きましょう）",
+      "old_translation": "【노리코】\\n(조금 더 이야기를 들어 보자.)",
+      "new_translation": "【노리코】\\n(조금 더 이야기를 들어 보자.)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2534,
+      "source_index": "0x00080fce",
+      "source_ja_raw": "【法子】\\n（まだ聞かなくちゃいけないことが残ってるわ。\\n帰るわけにはいかない）",
+      "source_ja_applied": "【法子】\\n（まだ聞かなくちゃいけないことが残ってるわ。\\n帰るわけにはいかない）",
+      "source_ja_reviewed": "【法子】\\n（まだ聞かなくちゃいけないことが残ってるわ。\\n帰るわけにはいかない）",
+      "old_translation": "【노리코】\\n(아직 두지 않으면 안 되는 것이\\n타고\\n있어.\\n돌아갈 수는 없다)",
+      "new_translation": "【노리코】\\n(아직 물어봐야 할 게 남아 있어.\\n돌아갈 수는 없겠어.)",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2535,
+      "source_index": "0x00081090",
+      "source_ja_raw": "【法子】\\n所長から聞いた情報はこんな感じだったわ。",
+      "source_ja_applied": "【法子】\\n所長から聞いた情報はこんな感じだったわ。",
+      "source_ja_reviewed": "【法子】\\n所長から聞いた情報はこんな感じだったわ。",
+      "old_translation": "【노리코】\\n소장님에게서 들은 정보는 이런 내용이었어.",
+      "new_translation": "【노리코】\\n소장님에게 들은 정보는\\n이런 내용이었어.",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2536,
+      "source_index": "0x0008112d",
+      "source_ja_raw": "【光志】\\nなるほど……\\n『こうじ』か。\\n一瞬《いっしゅん》、ドキっとした。",
+      "source_ja_applied": "【光志】\\nなるほど……\\n『こうじ』か。\\n一瞬《いっしゅん》、ドキっとした。",
+      "source_ja_reviewed": "【光志】\\nなるほど……\\n『こうじ』か。\\n一瞬、ドキっとした。",
+      "old_translation": "【코우지】\\n과연……\\n『코지』인가. \\n순간, 두근거렸다.",
+      "new_translation": "【코우지】\\n그렇군……\\n『코우지』인가.\\n순간 두근했어.",
+      "speaker": "코우지",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2537,
+      "source_index": "0x00081196",
+      "source_ja_raw": "【法子】\\nたぶん、押撃《もくげき》された短い男が\\n『○○《なんとか》こうじ』なんだろうね。",
+      "source_ja_applied": "【法子】\\nたぶん、押撃《もくげき》された若い男が\\n『○○《なんとか》こうじ』なんだろうね。",
+      "source_ja_reviewed": "【法子】\\nたぶん、目撃された若い男が\\n『○○こうじ』なんだろうね。",
+      "old_translation": "【노리코】\\n아마, 목격된 젊은 남자가\\n『○○코지』일까.",
+      "new_translation": "【노리코】\\n아마 목격된 젊은 남자가\\n『○○ 코우지』일 거야.",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2538,
+      "source_index": "0x00081225",
+      "source_ja_raw": "【光志】\\n警察はこの『こうじ』とオレを\\n思いっきり結びつけてくるだろうなぁ……",
+      "source_ja_applied": "【光志】\\n警察はこの『こうじ』とオレを\\n思いっきり結びつけてくるだろうなぁ……",
+      "source_ja_reviewed": "【光志】\\n警察はこの『こうじ』とオレを\\n思いっきり結びつけてくるだろうなぁ……",
+      "old_translation": "【코우지】\\n경찰은 이 『코지』와 나를\\n무겁게 묶어 올 것이다…",
+      "new_translation": "【코우지】\\n경찰은 이 『코우지』와 나를\\n있는 힘껏 연결하려 들겠지……",
+      "speaker": "코우지",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2539,
+      "source_index": "0x000812a6",
+      "source_ja_raw": "【光志】\\n何者なんだろう、\\nこの『こうじ』は……",
+      "source_ja_applied": "【光志】\\n何者なんだろう、\\nこの『こうじ』は……",
+      "source_ja_reviewed": "【光志】\\n何者なんだろう、\\nこの『こうじ』は……",
+      "old_translation": "【코우지】\\n누구일까,\\n이 『코지』는…",
+      "new_translation": "【코우지】\\n대체 누구일까,\\n이 『코우지』는……",
+      "speaker": "코우지",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2540,
+      "source_index": "0x00081367",
+      "source_ja_raw": "【光志】\\n被害者《ひがいしゃ》、沼崎弁護士、近藤刑事は\\nいずれもスーツか。",
+      "source_ja_applied": "【光志】\\n被害者《ひがいしゃ》、沼崎弁護士、近藤刑事は\\nいずれもスーツか。",
+      "source_ja_reviewed": "【光志】\\n被害者、沼崎弁護士、近藤刑事は\\nいずれもスーツか。",
+      "old_translation": "【코우지】\\n피해자, 누마사키 변호사, 콘도\\n형사는\\n모두 슈트인가.",
+      "new_translation": "【코우지】\\n피해자, 누마사키 변호사, 콘도\\n형사는\\n모두 정장인가.",
+      "speaker": "코우지",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2541,
+      "source_index": "0x000813d5",
+      "source_ja_raw": "【光志】\\n朝等さんが私服だったのはオレも覚えてる。",
+      "source_ja_applied": "【光志】\\n朝等さんが私服だったのはオレも覚えてる。",
+      "source_ja_reviewed": "【光志】\\n朝等さんが私服だったのはオレも覚えてる。",
+      "old_translation": "【코우지】\\n아사츠유씨가 사복이었던 것은 나도\\n기억하고 있다.",
+      "new_translation": "【코우지】\\n아사츠유 씨가 사복이었던 건\\n나도 기억해.",
+      "speaker": "코우지",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2542,
+      "source_index": "0x0008142d",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2543,
+      "source_index": "0x0008148c",
+      "source_ja_raw": "【光志】\\nなるほどね……",
+      "source_ja_applied": "【光志】\\nなるほどね……",
+      "source_ja_reviewed": "【光志】\\nなるほどね……",
+      "old_translation": "【코우지】\\n과연…",
+      "new_translation": "【코우지】\\n그렇군……",
+      "speaker": "코우지",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2544,
+      "source_index": "0x0008152e",
+      "source_ja_raw": "【光志】\\n朝等さんが弁護士だったとは……\\nビックリしたな。",
+      "source_ja_applied": "【光志】\\n朝等さんが弁護士だったとは……\\nビックリしたな。",
+      "source_ja_reviewed": "【光志】\\n朝等さんが弁護士だったとは……\\nビックリしたな。",
+      "old_translation": "【코우지】\\n아사츠유씨가 변호사였다고는…\\n놀랐다.",
+      "new_translation": "【코우지】\\n아사츠유 씨가 변호사였다니……\\n놀랐어.",
+      "speaker": "코우지",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2545,
+      "source_index": "0x000815a6",
+      "source_ja_raw": "【法子】\\nでしょ？\\nしかも白川グループの顧問弁護士《こもんべんごし》を\\nしてたなんて……",
+      "source_ja_applied": "【法子】\\nでしょ？\\nしかも白川グループの顧問弁護士《こもんべんごし》を\\nしてたなんて……",
+      "source_ja_reviewed": "【法子】\\nでしょ？\\nしかも白川グループの顧問弁護士を\\nしてたなんて……",
+      "old_translation": "【노리코】\\n이죠? \\n게다가 시라카와 그룹의 고문\\n변호사를\\n하고 있었다니…",
+      "new_translation": "【노리코】\\n그렇지?\\n게다가 시라카와 그룹의\\n고문 변호사였다니……",
+      "speaker": "노리코",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2546,
+      "source_index": "0x00081631",
+      "source_ja_raw": "【光志】\\nそんなこと一言も話してくれなかった……",
+      "source_ja_applied": "【光志】\\nそんなこと一言も話してくれなかった……",
+      "source_ja_reviewed": "【光志】\\nそんなこと一言も話してくれなかった……",
+      "old_translation": "【코우지】\\n그런 것 한마디도 말해주지 않았다…",
+      "new_translation": "【코우지】\\n그런 얘기는 한마디도 안 해\\n줬어……",
+      "speaker": "코우지",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2547,
+      "source_index": "0x000816a0",
+      "source_ja_raw": "【法子】\\n体調を屑《くず》して二めたって噂《うわさ》も気になるところよね。",
+      "source_ja_applied": "【法子】\\n体調を屑《くず》して二めたって噂《うわさ》も気になるところよね。",
+      "source_ja_reviewed": "【光志】\\n体調を崩して辞めたって噂も\\n気になるところだよな。",
+      "old_translation": "【노리코】\\n컨디션을 쓰러뜨리고 길을 섰다고\\n소문도\\n신경이 쓰이는 곳이지.",
+      "new_translation": "【코우지】\\n몸이 안 좋아져서 그만뒀다는\\n소문도 신경 쓰이네.",
+      "speaker": "코우지",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2548,
+      "source_index": "0x00081720",
+      "source_ja_raw": "【光志】\\n朝等さんに聞いても、\\nきっとはぐらかされるんだろうな……",
+      "source_ja_applied": "【光志】\\n朝等さんに聞いても、\\nきっとはぐらかされるんだろうな……",
+      "source_ja_reviewed": "【光志】\\n朝等さんに聞いても、\\nきっとはぐらかされるんだろうな……",
+      "old_translation": "【코우지】\\n아사츠유씨에게 두어도,\\n분명은 얼마 되지 않을까…",
+      "new_translation": "【코우지】\\n아사츠유 씨에게 물어봐도\\n분명 얼버무리겠지……",
+      "speaker": "코우지",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2549,
+      "source_index": "0x000817e2",
+      "source_ja_raw": "【光志】\\nそうか！\\nＢＧＭが穢れてなかった……\\nこの事実は大きいぞ！",
+      "source_ja_applied": "【光志】\\nそうか！\\nＢＧＭが穢れてなかった……\\nこの事実は大きいぞ！",
+      "source_ja_reviewed": "【光志】\\nそうか！\\nＢＧＭが流れてなかった……\\nこの事実は大きいぞ！",
+      "old_translation": "【코우지】\\n그렇구나!\\nBGM이 재생되지 않았어……\\n이 사실은 커!",
+      "new_translation": "【코우지】\\n그렇구나!\\nBGM이 재생되고 있지 않았어……\\n이 사실은 커다란 의미가 있어!",
+      "speaker": "코우지",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2550,
+      "source_index": "0x00081893",
+      "source_ja_raw": "【光志】\\nこれですべての事実がひっくり換る！",
+      "source_ja_applied": "【光志】\\nこれですべての事実がひっくり返る！",
+      "source_ja_reviewed": "【光志】\\nこれですべての事実がひっくり返る！",
+      "old_translation": "【코우지】\\n이걸로 모든 사실이 뒤집혀!",
+      "new_translation": "【코우지】\\n이걸로 모든 사실이 뒤집힌다!",
+      "speaker": "코우지",
+      "scene": "누마사키 사무소 재방문과 에이타로 정보",
+      "relationship_context": "노리코는 소장 에이타로의 정리된 사무실을 관찰하고, 코우지는 새로운 코우지·BGM 단서를 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    }
+  ]
+}

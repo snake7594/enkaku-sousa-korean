@@ -1,0 +1,4572 @@
+{
+  "schema": "enkaku_retranslation_batch_v2",
+  "batch": 17,
+  "source_range": {
+    "order_start": 4551,
+    "order_end": 4800,
+    "count": 250
+  },
+  "purpose": "에이타로의 라이트 블루 목격 증언, VIP룸 구조 검증, 지문 논리, 콘도의 강압 취조와 피해자 면식 추궁을 재번역한다.",
+  "emulator_launched": false,
+  "display_width": 19,
+  "translation_policy": [
+    "라이트 블루의 VIP룸은 안쪽에서만 열리는 자동 잠금문, 암호, 방음, 카운터 열쇠 관리가 서로 연결된 구조로 번역한다.",
+    "콘도 가쓰미는 최초 발견자이자 미우라의 상사로, 강압 취조와 사법 거래를 제안하는 인물로 구분한다.",
+    "지문이 없다는 코우지의 반론은 문 전체의 지문이 사전에 닦였다는 미우라의 반박으로 연결한다.",
+    "시라카와 이치리와의 면식은 직접 만남·매체 노출·명함 발견을 구분해 추궁한다."
+  ],
+  "counts": {
+    "entries": 250,
+    "changed": 226,
+    "wrapped_rows": 37
+  },
+  "translations": [
+    {
+      "order": 4551,
+      "source_index": "0x000c0671",
+      "source_ja_raw": "【光志】\\nそ、そうか……",
+      "source_ja_applied": "【光志】\\nそ、そうか……",
+      "source_ja_reviewed": "【光志】\\nそ、そうか……",
+      "old_translation": "【코우지】\\n그, 그렇군……",
+      "new_translation": "【코우지】\\n그, 그렇구나……",
+      "speaker": "코우지",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4552,
+      "source_index": "0x000c06ac",
+      "source_ja_raw": "【光志】\\n……オレもだ。",
+      "source_ja_applied": "【光志】\\n……オレもだ。",
+      "source_ja_reviewed": "【光志】\\n……オレもだ。",
+      "old_translation": "【코우지】\\n… … 나도 있어.",
+      "new_translation": "【코우지】\\n……나도 그래.",
+      "speaker": "코우지",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4553,
+      "source_index": "0x000c070d",
+      "source_ja_raw": "【法子】\\nえっ……！？",
+      "source_ja_applied": "【法子】\\nえっ……！？",
+      "source_ja_reviewed": "【法子】\\nえっ……！？",
+      "old_translation": "【노리코】\\n어……!?",
+      "new_translation": "【노리코】\\n뭐……!?",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4554,
+      "source_index": "0x000c0748",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4555,
+      "source_index": "0x000c07a7",
+      "source_ja_raw": "【法子】\\nそ、それじゃ、行ってくるね。",
+      "source_ja_applied": "【法子】\\nそ、それじゃ、行ってくるね。",
+      "source_ja_reviewed": "【法子】\\nそ、それじゃ、行ってくるね。",
+      "old_translation": "【노리코】\\n그, 그럼, 다녀오네.",
+      "new_translation": "【노리코】\\n그럼 다녀올게.",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4556,
+      "source_index": "0x000c07ea",
+      "source_ja_raw": "【光志】\\nお、おう……",
+      "source_ja_applied": "【光志】\\nお、おう……",
+      "source_ja_reviewed": "【光志】\\nお、おう……",
+      "old_translation": "【코우지】\\n어, 어……",
+      "new_translation": "【코우지】\\n어, 그래……",
+      "speaker": "코우지",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4557,
+      "source_index": "0x000c0847",
+      "source_ja_raw": "【法子】\\n了婚《りょうかい》。",
+      "source_ja_applied": "【法子】\\n了婚《りょうかい》。",
+      "source_ja_reviewed": "【法子】\\n了婚《りょうかい》。",
+      "old_translation": "【노리코】\\n알겠어.",
+      "new_translation": "【노리코】\\n알겠어.",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4558,
+      "source_index": "0x000c0893",
+      "source_ja_raw": "【法子】\\n……いよいよだね。\\nがんばろうね、コウジ。",
+      "source_ja_applied": "【法子】\\n……いよいよだね。\\nがんばろうね、コウジ。",
+      "source_ja_reviewed": "【法子】\\n……いよいよだね。\\nがんばろうね、コウジ。",
+      "old_translation": "【노리코】\\n......드디어. \\n 최선을 다하겠습니다, 코우지.",
+      "new_translation": "【노리코】\\n……드디어네.\\n힘내자, 코우지.",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4559,
+      "source_index": "0x000c08df",
+      "source_ja_raw": "【光志】\\nああ。",
+      "source_ja_applied": "【光志】\\nああ。",
+      "source_ja_reviewed": "【光志】\\nああ。",
+      "old_translation": "【코우지】\\n그래.",
+      "new_translation": "【코우지】\\n그래.",
+      "speaker": "코우지",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4560,
+      "source_index": "0x000c0921",
+      "source_ja_raw": "【法子】\\nじゃあ、またね。",
+      "source_ja_applied": "【法子】\\nじゃあ、またね。",
+      "source_ja_reviewed": "【法子】\\nじゃあ、またね。",
+      "old_translation": "【노리코】\\n그럼, 또.",
+      "new_translation": "【노리코】\\n그럼 또 보자.",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4561,
+      "source_index": "0x000c096e",
+      "source_ja_raw": "【法子】\\n了婚《りょうかい》。\\nそれじゃ、行ってくるね。",
+      "source_ja_applied": "【法子】\\n了婚《りょうかい》。\\nそれじゃ、行ってくるね。",
+      "source_ja_reviewed": "【法子】\\n了婚《りょうかい》。\\nそれじゃ、行ってくるね。",
+      "old_translation": "【노리코】\\n알겠어.\\n그럼 다녀올게.",
+      "new_translation": "【노리코】\\n알겠어.\\n그럼 다녀올게.",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4562,
+      "source_index": "0x000c0b6f",
+      "source_ja_raw": "【法子】\\nあと、所長にも話を聞いてきたわ。",
+      "source_ja_applied": "【法子】\\nあと、所長にも話を聞いてきたわ。",
+      "source_ja_reviewed": "【法子】\\nあと、所長にも話を聞いてきたわ。",
+      "old_translation": "【노리코】\\n그리고 소장님에게도 이야기를 들었어.",
+      "new_translation": "【노리코】\\n그리고 소장님에게도\\n이야기를 들었어.",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4563,
+      "source_index": "0x000c0bf5",
+      "source_ja_raw": "【法子】\\n失礼します。",
+      "source_ja_applied": "【法子】\\n失礼します。",
+      "source_ja_reviewed": "【法子】\\n失礼します。",
+      "old_translation": "【노리코】\\n실례하겠습니다.",
+      "new_translation": "【노리코】\\n실례합니다.",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4564,
+      "source_index": "0x000c0c8e",
+      "source_ja_raw": "【栄太郎】\\n新城順か。\\n白川順の事件の調査は活んでいるかい？",
+      "source_ja_applied": "【栄太郎】\\n新城順か。\\n白川順の事件の調査は活んでいるかい？",
+      "source_ja_reviewed": "新城順か。白川一利の事件の調査は進《すす》んでいるかい？",
+      "old_translation": "【신타로】\\n신조 씨인가.\\n시라카와 사건 조사는 진척되고 있나?",
+      "new_translation": "【에이타로】\\n신조 양인가.\\n시라카와 이치리 사건 조사는\\n잘 진행되고 있나?",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4565,
+      "source_index": "0x000c0cf4",
+      "source_ja_raw": "【法子】\\nはい。\\n少しずつ活めています。",
+      "source_ja_applied": "【法子】\\nはい。\\n少しずつ活めています。",
+      "source_ja_reviewed": "【法子】\\nはい。\\n少しずつ活めています。",
+      "old_translation": "【노리코】\\n네. \\n조금씩 진행하고 있습니다.",
+      "new_translation": "【노리코】\\n네.\\n조금씩 진행하고 있습니다.",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4566,
+      "source_index": "0x000c0d38",
+      "source_ja_raw": "【法子】\\nそれで、\\n事件発生恋の様子を\\n教えていただければと思いまして……",
+      "source_ja_applied": "【法子】\\nそれで、\\n事件発生恋の様子を\\n教えていただければと思いまして……",
+      "source_ja_reviewed": "【法子】\\nそれで、\\n事件発生恋の様子を\\n教えていただければと思いまして……",
+      "old_translation": "【노리코】\\n그래서,\\n사건 발생시의 모습을\\n가르쳐 주시면과 무거워서…",
+      "new_translation": "【노리코】\\n그래서 사건이 발생했을 때의\\n상황을 알려 주셨으면 해서……",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4567,
+      "source_index": "0x000c0dbb",
+      "source_ja_raw": "【栄太郎】\\n……あのときはビックリしたよ。",
+      "source_ja_applied": "【栄太郎】\\n……あのときはビックリしたよ。",
+      "source_ja_reviewed": "【栄太郎】\\n……あのときはビックリしたよ。",
+      "old_translation": "【신타로】\\n......그때는 깜짝 놀랐어.",
+      "new_translation": "【에이타로】\\n……그때는 놀랐지.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4568,
+      "source_index": "0x000c0e32",
+      "source_ja_raw": "【栄太郎】\\n銃声《じゅうせい》が堂内に率《な》り清《ひび》いてね、\\n一瞬《いっしゅん》、客同士で顔を見合わせたんだ。",
+      "source_ja_applied": "【栄太郎】\\n銃声《じゅうせい》が堂内に率《な》り清《ひび》いてね、\\n一瞬《いっしゅん》、客同士で顔を見合わせたんだ。",
+      "source_ja_reviewed": "銃声《じゅうせい》が店内に鳴《な》り響《ひび》いてね、一瞬《いっしゅん》、客同士で顔を見合わせたんだ。",
+      "old_translation": "【신타로】\\n총성이 가게 안에 울려 퍼져,\\n일순간, 손님끼리 보아 맞았다.",
+      "new_translation": "【에이타로】\\n총성이 장내에 울려 퍼져서\\n순간 손님들끼리\\n서로 얼굴을 마주 봤어.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4569,
+      "source_index": "0x000c0eae",
+      "source_ja_raw": "【栄太郎】\\nそんな中、近藤順……\\n今、刑事《けいじ》をやっている高校の同級生で、\\n彼も現場に居合わせたんだが……",
+      "source_ja_applied": "【栄太郎】\\nそんな中、近藤順……\\n今、刑事《けいじ》をやっている高校の同級生で、\\n彼も現場に居合わせたんだが……",
+      "source_ja_reviewed": "そんな中、近藤克美……今、刑事《けいじ》をやっている高校の同級生で、彼も現場に居合わせたんだが……",
+      "old_translation": "【신타로】\\n그런 가운데, 콘도강…\\n지금 형사를 하고 있는 고등학교의\\n동기생으로,\\n아야도 현장에 거주했지만…",
+      "new_translation": "【에이타로】\\n그때 콘도 가쓰미……\\n지금 형사로 일하는 고등학교\\n동창인데\\n그도 현장에 있었거든……",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4570,
+      "source_index": "0x000c0f2c",
+      "source_ja_raw": "【栄太郎】\\n彼が真っ先に、銃声《じゅうせい》が聞こえたほう、\\nＶＩＰルームへ駆《か》け出《だ》したんだ。",
+      "source_ja_applied": "【栄太郎】\\n彼が真っ先に、銃声《じゅうせい》が聞こえたほう、\\nＶＩＰルームへ駆《か》け出《だ》したんだ。",
+      "source_ja_reviewed": "【栄太郎】\\n彼が真っ先に、銃声《じゅうせい》が聞こえたほう、\\nＶＩＰルームへ駆《か》け出《だ》したんだ。",
+      "old_translation": "【신타로】\\n아야가 맨 먼저, 총성이 놓이는\\n편,\\nVIP 룸으로 달려갔다.",
+      "new_translation": "【에이타로】\\n그가 가장 먼저 총성이 들린 쪽,\\nVIP룸으로 달려갔어.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4571,
+      "source_index": "0x000c0f9e",
+      "source_ja_raw": "【栄太郎】\\nそれに続いて、水谷順……\\n彼女は今探偵をしていたかな……？",
+      "source_ja_applied": "【栄太郎】\\nそれに続いて、水谷順……\\n彼女は今探偵をしていたかな……？",
+      "source_ja_reviewed": "それに続いて、水谷朝等……彼女は今探偵をしていたかな……？",
+      "old_translation": "【신타로】\\n그 외에 미즈타니가와…\\n아야녀는 지금 탐정을 하고\\n있었을까…",
+      "new_translation": "【에이타로】\\n그 뒤를 이어 아사츠유 씨도\\n갔지……\\n지금은 탐정을 하고 있던가……?",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4572,
+      "source_index": "0x000c102e",
+      "source_ja_raw": "【法子】\\n所長は水谷さんとも\\nお知り合いなんですね。",
+      "source_ja_applied": "【法子】\\n所長は水谷さんとも\\nお知り合いなんですね。",
+      "source_ja_reviewed": "【法子】\\n所長は水谷さんとも\\nお知り合いなんですね。",
+      "old_translation": "【노리코】\\n소장은 미즈타니씨와도\\n 아는 사람이군요.",
+      "new_translation": "【노리코】\\n소장님은 아사츠유 씨와도\\n아는 사이시군요.",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4573,
+      "source_index": "0x000c107b",
+      "source_ja_raw": "【法子】\\n実は、被疑者《ひぎしゃ》となっている\\n斉藤さんの上曜なんです。",
+      "source_ja_applied": "【法子】\\n実は、被疑者《ひぎしゃ》となっている\\n斉藤さんの上曜なんです。",
+      "source_ja_reviewed": "【法子】\\n実は、被疑者《ひぎしゃ》となっている\\n斉藤さんの上曜なんです。",
+      "old_translation": "【노리코】\\n실은, 피의자가 되고 있는\\n사이토씨의 상사입니다.",
+      "new_translation": "【노리코】\\n실은 피의자인\\n사이토 씨의 상사입니다.",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4574,
+      "source_index": "0x000c10fc",
+      "source_ja_raw": "【栄太郎】\\nそうか。\\n被疑者《ひぎしゃ》の顔に見覚えがあると思ったが、\\nあの日、彼女の連れだった男性か。",
+      "source_ja_applied": "【栄太郎】\\nそうか。\\n被疑者《ひぎしゃ》の顔に見覚えがあると思ったが、\\nあの日、彼女の連れだった男性か。",
+      "source_ja_reviewed": "【栄太郎】\\nそうか。\\n被疑者《ひぎしゃ》の顔に見覚えがあると思ったが、\\nあの日、彼女の連れだった男性か。",
+      "old_translation": "【신타로】\\n그런가. \\n피의자의 보기에 기억이 있다고\\n생각했지만,\\n그날, 아야의 동반이었던\\n시라카와인가.",
+      "new_translation": "【에이타로】\\n그렇군.\\n피의자 얼굴이 낯익다 했더니\\n그날 그녀와 함께 있던 남자였나.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4575,
+      "source_index": "0x000c116f",
+      "source_ja_raw": "【法子】\\nええ。……それで\\nＶＩＰルームに行ったあとはどうでした？",
+      "source_ja_applied": "【法子】\\nええ。……それで\\nＶＩＰルームに行ったあとはどうでした？",
+      "source_ja_reviewed": "【法子】\\nええ。……それで\\nＶＩＰルームに行ったあとはどうでした？",
+      "old_translation": "【노리코】\\n그래. ......그래서 \\nVIP 룸에 간 뒤는 어땠어?",
+      "new_translation": "【노리코】\\n네.……그럼\\nVIP룸에 간 뒤에는 어떻게\\n됐나요?",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4576,
+      "source_index": "0x000c1217",
+      "source_ja_raw": "【栄太郎】\\n途中《とちゅう》にドアがあったんだ。\\n近藤順が開けようとしたが、\\nどうやら鍵《かぎ》が励まっていたようでね。",
+      "source_ja_applied": "【栄太郎】\\n途中《とちゅう》にドアがあったんだ。\\n近藤順が開けようとしたが、\\nどうやら鍵《かぎ》が励まっていたようでね。",
+      "source_ja_reviewed": "途中《とちゅう》にドアがあったんだ。近藤克美が開けようとしたが、どうやら鍵《かぎ》が掛《か》かっていたようでね。",
+      "old_translation": "【신타로】\\n 도중에 문이 있었다. \\n콘도강이 제시하려고 했지만,\\n아무래도 열쇠가 격려하고 있었던 것\\n같네요.",
+      "new_translation": "【에이타로】\\n가는 길에 문이 하나 있었어.\\n콘도 가쓰미가 열려고 했지만\\n잠겨 있었던 모양이야.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4577,
+      "source_index": "0x000c128e",
+      "source_ja_raw": "【栄太郎】\\nそれを見た水谷順が、\\n一旦《いったん》引き換して、\\nすぐにドアの鍵《かぎ》を持って戻《もど》ってきた。",
+      "source_ja_applied": "【栄太郎】\\nそれを見た水谷順が、\\n一旦《いったん》引き返して、\\nすぐにドアの鍵《かぎ》を持って戻《もど》ってきた。",
+      "source_ja_reviewed": "【栄太郎】\\nそれを見た水谷順が、\\n一旦《いったん》引き返して、\\nすぐにドアの鍵《かぎ》を持って戻《もど》ってきた。",
+      "old_translation": "【신타로】\\n그것을 본 미즈타니가와가,\\n일단 교환해,\\n곧바로 문의 열쇠를 망쳐 돌아왔다.",
+      "new_translation": "【에이타로】\\n그걸 본 아사츠유 씨가\\n일단 되돌아갔다가\\n곧 문 열쇠를 가지고 돌아왔어.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4578,
+      "source_index": "0x000c1306",
+      "source_ja_raw": "【栄太郎】\\nマスターに鍵《かぎ》を借りて来たのだろう。\\n彼女の機由もあって、\\nそんなに恋付はロスしていなかったと思う。",
+      "source_ja_applied": "【栄太郎】\\nマスターに鍵《かぎ》を借りて来たのだろう。\\n彼女の機由もあって、\\nそんなに恋付はロスしていなかったと思う。",
+      "source_ja_reviewed": "マスターに鍵《かぎ》を借りて来たのだろう。彼女の機転《きてん》もあって、そんなに時間はロスしていなかったと思う。",
+      "old_translation": "【신타로】\\n마스터에게 열쇠를 빌려서 가져온\\n거겠지.\\n그녀 사정도 있었고,\\n그렇게 시간을 낭비하진 않았을\\n거야.",
+      "new_translation": "【에이타로】\\n마스터에게 열쇠를 빌려 온 거겠지.\\n그녀의 재치 덕분에\\n시간은 많이 지체되지 않았다고\\n생각해.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4579,
+      "source_index": "0x000c137c",
+      "source_ja_raw": "【栄太郎】\\n水谷順から鍵《かぎ》を受け蠧り、\\n近藤順が鍵《かぎ》を開けた。",
+      "source_ja_applied": "【栄太郎】\\n水谷順から鍵《かぎ》を受け取り、\\n近藤順が鍵《かぎ》を開けた。",
+      "source_ja_reviewed": "【栄太郎】\\n水谷順から鍵《かぎ》を受け取り、\\n近藤順が鍵《かぎ》を開けた。",
+      "old_translation": "【신타로】\\n미즈타니 씨에게서 열쇠를 건네받아,\\n콘도 씨가 열쇠를 열었어.",
+      "new_translation": "【에이타로】\\n아사츠유 씨에게 열쇠를 받아\\n콘도 가쓰미가 문을 열었어.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4580,
+      "source_index": "0x000c13dd",
+      "source_ja_raw": "【栄太郎】\\nそして近藤順が言ったんだ。\\nこのさきにまだ拳銃《けんじゅう》を持った犯人が\\nいるかもしれない。",
+      "source_ja_applied": "【栄太郎】\\nそして近藤順が言ったんだ。\\nこのさきにまだ拳銃《けんじゅう》を持った犯人が\\nいるかもしれない。",
+      "source_ja_reviewed": "【栄太郎】\\nそして近藤順が言ったんだ。\\nこのさきにまだ拳銃《けんじゅう》を持った犯人が\\nいるかもしれない。",
+      "old_translation": "【신타로】\\n그리고 콘도강이 말했다. \\n이 방금 아직 권총을 망친 범인이 \\n있을지도 모른다.",
+      "new_translation": "【에이타로】\\n그러고는 콘도 가쓰미가 말했지.\\n앞에 아직 권총을 든 범인이\\n있을지도 모른다고.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4581,
+      "source_index": "0x000c144b",
+      "source_ja_raw": "【栄太郎】\\n危険だから自分１人で行く。\\n他の者はここで待機していろとね。",
+      "source_ja_applied": "【栄太郎】\\n危険だから自分１人で行く。\\n他の者はここで待機していろとね。",
+      "source_ja_reviewed": "【栄太郎】\\n危険だから自分１人で行く。\\n他の者はここで待機していろとね。",
+      "old_translation": "【신타로】\\n치명적이기 때문에 자신 혼자 간다.\\n범인은 여기서 기다려야 합니다.",
+      "new_translation": "【에이타로】\\n위험하니 혼자 가겠다고\\n다른 사람들은 여기서 기다리라고\\n했어.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4582,
+      "source_index": "0x000c14a9",
+      "source_ja_raw": "【栄太郎】\\nだからドアの前で待っていたら、\\n中から近藤順の\\n鮭《さけ》び声《ごえ》が聞こえたんだ。",
+      "source_ja_applied": "【栄太郎】\\nだからドアの前で待っていたら、\\n中から近藤順の\\n鮭《さけ》び声《ごえ》が聞こえたんだ。",
+      "source_ja_reviewed": "だからドアの前で待っていたら、中から近藤克美の叫《さけ》び声《ごえ》が聞こえたんだ。",
+      "old_translation": "【신타로】\\n그래서 문 앞에서 기다리고\\n있었다면,\\n중에서 콘도강의\\n술이 뒀다.",
+      "new_translation": "【에이타로】\\n그래서 문 앞에서 기다리고 있었는데\\n안에서 콘도 가쓰미의\\n비명 소리가 들렸어.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4583,
+      "source_index": "0x000c1575",
+      "source_ja_raw": "【栄太郎】\\n私と水谷順は鮭《さけ》び声《ごえ》が聞こえたと同恋に、\\nＶＩＰルームの中に入った。",
+      "source_ja_applied": "【栄太郎】\\n私と水谷順は鮭《さけ》び声《ごえ》が聞こえたと同恋に、\\nＶＩＰルームの中に入った。",
+      "source_ja_reviewed": "【栄太郎】\\n私と水谷順は鮭《さけ》び声《ごえ》が聞こえたと同恋に、\\nＶＩＰルームの中に入った。",
+      "old_translation": "【신타로】\\n나와 미즈타니가와는 술소리가 놓이는\\n것과\\n동시에,\\nVIP룸 안에 들어갔다.",
+      "new_translation": "【에이타로】\\n나와 아사츠유 씨는 비명이\\n들리자마자\\nVIP룸 안으로 들어갔어.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4584,
+      "source_index": "0x000c1609",
+      "source_ja_raw": "【栄太郎】\\nするとそこには近藤順と\\n殺された白川順の會だけで、\\n犯人はすでにどこにもいなかった。",
+      "source_ja_applied": "【栄太郎】\\nするとそこには近藤順と\\n殺された白川順の姿だけで、\\n犯人はすでにどこにもいなかった。",
+      "source_ja_reviewed": "するとそこには近藤克美と殺された白川一利の姿だけで、犯人はすでにどこにもいなかった。",
+      "old_translation": "【신타로】\\n하면 거기에는 콘도 준과\\n살해당한 시라카와 준의 시신만\\n있었고,\\n범인은 벌써 어디에도 없었다.",
+      "new_translation": "【에이타로】\\n그곳에는 콘도 가쓰미와\\n살해당한 시라카와 이치리만 있었고\\n범인은 이미 어디에도 없었지.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4585,
+      "source_index": "0x000c1698",
+      "source_ja_raw": "【栄太郎】\\nすぐに水谷順はＶＩＰルームから出て\\n１１０番通報をしに事務所へ向かった。",
+      "source_ja_applied": "【栄太郎】\\nすぐに水谷順はＶＩＰルームから出て\\n１１０番通報をしに事務所へ向かった。",
+      "source_ja_reviewed": "【栄太郎】\\nすぐに水谷順はＶＩＰルームから出て\\n１１０番通報をしに事務所へ向かった。",
+      "old_translation": "【신타로】\\n곧바로 미즈타니가와는 VIP룸에서\\n나와\\n110번 통보를 해 사무소로\\n향했다.",
+      "new_translation": "【에이타로】\\n아사츠유 씨는 곧 VIP룸에서 나와\\n110번에 신고하려고 사무실로\\n향했어.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4586,
+      "source_index": "0x000c1726",
+      "source_ja_raw": "【栄太郎】\\nしばらくして近藤順が\\nここは現場《げんじょう》画存《ほぞん》のために封鎖《ふうさ》するから\\n部屋の外に出るように指示した。",
+      "source_ja_applied": "【栄太郎】\\nしばらくして近藤順が\\nここは現場《げんじょう》画存《ほぞん》のために封鎖《ふうさ》するから\\n部屋の外に出るように指示した。",
+      "source_ja_reviewed": "しばらくして近藤克美がここは現場《げんじょう》保存《ほぞん》のために封鎖《ふうさ》するから部屋の外に出るように指示した。",
+      "old_translation": "【신타로】\\n잠시 후 콘도 씨가\\n여기는 현장 보존을 위해 막는다며\\n방 밖으로 나가라고 지시했어.",
+      "new_translation": "【에이타로】\\n잠시 뒤 콘도 가쓰미가\\n현장을 보존해야 하니\\n방 밖으로 나가라고 했어.",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4587,
+      "source_index": "0x000c17d2",
+      "source_ja_raw": "【栄太郎】\\nそしてホールに戻《もど》ってきて、\\nあとは警察の事情稔蠧《じじょうちょうしゅ》を受けたんだ……",
+      "source_ja_applied": "【栄太郎】\\nそしてホールに戻《もど》ってきて、\\nあとは警察の事情稔取《じじょうちょうしゅ》を受けたんだ……",
+      "source_ja_reviewed": "【栄太郎】\\nそしてホールに戻《もど》ってきて、\\nあとは警察の事情稔取《じじょうちょうしゅ》を受けたんだ……",
+      "old_translation": "【신타로】\\n그리고 홀로 돌아와서,\\n다음은 경찰의 사정 청림을 안\\n갔어…",
+      "new_translation": "【에이타로】\\n그리고 홀로 돌아와서\\n경찰의 사정 청취를 받았지……",
+      "speaker": "에이타로",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4588,
+      "source_index": "0x000c1896",
+      "source_ja_raw": "【法子】\\n所長から聞いた話は、\\nこんな感じだったわ。",
+      "source_ja_applied": "【法子】\\n所長から聞いた話は、\\nこんな感じだったわ。",
+      "source_ja_reviewed": "【法子】\\n所長から聞いた話は、\\nこんな感じだったわ。",
+      "old_translation": "【노리코】\\n소장으로부터 들은 이야기는,\\n이런 느낌이었어.",
+      "new_translation": "【노리코】\\n소장님께 들은 이야기는\\n이런 내용이었어.",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4589,
+      "source_index": "0x000c18f0",
+      "source_ja_raw": "【法子】\\nあと、最後にもう一つ。\\nこれは事務所の先輩《せんぱい》に聞いた情報\\nなんだけど……",
+      "source_ja_applied": "【法子】\\nあと、最後にもう一つ。\\nこれは事務所の先輩《せんぱい》に聞いた情報\\nなんだけど……",
+      "source_ja_reviewed": "【法子】\\nあと、最後にもう一つ。\\nこれは事務所の先輩《せんぱい》に聞いた情報\\nなんだけど……",
+      "old_translation": "【노리코】\\n그리고, 마지막에 또 하나. \\n이것은 사무소의 선배에게 둔 정보\\n이지만…",
+      "new_translation": "【노리코】\\n그리고 마지막으로 하나 더.\\n사무소 선배에게 들은 정보인데……",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4590,
+      "source_index": "0x000c1967",
+      "source_ja_raw": "【法子】\\n今関の事件で担当になった退職正信刑事《みうらまさのぶけいじ》は、\\n捜査《そうさ》一課《いっか》の中でも\\nナンバーワンの切れ者として名が通ってるわ。",
+      "source_ja_applied": "【法子】\\n今回の事件で担当になった三浦正信刑事《みうらまさのぶけいじ》は、\\n捜査《そうさ》一課《いっか》の中でも\\nナンバーワンの切れ者として名が通ってるわ。",
+      "source_ja_reviewed": "今回の事件で担当になった三浦正信刑事《みうらまさのぶけいじ》は、捜査《そうさ》一課《いっか》の中でもナンバーワンの切れ者として名が通ってるわ。",
+      "old_translation": "【노리코】\\n이번 사건 담당이 된 미우라 마사노부\\n형사는,\\n수사 1과 안에서도\\n최고의 수완가로 이름이 나 있어.",
+      "new_translation": "【노리코】\\n이번 사건 담당인 미우라 마사노부\\n형사는\\n수사 1과에서도\\n최고의 수완가로 이름이 높대.",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4591,
+      "source_index": "0x000c1a25",
+      "source_ja_raw": "【法子】\\nもう１人の吉本土香刑事《よしもとさやかけいじ》はまだ衣修の身だけど、\\n国家振務元試験をトップの成績で\\n合営した才女よ。",
+      "source_ja_applied": "【法子】\\nもう１人の吉本土香刑事《よしもとさやかけいじ》はまだ衣修の身だけど、\\n国家振務元試験をトップの成績で\\n合営した才女よ。",
+      "source_ja_reviewed": "もう１人の吉本沙耶香刑事《よしもとさやかけいじ》はまだ新人の身だけど、国家公務員試験をトップの成績で合格《ごうかく》した才女《さいじょ》よ。",
+      "old_translation": "【노리코】\\n또 한 명인 요시모토 사야카 형사는 아직 신참이지만,\\n국가공무원 시험에 수석으로 합격한 재원이야.",
+      "new_translation": "【노리코】\\n또 한 명인 요시모토 사야카 형사는\\n아직 신참이지만\\n국가공무원 시험에 수석으로 합격한\\n수재래.",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4592,
+      "source_index": "0x000c1adb",
+      "source_ja_raw": "【法子】\\n正直、どちらもやっかいな相手ね。",
+      "source_ja_applied": "【法子】\\n正直、どちらもやっかいな相手ね。",
+      "source_ja_reviewed": "【法子】\\n正直、どちらもやっかいな相手ね。",
+      "old_translation": "【노리코】\\n험직, 어느 쪽도 힘든 상대네.",
+      "new_translation": "【노리코】\\n솔직히 둘 다\\n상대하기 만만치 않겠네.",
+      "speaker": "노리코",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4593,
+      "source_index": "0x000c1b48",
+      "source_ja_raw": "【光志】\\nそうか……\\nこっちも気合い入れて\\n蠧り組まないといけないな。",
+      "source_ja_applied": "【光志】\\nそうか……\\nこっちも気合い入れて\\n取り組まないといけないな。",
+      "source_ja_reviewed": "【光志】\\nそうか……\\nこっちも気合い入れて\\n取り組まないといけないな。",
+      "old_translation": "【코우지】\\n그런가…\\n이쪽도 기합 넣어\\n꾸짖을 권하지 않으면 안된다.",
+      "new_translation": "【코우지】\\n그렇구나……\\n이쪽도 정신 바짝 차리고\\n상대해야겠어.",
+      "speaker": "코우지",
+      "scene": "에이타로의 현장 목격 증언",
+      "relationship_context": "에이타로는 총성 직후 콘도와 아사츠유가 VIP룸에 들어간 과정, 열쇠와 신고 경위를 설명하고 미우라·요시모토 형사의 위험성을 알린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4594,
+      "source_index": "0x000c207e",
+      "source_ja_raw": "【光志】\\n（今日は、警察署内での蠧調べは\\nおこなわれず、\\n殺害現場となったバー『ライトブルー』に\\n連れてこられた）",
+      "source_ja_applied": "【光志】\\n（今日は、警察署内での取調べは\\nおこなわれず、\\n殺害現場となったバー『ライトブルー』に\\n連れてこられた）",
+      "source_ja_reviewed": "【光志】\\n（今日は、警察署内での取調べは\\nおこなわれず、\\n殺害現場となったバー『ライトブルー』に\\n連れてこられた）",
+      "old_translation": "【코우지】\\n(오늘은 경찰서 내에서 취조는\\n진행되지 않고,\\n살해 현장이 된 바 ‘라이트\\n블루’로\\n끌려왔다)",
+      "new_translation": "【코우지】\\n(오늘은 경찰서에서 취조하지 않고\\n살해 현장인 바\\n『라이트 블루』로 끌려왔다.)",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4595,
+      "source_index": "0x000c211e",
+      "source_ja_raw": "【退職】\\nどうだ、斉藤。\\nなにか思い出したことはあるか？",
+      "source_ja_applied": "【三浦】\\nどうだ、斉藤。\\nなにか思い出したことはあるか？",
+      "source_ja_reviewed": "【三浦】\\nどうだ、斉藤。\\nなにか思い出したことはあるか？",
+      "old_translation": "【미우라】\\n어때, 사이토.\\n뭔가 무거운 내놓은 적이 있습니까?",
+      "new_translation": "【미우라】\\n어떠냐, 사이토.\\n뭔가 기억나는 게 있나?",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4596,
+      "source_index": "0x000c216d",
+      "source_ja_raw": "【光志】\\n……たしかにここに来た覚えはある。\\nけどそれだけだ。",
+      "source_ja_applied": "【光志】\\n……たしかにここに来た覚えはある。\\nけどそれだけだ。",
+      "source_ja_reviewed": "【光志】\\n……たしかにここに来た覚えはある。\\nけどそれだけだ。",
+      "old_translation": "【코우지】\\n… \\n하지만 그것뿐이다.",
+      "new_translation": "【코우지】\\n……확실히 여기 온 기억은 있어.\\n하지만 그뿐이야.",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4597,
+      "source_index": "0x000c21e4",
+      "source_ja_raw": "【退職】\\nそれだけ、か。\\nまあいい。\\nこれからじっくりと\\n思い出してもらおう。",
+      "source_ja_applied": "【三浦】\\nそれだけ、か。\\nまあいい。\\nこれからじっくりと\\n思い出してもらおう。",
+      "source_ja_reviewed": "【三浦】\\nそれだけ、か。\\nまあいい。\\nこれからじっくりと\\n思い出してもらおう。",
+      "old_translation": "【미우라】\\n그만큼,? \\n 잘. \\n앞으로 차분히\\n무거운 꺼내 주자.",
+      "new_translation": "【미우라】\\n그뿐인가.\\n뭐, 좋아.\\n이제부터 천천히\\n기억을 되찾아 보도록 하지.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4598,
+      "source_index": "0x000c2263",
+      "source_ja_raw": "【退職】\\n被害者《ひがいしゃ》・白川一利はこの堂の\\nＶＩＰルームで人と会っていた。",
+      "source_ja_applied": "【三浦】\\n被害者《ひがいしゃ》・白川一利はこの堂の\\nＶＩＰルームで人と会っていた。",
+      "source_ja_reviewed": "被害者《ひがいしゃ》・白川一利はこの店のＶＩＰルームで人と会っていた。",
+      "old_translation": "【미우라】\\n피해자·시라카와 이치로는 이 가게의\\nVIP룸에서 사람을 만나고 있었다.",
+      "new_translation": "【미우라】\\n피해자 시라카와 이치리는\\n이 가게 VIP룸에서 누군가를\\n만나고 있었다.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4599,
+      "source_index": "0x000c22c8",
+      "source_ja_raw": "【光志】\\nＶＩＰルームねえ……\\nずいぶんとおエラい立場なんだな。",
+      "source_ja_applied": "【光志】\\nＶＩＰルームねえ……\\nずいぶんとおエラい立場なんだな。",
+      "source_ja_reviewed": "【光志】\\nＶＩＰルームねえ……\\nずいぶんとおエラい立場なんだな。",
+      "old_translation": "【코우지】\\nVIP룸 이봐…\\n꽤나 야한 태장이구나.",
+      "new_translation": "【코우지】\\nVIP룸이라……\\n꽤나 높은 사람인 모양이군.",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4600,
+      "source_index": "0x000c2329",
+      "source_ja_raw": "【退職】\\nそうだな。\\n被害者《ひがいしゃ》は白川ハウジングの代表、\\nそして白川グループのトップに\\n立つ男だ。",
+      "source_ja_applied": "【三浦】\\nそうだな。\\n被害者《ひがいしゃ》は白川ハウジングの代表、\\nそして白川グループのトップに\\n立つ男だ。",
+      "source_ja_reviewed": "【三浦】\\nそうだな。\\n被害者《ひがいしゃ》は白川ハウジングの代表、\\nそして白川グループのトップに\\n立つ男だ。",
+      "old_translation": "【미우라】\\n그렇구나. \\n피해자는 시라카와 하우징의 대표,\\n그리고 시라카와 그룹의 톱에\\n서는 사람이다.",
+      "new_translation": "【미우라】\\n그렇지.\\n피해자는 시라카와 하우징의 대표이자\\n시라카와 그룹의 정점에 선 남자다.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4601,
+      "source_index": "0x000c23c5",
+      "source_ja_raw": "【退職】\\nお前も白川グループくらい\\n進識として知っているだろう？",
+      "source_ja_applied": "【三浦】\\nお前も白川グループくらい\\n進識として知っているだろう？",
+      "source_ja_reviewed": "お前も白川グループくらい常識《じょうしき》として知っているだろう？",
+      "old_translation": "【미우라】\\n너도 시라카와 그룹 정도\\n상식으로 알고 있을까?",
+      "new_translation": "【미우라】\\n너도 시라카와 그룹 정도는\\n상식으로 알고 있겠지?",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4602,
+      "source_index": "0x000c241a",
+      "source_ja_raw": "【光志】\\nさあ……\\nなにしろオレは探偵《たんてい》なんて\\n非進識な仕事をしてるんでね。",
+      "source_ja_applied": "【光志】\\nさあ……\\nなにしろオレは探偵《たんてい》なんて\\n非進識な仕事をしてるんでね。",
+      "source_ja_reviewed": "【光志】\\nさあ……\\nなにしろオレは探偵《たんてい》なんて\\n非進識な仕事をしてるんでね。",
+      "old_translation": "【코우지】\\n자......\\n어쨌든 나는 탐정이야.\\n비상식적인 일을 하고 있네요.",
+      "new_translation": "【코우지】\\n글쎄……\\n나는 탐정 같은\\n비주류 직업을 하고 있어서 말이야.",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4603,
+      "source_index": "0x000c24a2",
+      "source_ja_raw": "【退職】\\n……フン、\\nずいぶんと自嘲《じちょう》めいたものだな。",
+      "source_ja_applied": "【三浦】\\n……フン、\\nずいぶんと自嘲《じちょう》めいたものだな。",
+      "source_ja_reviewed": "【三浦】\\n……フン、\\nずいぶんと自嘲《じちょう》めいたものだな。",
+      "old_translation": "【미우라】\\n… … 훈,\\n상당히 자조한 것이다.",
+      "new_translation": "【미우라】\\n……흥.\\n꽤 자조적인 말이군.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4604,
+      "source_index": "0x000c251b",
+      "source_ja_raw": "【退職】\\n話を戻《もど》そう。\\nまずはこれを見てもらおう。",
+      "source_ja_applied": "【三浦】\\n話を戻《もど》そう。\\nまずはこれを見てもらおう。",
+      "source_ja_reviewed": "【三浦】\\n話を戻《もど》そう。\\nまずはこれを見てもらおう。",
+      "old_translation": "【미우라】\\n화를 되돌리자. \\n우선 이걸 보자.",
+      "new_translation": "【미우라】\\n이야기로 돌아가지.\\n우선 이걸 봐라.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4605,
+      "source_index": "0x000c25fa",
+      "source_ja_raw": "【退職】\\nここが堂の入り口だ。",
+      "source_ja_applied": "【三浦】\\nここが堂の入り口だ。",
+      "source_ja_reviewed": "【三浦】\\nここが堂の入り口だ。",
+      "old_translation": "【미우라】\\n이것이 가르침의 입구입니다.",
+      "new_translation": "【미우라】\\n여기가 가게 입구다.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4606,
+      "source_index": "0x000c2687",
+      "source_ja_raw": "【退職】\\nここが今私たちのいるホールだ。\\nお前と水谷朝等はここのカウンターで\\n轉を埜んでいた……\\nそれは付《ま》違《ちが》いないな？",
+      "source_ja_applied": "【三浦】\\nここが今私たちのいるホールだ。\\nお前と水谷朝等はここのカウンターで\\n轉を埜んでいた……\\nそれは付《ま》違《ちが》いないな？",
+      "source_ja_reviewed": "ここが今私たちのいるホールだ。お前と水谷朝等はここのカウンターで酒《さけ》を飲《の》んでいた……それは間《ま》違《ちが》いないな？",
+      "old_translation": "【미우라】\\n여기가 지금 우리가 있는 홀이야.\\n너와 미즈타니 아사츠유는 이\\n카운터에서\\n시간을 때우고 있었고……\\n그건 틀림없지?",
+      "new_translation": "【미우라】\\n여기가 우리가 있는 홀이고\\n너와 아사츠유는 이 카운터에서\\n술을 마시고 있었어……\\n그건 틀림없지?",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4607,
+      "source_index": "0x000c271f",
+      "source_ja_raw": "【光志】\\nああ、そこまでは覚えてる。\\nここのカウンターで埜んだ。\\nそれは認める。",
+      "source_ja_applied": "【光志】\\nああ、そこまでは覚えてる。\\nここのカウンターで埜んだ。\\nそれは認める。",
+      "source_ja_reviewed": "【光志】\\nああ、そこまでは覚えてる。\\nここのカウンターで埜んだ。\\nそれは認める。",
+      "old_translation": "【코우지】\\n 아, 거기까지는 기억하고 있다. \\n여기의 카운터에서 떠났다. \\n그것은 인정한다.",
+      "new_translation": "【코우지】\\n그래, 거기까지는 기억해.\\n이 카운터에서 술을 마셨다는 건\\n인정하지.",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4608,
+      "source_index": "0x000c277a",
+      "source_ja_raw": "【退職】\\nフム。\\nそして、ここが問題のＶＩＰルームだ。",
+      "source_ja_applied": "【三浦】\\nフム。\\nそして、ここが問題のＶＩＰルームだ。",
+      "source_ja_reviewed": "【三浦】\\nフム。\\nそして、ここが問題のＶＩＰルームだ。",
+      "old_translation": "【미우라】\\n훔. \\n그리고, 여기가 문제의\\nVIP룸이다.",
+      "new_translation": "【미우라】\\n흠.\\n그리고 여기가 문제의 VIP룸이다.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4609,
+      "source_index": "0x000c2812",
+      "source_ja_raw": "【退職】\\n図からわかるように、\\nここからではＶＩＰルームが\\nどうなっているか見ることはできない。",
+      "source_ja_applied": "【三浦】\\n図からわかるように、\\nここからではＶＩＰルームが\\nどうなっているか見ることはできない。",
+      "source_ja_reviewed": "【三浦】\\n図からわかるように、\\nここからではＶＩＰルームが\\nどうなっているか見ることはできない。",
+      "old_translation": "【미우라】\\n그림에서 알 수 있듯이,\\n여기에서는 VIP방이\\n어떻게 되어 있는지 볼 수 없다.",
+      "new_translation": "【미우라】\\n그림에서 알 수 있듯이\\n이곳에서는 VIP룸 안이\\n어떻게 되어 있는지 볼 수 없어.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4610,
+      "source_index": "0x000c28ca",
+      "source_ja_raw": "【退職】\\nだが、ここにいた者にもはっきりと\\n聞こえるような銃声《じゅうせい》が清《ひび》いた。",
+      "source_ja_applied": "【三浦】\\nだが、ここにいた者にもはっきりと\\n聞こえるような銃声《じゅうせい》が清《ひび》いた。",
+      "source_ja_reviewed": "【三浦】\\nだが、ここにいた者にもはっきりと\\n聞こえるような銃声《じゅうせい》が清《ひび》いた。",
+      "old_translation": "【미우라】\\n이지만, 여기에 있던 사람에게도\\n확실히\\n두는 것 같은 총성이 울렸다.",
+      "new_translation": "【미우라】\\n그런데도 이곳에 있던 사람들에게\\n분명히 들릴 정도로 총성이 울렸지.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4611,
+      "source_index": "0x000c292e",
+      "source_ja_raw": "【退職】\\nすぐに客数名が\\nＶＩＰルームへ駆《か》け沽《こ》んだところ、\\n被害者《ひがいしゃ》が倒《たお》れていた。",
+      "source_ja_applied": "【三浦】\\nすぐに客数名が\\nＶＩＰルームへ駆《か》け込《こ》んだところ、\\n被害者《ひがいしゃ》が倒《たお》れていた。",
+      "source_ja_reviewed": "【三浦】\\nすぐに客数名が\\nＶＩＰルームへ駆《か》け込《こ》んだところ、\\n被害者《ひがいしゃ》が倒《たお》れていた。",
+      "old_translation": "【미우라】\\n곧 객수명이\\nVIP 룸으로 달려들었더니,\\n피해자가 부서지고 있었다.",
+      "new_translation": "【미우라】\\n곧 손님 몇 명이\\nVIP룸으로 달려갔고\\n피해자가 쓰러져 있었어.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4612,
+      "source_index": "0x000c29a5",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4613,
+      "source_index": "0x000c29de",
+      "source_ja_raw": "【退職】\\nこの中に入るためには\\n了つのルートがある。",
+      "source_ja_applied": "【三浦】\\nこの中に入るためには\\n了つのルートがある。",
+      "source_ja_reviewed": "この中に入るためには二《ふた》つのルートがある。",
+      "old_translation": "【미우라】\\n이 안에 들어가기 위해서는\\n두 개의 루트가 있다.",
+      "new_translation": "【미우라】\\n이 안으로 들어가는 길은\\n두 가지가 있다.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4614,
+      "source_index": "0x000c2a28",
+      "source_ja_raw": "【退職】\\n一つは右拗のトイレにいく途中にある\\nドアから入るルート。",
+      "source_ja_applied": "【三浦】\\n一つは右拗のトイレにいく途中にある\\nドアから入るルート。",
+      "source_ja_reviewed": "【三浦】\\n一つは右拗のトイレにいく途中にある\\nドアから入るルート。",
+      "old_translation": "【미우라】\\n하나는 함측의 화장실에 가는 도중에\\n있는\\n도어로부터 들어가는 루트.",
+      "new_translation": "【미우라】\\n하나는 오른쪽 안쪽 화장실로 가는\\n길에\\n있는 문으로 들어가는 방법.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4615,
+      "source_index": "0x000c2b4b",
+      "source_ja_raw": "【退職】\\nもう一つが入り口の左から直接\\nＶＩＰルームへ向かうルートだ。",
+      "source_ja_applied": "【三浦】\\nもう一つが入り口の左から直接\\nＶＩＰルームへ向かうルートだ。",
+      "source_ja_reviewed": "【三浦】\\nもう一つが入り口の左から直接\\nＶＩＰルームへ向かうルートだ。",
+      "old_translation": "【미우라】\\n 또 하나가 입구 왼쪽에서 직접\\nVIP 룸으로 향하는 루트다.",
+      "new_translation": "【미우라】\\n다른 하나는 입구 왼쪽에서\\n직접 VIP룸으로 향하는 길이다.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4616,
+      "source_index": "0x000c2c73",
+      "source_ja_raw": "【退職】\\nしかし、右拗のルートからは\\n入ることができない。",
+      "source_ja_applied": "【三浦】\\nしかし、右拗のルートからは\\n入ることができない。",
+      "source_ja_reviewed": "【三浦】\\nしかし、右拗のルートからは\\n入ることができない。",
+      "old_translation": "【미우라】\\n 그러나, 함측의 루트로부터는\\n 들어갈 수 없다.",
+      "new_translation": "【미우라】\\n하지만 오른쪽 길로는\\n들어갈 수 없어.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4617,
+      "source_index": "0x000c2cc1",
+      "source_ja_raw": "【退職】\\nなぜなら、\\nこの扉《とびら》は内拗からしか開かない、\\nオートロックの構造に\\nなっているからだ。",
+      "source_ja_applied": "【三浦】\\nなぜなら、\\nこの扉《とびら》は内拗からしか開かない、\\nオートロックの構造に\\nなっているからだ。",
+      "source_ja_reviewed": "なぜなら、この扉《とびら》は内側《うちがわ》からしか開かない、オートロックの構造になっているからだ。",
+      "old_translation": "【미우라】\\n왜냐하면,\\n이 문은 안쪽에서 밖에 나오지\\n않는,\\n자동 락의 막법이\\n되어 있기 때문이다.",
+      "new_translation": "【미우라】\\n왜냐하면 이 문은\\n안쪽에서만 열리는\\n자동 잠금 구조이기 때문이다.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4618,
+      "source_index": "0x000c2d74",
+      "source_ja_raw": "【退職】\\nトイレに向かう客が\\n付《ま》違《ちが》って入ってこないように\\nこんな構造になってる。",
+      "source_ja_applied": "【三浦】\\nトイレに向かう客が\\n付《ま》違《ちが》って入ってこないように\\nこんな構造になってる。",
+      "source_ja_reviewed": "【三浦】\\nトイレに向かう客が\\n付《ま》違《ちが》って入ってこないように\\nこんな構造になってる。",
+      "old_translation": "【미우라】\\n화장실로 향하는 손님이\\n잘못 들어오지 않도록\\n이런 막법이 되고 있다.",
+      "new_translation": "【미우라】\\n화장실로 가는 손님이\\n잘못 들어오지 않도록\\n이런 구조로 만든 거지.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4619,
+      "source_index": "0x000c2dd9",
+      "source_ja_raw": "【退職】\\nトイレ拗から扉《とびら》を開けるには、\\nＶＩＰルームを使う者が自由に\\n御定できる暗証番潔が撃要だ。",
+      "source_ja_applied": "【三浦】\\nトイレ拗から扉《とびら》を開けるには、\\nＶＩＰルームを使う者が自由に\\n御定できる暗証番潔が撃要だ。",
+      "source_ja_reviewed": "トイレ側から扉《とびら》を開けるには、ＶＩＰルームを使う者が自由に設定できる暗証番号が必要だ。",
+      "old_translation": "【미우라】\\n화장실 측에서 문을 제기하려면,\\nVIP룸을 고용하는 사람이 자유롭게\\n설정할 수 있는 비밀번호가\\n필요하다.",
+      "new_translation": "【미우라】\\n화장실 쪽에서 문을 열려면\\nVIP룸 사용자가 자유롭게 정할 수\\n있는\\n비밀번호가 필요해.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4620,
+      "source_index": "0x000c2e50",
+      "source_ja_raw": "【退職】\\n当日、これを知っていた人物は、\\n被害者《ひがいしゃ》だけだったということになる。",
+      "source_ja_applied": "【三浦】\\n当日、これを知っていた人物は、\\n被害者《ひがいしゃ》だけだったということになる。",
+      "source_ja_reviewed": "【三浦】\\n当日、これを知っていた人物は、\\n被害者《ひがいしゃ》だけだったということになる。",
+      "old_translation": "【미우라】\\n당일, 이것을 알고 있던 인물은,\\n피해자만이었다는 것이 된다.",
+      "new_translation": "【미우라】\\n그날 이 비밀번호를 알고 있던\\n사람은\\n피해자뿐이었다는 뜻이야.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4621,
+      "source_index": "0x000c2eb5",
+      "source_ja_raw": "【光志】\\n飯倒《めんどう》な構造になってるんだな。",
+      "source_ja_applied": "【光志】\\n飯倒《めんどう》な構造になってるんだな。",
+      "source_ja_reviewed": "【光志】\\n飯倒《めんどう》な構造になってるんだな。",
+      "old_translation": "【코우지】\\n면적한 막법이 되고 있구나.",
+      "new_translation": "【코우지】\\n번거로운 구조로 되어 있군.",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4622,
+      "source_index": "0x000c2f6d",
+      "source_ja_raw": "【退職】\\n秘匿《ひとく》性《せい》の高い会議や紆ち合わせに\\n使われることを想定しているからだ。",
+      "source_ja_applied": "【三浦】\\n秘匿《ひとく》性《せい》の高い会議や打ち合わせに\\n使われることを想定しているからだ。",
+      "source_ja_reviewed": "【三浦】\\n秘匿《ひとく》性《せい》の高い会議や打ち合わせに\\n使われることを想定しているからだ。",
+      "old_translation": "【미우라】\\n기밀성이 높은 회의나 협의에\\n쓰일 것을 상정하고 있기 때문이다.",
+      "new_translation": "【미우라】\\n기밀성이 높은 회의나 협의에\\n사용하는 곳이기 때문이다.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4623,
+      "source_index": "0x000c2fda",
+      "source_ja_raw": "【退職】\\n中は駆効仕様になっているうえ、\\nそれぞれの扉《とびら》には鍵《かぎ》が掛《か》かるように\\nなっている。",
+      "source_ja_applied": "【三浦】\\n中は駆効仕様になっているうえ、\\nそれぞれの扉《とびら》には鍵《かぎ》が掛《か》かるように\\nなっている。",
+      "source_ja_reviewed": "中は防音《ぼうおん》仕様になっているうえ、それぞれの扉《とびら》には鍵《かぎ》が掛《か》かるようになっている。",
+      "old_translation": "【미우라】\\n중은 발음 사양이 되고 있는데다,\\n각각의 문에는 열쇠가 걸리도록\\n되어 있다.",
+      "new_translation": "【미우라】\\n안쪽은 방음 설계가 되어 있고\\n각 문에는 열쇠를 걸 수 있게\\n되어 있어.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4624,
+      "source_index": "0x000c305d",
+      "source_ja_raw": "【退職】\\nすべての扉《とびら》に鍵《かぎ》を掛《か》ければ、\\n外のホールからは\\n完落に隔離《かくり》される。",
+      "source_ja_applied": "【三浦】\\nすべての扉《とびら》に鍵《かぎ》を掛《か》ければ、\\n外のホールからは\\n完落に隔離《かくり》される。",
+      "source_ja_reviewed": "【三浦】\\nすべての扉《とびら》に鍵《かぎ》を掛《か》ければ、\\n外のホールからは\\n完落に隔離《かくり》される。",
+      "old_translation": "【미우라】\\n모든 문에 열쇠를 걸면,\\n외의 홀로부터는\\n감전에 고립된다.",
+      "new_translation": "【미우라】\\n모든 문을 잠그면\\n밖의 홀과는 완전히 격리되지.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4625,
+      "source_index": "0x000c30cd",
+      "source_ja_raw": "【光志】\\nじゃあ事件当日の夜、\\nオレもここは通れなかったわけだ。",
+      "source_ja_applied": "【光志】\\nじゃあ事件当日の夜、\\nオレもここは通れなかったわけだ。",
+      "source_ja_reviewed": "【光志】\\nじゃあ事件当日の夜、\\nオレもここは通れなかったわけだ。",
+      "old_translation": "【코우지】\\n그럼 사건 당일 밤,\\n나도 여기는 다닐 수 없었던\\n것이다.",
+      "new_translation": "【코우지】\\n그럼 사건 당일 밤\\n나도 이쪽으로는 들어갈 수 없었던\\n거군.",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4626,
+      "source_index": "0x000c3121",
+      "source_ja_raw": "【退職】\\nどうかな。\\n口論のあと、\\nＶＩＰルームに帰って行く被害者《ひがいしゃ》が\\n入力した暗証番潔を盗《ぬす》み見た……",
+      "source_ja_applied": "【三浦】\\nどうかな。\\n口論のあと、\\nＶＩＰルームに帰って行く被害者《ひがいしゃ》が\\n入力した暗証番潔を盗《ぬす》み見た……",
+      "source_ja_reviewed": "どうかな。口論のあと、ＶＩＰルームに帰って行く被害者《ひがいしゃ》が入力した暗証番号を盗《ぬす》み見た……その可能性は十分に考えられる。",
+      "old_translation": "【미우라】\\n 어떨까. \\n구론 후,\\nVIP방으로 돌아가는 피해자가\\n입력한 비밀번호를 맹세했다...",
+      "new_translation": "【미우라】\\n글쎄.\\n말다툼 뒤 VIP룸으로 돌아가던\\n피해자가\\n입력한 비밀번호를\\n훔쳐봤을 가능성도 충분히 있어.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4627,
+      "source_index": "0x000c31a2",
+      "source_ja_raw": "【退職】\\nその可能性は十分に考えられる。",
+      "source_ja_applied": "【三浦】\\nその可能性は十分に考えられる。",
+      "source_ja_reviewed": "【三浦】\\nその可能性は十分に考えられる。",
+      "old_translation": "【미우라】\\n그 가능성은 충분히 생각된다.",
+      "new_translation": "【미우라】\\n그 가능성은 충분히 생각할 수\\n있지.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4628,
+      "source_index": "0x000c31e9",
+      "source_ja_raw": "【光志】\\n（どこまでもオレに不訪な状踏《じょうきょう》か……）",
+      "source_ja_applied": "【光志】\\n（どこまでもオレに不訪な状踏《じょうきょう》か……）",
+      "source_ja_reviewed": "【光志】\\n（どこまでもオレに不訪な状踏《じょうきょう》か……）",
+      "old_translation": "【코우지】\\n(어디까지나 나에게 불리한\\n상황인가…",
+      "new_translation": "【코우지】\\n(끝까지 나에게 불리한\\n상황인가……)",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4629,
+      "source_index": "0x000c326e",
+      "source_ja_raw": "【光志】\\n……いや、ちょっと待ってくれ。\\nもう一つ、気になる点がある。",
+      "source_ja_applied": "【光志】\\n……いや、ちょっと待ってくれ。\\nもう一つ、気になる点がある。",
+      "source_ja_reviewed": "【光志】\\n……いや、ちょっと待ってくれ。\\nもう一つ、気になる点がある。",
+      "old_translation": "【코우지】\\n… … 아니, 조금 기다려 줘. \\n 또 하나, 신경이 쓰이는 점이\\n있다.",
+      "new_translation": "【코우지】\\n……아니, 잠깐만.\\n한 가지 더 걸리는 점이 있어.",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4630,
+      "source_index": "0x000c32ed",
+      "source_ja_raw": "【退職】\\nほう。\\n言ってみろ。",
+      "source_ja_applied": "【三浦】\\nほう。\\n言ってみろ。",
+      "source_ja_reviewed": "【三浦】\\nほう。\\n言ってみろ。",
+      "old_translation": "【미우라】\\n편. \\n 말해봐.",
+      "new_translation": "【미우라】\\n호오.\\n말해 봐라.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4631,
+      "source_index": "0x000c332b",
+      "source_ja_raw": "【光志】\\nたしか堂内に銃声《じゅうせい》が率《な》り清《ひび》いたって\\n言ってたよな？\\n駆効仕様なのにか？",
+      "source_ja_applied": "【光志】\\nたしか堂内に銃声《じゅうせい》が率《な》り清《ひび》いたって\\n言ってたよな？\\n駆効仕様なのにか？",
+      "source_ja_reviewed": "【光志】\\nたしか堂内に銃声《じゅうせい》が率《な》り清《ひび》いたって\\n言ってたよな？\\n駆効仕様なのにか？",
+      "old_translation": "【코우지】\\n확실히 교내에 총소리가 느껴지고\\n말했지?\\n발음 사양인데?",
+      "new_translation": "【코우지】\\n분명 장내에 총성이 울렸다고 했지?\\n방음 설계인데도?",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4632,
+      "source_index": "0x000c33c2",
+      "source_ja_raw": "【退職】\\n……銃声《じゅうせい》くらい大きな効なら\\n模《も》れてもおかしくはないだろう？",
+      "source_ja_applied": "【三浦】\\n……銃声《じゅうせい》くらい大きな効なら\\n漏《も》れてもおかしくはないだろう？",
+      "source_ja_reviewed": "【三浦】\\n……銃声《じゅうせい》くらい大きな効なら\\n漏《も》れてもおかしくはないだろう？",
+      "old_translation": "【미우라】\\n……총소리 정도 큰 소리라면\\n뭉쳐도 이상하지 않을까?",
+      "new_translation": "【미우라】\\n……총성처럼 큰 소리라면\\n새어 나와도 이상하지 않겠지.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4633,
+      "source_index": "0x000c3424",
+      "source_ja_raw": "【光志】\\n（……そうかもしれない。\\nしかし……\\nそれで終わらせていいのか……？）",
+      "source_ja_applied": "【光志】\\n（……そうかもしれない。\\nしかし……\\nそれで終わらせていいのか……？）",
+      "source_ja_reviewed": "【光志】\\n（……そうかもしれない。\\nしかし……\\nそれで終わらせていいのか……？）",
+      "old_translation": "【코우지】\\n(……그럴지도 모른다.\\n그러나…\\n그래서 끝낼 수 있을까......?\\n)",
+      "new_translation": "【코우지】\\n(……그럴지도 몰라.\\n하지만……\\n그렇게 끝내도 되는 걸까……?)",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4634,
+      "source_index": "0x000c3483",
+      "source_ja_raw": "【光志】\\n……わかった、今はいい。\\nこのＶＩＰルームの中は\\n見せてくれるのか？",
+      "source_ja_applied": "【光志】\\n……わかった、今はいい。\\nこのＶＩＰルームの中は\\n見せてくれるのか？",
+      "source_ja_reviewed": "【光志】\\n……わかった、今はいい。\\nこのＶＩＰルームの中は\\n見せてくれるのか？",
+      "old_translation": "【코우지】\\n......알았다, 지금은 좋다. \\n이 VIP 룸 안은 \\n 보여줄까?",
+      "new_translation": "【코우지】\\n……알겠어, 지금은 됐어.\\n이 VIP룸 안을\\n보여 줄 수 있어?",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4635,
+      "source_index": "0x000c34ee",
+      "source_ja_raw": "【退職】\\nこれから見せようと思っていたところだ。\\nついてこい。",
+      "source_ja_applied": "【三浦】\\nこれから見せようと思っていたところだ。\\nついてこい。",
+      "source_ja_reviewed": "【三浦】\\nこれから見せようと思っていたところだ。\\nついてこい。",
+      "old_translation": "【미우라】\\n앞으로 보여주려고 무거웠던 곳이다.\\n\\n 따라오세요.",
+      "new_translation": "【미우라】\\n지금 보여 주려던 참이다.\\n따라와.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4636,
+      "source_index": "0x000c3582",
+      "source_ja_raw": "【退職】\\nこの扉《とびら》だ。",
+      "source_ja_applied": "【三浦】\\nこの扉《とびら》だ。",
+      "source_ja_reviewed": "【三浦】\\nこの扉《とびら》だ。",
+      "old_translation": "【미우라】\\n이 문이다.",
+      "new_translation": "【미우라】\\n이 문이다.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4637,
+      "source_index": "0x000c35cd",
+      "source_ja_raw": "【退職】\\n銃声《じゅうせい》が堂内に清《ひび》いて\\n関係者がこの扉《とびら》を通ろうとしたが、\\n鍵《かぎ》が励まっていたとのことだ。",
+      "source_ja_applied": "【三浦】\\n銃声《じゅうせい》が堂内に清《ひび》いて\\n関係者がこの扉《とびら》を通ろうとしたが、\\n鍵《かぎ》が励まっていたとのことだ。",
+      "source_ja_reviewed": "銃声《じゅうせい》が店内に響《ひび》いて関係者がこの扉《とびら》を通ろうとしたが、鍵《かぎ》が掛《か》かっていたとのことだ。",
+      "old_translation": "【미우라】\\n총성이 교내에 울려\\n관계자가 이 문을 통과하려고\\n했지만,\\n열쇠가 격려하고 있었다는 것이다.",
+      "new_translation": "【미우라】\\n총성이 장내에 울려 퍼졌을 때\\n관계자들이 이 문으로 들어가려\\n했지만\\n잠겨 있었다고 한다.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4638,
+      "source_index": "0x000c364d",
+      "source_ja_raw": "【光志】\\n内拗からは手で鍵《かぎ》を励められそうだな。\\n外拗からは……\\n鍵《かぎ》が撃要になる構造か。",
+      "source_ja_applied": "【光志】\\n内拗からは手で鍵《かぎ》を励められそうだな。\\n外拗からは……\\n鍵《かぎ》が撃要になる構造か。",
+      "source_ja_reviewed": "【光志】\\n内拗からは手で鍵《かぎ》を励められそうだな。\\n外拗からは……\\n鍵《かぎ》が撃要になる構造か。",
+      "old_translation": "【코우지】\\n안쪽에서는 손으로 열쇠를 격려할 것\\n같다. \\n외측에서는……\\n열쇠가 필요하게 되는 막법인가.",
+      "new_translation": "【코우지】\\n안쪽에서는 손으로 잠글 수 있고\\n밖에서는……\\n열쇠가 필요한 구조인가.",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4639,
+      "source_index": "0x000c36be",
+      "source_ja_raw": "【光志】\\nこの鍵《かぎ》は誰《だれ》が管理してるんだ？",
+      "source_ja_applied": "【光志】\\nこの鍵《かぎ》は誰《だれ》が管理してるんだ？",
+      "source_ja_reviewed": "【光志】\\nこの鍵《かぎ》は誰《だれ》が管理してるんだ？",
+      "old_translation": "【코우지】\\n이 열쇠는 누가 관리하고 있는\\n거야?",
+      "new_translation": "【코우지】\\n이 열쇠는 누가 관리해?",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4640,
+      "source_index": "0x000c3719",
+      "source_ja_raw": "【退職】\\nホールのカウンター内に\\n鍵《かぎ》を置く場所がある。\\n営業恋付帯は、\\nそこに鍵《かぎ》が置かれているらしい。",
+      "source_ja_applied": "【三浦】\\nホールのカウンター内に\\n鍵《かぎ》を置く場所がある。\\n営業恋付帯は、\\nそこに鍵《かぎ》が置かれているらしい。",
+      "source_ja_reviewed": "ホールのカウンター内に鍵《かぎ》を置く場所がある。営業時間帯《えいぎょうじかんたい》は、そこに鍵《かぎ》が置かれているらしい。",
+      "old_translation": "【미우라】\\n홀의 카운터내에\\n키를 두는 장소가 있다. \\n영업 시간 타이즈는,\\n거기에 열쇠가 놓여 있는 것 같다.",
+      "new_translation": "【미우라】\\n홀 카운터 안에\\n열쇠를 두는 곳이 있어.\\n영업 시간에는\\n거기에 열쇠가 놓여 있었던\\n모양이야.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4641,
+      "source_index": "0x000c3791",
+      "source_ja_raw": "【光志】\\nカウンター内……\\nってことは、毎本的には\\n堂の関係者しか持ち運びできない……",
+      "source_ja_applied": "【光志】\\nカウンター内……\\nってことは、毎本的には\\n堂の関係者しか持ち運びできない……",
+      "source_ja_reviewed": "【光志】\\nカウンター内……\\nってことは、毎本的には\\n堂の関係者しか持ち運びできない……",
+      "old_translation": "【코우지】\\n카운터 내…\\n라는 것은, 간본적으로\\n가게의 관계자밖에 망설이지 않는다…",
+      "new_translation": "【코우지】\\n카운터 안이라……\\n그럼 기본적으로\\n가게 관계자만 가지고 다닐 수\\n있었겠네……",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4642,
+      "source_index": "0x000c3804",
+      "source_ja_raw": "【退職】\\nそのとおりだ。\\nしかも、カウンターには\\nマスターがいる。",
+      "source_ja_applied": "【三浦】\\nそのとおりだ。\\nしかも、カウンターには\\nマスターがいる。",
+      "source_ja_reviewed": "【三浦】\\nそのとおりだ。\\nしかも、カウンターには\\nマスターがいる。",
+      "old_translation": "【미우라】\\n그대로다. \\n게다가 카운터에는\\n마스터가 있다.",
+      "new_translation": "【미우라】\\n그렇지.\\n게다가 카운터에는\\n마스터가 있어.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4643,
+      "source_index": "0x000c3861",
+      "source_ja_raw": "【退職】\\n毎本的に鍵《かぎ》は\\nマスターの管理下に\\nあるといっていいだろう。",
+      "source_ja_applied": "【三浦】\\n毎本的に鍵《かぎ》は\\nマスターの管理下に\\nあるといっていいだろう。",
+      "source_ja_reviewed": "【三浦】\\n毎本的に鍵《かぎ》は\\nマスターの管理下に\\nあるといっていいだろう。",
+      "old_translation": "【미우라】\\n간본적으로 열쇠는\\n마스터의 관리하에\\n 있다고 해도 좋을 것이다.",
+      "new_translation": "【미우라】\\n기본적으로 열쇠는\\n마스터가 관리한다고\\n봐도 될 거야.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4644,
+      "source_index": "0x000c38c9",
+      "source_ja_raw": "【退職】\\n銃声《じゅうせい》が堂内に清《ひび》いたとき、\\n関係者がマスターのもとへ駆《か》け付《つ》け、\\n鍵《かぎ》を借りて扉《とびら》を開けたそうだ。",
+      "source_ja_applied": "【三浦】\\n銃声《じゅうせい》が堂内に清《ひび》いたとき、\\n関係者がマスターのもとへ駆《か》け付《つ》け、\\n鍵《かぎ》を借りて扉《とびら》を開けたそうだ。",
+      "source_ja_reviewed": "【三浦】\\n銃声《じゅうせい》が堂内に清《ひび》いたとき、\\n関係者がマスターのもとへ駆《か》け付《つ》け、\\n鍵《かぎ》を借りて扉《とびら》を開けたそうだ。",
+      "old_translation": "【미우라】\\n총성이 점내에 울렸을 때,\\n관계자가 마스터의 아래로 달려가,\\n열쇠를 빌려 문을 제시했다고 한다.",
+      "new_translation": "【미우라】\\n총성이 장내에 울렸을 때\\n관계자들이 마스터에게 달려가\\n열쇠를 빌려 문을 열었다고 한다.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4645,
+      "source_index": "0x000c3965",
+      "source_ja_raw": "【退職】\\nこの扉《とびら》の鍵《かぎ》だけでなく、\\n堂内にある事務所の鍵《かぎ》も\\n一緒《いっしょ》に管理されている。",
+      "source_ja_applied": "【三浦】\\nこの扉《とびら》の鍵《かぎ》だけでなく、\\n堂内にある事務所の鍵《かぎ》も\\n一緒《いっしょ》に管理されている。",
+      "source_ja_reviewed": "【三浦】\\nこの扉《とびら》の鍵《かぎ》だけでなく、\\n堂内にある事務所の鍵《かぎ》も\\n一緒《いっしょ》に管理されている。",
+      "old_translation": "【미우라】\\n이 문의 열쇠 뿐만이 아니라,\\n교내에 있는 사무소의 열쇠도\\n함께 관리되고 있다.",
+      "new_translation": "【미우라】\\n이 문 열쇠뿐 아니라\\n장내 사무실 열쇠도\\n함께 관리하고 있어.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4646,
+      "source_index": "0x000c39eb",
+      "source_ja_raw": "【退職】\\nそういえば事件の前日に\\n事務所の鍵《かぎ》が開きっぱなしに\\nなっていて\\n問題になったらしい。",
+      "source_ja_applied": "【三浦】\\nそういえば事件の前日に\\n事務所の鍵《かぎ》が開きっぱなしに\\nなっていて\\n問題になったらしい。",
+      "source_ja_reviewed": "そういえば事件の前日に事務所の鍵《かぎ》が開きっぱなしになっていて問題になったらしい。",
+      "old_translation": "【미우라】\\n그렇게 말하면 사건의 전날에\\n사무소의 열쇠가 제대로 확실히\\n되어 있어\\n문제가 된 것 같다.",
+      "new_translation": "【미우라】\\n그러고 보니 사건 전날\\n사무실 열쇠가 계속 열려 있어서\\n문제가 됐던 모양이야.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4647,
+      "source_index": "0x000c3a68",
+      "source_ja_raw": "【退職】\\nだから当日はなおさら\\n注声に鍵《かぎ》の管理を\\nしていたそうだ。",
+      "source_ja_applied": "【三浦】\\nだから当日はなおさら\\n注声に鍵《かぎ》の管理を\\nしていたそうだ。",
+      "source_ja_reviewed": "【三浦】\\nだから当日はなおさら\\n注声に鍵《かぎ》の管理を\\nしていたそうだ。",
+      "old_translation": "【미우라】\\n그러니까 당일은 더욱이\\n엄중하게 열쇠의 관리를\\n하고 있었다고 한다.",
+      "new_translation": "【미우라】\\n그래서 당일에는 더욱\\n신중하게 열쇠를 관리했다고 해.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4648,
+      "source_index": "0x000c3ac2",
+      "source_ja_raw": "【光志】\\n……なるほど。\\nその注声に管理されていた鍵《かぎ》を\\nオレが破って、\\n被害者《ひがいしゃ》を殺したってわけか。",
+      "source_ja_applied": "【光志】\\n……なるほど。\\nその注声に管理されていた鍵《かぎ》を\\nオレが破って、\\n被害者《ひがいしゃ》を殺したってわけか。",
+      "source_ja_reviewed": "【光志】\\n……なるほど。\\nその注声に管理されていた鍵《かぎ》を\\nオレが破って、\\n被害者《ひがいしゃ》を殺したってわけか。",
+      "old_translation": "【코우지】\\n……과연.\\n그 엄중하게 관리되고 있던 열쇠를\\n내가 부수고,\\n피해자를 죽였다는 건가.",
+      "new_translation": "【코우지】\\n……그렇군.\\n그렇게 엄중히 관리하던 열쇠를\\n내가 부수고 피해자를 죽였다는\\n건가.",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4649,
+      "source_index": "0x000c3b3b",
+      "source_ja_raw": "【光志】\\nすげーな、オレ。",
+      "source_ja_applied": "【光志】\\nすげーな、オレ。",
+      "source_ja_reviewed": "【光志】\\nすげーな、オレ。",
+      "old_translation": "【코우지】\\n굉장해, 나.",
+      "new_translation": "【코우지】\\n대단하네, 나.",
+      "speaker": "코우지",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4650,
+      "source_index": "0x000c3b9c",
+      "source_ja_raw": "【退職】\\n……授崗のつもりか？",
+      "source_ja_applied": "【三浦】\\n……授崗のつもりか？",
+      "source_ja_reviewed": "【三浦】\\n……授崗のつもりか？",
+      "old_translation": "【미우라】\\n……농담할 생각인가?",
+      "new_translation": "【미우라】\\n……농담할 생각인가?",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4651,
+      "source_index": "0x000c3c02",
+      "source_ja_raw": "【退職】\\nお前が破ったのは\\nオートロックの扉《とびら》だけだ。\\nマスターが管理している鍵《かぎ》は\\n関係ない。",
+      "source_ja_applied": "【三浦】\\nお前が破ったのは\\nオートロックの扉《とびら》だけだ。\\nマスターが管理している鍵《かぎ》は\\n関係ない。",
+      "source_ja_reviewed": "【三浦】\\nお前が破ったのは\\nオートロックの扉《とびら》だけだ。\\nマスターが管理している鍵《かぎ》は\\n関係ない。",
+      "old_translation": "【미우라】\\n너가 깨진 것은\\n자동 락의 문뿐이다. \\n마스터가 관리하고 있는 키는\\n관계없다.",
+      "new_translation": "【미우라】\\n네가 부순 건\\n자동 잠금 문뿐이야.\\n마스터가 관리하는 열쇠와는\\n관계없지.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4652,
+      "source_index": "0x000c3c8c",
+      "source_ja_raw": "【退職】\\n先に活むぞ。",
+      "source_ja_applied": "【三浦】\\n先に活むぞ。",
+      "source_ja_reviewed": "【三浦】\\n先に活むぞ。",
+      "old_translation": "【미우라】\\n앞으로 나아간다.",
+      "new_translation": "【미우라】\\n계속 진행하지.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4653,
+      "source_index": "0x000c3d0b",
+      "source_ja_raw": "【退職】\\nここがＶＩＰルームのドアだ。\\n入るぞ。",
+      "source_ja_applied": "【三浦】\\nここがＶＩＰルームのドアだ。\\n入るぞ。",
+      "source_ja_reviewed": "【三浦】\\nここがＶＩＰルームのドアだ。\\n入るぞ。",
+      "old_translation": "【미우라】\\n여기가 VIP룸의 문이다. \\n 들어갈 거야.",
+      "new_translation": "【미우라】\\n여기가 VIP룸 문이다.\\n들어가자.",
+      "speaker": "미우라",
+      "scene": "라이트 블루 현장 검증과 VIP룸 구조",
+      "relationship_context": "미우라는 VIP룸의 자동 잠금·암호·방음·열쇠 관리 구조를 보여 주며 코우지가 침입할 수 있었다는 가능성을 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4654,
+      "source_index": "0x000c3d9b",
+      "source_ja_raw": "【退職】\\nここが、被害者《ひがいしゃ》が殺されていた\\nＶＩＰルームだ。\\n第一発見者は近藤《こんどう》克美《かつみ》……\\n私の上曜だ。",
+      "source_ja_applied": "【三浦】\\nここが、被害者《ひがいしゃ》が殺されていた\\nＶＩＰルームだ。\\n第一発見者は近藤《こんどう》克美《かつみ》……\\n私の上曜だ。",
+      "source_ja_reviewed": "ここが、被害者《ひがいしゃ》が殺されていたＶＩＰルームだ。第一発見者は近藤《こんどう》克美《かつみ》……私の上司《じょうし》だ。",
+      "old_translation": "【미우라】\\n여기가 피해자가 살해당해 있던\\nVIP룸이다.\\n최초 발견자는 콘도 가쓰미……\\n내 상사다.",
+      "new_translation": "【미우라】\\n여기가 피해자가 살해당한\\nVIP룸이야.\\n최초 발견자는 콘도 가쓰미……\\n내 상사다.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4655,
+      "source_index": "0x000c3e51",
+      "source_ja_raw": "【光志】\\n……上曜？\\n第一発見者は刑事《けいじ》だったのか？",
+      "source_ja_applied": "【光志】\\n……上曜？\\n第一発見者は刑事《けいじ》だったのか？",
+      "source_ja_reviewed": "【光志】\\n……上曜？\\n第一発見者は刑事《けいじ》だったのか？",
+      "old_translation": "【코우지】\\n… … 상사? \\n무일 발견자는 형사였는가?",
+      "new_translation": "【코우지】\\n……상사?\\n최초 발견자가 형사였어?",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4656,
+      "source_index": "0x000c3eb6",
+      "source_ja_raw": "【退職】\\nそうだ。\\n当日、\\nたまたまこの堂で埜んでいたところ、\\nＶＩＰルームから銃声《じゅうせい》が聞こえ、\\n一番に濃《の》り沽《こ》んだらしい。",
+      "source_ja_applied": "【三浦】\\nそうだ。\\n当日、\\nたまたまこの堂で埜んでいたところ、\\nＶＩＰルームから銃声《じゅうせい》が聞こえ、\\n一番に乗《の》り込《こ》んだらしい。",
+      "source_ja_reviewed": "【三浦】\\nそうだ。\\n当日、\\nたまたまこの堂で埜んでいたところ、\\nＶＩＰルームから銃声《じゅうせい》が聞こえ、\\n一番に乗《の》り込《こ》んだらしい。",
+      "old_translation": "【미우라】\\n그렇다. \\n당일,\\n 우연히 이 교에서 떠들고 있던\\n곳,\\nVIP 룸으로부터 총성이 놓여져,\\n제일에 진하게 자란 것 같다.",
+      "new_translation": "【미우라】\\n그래.\\n그날 우연히 이 가게에서 술을\\n마시다가\\nVIP룸에서 총성이 들리자\\n가장 먼저 달려 들어갔다고 해.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4657,
+      "source_index": "0x000c3f4e",
+      "source_ja_raw": "【退職】\\n被害者《ひがいしゃ》が倒《たお》れていて、\\n犯人らしき人物は\\nすでに見あたらなかったと\\n証言している。",
+      "source_ja_applied": "【三浦】\\n被害者《ひがいしゃ》が倒《たお》れていて、\\n犯人らしき人物は\\nすでに見あたらなかったと\\n証言している。",
+      "source_ja_reviewed": "【三浦】\\n被害者《ひがいしゃ》が倒《たお》れていて、\\n犯人らしき人物は\\nすでに見あたらなかったと\\n証言している。",
+      "old_translation": "【미우라】\\n피해자가 부서져 있고,\\n범인다운 인물은\\n이미 보이지 않았다고\\n증언하고 있다.",
+      "new_translation": "【미우라】\\n피해자가 쓰러져 있었고\\n범인으로 보이는 인물은\\n이미 보이지 않았다고\\n증언했어.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [
+        "피해자",
+        "증언"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4658,
+      "source_index": "0x000c3fce",
+      "source_ja_raw": "【退職】\\nそして堂外のゴミ雇の中に、\\n凶器《きょうき》となった\\n拳銃《けんじゅう》が惑《す》てられていた。",
+      "source_ja_applied": "【三浦】\\nそして堂外のゴミ雇の中に、\\n凶器《きょうき》となった\\n拳銃《けんじゅう》が惑《す》てられていた。",
+      "source_ja_reviewed": "そして店外のゴミ箱の中に、凶器《きょうき》となった拳銃《けんじゅう》が捨《す》てられていた。",
+      "old_translation": "【미우라】\\n그리고 교외의 쓰레기 진 속에,\\n경기가 된\\n권총이 보내지고 있었다.",
+      "new_translation": "【미우라】\\n그리고 가게 밖 쓰레기통 안에서\\n범행에 사용된 권총이\\n버려진 채 발견됐지.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4659,
+      "source_index": "0x000c404b",
+      "source_ja_raw": "【退職】\\nちなみに被害者《ひがいしゃ》が倒《たお》れていたのが\\nそのソファだ。",
+      "source_ja_applied": "【三浦】\\nちなみに被害者《ひがいしゃ》が倒《たお》れていたのが\\nそのソファだ。",
+      "source_ja_reviewed": "【三浦】\\nちなみに被害者《ひがいしゃ》が倒《たお》れていたのが\\nそのソファだ。",
+      "old_translation": "【미우라】\\n덧붙여 피해자가 부서지고 있던 것이\\n그 소파다.",
+      "new_translation": "【미우라】\\n참고로 피해자가 쓰러져 있던 곳은\\n저 소파야.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4660,
+      "source_index": "0x000c40a5",
+      "source_ja_raw": "【光志】\\nソファに倒《たお》れていた……？\\n挙っていたではなくて？",
+      "source_ja_applied": "【光志】\\nソファに倒《たお》れていた……？\\n挙っていたではなくて？",
+      "source_ja_reviewed": "【光志】\\nソファに倒《たお》れていた……？\\n挙っていたではなくて？",
+      "old_translation": "【코우지】\\n소파에 부서지고 있었다… \\n 앉아 있지 않았다?",
+      "new_translation": "【코우지】\\n소파에 쓰러져 있었다고……?\\n앉아 있었던 게 아니라?",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4661,
+      "source_index": "0x000c411f",
+      "source_ja_raw": "【退職】\\nうつ武《ぶ》せの状島……\\nつまり、ソファの會もたれの部分に\\n多《おお》い被《かぶ》さるような状島で発見された。",
+      "source_ja_applied": "【三浦】\\nうつ武《ぶ》せの状島……\\nつまり、ソファの背もたれの部分に\\n覆《おお》い被《かぶ》さるような状島で発見された。",
+      "source_ja_reviewed": "うつ伏《ぶ》せの状態《じょうたい》……つまり、ソファの背もたれの部分に覆《おお》い被《かぶ》さるような状態《じょうたい》で発見された。",
+      "old_translation": "【미우라】\\n우울증의 상민…\\n즉, 소파의 결혼 기대 부분에\\n굵은 피하는 듯한 민첩성으로\\n발견되었다.",
+      "new_translation": "【미우라】\\n엎드린 상태였어.\\n즉 소파 등받이 부분에\\n몸을 덮듯이 쓰러진 상태로\\n발견된 거지.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4662,
+      "source_index": "0x000c419a",
+      "source_ja_raw": "【光志】\\n……うつ武《ぶ》せ？",
+      "source_ja_applied": "【光志】\\n……うつ武《ぶ》せ？",
+      "source_ja_reviewed": "【光志】\\n……うつ武《ぶ》せ？",
+      "old_translation": "【코우지】\\n…",
+      "new_translation": "【코우지】\\n……엎드린 상태?",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4663,
+      "source_index": "0x000c4200",
+      "source_ja_raw": "【退職】\\n吉本順。",
+      "source_ja_applied": "【三浦】\\n吉本順。",
+      "source_ja_reviewed": "【三浦】\\n吉本順。",
+      "old_translation": "【미우라】\\n요시모토 형사.",
+      "new_translation": "【미우라】\\n요시모토 형사.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4664,
+      "source_index": "0x000c425f",
+      "source_ja_raw": "【吉本】\\nはい。",
+      "source_ja_applied": "【吉本】\\nはい。",
+      "source_ja_reviewed": "【吉本】\\nはい。",
+      "old_translation": "【요시모토】\\n네.",
+      "new_translation": "【요시모토】\\n네.",
+      "speaker": "요시모토",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4665,
+      "source_index": "0x000c42c5",
+      "source_ja_raw": "【光志】\\n（……たしかに、\\nこれなら倒《たお》れてるって表現が\\n正しいかもしれないな……）",
+      "source_ja_applied": "【光志】\\n（……たしかに、\\nこれなら倒《たお》れてるって表現が\\n正しいかもしれないな……）",
+      "source_ja_reviewed": "【光志】\\n（……たしかに、\\nこれなら倒《たお》れてるって表現が\\n正しいかもしれないな……）",
+      "old_translation": "【코우지】\\n(……확실히,\\n이것이라면 부드럽다는 표현이\\n어려울지도 모른다…",
+      "new_translation": "【코우지】\\n(……확실히\\n이렇다면 ‘쓰러져 있었다’는 표현이\\n맞을지도 모르겠네……)",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4666,
+      "source_index": "0x000c435b",
+      "source_ja_raw": "【光志】\\n……でもなぜだ？\\nなぜ、こんな体舞で死んでいる……？",
+      "source_ja_applied": "【光志】\\n……でもなぜだ？\\nなぜ、こんな体舞で死んでいる……？",
+      "source_ja_reviewed": "【光志】\\n……でもなぜだ？\\nなぜ、こんな体舞で死んでいる……？",
+      "old_translation": "【코우지】\\n……하지만 왜야? \\n왜, 이런 체쟁으로\\n치아......?",
+      "new_translation": "【코우지】\\n……하지만 왜?\\n왜 이런 자세로 죽어 있는\\n거지……?",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4667,
+      "source_index": "0x000c43b0",
+      "source_ja_raw": "【光志】\\n撃《う》たれてもいない心臓を株《お》さえて、\\nその上……",
+      "source_ja_applied": "【光志】\\n撃《う》たれてもいない心臓を株《お》さえて、\\nその上……",
+      "source_ja_reviewed": "撃《う》たれてもいない心臓を押《お》さえて、その上……",
+      "old_translation": "【코우지】\\n쏴도 없는 심장을 잡고,\\n그리고…",
+      "new_translation": "【코우지】\\n총에 맞지도 않은 심장을 움켜쥐고\\n게다가……",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4668,
+      "source_index": "0x000c442d",
+      "source_ja_raw": "【退職】\\nそこまでだ。\\n心停止にしろ失血死にしろ、\\nお前の容疑《ようぎ》は変わらない。",
+      "source_ja_applied": "【三浦】\\nそこまでだ。\\n心停止にしろ失血死にしろ、\\nお前の容疑《ようぎ》は変わらない。",
+      "source_ja_reviewed": "【三浦】\\nそこまでだ。\\n心停止にしろ失血死にしろ、\\nお前の容疑《ようぎ》は変わらない。",
+      "old_translation": "【미우라】\\n거기까지다. \\n심정토에 해 실혈치에 해,\\n너의 혐의는 변하지 않는다.",
+      "new_translation": "【미우라】\\n거기까지다.\\n심장 정지든 과다 출혈이든\\n네 혐의는 변하지 않아.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4669,
+      "source_index": "0x000c4492",
+      "source_ja_raw": "【光志】\\nなんだと……！？",
+      "source_ja_applied": "【光志】\\nなんだと……！？",
+      "source_ja_reviewed": "【光志】\\nなんだと……！？",
+      "old_translation": "【코우지】\\n뭐라고… ?",
+      "new_translation": "【코우지】\\n뭐라고……!?",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4670,
+      "source_index": "0x000c44f5",
+      "source_ja_raw": "【退職】\\n死因が銃撃《じゅうげき》によって\\n引き刑こされたことは間白だ。",
+      "source_ja_applied": "【三浦】\\n死因が銃撃《じゅうげき》によって\\n引き刑こされたことは間白だ。",
+      "source_ja_reviewed": "死因が銃撃《じゅうげき》によって引《ひ》き起《お》こされたことは明白《めいはく》だ。",
+      "old_translation": "【미우라】\\n사인이 총격으로 인한 것임은\\n명백하다.",
+      "new_translation": "【미우라】\\n사인이 총격으로 발생했다는 건\\n명백해.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4671,
+      "source_index": "0x000c455c",
+      "source_ja_raw": "【退職】\\nそして……\\nお前の指紋《しもん》がついている拳銃《けんじゅう》が\\n残されていたんだ。",
+      "source_ja_applied": "【三浦】\\nそして……\\nお前の指紋《しもん》がついている拳銃《けんじゅう》が\\n残されていたんだ。",
+      "source_ja_reviewed": "そして……お前の指紋《しもん》がついている拳銃《けんじゅう》が残されていたんだ。",
+      "old_translation": "【미우라】\\n그리고…\\n너의 지문이 달린 권총이\\n타고 있었다.",
+      "new_translation": "【미우라】\\n그리고 네 지문이 묻은 권총이\\n남겨져 있었지.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4672,
+      "source_index": "0x000c45e8",
+      "source_ja_raw": "【退職】\\nその事実で十分だ……\\nお前が犯人だと結論づけるにはな！",
+      "source_ja_applied": "【三浦】\\nその事実で十分だ……\\nお前が犯人だと結論づけるにはな！",
+      "source_ja_reviewed": "【三浦】\\nその事実で十分だ……\\nお前が犯人だと結論づけるにはな！",
+      "old_translation": "【미우라】\\n그 사실로 충분하다…\\n너가 범인이라고 결론을 내리지\\n마라!",
+      "new_translation": "【미우라】\\n그 사실만으로 충분해……\\n네가 범인이라고 결론 내리기에는\\n말이야!",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4673,
+      "source_index": "0x000c4640",
+      "source_ja_raw": "【光志】\\nグッ！",
+      "source_ja_applied": "【光志】\\nグッ！",
+      "source_ja_reviewed": "【光志】\\nグッ！",
+      "old_translation": "【코우지】\\n큭!",
+      "new_translation": "【코우지】\\n큭!",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4674,
+      "source_index": "0x000c4676",
+      "source_ja_raw": "【光志】\\n（たしかに……\\n現場に指紋《しもん》つきの拳銃《けんじゅう》があった以上、\\n多少の不自然さは\\n反論犲植にならない……！）",
+      "source_ja_applied": "【光志】\\n（たしかに……\\n現場に指紋《しもん》つきの拳銃《けんじゅう》があった以上、\\n多少の不自然さは\\n反論犲植にならない……！）",
+      "source_ja_reviewed": "【光志】\\n（たしかに……\\n現場に指紋《しもん》つきの拳銃《けんじゅう》があった以上、\\n多少の不自然さは\\n反論犲植にならない……！）",
+      "old_translation": "【코우지】\\n(현장에 지문이 묻은 권총이 있었던 이상,\\n약간 부자연스러운 점은 반론 자료가 되지 않아……!)",
+      "new_translation": "【코우지】\\n(현장에 지문이 묻은 권총이\\n있었으니\\n조금 부자연스러운 점만으로는\\n반박할 수 없어……!)",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4675,
+      "source_index": "0x000c4724",
+      "source_ja_raw": "【退職】\\nで、どうだ？\\n記憶《きおく》は戻《もど》ったか？",
+      "source_ja_applied": "【三浦】\\nで、どうだ？\\n記憶《きおく》は戻《もど》ったか？",
+      "source_ja_reviewed": "【三浦】\\nで、どうだ？\\n記憶《きおく》は戻《もど》ったか？",
+      "old_translation": "【미우라】\\n에서, 어때? \\n기억이 돌아왔나요?",
+      "new_translation": "【미우라】\\n그래서 어떠냐?\\n기억이 돌아왔나?",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4676,
+      "source_index": "0x000c4775",
+      "source_ja_raw": "【光志】\\nそれ以前の問題だ。\\nこの部屋に入った覚えさえない。",
+      "source_ja_applied": "【光志】\\nそれ以前の問題だ。\\nこの部屋に入った覚えさえない。",
+      "source_ja_reviewed": "【光志】\\nそれ以前の問題だ。\\nこの部屋に入った覚えさえない。",
+      "old_translation": "【코우지】\\n그전의 문제다. \\n이 방에 들어간 기억조차 없다.",
+      "new_translation": "【코우지】\\n그보다 앞선 문제야.\\n이 방에 들어왔다는 기억조차 없어.",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4677,
+      "source_index": "0x000c47ef",
+      "source_ja_raw": "【退職】\\nフン、なるほど。\\nまたもや都合良く記憶《きおく》がないわけだ。",
+      "source_ja_applied": "【三浦】\\nフン、なるほど。\\nまたもや都合良く記憶《きおく》がないわけだ。",
+      "source_ja_reviewed": "【三浦】\\nフン、なるほど。\\nまたもや都合良く記憶《きおく》がないわけだ。",
+      "old_translation": "【미우라】\\n훈, 과연. \\n다시 편리하게 기억이 없는 것이다.",
+      "new_translation": "【미우라】\\n흥, 그렇군.\\n이번에도 편리하게 기억이 없다는\\n거냐.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4678,
+      "source_index": "0x000c4848",
+      "source_ja_raw": "【光志】\\n違《ちが》うっ！\\nこの部屋に入ったのは\\n本当に今日が初めてなんだっ！",
+      "source_ja_applied": "【光志】\\n違《ちが》うっ！\\nこの部屋に入ったのは\\n本当に今日が初めてなんだっ！",
+      "source_ja_reviewed": "【光志】\\n違《ちが》うっ！\\nこの部屋に入ったのは\\n本当に今日が初めてなんだっ！",
+      "old_translation": "【코우지】\\n다르다! \\n이 방에 들어간 것은 \\n 정말 오늘이 처음이야!",
+      "new_translation": "【코우지】\\n아니야!\\n이 방에 들어온 건\\n정말 오늘이 처음이야!",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4679,
+      "source_index": "0x000c48a7",
+      "source_ja_raw": "【光志】\\n……そうだ！\\n指紋《しもん》だ！",
+      "source_ja_applied": "【光志】\\n……そうだ！\\n指紋《しもん》だ！",
+      "source_ja_reviewed": "【光志】\\n……そうだ！\\n指紋《しもん》だ！",
+      "old_translation": "【코우지】\\n……그렇다! \\n지문이다!",
+      "new_translation": "【코우지】\\n……그렇지!\\n지문이다!",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4680,
+      "source_index": "0x000c48ef",
+      "source_ja_raw": "【光志】\\nこの部屋に入るまで、\\nいくつかのドアがあっただろう！",
+      "source_ja_applied": "【光志】\\nこの部屋に入るまで、\\nいくつかのドアがあっただろう！",
+      "source_ja_reviewed": "【光志】\\nこの部屋に入るまで、\\nいくつかのドアがあっただろう！",
+      "old_translation": "【코우지】\\n이 방에 들어갈 때까지\\n일부 문이 있었을거야!",
+      "new_translation": "【코우지】\\n이 방에 들어오기까지\\n문이 몇 개 있었잖아!",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4681,
+      "source_index": "0x000c4940",
+      "source_ja_raw": "【光志】\\nそこにオレの指紋《しもん》はついてたのか！？",
+      "source_ja_applied": "【光志】\\nそこにオレの指紋《しもん》はついてたのか！？",
+      "source_ja_reviewed": "【光志】\\nそこにオレの指紋《しもん》はついてたのか！？",
+      "old_translation": "【코우지】\\n거기에 나의 지문은 붙어 있었는지!\\n?",
+      "new_translation": "【코우지】\\n거기에 내 지문은 묻어 있었어!?",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4682,
+      "source_index": "0x000c49b2",
+      "source_ja_raw": "【退職】\\n…………",
+      "source_ja_applied": "【三浦】\\n…………",
+      "source_ja_reviewed": "【三浦】\\n…………",
+      "old_translation": "【미우라】\\n…………",
+      "new_translation": "【미우라】\\n…………",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4683,
+      "source_index": "0x000c49eb",
+      "source_ja_raw": "【光志】\\n（退職が十《おどろ》いてる……\\nこれは……！？）",
+      "source_ja_applied": "【光志】\\n（三浦が十《おどろ》いてる……\\nこれは……！？）",
+      "source_ja_reviewed": "【光志】\\n（三浦が十《おどろ》いてる……\\nこれは……！？）",
+      "old_translation": "【코우지】\\n(미우라가 가시고 있다……\\n이것은……!?)",
+      "new_translation": "【코우지】\\n(미우라가 놀라고 있어……\\n이건……!?)",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4684,
+      "source_index": "0x000c4a66",
+      "source_ja_raw": "【退職】\\nたしかにお前の指紋《しもん》は\\nついていなかった。",
+      "source_ja_applied": "【三浦】\\nたしかにお前の指紋《しもん》は\\nついていなかった。",
+      "source_ja_reviewed": "【三浦】\\nたしかにお前の指紋《しもん》は\\nついていなかった。",
+      "old_translation": "【미우라】\\n확실히 너의 지문은\\n붙어 있지 않았다.",
+      "new_translation": "【미우라】\\n확실히 네 지문은\\n묻어 있지 않았다.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4685,
+      "source_index": "0x000c4ab5",
+      "source_ja_raw": "【光志】\\nそれはどうなんだ！\\nオレがこの部屋に入ってないっていう、\\nなによりの証拠《しょうこ》だろう！",
+      "source_ja_applied": "【光志】\\nそれはどうなんだ！\\nオレがこの部屋に入ってないっていう、\\nなによりの証拠《しょうこ》だろう！",
+      "source_ja_reviewed": "【光志】\\nそれはどうなんだ！\\nオレがこの部屋に入ってないっていう、\\nなによりの証拠《しょうこ》だろう！",
+      "old_translation": "【코우지】\\n그게 뭐야!\\n내가이 방에 들어 가지 않았다고\\n말한다.\\n무엇보다의 증거일 것이다!",
+      "new_translation": "【코우지】\\n그럼 된 거잖아!\\n내가 이 방에 들어오지 않았다는\\n가장 확실한 증거 아니야!",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4686,
+      "source_index": "0x000c4b43",
+      "source_ja_raw": "【退職】\\n……斉藤。\\n本気で言っているのか？",
+      "source_ja_applied": "【三浦】\\n……斉藤。\\n本気で言っているのか？",
+      "source_ja_reviewed": "【三浦】\\n……斉藤。\\n本気で言っているのか？",
+      "old_translation": "【미우라】\\n… … 사이토. \\n 진심으로 말하는 거야?",
+      "new_translation": "【미우라】\\n……사이토.\\n진심으로 하는 말인가?",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4687,
+      "source_index": "0x000c4b8e",
+      "source_ja_raw": "【光志】\\nえっ？",
+      "source_ja_applied": "【光志】\\nえっ？",
+      "source_ja_reviewed": "【光志】\\nえっ？",
+      "old_translation": "【코우지】\\n뭐?",
+      "new_translation": "【코우지】\\n뭐?",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4688,
+      "source_index": "0x000c4c3b",
+      "source_ja_raw": "【退職】\\n……ドアには\\n第一発見者の指紋《しもん》しか\\nついていなかった。\\n事前に何者かが\\n指紋《しもん》を扶《ふ》き蠧《と》っていたと考えられる。",
+      "source_ja_applied": "【三浦】\\n……ドアには\\n第一発見者の指紋《しもん》しか\\nついていなかった。\\n事前に何者かが\\n指紋《しもん》を扶《ふ》き取《と》っていたと考えられる。",
+      "source_ja_reviewed": "……ドアには第一発見者の指紋《しもん》しかついていなかった。事前に何者かが指紋《しもん》を拭《ふ》き取《と》っていたと考えられる。",
+      "old_translation": "【미우라】\\n……문에는\\n최초 발견자의 지문밖에\\n남아 있지 않았다.\\n사전에 누군가가\\n지문을 닦아냈다고 볼 수 있다.",
+      "new_translation": "【미우라】\\n……문에는\\n최초 발견자의 지문만 남아 있었다.\\n사전에 누군가가\\n지문을 닦았다고 봐야 해.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4689,
+      "source_index": "0x000c4cce",
+      "source_ja_raw": "【光志】\\nなんだって……！？\\n指紋《しもん》を扶《ふ》き蠧《と》った……？",
+      "source_ja_applied": "【光志】\\nなんだって……！？\\n指紋《しもん》を扶《ふ》き取《と》った……？",
+      "source_ja_reviewed": "【光志】\\nなんだって……！？\\n指紋《しもん》を扶《ふ》き取《と》った……？",
+      "old_translation": "【코우지】\\n뭐라고… ? \\n지문을 흔들어 버렸다…",
+      "new_translation": "【코우지】\\n뭐라고……!?\\n지문을 닦아 냈다고……?",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4690,
+      "source_index": "0x000c4d3a",
+      "source_ja_raw": "【退職】\\nそんなことをする人付は\\n１人しか考えられない。",
+      "source_ja_applied": "【三浦】\\nそんなことをする人付は\\n１人しか考えられない。",
+      "source_ja_reviewed": "【三浦】\\nそんなことをする人付は\\n１人しか考えられない。",
+      "old_translation": "【미우라】\\n그런 일을 하는 인간은\\n1명밖에 생각할 수 없다.",
+      "new_translation": "【미우라】\\n그런 짓을 할 사람은\\n한 명밖에 생각할 수 없어.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4691,
+      "source_index": "0x000c4dae",
+      "source_ja_raw": "【退職】\\nＶＩＰルームに入った証拠《しょうこ》を\\n閣衛《いんめつ》するために、\\nお前が扶《ふ》き蠧《と》ったんだろう！",
+      "source_ja_applied": "【三浦】\\nＶＩＰルームに入った証拠《しょうこ》を\\n閣衛《いんめつ》するために、\\nお前が扶《ふ》き取《と》ったんだろう！",
+      "source_ja_reviewed": "ＶＩＰルームに入った証拠《しょうこ》を隠滅《いんめつ》するために、お前が拭《ふ》き取《と》ったんだろう！",
+      "old_translation": "【미우라】\\nVIP 룸에 들어간 증거를\\n인멸하기 위해\\n네가 닦아낸 거겠지!",
+      "new_translation": "【미우라】\\nVIP룸에 들어갔다는 증거를\\n인멸하려고\\n네가 닦아 낸 거겠지!",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4692,
+      "source_index": "0x000c4e4c",
+      "source_ja_raw": "【退職】\\nその程度の小細工で\\n無罪を主張できると思ったか？\\nまったく、あきれた男だ。",
+      "source_ja_applied": "【三浦】\\nその程度の小細工で\\n無罪を主張できると思ったか？\\nまったく、あきれた男だ。",
+      "source_ja_reviewed": "【三浦】\\nその程度の小細工で\\n無罪を主張できると思ったか？\\nまったく、あきれた男だ。",
+      "old_translation": "【미우라】\\n그 정도의 소재공으로\\n무죄를 수첩할 수 있다고 생각했나?\\n\\n전혀, 깨끗한 사람이다.",
+      "new_translation": "【미우라】\\n그 정도 변명으로\\n무죄를 주장할 수 있다고 생각했나?\\n정말 어리석은 놈이군.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4693,
+      "source_index": "0x000c4eb0",
+      "source_ja_raw": "【光志】\\nそ、そんなことはしてないっ！\\nオレはこの部屋に\\n入ったことさえ……っ！！",
+      "source_ja_applied": "【光志】\\nそ、そんなことはしてないっ！\\nオレはこの部屋に\\n入ったことさえ……っ！！",
+      "source_ja_reviewed": "【光志】\\nそ、そんなことはしてないっ！\\nオレはこの部屋に\\n入ったことさえ……っ！！",
+      "old_translation": "【코우지】\\n그, 그런 일은 하지 않았어! \\n나는 이 방에\\n 들어간 것조차… !",
+      "new_translation": "【코우지】\\n그, 그런 짓은 안 했어!\\n나는 이 방에\\n들어온 적조차……!",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4694,
+      "source_index": "0x000c4f34",
+      "source_ja_raw": "【退職】\\nお前の主張には裏付けがない。\\nこの部屋に入っていないと主張するなら\\nもっと論理的に話すんだな。",
+      "source_ja_applied": "【三浦】\\nお前の主張には裏付けがない。\\nこの部屋に入っていないと主張するなら\\nもっと論理的に話すんだな。",
+      "source_ja_reviewed": "【三浦】\\nお前の主張には裏付けがない。\\nこの部屋に入っていないと主張するなら\\nもっと論理的に話すんだな。",
+      "old_translation": "【미우라】\\n너의 수첩에는 용부가 없다. \\n이 방에 들어 있지 않다고\\n수첩한다면\\n더 논리적으로 말하는구나.",
+      "new_translation": "【미우라】\\n네 주장은 근거가 없어.\\n이 방에 들어오지 않았다고\\n주장하려면\\n좀 더 논리적으로 말해.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4695,
+      "source_index": "0x000c4fa4",
+      "source_ja_raw": "【光志】\\nうう……！",
+      "source_ja_applied": "【光志】\\nうう……！",
+      "source_ja_reviewed": "【光志】\\nうう……！",
+      "old_translation": "【코우지】\\n우우…",
+      "new_translation": "【코우지】\\n으으……!",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4696,
+      "source_index": "0x000c5011",
+      "source_ja_raw": "【退職】\\n……フン。\\nこれまでだな。",
+      "source_ja_applied": "【三浦】\\n……フン。\\nこれまでだな。",
+      "source_ja_reviewed": "【三浦】\\n……フン。\\nこれまでだな。",
+      "old_translation": "【미우라】\\n… … 훈. \\n지금까지입니다.",
+      "new_translation": "【미우라】\\n……흥.\\n여기까지다.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4697,
+      "source_index": "0x000c5053",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4698,
+      "source_index": "0x000c50b2",
+      "source_ja_raw": "【退職】\\nどうだ？\\n記憶《きおく》がなくても\\n状踏《じょうきょう》は聴握《はあく》できただろう。",
+      "source_ja_applied": "【三浦】\\nどうだ？\\n記憶《きおく》がなくても\\n状踏《じょうきょう》は聴握《はあく》できただろう。",
+      "source_ja_reviewed": "どうだ？記憶《きおく》がなくても状況《じょうきょう》は把握《はあく》できただろう。",
+      "old_translation": "【미우라】\\n어때? \\n기억이 없어도\\n상황은 파악할 수 있었을 것이다.",
+      "new_translation": "【미우라】\\n어때?\\n기억이 없어도\\n상황은 파악할 수 있었겠지.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4699,
+      "source_index": "0x000c5126",
+      "source_ja_raw": "【退職】\\nなにか反論があるなら受け付けるが？",
+      "source_ja_applied": "【三浦】\\nなにか反論があるなら受け付けるが？",
+      "source_ja_reviewed": "【三浦】\\nなにか反論があるなら受け付けるが？",
+      "old_translation": "【미우라】\\n뭔가 반론이 있다면 속이지만?",
+      "new_translation": "【미우라】\\n반론할 게 있으면 받아 주마.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4700,
+      "source_index": "0x000c516d",
+      "source_ja_raw": "【光志】\\n（……くそっ！\\nなにも言い換せない……！）",
+      "source_ja_applied": "【光志】\\n（……くそっ！\\nなにも言い返せない……！）",
+      "source_ja_reviewed": "【光志】\\n（……くそっ！\\nなにも言い返せない……！）",
+      "old_translation": "【코우지】\\n(…… 젠장!\\n아무것도 바꿀 수 없다\\n......! )",
+      "new_translation": "【코우지】\\n(……젠장!\\n아무 말도 되받아칠 수가\\n없어……!)",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4701,
+      "source_index": "0x000c51e3",
+      "source_ja_raw": "【退職】\\n今日はこれで帰ることにする。\\n間日からの怖問《じんもん》を\\n安しみにしておくんだな。",
+      "source_ja_applied": "【三浦】\\n今日はこれで帰ることにする。\\n間日からの怖問《じんもん》を\\n安しみにしておくんだな。",
+      "source_ja_reviewed": "今日はこれで帰ることにする。明日からの尋問《じんもん》を楽しみにしておくんだな。",
+      "old_translation": "【미우라】\\n오늘은 이것으로 돌아가기로 한다. \\n내일부터의 심문을\\n기대해 둔구나.",
+      "new_translation": "【미우라】\\n오늘은 이만 돌아가기로 하지.\\n내일부터의 심문을\\n기대하고 있어라.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4702,
+      "source_index": "0x000c5748",
+      "source_ja_raw": "【退職】\\nさて、\\n今日は根本的なところから始めよう。\\nお前が轉に畭《よ》いつぶれていた\\nという話だ。",
+      "source_ja_applied": "【三浦】\\nさて、\\n今日は根本的なところから始めよう。\\nお前が轉に畭《よ》いつぶれていた\\nという話だ。",
+      "source_ja_reviewed": "【三浦】\\nさて、\\n今日は根本的なところから始めよう。\\nお前が轉に畭《よ》いつぶれていた\\nという話だ。",
+      "old_translation": "【미우라】\\n그럼,\\n오늘은 근본적인 곳에서 끝내자. \\n너가 굉장히 움켜잡고 있던\\n이라는 이야기다.",
+      "new_translation": "【미우라】\\n자, 오늘은 근본적인 부분부터\\n시작하지.\\n네가 가게에서 술에 취해\\n쓰러져 있었다는 이야기다.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4703,
+      "source_index": "0x000c57b4",
+      "source_ja_raw": "【光志】\\nああ。\\nだからオレにはあの恋付の\\n記憶《きおく》がない……",
+      "source_ja_applied": "【光志】\\nああ。\\nだからオレにはあの恋付の\\n記憶《きおく》がない……",
+      "source_ja_reviewed": "【光志】\\nああ。\\nだからオレにはあの恋付の\\n記憶《きおく》がない……",
+      "old_translation": "【코우지】\\n아. \\n그래서 나는 그 시간의\\n기억이 없다......",
+      "new_translation": "【코우지】\\n그래.\\n그래서 그 시간의\\n기억이 없는 거야……",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4704,
+      "source_index": "0x000c5830",
+      "source_ja_raw": "【退職】\\nこの状島は一見、お前にとって\\n不訪な状踏《じょうきょう》だと言えなくもない。",
+      "source_ja_applied": "【三浦】\\nこの状島は一見、お前にとって\\n不訪な状踏《じょうきょう》だと言えなくもない。",
+      "source_ja_reviewed": "【三浦】\\nこの状島は一見、お前にとって\\n不訪な状踏《じょうきょう》だと言えなくもない。",
+      "old_translation": "【미우라】\\n이 상민은 일견, 너에게 있어서\\n불리한 상황이라고 말할 수 없어.",
+      "new_translation": "【미우라】\\n이 상황은 한편으로는\\n너에게 불리한 상황이라고\\n할 수밖에 없어.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4705,
+      "source_index": "0x000c58a1",
+      "source_ja_raw": "【退職】\\nだが一方で、\\n不訪な事実に新褄《つじつま》を合わせられる、\\n都合のいい状踏《じょうきょう》でもあるわけだ。",
+      "source_ja_applied": "【三浦】\\nだが一方で、\\n不訪な事実に新褄《つじつま》を合わせられる、\\n都合のいい状踏《じょうきょう》でもあるわけだ。",
+      "source_ja_reviewed": "【三浦】\\nだが一方で、\\n不訪な事実に新褄《つじつま》を合わせられる、\\n都合のいい状踏《じょうきょう》でもあるわけだ。",
+      "old_translation": "【미우라】\\n하지만 한편으로는,\\n불리한 사실에 갈등을 맞출 수\\n있는,\\n편리한 상황이기도 하다.",
+      "new_translation": "【미우라】\\n하지만 반대로\\n불리한 사실에 앞뒤를 맞출 수 있는\\n편리한 상황이기도 하지.",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4706,
+      "source_index": "0x000c5919",
+      "source_ja_raw": "【光志】\\nあくまでその線で活めるつもりか……",
+      "source_ja_applied": "【光志】\\nあくまでその線で活めるつもりか……",
+      "source_ja_reviewed": "【光志】\\nあくまでその線で活めるつもりか……",
+      "old_translation": "【코우지】\\n어디까지나 그 선으로 진행할\\n생각인가…",
+      "new_translation": "【코우지】\\n끝까지 그 방향으로\\n몰아갈 생각인가……",
+      "speaker": "코우지",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4707,
+      "source_index": "0x000c5985",
+      "source_ja_raw": "【退職】\\nいいか、斉藤。\\n記憶《きおく》がないなら思い出せ。\\nそれがお前に残された唯一《ゆいいつ》の……",
+      "source_ja_applied": "【三浦】\\nいいか、斉藤。\\n記憶《きおく》がないなら思い出せ。\\nそれがお前に残された唯一《ゆいいつ》の……",
+      "source_ja_reviewed": "いいか、斉藤。記憶《きおく》がないなら思い出せ。それがお前に残された唯一《ゆいいつ》の……",
+      "old_translation": "【미우라】\\n좋은가, 사이토.\\n기억이 없다면 무거운 꺼내라.\\n그것이 너에 탑승된 유이치의…",
+      "new_translation": "【미우라】\\n잘 들어, 사이토.\\n기억이 없다면 떠올려.\\n그게 네게 남은 유일한……",
+      "speaker": "미우라",
+      "scene": "지문과 소파 자세의 재검증",
+      "relationship_context": "미우라는 시신의 자세와 권총 지문을 근거로 코우지를 몰아붙이고, 코우지는 다른 문에 지문이 없다는 반론을 시도하지만 지문 삭제로 되받아친다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4708,
+      "source_index": "0x000c5a69",
+      "source_ja_raw": "【近藤】\\nどうだ、調子は？",
+      "source_ja_applied": "【近藤】\\nどうだ、調子は？",
+      "source_ja_reviewed": "【近藤】\\nどうだ、調子は？",
+      "old_translation": "【콘도】\\n어떻게, 상태는?",
+      "new_translation": "【콘도】\\n어때, 상태는?",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4709,
+      "source_index": "0x000c5acc",
+      "source_ja_raw": "【退職】\\n……今、声要な\\n腸飯にさしかかっています。",
+      "source_ja_applied": "【三浦】\\n……今、声要な\\n局飯にさしかかっています。",
+      "source_ja_reviewed": "……今、重要《じゅうよう》な局面《きょくめん》にさしかかっています。",
+      "old_translation": "【미우라】\\n……지금, 중양인\\n막면에 빠져 있습니다.",
+      "new_translation": "【미우라】\\n……지금 중요한\\n국면에 들어섰습니다.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4710,
+      "source_index": "0x000c5b28",
+      "source_ja_raw": "【退職】\\nここは私に明せていただきたい。",
+      "source_ja_applied": "【三浦】\\nここは私に明せていただきたい。",
+      "source_ja_reviewed": "【三浦】\\nここは私に明せていただきたい。",
+      "old_translation": "【미우라】\\n여기는 나에게 맡기고 싶다.",
+      "new_translation": "【미우라】\\n여기는 제가 맡겠습니다.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4711,
+      "source_index": "0x000c5b6b",
+      "source_ja_raw": "【光志】\\n（……？\\n退職が係揺《どうよう》してる……？）",
+      "source_ja_applied": "【光志】\\n（……？\\n三浦が係揺《どうよう》してる……？）",
+      "source_ja_reviewed": "【光志】\\n（……？\\n三浦が係揺《どうよう》してる……？）",
+      "old_translation": "【코우지】\\n(……?\\n미우라가 동양하고 있다……?)",
+      "new_translation": "【코우지】\\n(……?\\n미우라가 동요하고 있어……?)",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4712,
+      "source_index": "0x000c5be6",
+      "source_ja_raw": "【近藤】\\nフン！\\nいつまで明せておけばいいんだ？\\nこっちは待ちくたびれてるんだ。",
+      "source_ja_applied": "【近藤】\\nフン！\\nいつまで明せておけばいいんだ？\\nこっちは待ちくたびれてるんだ。",
+      "source_ja_reviewed": "【近藤】\\nフン！\\nいつまで明せておけばいいんだ？\\nこっちは待ちくたびれてるんだ。",
+      "old_translation": "【콘도】\\n훈! \\n언제까지 맡겨 두면 좋을까? \\n이쪽은 기다리고 뭉개져 있는 거야.",
+      "new_translation": "【콘도】\\n흥!\\n언제까지 맡겨 두면 되지?\\n이쪽은 기다리다 지쳤다고.",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4713,
+      "source_index": "0x000c5c4c",
+      "source_ja_raw": "【近藤】\\nあれだけ証拠《しょうこ》が揃《そろ》っていて\\nいまだに自白が蠧れないとは……\\n手心でも加えてるんじゃないだろうな！",
+      "source_ja_applied": "【近藤】\\nあれだけ証拠《しょうこ》が揃《そろ》っていて\\nいまだに自白が取れないとは……\\n手心でも加えてるんじゃないだろうな！",
+      "source_ja_reviewed": "あれだけ証拠《しょうこ》が揃《そろ》っていていまだに自白が取れないとは……手心でも加えてるんじゃないだろうな！",
+      "old_translation": "【콘도】\\n그만큼 증거가 갖추어져있어\\n아직도 자백이 삼키지 않는다고는…\\n수심에서도 순수하지 않을 것이다!",
+      "new_translation": "【콘도】\\n그렇게 증거가 갖춰져 있는데도\\n아직 자백을 받아 내지 못하다니……\\n일부러 봐주고 있는 건 아니겠지!",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4714,
+      "source_index": "0x000c5cea",
+      "source_ja_raw": "【退職】\\nまさか……\\nそのようなことは、倚して。",
+      "source_ja_applied": "【三浦】\\nまさか……\\nそのようなことは、倚して。",
+      "source_ja_reviewed": "【三浦】\\nまさか……\\nそのようなことは、倚して。",
+      "old_translation": "【미우라】\\n설마…\\n그런 일은, 깨어.",
+      "new_translation": "【미우라】\\n설마……\\n그런 일은 절대 없습니다.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4715,
+      "source_index": "0x000c5d59",
+      "source_ja_raw": "【近藤】\\nおい、お前。\\n斉藤とか言ったな。",
+      "source_ja_applied": "【近藤】\\nおい、お前。\\n斉藤とか言ったな。",
+      "source_ja_reviewed": "【近藤】\\nおい、お前。\\n斉藤とか言ったな。",
+      "old_translation": "【콘도】\\n어이, 너. \\n 사이토라고 말했구나.",
+      "new_translation": "【콘도】\\n어이, 너.\\n사이토라고 했지.",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4716,
+      "source_index": "0x000c5da1",
+      "source_ja_raw": "【光志】\\n……はい。",
+      "source_ja_applied": "【光志】\\n……はい。",
+      "source_ja_reviewed": "【光志】\\n……はい。",
+      "old_translation": "【코우지】\\n……응.",
+      "new_translation": "【코우지】\\n……네.",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4717,
+      "source_index": "0x000c5e15",
+      "source_ja_raw": "【近藤】\\nムダな足《あ》娥《が》きはよして、\\nとっとと口を割れよ。",
+      "source_ja_applied": "【近藤】\\nムダな足《あ》娥《が》きはよして、\\nとっとと口を割れよ。",
+      "source_ja_reviewed": "ムダな足《あ》掻《が》きはよして、とっとと口を割れよ。",
+      "old_translation": "【콘도】\\n 쓸데없는 아연은 좋고, \\n 벌써 입을 축하라.",
+      "new_translation": "【콘도】\\n쓸데없이 저항하지 말고\\n빨리 말해.",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4718,
+      "source_index": "0x000c5e6b",
+      "source_ja_raw": "【光志】\\nグッ！",
+      "source_ja_applied": "【光志】\\nグッ！",
+      "source_ja_reviewed": "【光志】\\nグッ！",
+      "old_translation": "【코우지】\\n큭!",
+      "new_translation": "【코우지】\\n큭!",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4719,
+      "source_index": "0x000c5edf",
+      "source_ja_raw": "【退職】\\n課長！\\n冗力を談《ともな》った蠧調べは違法《いほう》だ！\\nやめて下さい！",
+      "source_ja_applied": "【三浦】\\n課長！\\n冗力を談《ともな》った取調べは違法《いほう》だ！\\nやめて下さい！",
+      "source_ja_reviewed": "課長！冗力《ぼうりょく》を伴《ともな》った取調べは違法《いほう》だ！やめて下さい！",
+      "old_translation": "【미우라】\\n과장! \\n폭력을 동반한 취조는\\n불법이다! \\n 그만해!",
+      "new_translation": "【미우라】\\n과장님!\\n폭력을 동반한 취조는 불법입니다!\\n그만하십시오!",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4720,
+      "source_index": "0x000c5f69",
+      "source_ja_raw": "【近藤】\\nこの程度でか？\\n退職……お前のやり方は\\n手ぬるいんだよ。",
+      "source_ja_applied": "【近藤】\\nこの程度でか？\\n三浦……お前のやり方は\\n手ぬるいんだよ。",
+      "source_ja_reviewed": "【近藤】\\nこの程度でか？\\n三浦……お前のやり方は\\n手ぬるいんだよ。",
+      "old_translation": "【콘도】\\n이 정도로?\\n미우라… … 너의 방법은\\n손 미지근해.",
+      "new_translation": "【콘도】\\n이 정도로?\\n미우라…… 네 방식은\\n너무 미지근해.",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4721,
+      "source_index": "0x000c5fce",
+      "source_ja_raw": "【近藤】\\n俺が手本を見せてやるから、\\n黙《だま》って見ておけ。",
+      "source_ja_applied": "【近藤】\\n俺が手本を見せてやるから、\\n黙《だま》って見ておけ。",
+      "source_ja_reviewed": "【近藤】\\n俺が手本を見せてやるから、\\n黙《だま》って見ておけ。",
+      "old_translation": "【콘도】\\n내가 모범을 보여줄 테니까,\\n침묵해 봐라.",
+      "new_translation": "【콘도】\\n내가 본보기를 보여 줄 테니\\n잠자코 보고 있어.",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4722,
+      "source_index": "0x000c602f",
+      "source_ja_raw": "【近藤】\\nいいか。\\n黙《・》っ《・》て《・》見ておくんだぞ！？",
+      "source_ja_applied": "【近藤】\\nいいか。\\n黙《・》っ《・》て《・》見ておくんだぞ！？",
+      "source_ja_reviewed": "【近藤】\\nいいか。\\n黙《・》っ《・》て《・》見ておくんだぞ！？",
+      "old_translation": "【콘도】\\n좋은가. \\n 조용히 봐! ?",
+      "new_translation": "【콘도】\\n알겠나?\\n조용히 지켜보라고!?",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4723,
+      "source_index": "0x000c60ab",
+      "source_ja_raw": "【退職】\\nク……ッ！",
+      "source_ja_applied": "【三浦】\\nク……ッ！",
+      "source_ja_reviewed": "【三浦】\\nク……ッ！",
+      "old_translation": "【미우라】\\n쿠…",
+      "new_translation": "【미우라】\\n큭……!",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4724,
+      "source_index": "0x000c610a",
+      "source_ja_raw": "【近藤】\\nお前と白川が口論しているところを\\nこの俺が見たんだ！\\nお前には十分な係機があるんだよ！",
+      "source_ja_applied": "【近藤】\\nお前と白川が口論しているところを\\nこの俺が見たんだ！\\nお前には十分な係機があるんだよ！",
+      "source_ja_reviewed": "お前と白川が口論しているところをこの俺が見たんだ！お前には十分な動機《どうき》があるんだよ！",
+      "old_translation": "【콘도】\\n너와 시라카와가 말다툼한 곳을\\n이 내가 본 거야! \\n너에게는 충분한 동기가 있어!",
+      "new_translation": "【콘도】\\n너와 시라카와가 말다툼하는 걸\\n내가 봤어!\\n너에게는 충분한 동기가 있다고!",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4725,
+      "source_index": "0x000c619a",
+      "source_ja_raw": "【光志】\\n（……口論って言っても、\\n勝手にオマエが\\n言ってるだけじゃないか！）",
+      "source_ja_applied": "【光志】\\n（……口論って言っても、\\n勝手にオマエが\\n言ってるだけじゃないか！）",
+      "source_ja_reviewed": "【光志】\\n（……口論って言っても、\\n勝手にオマエが\\n言ってるだけじゃないか！）",
+      "old_translation": "【코우지】\\n(…… 말투라고 말해도\\n마음대로 오마에\\n말하는 것만이 아닌가! )",
+      "new_translation": "【코우지】\\n(……말다툼이라 해도\\n네가 멋대로 그렇게 말하는\\n것뿐이잖아!)",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4726,
+      "source_index": "0x000c625d",
+      "source_ja_raw": "【光志】\\n自分の記憶《きおく》にないことを\\n認めるわけにはいきません。",
+      "source_ja_applied": "【光志】\\n自分の記憶《きおく》にないことを\\n認めるわけにはいきません。",
+      "source_ja_reviewed": "【光志】\\n自分の記憶《きおく》にないことを\\n認めるわけにはいきません。",
+      "old_translation": "【코우지】\\n자신의 기억에 없는 것을\\n인정할 수는 없습니다.",
+      "new_translation": "【코우지】\\n내 기억에 없는 일을\\n인정할 수는 없습니다.",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4727,
+      "source_index": "0x000c631d",
+      "source_ja_raw": "【近藤】\\nなにが記憶《きおく》だっ！\\nこっちが大人しくしてりゃ\\n儺《な》めた口、聞きやがって！！",
+      "source_ja_applied": "【近藤】\\nなにが記憶《きおく》だっ！\\nこっちが大人しくしてりゃ\\n儺《な》めた口、聞きやがって！！",
+      "source_ja_reviewed": "なんの記憶《きおく》だ！こっちが大人《おとな》しくしてやってりゃ、つけ上《あ》がりやがって！",
+      "old_translation": "【콘도】\\n무슨 기억이야! \\n이쪽이 어른스럽게 하면\\n 끓인 입, 두고 와서! !",
+      "new_translation": "【콘도】\\n무슨 기억 타령이야!\\n내가 조용히 대해 주고 있으니\\n입을 다물고 있는 거지!",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4728,
+      "source_index": "0x000c6386",
+      "source_ja_raw": "【近藤】\\n記憶《きおく》がないっていうなら\\nムリにでも\\n思い出させてやろうか！！",
+      "source_ja_applied": "【近藤】\\n記憶《きおく》がないっていうなら\\nムリにでも\\n思い出させてやろうか！！",
+      "source_ja_reviewed": "記憶《きおく》がないというなら無理《むり》にでも思い出させてやる！！",
+      "old_translation": "【콘도】\\n기억이 없다고 한다면\\n무리에게도\\n무거운 내게 하자! !",
+      "new_translation": "【콘도】\\n기억이 없다고 한다면\\n억지로라도\\n기억나게 해 주지!!",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4729,
+      "source_index": "0x000c63e1",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4730,
+      "source_index": "0x000c641a",
+      "source_ja_raw": "【近藤】\\nなんだぁ、その挑戦的《ちょうせんてき》な押は？\\nあんまり警察儺《な》めんなよ、コラァ！！",
+      "source_ja_applied": "【近藤】\\nなんだぁ、その挑戦的《ちょうせんてき》な押は？\\nあんまり警察儺《な》めんなよ、コラァ！！",
+      "source_ja_reviewed": "【近藤】\\nなんだぁ、その挑戦的《ちょうせんてき》な押は？\\nあんまり警察儺《な》めんなよ、コラァ！！",
+      "old_translation": "【콘도】\\n뭐야, 그 도전적인 눈은?\\n경찰을 너무 무시하지 마, 이\\n자식아!",
+      "new_translation": "【콘도】\\n뭐야, 그 도전적인 눈은?\\n경찰을 너무 우습게 보지 마, 이\\n자식아!",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4731,
+      "source_index": "0x000c64ae",
+      "source_ja_raw": "【退職】\\n課長！\\nこれ以上は、\\n上に報浦せざるを得ませんよ。",
+      "source_ja_applied": "【三浦】\\n課長！\\nこれ以上は、\\n上に報浦せざるを得ませんよ。",
+      "source_ja_reviewed": "課長！これ以上《いじょう》は、上に報告《ほうこく》しないわけにはいきません。",
+      "old_translation": "【미우라】\\n과장! \\n이상은,\\n상에 보고하지 않을 수 없어요.",
+      "new_translation": "【미우라】\\n과장님!\\n이 이상은\\n상부에 보고할 수밖에 없습니다.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4732,
+      "source_index": "0x000c6503",
+      "source_ja_raw": "【近藤】\\n……フンッ！！",
+      "source_ja_applied": "【近藤】\\n……フンッ！！",
+      "source_ja_reviewed": "【近藤】\\n……フンッ！！",
+      "old_translation": "【콘도】\\n… … 흠! !",
+      "new_translation": "【콘도】\\n……흥!!",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4733,
+      "source_index": "0x000c65b6",
+      "source_ja_raw": "【近藤】\\nどいつもこいつも、\\n俺の邪魔《じゃま》をしやがって！",
+      "source_ja_applied": "【近藤】\\nどいつもこいつも、\\n俺の邪魔《じゃま》をしやがって！",
+      "source_ja_reviewed": "【近藤】\\nどいつもこいつも、\\n俺の邪魔《じゃま》をしやがって！",
+      "old_translation": "【콘도】\\n언제나 이 언제나,\\n내 방해를 해라!",
+      "new_translation": "【콘도】\\n언제나 그렇지.\\n매번 내 앞을 가로막는군!",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4734,
+      "source_index": "0x000c6607",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4735,
+      "source_index": "0x000c664d",
+      "source_ja_raw": "【近藤】\\nおい、斉藤。\\n記憶《きおく》にあろうがなかろうが、\\nさっさと罪を認めてしまえ。",
+      "source_ja_applied": "【近藤】\\nおい、斉藤。\\n記憶《きおく》にあろうがなかろうが、\\nさっさと罪を認めてしまえ。",
+      "source_ja_reviewed": "【近藤】\\nおい、斉藤。\\n記憶《きおく》にあろうがなかろうが、\\nさっさと罪を認めてしまえ。",
+      "old_translation": "【콘도】\\n어이, 사이토. \\n기억에 상관없지만,\\n빨리 죄를 인정해 버린다.",
+      "new_translation": "【콘도】\\n어이, 사이토.\\n기억이 있든 없든 상관없으니\\n어서 죄를 인정해.",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4736,
+      "source_index": "0x000c66bd",
+      "source_ja_raw": "【近藤】\\n今すぐ自白するなら、\\n廣い押にあわずに済むんだぞ？",
+      "source_ja_applied": "【近藤】\\n今すぐ自白するなら、\\n廣い押にあわずに済むんだぞ？",
+      "source_ja_reviewed": "【近藤】\\n今すぐ自白するなら、\\n廣い押にあわずに済むんだぞ？",
+      "old_translation": "【콘도】\\n지금 자백하면 무서운 꼴을 당하지 않고 끝낼 수 있다고?",
+      "new_translation": "【콘도】\\n지금 자백하면\\n무서운 꼴을 당하지 않고 끝낼 수\\n있다고.",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4737,
+      "source_index": "0x000c6765",
+      "source_ja_raw": "【近藤】\\nなんなら、今すぐ自白すれば、\\n殺意はなかったと調書に書こう。\\nこの場合、傷害幸死《しょうがいちし》だ。",
+      "source_ja_applied": "【近藤】\\nなんなら、今すぐ自白すれば、\\n殺意はなかったと調書に書こう。\\nこの場合、傷害幸死《しょうがいちし》だ。",
+      "source_ja_reviewed": "今自白すれば、殺意はなかったと調書《ちょうしょ》に書いてやる。この場合には傷害致死罪《しょうがいちしざい》だ。",
+      "old_translation": "【콘도】\\n무엇이냐면, 지금 자백하면,\\n살의는 없었다고 조서에 써 주지.\\n이 경우에는 상해치사죄다.",
+      "new_translation": "【콘도】\\n지금 자백하면\\n살의는 없었다고 조서에 써 주지.\\n이 경우에는 상해치사죄야.",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4738,
+      "source_index": "0x000c680b",
+      "source_ja_raw": "【退職】\\nか、課長！？",
+      "source_ja_applied": "【三浦】\\nか、課長！？",
+      "source_ja_reviewed": "【三浦】\\nか、課長！？",
+      "old_translation": "【미우라】\\n인가, 과장! ?",
+      "new_translation": "【미우라】\\n뭐라고요, 과장님!?",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4739,
+      "source_index": "0x000c686d",
+      "source_ja_raw": "【近藤】\\nだが抵貢《ていこう》すれば、\\n殺意があったことを証間する\\n証拠《しょうこ》をいくらでも提示してやる！\\nム《・》リ《・》ヤ《・》リ《・》にでもな！",
+      "source_ja_applied": "【近藤】\\nだが抵貢《ていこう》すれば、\\n殺意があったことを証間する\\n証拠《しょうこ》をいくらでも提示してやる！\\nム《・》リ《・》ヤ《・》リ《・》にでもな！",
+      "source_ja_reviewed": "だが抵抗《ていこう》するなら、殺意があったことを証明する証拠《しょうこ》をいくらでも提示《ていじ》してやる！無理《むり》にでも！",
+      "old_translation": "【콘도】\\n하지만 저항한다면,\\n살의가 있었다는 걸 증명하는 증거를\\n얼마든지 제시해 주지!\\n무리하게라도!",
+      "new_translation": "【콘도】\\n하지만 저항하면\\n살의가 있었다는 걸 증명하는 증거를\\n얼마든지 제시해 주지!\\n억지로라도!",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4740,
+      "source_index": "0x000c690a",
+      "source_ja_raw": "【近藤】\\n殺人が証間されれば、\\n死刑《しけい》もあり得るんだぞ！",
+      "source_ja_applied": "【近藤】\\n殺人が証間されれば、\\n死刑《しけい》もあり得るんだぞ！",
+      "source_ja_reviewed": "殺人が証明されれば、死刑《しけい》もあり得《う》るぞ！",
+      "old_translation": "【콘도】\\n살인이 증명되면,\\n사형도 있을 수 있어!",
+      "new_translation": "【콘도】\\n살인이 증명되면\\n사형도 있을 수 있어!",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4741,
+      "source_index": "0x000c6992",
+      "source_ja_raw": "【光志】\\nウソの事実をねつ造するくらいなら\\nあらためて主張します。",
+      "source_ja_applied": "【光志】\\nウソの事実をねつ造するくらいなら\\nあらためて主張します。",
+      "source_ja_reviewed": "【光志】\\nウソの事実をねつ造するくらいなら\\nあらためて主張します。",
+      "old_translation": "【코우지】\\n거짓말의 사실을 네츠법할 정도라면\\n다시 수첩합니다.",
+      "new_translation": "【코우지】\\n거짓말로 사실을 날조할 정도라면\\n다시 말하지만 나는 하지\\n않았습니다.",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4742,
+      "source_index": "0x000c69f1",
+      "source_ja_raw": "【光志】\\nオレはやってない。",
+      "source_ja_applied": "【光志】\\nオレはやってない。",
+      "source_ja_reviewed": "【光志】\\nオレはやってない。",
+      "old_translation": "【코우지】\\n나는 하지 않았어.",
+      "new_translation": "【코우지】\\n나는 하지 않았어.",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4743,
+      "source_index": "0x000c6a52",
+      "source_ja_raw": "【近藤】\\nなっ……お前はバカなのか！？\\nお前のためを思って\\n言ってるんだぞ！",
+      "source_ja_applied": "【近藤】\\nなっ……お前はバカなのか！？\\nお前のためを思って\\n言ってるんだぞ！",
+      "source_ja_reviewed": "【近藤】\\nなっ……お前はバカなのか！？\\nお前のためを思って\\n言ってるんだぞ！",
+      "old_translation": "【콘도】\\n...… 너는 바보인가! ? \\n당신을 위해 무거워\\n말하는 거야!",
+      "new_translation": "【콘도】\\n너는 바보냐!?\\n너를 위해서 하는 말이야!",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4744,
+      "source_index": "0x000c6aae",
+      "source_ja_raw": "【光志】\\nオレのため……？\\n言わせるな。\\nあなたの行響《こうい》はまるで曜法蠧引だ！",
+      "source_ja_applied": "【光志】\\nオレのため……？\\n笑わせるな。\\nあなたの行響《こうい》はまるで曜法取引だ！",
+      "source_ja_reviewed": "オレのため……？ふざけるな。アンタの行為《こうい》はまるで司法取引《しほうとりひき》だ！",
+      "old_translation": "【코우지】\\n나를 위해서… \\n 사용하지 마라. \\n당신의 행위는 마치 사법 견인이다!",
+      "new_translation": "【코우지】\\n나를 위해서……?\\n웃기지 마.\\n당신 행동은 사법 거래나 다름없어!",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4745,
+      "source_index": "0x000c6b15",
+      "source_ja_raw": "【光志】\\n事実をねじ曲げることは\\nオレにとって敗蠡宣言でしかない。\\n義いが、こんな脅問《きょうはく》に\\nオレは絶対に屈《くっ》しない。",
+      "source_ja_applied": "【光志】\\n事実をねじ曲げることは\\nオレにとって敗蠡宣言でしかない。\\n義いが、こんな脅問《きょうはく》に\\nオレは絶対に屈《くっ》しない。",
+      "source_ja_reviewed": "事実をねじ曲《ま》げるのはオレに対する敗北宣言《はいぼくせんげん》にすぎない。悪いが、こんな脅《おど》しにオレは絶対《ぜったい》に屈《くつ》しない。",
+      "old_translation": "【코우지】\\n사실을 나사 구부리는 것은\\n나에게 패가선언일 뿐이다.\\n아쉽지만, 이런 협박에\\n나는 절대로 굴복하지 않는다.",
+      "new_translation": "【코우지】\\n사실을 왜곡하는 건\\n나에게 패배를 선언하는 것뿐이야.\\n미안하지만 이런 협박에\\n나는 절대로 굴복하지 않아.",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4746,
+      "source_index": "0x000c6bbc",
+      "source_ja_raw": "【近藤】\\nグググ……！",
+      "source_ja_applied": "【近藤】\\nグググ……！",
+      "source_ja_reviewed": "【近藤】\\nグググ……！",
+      "old_translation": "【콘도】\\n구구구…",
+      "new_translation": "【콘도】\\n크크크……",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4747,
+      "source_index": "0x000c6c07",
+      "source_ja_raw": "【光志】\\n（コイツ……汗《あせ》ってるのか？\\nどういうことだ……）",
+      "source_ja_applied": "【光志】\\n（コイツ……焦《あせ》ってるのか？\\nどういうことだ……）",
+      "source_ja_reviewed": "【光志】\\n（コイツ……焦《あせ》ってるのか？\\nどういうことだ……）",
+      "old_translation": "【코우지】\\n(코이츠…\\n무슨 일이야…",
+      "new_translation": "【코우지】\\n(이 녀석……\\n대체 무슨 속셈이지……)",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4748,
+      "source_index": "0x000c6c83",
+      "source_ja_raw": "【退職】\\n課長、ここはお引き蠧り下さい。\\n課長のお気持ちはわかりますが、\\nここは自白よりも\\n真実を見極めるほうが声要です。",
+      "source_ja_applied": "【三浦】\\n課長、ここはお引き取り下さい。\\n課長のお気持ちはわかりますが、\\nここは自白よりも\\n真実を見極めるほうが声要です。",
+      "source_ja_reviewed": "課長、ここは引《ひ》いて下さい。課長の気持ちはわかりますが、今は自白より真実を明らかにするほうが重要《じゅうよう》です。",
+      "old_translation": "【미우라】\\n과장님, 여기는 물러나 주십시오.\\n과장님 심정은 압니다만,\\n지금은 자백보다\\n진실을 밝히는 쪽이 중요합니다.",
+      "new_translation": "【미우라】\\n과장님, 이만 물러나 주십시오.\\n과장님의 심정은 압니다만\\n지금은 자백보다\\n진실을 밝히는 게 중요합니다.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4749,
+      "source_index": "0x000c6d27",
+      "source_ja_raw": "【近藤】\\nく……っ！\\n勝手にしろっ！！",
+      "source_ja_applied": "【近藤】\\nく……っ！\\n勝手にしろっ！！",
+      "source_ja_reviewed": "【近藤】\\nく……っ！\\n勝手にしろっ！！",
+      "old_translation": "【콘도】\\n쿠…\\n마음대로 해라! !",
+      "new_translation": "【콘도】\\n큭……\\n마음대로 해라!!",
+      "speaker": "콘도",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4750,
+      "source_index": "0x000c6e1c",
+      "source_ja_raw": "【退職】\\n…………",
+      "source_ja_applied": "【三浦】\\n…………",
+      "source_ja_reviewed": "【三浦】\\n…………",
+      "old_translation": "【미우라】\\n…………",
+      "new_translation": "【미우라】\\n…………",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4751,
+      "source_index": "0x000c6e7b",
+      "source_ja_raw": "【退職】\\n義かったな、斉藤。",
+      "source_ja_applied": "【三浦】\\n義かったな、斉藤。",
+      "source_ja_reviewed": "【三浦】\\n義かったな、斉藤。",
+      "old_translation": "【미우라】\\n아쉬웠구나, 사이토.",
+      "new_translation": "【미우라】\\n아쉽게 됐군, 사이토.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4752,
+      "source_index": "0x000c6ec7",
+      "source_ja_raw": "【退職】\\n……これで蠧調べを\\n終わりにしたいところだが、\\n私はお前を怖問《じんもん》しなければならない\\n立場だ……",
+      "source_ja_applied": "【三浦】\\n……これで取調べを\\n終わりにしたいところだが、\\n私はお前を怖問《じんもん》しなければならない\\n立場だ……",
+      "source_ja_reviewed": "【三浦】\\n……これで取調べを\\n終わりにしたいところだが、\\n私はお前を怖問《じんもん》しなければならない\\n立場だ……",
+      "old_translation": "【미우라】\\n… … 이것으로 취조를\\n끝내고 싶은 곳이지만,\\n너를 심문해야\\n태장이다…",
+      "new_translation": "【미우라】\\n……이걸로 취조를 끝내고 싶지만\\n아직 너에게 확인할 게 남아\\n있다……",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4753,
+      "source_index": "0x000c6f48",
+      "source_ja_raw": "【退職】\\n始めるぞ。",
+      "source_ja_applied": "【三浦】\\n始めるぞ。",
+      "source_ja_reviewed": "【三浦】\\n始めるぞ。",
+      "old_translation": "【미우라】\\n단단해.",
+      "new_translation": "【미우라】\\n계속하지.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4754,
+      "source_index": "0x000c6f80",
+      "source_ja_raw": "【光志】\\n……ああ。",
+      "source_ja_applied": "【光志】\\n……ああ。",
+      "source_ja_reviewed": "【光志】\\n……ああ。",
+      "old_translation": "【코우지】\\n……그래.",
+      "new_translation": "【코우지】\\n……그래.",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4755,
+      "source_index": "0x000c7242",
+      "source_ja_raw": "［見たことはある］",
+      "source_ja_applied": "［見たことはある］",
+      "source_ja_reviewed": "［見たことはある］",
+      "old_translation": "[본 적이 있다]",
+      "new_translation": "[본 적이 있다]",
+      "speaker": "장면 대사",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4756,
+      "source_index": "0x000c7253",
+      "source_ja_raw": "［見たこともない］",
+      "source_ja_applied": "［見たこともない］",
+      "source_ja_reviewed": "［見たこともない］",
+      "old_translation": "[본 적도 없다]",
+      "new_translation": "[본 적도 없다]",
+      "speaker": "장면 대사",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4757,
+      "source_index": "0x000c72c6",
+      "source_ja_raw": "【退職】\\n……昨日は\\nうちの近藤がすまなかったな。",
+      "source_ja_applied": "【三浦】\\n……昨日は\\nうちの近藤がすまなかったな。",
+      "source_ja_reviewed": "【三浦】\\n……昨日は\\nうちの近藤がすまなかったな。",
+      "old_translation": "【미우라】\\n......어제는\\n우리의 콘도가 미안했다.",
+      "new_translation": "【미우라】\\n……어제는 우리 과장인 콘도가\\n미안하게 됐다.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4758,
+      "source_index": "0x000c7312",
+      "source_ja_raw": "【光志】\\n……まあ、\\n古い刑事の見本だと思ったよ。",
+      "source_ja_applied": "【光志】\\n……まあ、\\n古い刑事の見本だと思ったよ。",
+      "source_ja_reviewed": "【光志】\\n……まあ、\\n古い刑事の見本だと思ったよ。",
+      "old_translation": "【코우지】\\n… … 뭐, \\n새로운 형사의 견본이라고 무거웠어.",
+      "new_translation": "【코우지】\\n……뭐, 신참 형사의 본보기라고\\n생각했어.",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4759,
+      "source_index": "0x000c7361",
+      "source_ja_raw": "【光志】\\nむしろ、刑事なんてあんなもんだって\\n思ってたしね。\\nアンタみたいな人のほうが停《めずら》しいよ。",
+      "source_ja_applied": "【光志】\\nむしろ、刑事なんてあんなもんだって\\n思ってたしね。\\nアンタみたいな人のほうが停《めずら》しいよ。",
+      "source_ja_reviewed": "【光志】\\nむしろ、刑事なんてあんなもんだって\\n思ってたしね。\\nアンタみたいな人のほうが停《めずら》しいよ。",
+      "old_translation": "【코우지】\\n오히려 형사란 원래 그런 거라고 생각했지.\\n너처럼 특별한 사람은 드물어.",
+      "new_translation": "【코우지】\\n오히려 형사는 원래 그런 직업이라고\\n생각했지.\\n당신처럼 특별한 사람은 드물고.",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4760,
+      "source_index": "0x000c73f1",
+      "source_ja_raw": "【退職】\\n力づくで自白させるのは\\n私のやり方ではない。\\nそれだけだ。",
+      "source_ja_applied": "【三浦】\\n力づくで自白させるのは\\n私のやり方ではない。\\nそれだけだ。",
+      "source_ja_reviewed": "【三浦】\\n力づくで自白させるのは\\n私のやり方ではない。\\nそれだけだ。",
+      "old_translation": "【미우라】\\n힘 쓰는 것으로 자백시키는 것은\\n나의 방식이 아니다. \\n 그게 다야.",
+      "new_translation": "【미우라】\\n힘으로 자백을 받아 내는 건\\n내 방식이 아니야.\\n그게 전부다.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4761,
+      "source_index": "0x000c7453",
+      "source_ja_raw": "【退職】\\n今日はお前と被害者《ひがいしゃ》の関係について\\n聞かせてもらう。",
+      "source_ja_applied": "【三浦】\\n今日はお前と被害者《ひがいしゃ》の関係について\\n聞かせてもらう。",
+      "source_ja_reviewed": "今日はお前と被害者《ひがいしゃ》の関係について尋《たず》ねる。",
+      "old_translation": "【미우라】\\n오늘은 너와 피해자의 관계에 대해\\n두게 한다.",
+      "new_translation": "【미우라】\\n오늘은 너와 피해자의 관계에 대해\\n물어보겠다.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4762,
+      "source_index": "0x000c74d5",
+      "source_ja_raw": "【退職】\\nお前は被害者《ひがいしゃ》である白川一利とは\\n飯識《めんしき》がないと言っていた。\\nそれは付違《まちが》いないな？",
+      "source_ja_applied": "【三浦】\\nお前は被害者《ひがいしゃ》である白川一利とは\\n飯識《めんしき》がないと言っていた。\\nそれは付違《まちが》いないな？",
+      "source_ja_reviewed": "お前は被害者《ひがいしゃ》である白川一利とは面識《めんしき》がないと言っていた。それは確《たし》かだな？",
+      "old_translation": "【미우라】\\n너는 피해자인 시라카와 이치로와는\\n면식이 없다고 말하고 있었다. \\n그것은 확실히?",
+      "new_translation": "【미우라】\\n너는 피해자인 시라카와 이치리와\\n면식이 없다고 했지.\\n확실한가?",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4763,
+      "source_index": "0x000c7551",
+      "source_ja_raw": "【光志】\\n付違《まちが》いない。\\nオレは彼と飯識《めんしき》がない。",
+      "source_ja_applied": "【光志】\\n付違《まちが》いない。\\nオレは彼と飯識《めんしき》がない。",
+      "source_ja_reviewed": "【光志】\\n付違《まちが》いない。\\nオレは彼と飯識《めんしき》がない。",
+      "old_translation": "【코우지】\\n 틀림없다. \\n나는 아야와 면식이 없다.",
+      "new_translation": "【코우지】\\n틀림없어.\\n나는 그 사람과 안면이 없어.",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4764,
+      "source_index": "0x000c75b5",
+      "source_ja_raw": "【退職】\\nそれは仕事上の顧客《クライアント》となった\\n可能性もゼロである、\\nということでいいか？",
+      "source_ja_applied": "【三浦】\\nそれは仕事上の顧客《クライアント》となった\\n可能性もゼロである、\\nということでいいか？",
+      "source_ja_reviewed": "【三浦】\\nそれは仕事上の顧客《クライアント》となった\\n可能性もゼロである、\\nということでいいか？",
+      "old_translation": "【미우라】\\n그것은 일상의 고객이 된\\n 가능성도 제로이다,\\n라고 하는 것으로 좋은가?",
+      "new_translation": "【미우라】\\n일상적인 손님으로 만났을\\n가능성도 0이라고\\n보면 되나?",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4765,
+      "source_index": "0x000c761d",
+      "source_ja_raw": "【光志】\\nああ。\\nとは言っても、上話で依頼《いらい》されて\\n顔を見ない場合もあるけどな。",
+      "source_ja_applied": "【光志】\\nああ。\\nとは言っても、上話で依頼《いらい》されて\\n顔を見ない場合もあるけどな。",
+      "source_ja_reviewed": "ああ。とはいえ、電話で依頼《いらい》されて顔を見ない場合もあるが。",
+      "old_translation": "【코우지】\\n아. \\n라고는 해도, 전화로 의뢰되어\\n보를 보지 않는 경우도 있지만.",
+      "new_translation": "【코우지】\\n그래.\\n물론 전화로 의뢰를 받아\\n얼굴을 보지 않는 경우도 있지만.",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4766,
+      "source_index": "0x000c7682",
+      "source_ja_raw": "【光志】\\nでも、毎本は対飯して依頼《いらい》を受ける。\\nそういうときの顔は落元覚えてる。",
+      "source_ja_applied": "【光志】\\nでも、毎本は対飯して依頼《いらい》を受ける。\\nそういうときの顔は落元覚えてる。",
+      "source_ja_reviewed": "でも、基本《きほん》は対面《たいめん》で依頼《いらい》を受ける。そのときの顔は全員《ぜんいん》覚えている。",
+      "old_translation": "【코우지】\\n에서도, 간모토는 대면해 의뢰를\\n한다. \\n그럴 때의 보기는 전원 기억하고\\n있다.",
+      "new_translation": "【코우지】\\n하지만 보통은 직접 만나서 의뢰를\\n받으니까\\n그때 만난 사람의 얼굴은\\n전부 기억하고 있어.",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4767,
+      "source_index": "0x000c771c",
+      "source_ja_raw": "【光志】\\nだから、仕事で絡《から》んだこともないはずだ。\\nけど……",
+      "source_ja_applied": "【光志】\\nだから、仕事で絡《から》んだこともないはずだ。\\nけど……",
+      "source_ja_reviewed": "【光志】\\nだから、仕事で絡《から》んだこともないはずだ。\\nけど……",
+      "old_translation": "【코우지】\\n 그래서, 일로 얽힌 적도 없을\\n것이다.\\n\\n하지만......",
+      "new_translation": "【코우지】\\n그러니 일로 얽힌 적도 없을 거야.\\n하지만……",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4768,
+      "source_index": "0x000c7780",
+      "source_ja_raw": "【光志】\\n見たことはある……と言っても、\\n上場企業《じょうじょうきぎょう》の代表でもあり、\\n白川グループのトップに\\n立っていた男だ。",
+      "source_ja_applied": "【光志】\\n見たことはある……と言っても、\\n上場企業《じょうじょうきぎょう》の代表でもあり、\\n白川グループのトップに\\n立っていた男だ。",
+      "source_ja_reviewed": "【光志】\\n見たことはある……と言っても、\\n上場企業《じょうじょうきぎょう》の代表でもあり、\\n白川グループのトップに\\n立っていた男だ。",
+      "old_translation": "【코우지】\\n본 적이 있다……라고 해도,\\n상장 기업의 대표이기도하고,\\n시라카와 그룹의 톱에\\n서 있던 사람이다.",
+      "new_translation": "【코우지】\\n본 적이 있다고 해도\\n상장 기업의 대표이자\\n시라카와 그룹의 정점에 있던\\n사람이야.",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4769,
+      "source_index": "0x000c7803",
+      "source_ja_raw": "【光志】\\nテレビ、ネット、新聞……\\nなんらかの材体《ばいたい》を通して\\n顔を見たことがある、といった程度だ。",
+      "source_ja_applied": "【光志】\\nテレビ、ネット、新聞……\\nなんらかの材体《ばいたい》を通して\\n顔を見たことがある、といった程度だ。",
+      "source_ja_reviewed": "【光志】\\nテレビ、ネット、新聞……\\nなんらかの材体《ばいたい》を通して\\n顔を見たことがある、といった程度だ。",
+      "old_translation": "【코우지】\\nTV, 넷, 신문…\\n어떤 매체를 통해\\n보고 본 적이 있다는 정도다.",
+      "new_translation": "【코우지】\\nTV, 인터넷, 신문……\\n어떤 매체에서든\\n본 적이 있다는 정도겠지.",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4770,
+      "source_index": "0x000c789c",
+      "source_ja_raw": "【退職】\\nなるほど。\\n見たことがあるのは否定しないわけか。",
+      "source_ja_applied": "【三浦】\\nなるほど。\\n見たことがあるのは否定しないわけか。",
+      "source_ja_reviewed": "【三浦】\\nなるほど。\\n見たことがあるのは否定しないわけか。",
+      "old_translation": "【미우라】\\n과연. \\n 본 적이 있는 건 자지 않는\\n건가.",
+      "new_translation": "【미우라】\\n그렇군.\\n본 적이 있다는 건 인정하는 건가.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4771,
+      "source_index": "0x000c78f7",
+      "source_ja_raw": "【退職】\\nこの件に関してはお前の\\n言い分を信じよう。",
+      "source_ja_applied": "【三浦】\\nこの件に関してはお前の\\n言い分を信じよう。",
+      "source_ja_reviewed": "【三浦】\\nこの件に関してはお前の\\n言い分を信じよう。",
+      "old_translation": "【미우라】\\n이 건에 관해서는 너의\\n말을 믿자.",
+      "new_translation": "【미우라】\\n이 일에 관해서는\\n네 말을 믿어 주지.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4772,
+      "source_index": "0x000c7951",
+      "source_ja_raw": "【退職】\\nもし見たことがないと主張していたら、\\nお前を信用できなくなっていたかも\\nしれない。",
+      "source_ja_applied": "【三浦】\\nもし見たことがないと主張していたら、\\nお前を信用できなくなっていたかも\\nしれない。",
+      "source_ja_reviewed": "【三浦】\\nもし見たことがないと主張していたら、\\nお前を信用できなくなっていたかも\\nしれない。",
+      "old_translation": "【미우라】\\n 만약 본 적이 없다고 수첩하고\\n있으면,\\n너를 신용할 수 없게 되어 있을지도\\n일지도 모른다.",
+      "new_translation": "【미우라】\\n만약 본 적이 없다고 우겼다면\\n너를 믿을 수 없게 됐을지도 몰라.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4773,
+      "source_index": "0x000c79b3",
+      "source_ja_raw": "【光志】\\n……どういうことだ？",
+      "source_ja_applied": "【光志】\\n……どういうことだ？",
+      "source_ja_reviewed": "【光志】\\n……どういうことだ？",
+      "old_translation": "【코우지】\\n……무슨 소리야?",
+      "new_translation": "【코우지】\\n……무슨 소리야?",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4774,
+      "source_index": "0x000c79f6",
+      "source_ja_raw": "【光志】\\n……いや、気のせいだった。\\n彼とは会ったこともないし、\\n見たこともない。",
+      "source_ja_applied": "【光志】\\n……いや、気のせいだった。\\n彼とは会ったこともないし、\\n見たこともない。",
+      "source_ja_reviewed": "【光志】\\n……いや、気のせいだった。\\n彼とは会ったこともないし、\\n見たこともない。",
+      "old_translation": "【코우지】\\n......아니, 신경 탓이었다. \\n아야와는 만난 적도 없고,\\n본 적도 없다.",
+      "new_translation": "【코우지】\\n……아니, 괜한 걱정이었어.\\n그 사람과 만난 적도 없고\\n직접 본 적도 없어.",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4775,
+      "source_index": "0x000c7a62",
+      "source_ja_raw": "【退職】\\n……そうか。\\nならば、あえて聞こう。\\nお前はテレビやネットを見たりは\\nしないのか？",
+      "source_ja_applied": "【三浦】\\n……そうか。\\nならば、あえて聞こう。\\nお前はテレビやネットを見たりは\\nしないのか？",
+      "source_ja_reviewed": "【三浦】\\n……そうか。\\nならば、あえて聞こう。\\nお前はテレビやネットを見たりは\\nしないのか？",
+      "old_translation": "【미우라】\\n......그런가. \\n이라면, 굳이 두자. \\n너는 TV나 그물을 보거나\\n하지 않을까?",
+      "new_translation": "【미우라】\\n……그런가.\\n그렇다면 더 묻지는 않겠다.\\n너는 TV나 인터넷을 보지 않나?",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4776,
+      "source_index": "0x000c7ac6",
+      "source_ja_raw": "【光志】\\n……テレビやネット？",
+      "source_ja_applied": "【光志】\\n……テレビやネット？",
+      "source_ja_reviewed": "【光志】\\n……テレビやネット？",
+      "old_translation": "【코우지】\\n… … TV나 넷?",
+      "new_translation": "【코우지】\\n……TV나 인터넷?",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4777,
+      "source_index": "0x000c7b2b",
+      "source_ja_raw": "【退職】\\n白川グループは\\n高浦営業に横極的だ。",
+      "source_ja_applied": "【三浦】\\n白川グループは\\n広浦営業に横極的だ。",
+      "source_ja_reviewed": "白川グループは広告宣伝《こうこくせんでん》に積極《せっきょく》的だ。",
+      "old_translation": "【미우라】\\n시라카와 그룹은\\n고고 영업에 적극적이다.",
+      "new_translation": "【미우라】\\n시라카와 그룹은\\n광고에 적극적이다.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4778,
+      "source_index": "0x000c7b9f",
+      "source_ja_raw": "【退職】\\nテレビではＣＭが穢れているし、\\nインターネットのポータルサイトでも\\n高浦をよく見かける。",
+      "source_ja_applied": "【三浦】\\nテレビではＣＭが穢れているし、\\nインターネットのポータルサイトでも\\n広浦をよく見かける。",
+      "source_ja_reviewed": "テレビではＣＭが流《なが》されているし、インターネットのポータルサイトでも広告《こうこく》をよく見る。",
+      "old_translation": "【미우라】\\nTV에서는 CM이 보내지고 있고,\\n인터넷의 포털 사이트에서도\\n고고를 잘 보인다.",
+      "new_translation": "【미우라】\\nTV에서는 광고가 나오고\\n인터넷 포털 사이트에서도\\n광고를 자주 볼 수 있지.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4779,
+      "source_index": "0x000c7c17",
+      "source_ja_raw": "【退職】\\nその際、グループのトップとして\\n白川一利が顔を出していたことも\\nしばしばある。",
+      "source_ja_applied": "【三浦】\\nその際、グループのトップとして\\n白川一利が顔を出していたことも\\nしばしばある。",
+      "source_ja_reviewed": "【三浦】\\nその際、グループのトップとして\\n白川一利が顔を出していたことも\\nしばしばある。",
+      "old_translation": "【미우라】\\n그럴 때 그룹의 총수로서\\n시라카와 이치로가 모습을 보인 적도\\n종종 있다.",
+      "new_translation": "【미우라】\\n그럴 때 그룹 총수로서\\n시라카와 이치리가\\n모습을 보인 적도 종종 있어.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4780,
+      "source_index": "0x000c7ca1",
+      "source_ja_raw": "【退職】\\nそういう男の顔を……\\n本当に見たことがないのか？",
+      "source_ja_applied": "【三浦】\\nそういう男の顔を……\\n本当に見たことがないのか？",
+      "source_ja_reviewed": "【三浦】\\nそういう男の顔を……\\n本当に見たことがないのか？",
+      "old_translation": "【미우라】\\n그런 사람의 견을… …\\n정말 본 적이 없는 것인가?",
+      "new_translation": "【미우라】\\n그런 사람의 얼굴을……\\n정말 본 적이 없는 건가?",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4781,
+      "source_index": "0x000c7cf2",
+      "source_ja_raw": "【光志】\\nい、いや……\\nテレビもネットもあまり\\n見ないんだ……",
+      "source_ja_applied": "【光志】\\nい、いや……\\nテレビもネットもあまり\\n見ないんだ……",
+      "source_ja_reviewed": "【光志】\\nい、いや……\\nテレビもネットもあまり\\n見ないんだ……",
+      "old_translation": "【코우지】\\n네, 아니......\\nTV도 그물도 별로\\n보지 않아…",
+      "new_translation": "【코우지】\\n네, 아니……\\nTV도 인터넷도 별로\\n보지 않아서……",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4782,
+      "source_index": "0x000c7d44",
+      "source_ja_raw": "【光志】\\n（なんか、\\nドツボにハマりかけているような\\n気がする……）",
+      "source_ja_applied": "【光志】\\n（なんか、\\nドツボにハマりかけているような\\n気がする……）",
+      "source_ja_reviewed": "【光志】\\n（なんか、\\nドツボにハマりかけているような\\n気がする……）",
+      "old_translation": "【코우지】\\n(어쩐지,\\n 도가니에 빠져 있는 것 같은\\n기분한다…",
+      "new_translation": "【코우지】\\n(어쩐지 함정에 빠진 듯한\\n기분이야……)",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4783,
+      "source_index": "0x000c7d9a",
+      "source_ja_raw": "【光志】\\n（だけどここまで来たら\\n安油に意見をひるがえすのは\\nかえって危険だ）",
+      "source_ja_applied": "【光志】\\n（だけどここまで来たら\\n安油に意見をひるがえすのは\\nかえって危険だ）",
+      "source_ja_reviewed": "【光志】\\n（だけどここまで来たら\\n安油に意見をひるがえすのは\\nかえって危険だ）",
+      "old_translation": "【코우지】\\n(하지만 여기까지 쓰면\\n안능에 의견을 끌어들이는 것은\\n오히려 치어이다)",
+      "new_translation": "【코우지】\\n(하지만 여기서 말꼬리를 잡히는 건\\n오히려 불리해.)",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4784,
+      "source_index": "0x000c7e1c",
+      "source_ja_raw": "【退職】\\nふむ……\\nまあ、それならそれでいい。",
+      "source_ja_applied": "【三浦】\\nふむ……\\nまあ、それならそれでいい。",
+      "source_ja_reviewed": "【三浦】\\nふむ……\\nまあ、それならそれでいい。",
+      "old_translation": "【미우라】\\n흠……\\n음, 그렇다면 그것으로 좋다.",
+      "new_translation": "【미우라】\\n흠……\\n그렇다면 그걸로 좋다.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4785,
+      "source_index": "0x000c7e70",
+      "source_ja_raw": "【退職】\\nだが、テレビやネットに関係なく、\\nお前は被害者《ひがいしゃ》の顔を\\n見たことがあるはずだ。",
+      "source_ja_applied": "【三浦】\\nだが、テレビやネットに関係なく、\\nお前は被害者《ひがいしゃ》の顔を\\n見たことがあるはずだ。",
+      "source_ja_reviewed": "しかし、テレビやネットに関係なく、君は被害者《ひがいしゃ》の名刺《めいし》を見たことがあるはずだ。",
+      "old_translation": "【미우라】\\n하지만, 텔레비전이나 넷에\\n관계없이,\\n너는 피해자의 보고를\\n본 적이 있을 것이다.",
+      "new_translation": "【미우라】\\n하지만 TV나 인터넷과는 관계없이\\n너는 피해자의 명함을\\n본 적이 있을 거다.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4786,
+      "source_index": "0x000c7edb",
+      "source_ja_raw": "【光志】\\n……どういうことだ？",
+      "source_ja_applied": "【光志】\\n……どういうことだ？",
+      "source_ja_reviewed": "【光志】\\n……どういうことだ？",
+      "old_translation": "【코우지】\\n……무슨 소리야?",
+      "new_translation": "【코우지】\\n……무슨 소리야?",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4787,
+      "source_index": "0x000c7f4a",
+      "source_ja_raw": "【退職】\\nお前の部屋から出てきた名刺《めいし》だ。",
+      "source_ja_applied": "【三浦】\\nお前の部屋から出てきた名刺《めいし》だ。",
+      "source_ja_reviewed": "【三浦】\\nお前の部屋から出てきた名刺《めいし》だ。",
+      "old_translation": "【미우라】\\n너의 방에서 나온 명함이다.",
+      "new_translation": "【미우라】\\n네 방에서 나온 명함이다.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4788,
+      "source_index": "0x000c7fda",
+      "source_ja_raw": "【光志】\\nなっ……！？\\nなんでこんなものが！？",
+      "source_ja_applied": "【光志】\\nなっ……！？\\nなんでこんなものが！？",
+      "source_ja_reviewed": "【光志】\\nなっ……！？\\nなんでこんなものが！？",
+      "old_translation": "【코우지】\\n나……! ? \\n어째서 이런 것이! ?",
+      "new_translation": "【코우지】\\n나……!?\\n왜 이런 게!?",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4789,
+      "source_index": "0x000c8023",
+      "source_ja_raw": "【光志】\\nオ、オレの部屋から出てきたって……\\n部屋のどこから出てきたんだよ！？",
+      "source_ja_applied": "【光志】\\nオ、オレの部屋から出てきたって……\\n部屋のどこから出てきたんだよ！？",
+      "source_ja_reviewed": "【光志】\\nオ、オレの部屋から出てきたって……\\n部屋のどこから出てきたんだよ！？",
+      "old_translation": "【코우지】\\n오, 나의 방에서\\n나왔다고......\\n방의 어디에서 나왔어! ?",
+      "new_translation": "【코우지】\\n내 방에서 나왔다고……\\n방 어디에서 나왔어!?",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4790,
+      "source_index": "0x000c8081",
+      "source_ja_raw": "【退職】\\n署の引き出しに入っていた\\n名刺《めいし》入《い》れの中からだ。\\nスゴい数の名刺《めいし》を持っているんだな。\\n十《おどろ》いたよ。",
+      "source_ja_applied": "【三浦】\\n署の引き出しに入っていた\\n名刺《めいし》入《い》れの中からだ。\\nスゴい数の名刺《めいし》を持っているんだな。\\n十《おどろ》いたよ。",
+      "source_ja_reviewed": "机《つくえ》の引《ひ》き出《だ》しに入っていた名刺入《めいしい》れの中からだ。ずいぶん古《ふる》い名刺《めいし》を持っている。",
+      "old_translation": "【미우라】\\n통의 서랍에 들어가 있던\\n명함 넣어 안에서다. \\n굉장한 명함을 망설이고 있어. \\n 가시 했다.",
+      "new_translation": "【미우라】\\n책상 서랍 안에 있던\\n명함집에서 나왔다.\\n상당히 오래된 명함으로 보이더군.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4791,
+      "source_index": "0x000c8146",
+      "source_ja_raw": "【退職】\\nだが、これでお前と被害者《ひがいしゃ》が\\n以前に会っていたことが\\n証間されたわけだ。",
+      "source_ja_applied": "【三浦】\\nだが、これでお前と被害者《ひがいしゃ》が\\n以前に会っていたことが\\n証間されたわけだ。",
+      "source_ja_reviewed": "しかし、これで君と被害者《ひがいしゃ》が以前《いぜん》に会っていたことが証明《しょうめい》されたわけだ。",
+      "old_translation": "【미우라】\\n하지만, 이것으로 너와 피해자가\\n이전에 만났던 것이\\n증명된 셈이다.",
+      "new_translation": "【미우라】\\n하지만 이걸로 너와 피해자가\\n예전에 만났다는 사실이\\n증명된 셈이지.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4792,
+      "source_index": "0x000c81dd",
+      "source_ja_raw": "【退職】\\nこれでもまだ、\\n被害者《ひがいしゃ》と会っていないと\\n言い張るつもりか！？",
+      "source_ja_applied": "【三浦】\\nこれでもまだ、\\n被害者《ひがいしゃ》と会っていないと\\n言い張るつもりか！？",
+      "source_ja_reviewed": "【三浦】\\nこれでもまだ、\\n被害者《ひがいしゃ》と会っていないと\\n言い張るつもりか！？",
+      "old_translation": "【미우라】\\n이래도 아직,\\n피해자를 만나지 않았다고\\n말씀할 생각인가! ?",
+      "new_translation": "【미우라】\\n그래도 아직\\n피해자를 만난 적이 없다고\\n말할 셈인가!?",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4793,
+      "source_index": "0x000c823d",
+      "source_ja_raw": "【光志】\\n（そんな……\\nオレが、被害者《ひがいしゃ》の名刺《めいし》を……？\\nまったく記憶《きおく》にない……！）",
+      "source_ja_applied": "【光志】\\n（そんな……\\nオレが、被害者《ひがいしゃ》の名刺《めいし》を……？\\nまったく記憶《きおく》にない……！）",
+      "source_ja_reviewed": "【光志】\\n（そんな……\\nオレが、被害者《ひがいしゃ》の名刺《めいし》を……？\\nまったく記憶《きおく》にない……！）",
+      "old_translation": "【코우지】\\n(그런…\\n내가 피해자의 명함을…\\n전혀 기억에 없다… )",
+      "new_translation": "【코우지】\\n(그럴 수가……\\n내가 피해자의 명함을……\\n전혀 기억나지 않아……)",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4794,
+      "source_index": "0x000c82c1",
+      "source_ja_raw": "【光志】\\nうっ……\\nクソォー！",
+      "source_ja_applied": "【光志】\\nうっ……\\nクソォー！",
+      "source_ja_reviewed": "【光志】\\nうっ……\\nクソォー！",
+      "old_translation": "【코우지】\\n우……\\n쿠소오!",
+      "new_translation": "【코우지】\\n으……\\n젠장!",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4795,
+      "source_index": "0x000c8325",
+      "source_ja_raw": "【退職】\\n……フッ。",
+      "source_ja_applied": "【三浦】\\n……フッ。",
+      "source_ja_reviewed": "【三浦】\\n……フッ。",
+      "old_translation": "【미우라】\\n… … 훗.",
+      "new_translation": "【미우라】\\n……흥.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4796,
+      "source_index": "0x000c8384",
+      "source_ja_raw": "【退職】\\nさて、\\n怖問《じんもん》を始めよう。",
+      "source_ja_applied": "【三浦】\\nさて、\\n怖問《じんもん》を始めよう。",
+      "source_ja_reviewed": "【三浦】\\nさて、\\n怖問《じんもん》を始めよう。",
+      "old_translation": "【미우라】\\n그럼,\\n심문을 끝내자.",
+      "new_translation": "【미우라】\\n그럼\\n심문을 끝내자.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4797,
+      "source_index": "0x000c86aa",
+      "source_ja_raw": "【退職】\\nどうだ、斉藤。\\nそろそろ自白する気になったか？",
+      "source_ja_applied": "【三浦】\\nどうだ、斉藤。\\nそろそろ自白する気になったか？",
+      "source_ja_reviewed": "【三浦】\\nどうだ、斉藤。\\nそろそろ自白する気になったか？",
+      "old_translation": "【미우라】\\n어떻게, 사이토. \\n슬슬 자백할까?",
+      "new_translation": "【미우라】\\n어떠냐, 사이토.\\n슬슬 자백할까?",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4798,
+      "source_index": "0x000c8704",
+      "source_ja_raw": "【光志】\\n記憶《きおく》にないことの\\n自白なんてできるかっ！",
+      "source_ja_applied": "【光志】\\n記憶《きおく》にないことの\\n自白なんてできるかっ！",
+      "source_ja_reviewed": "【光志】\\n記憶《きおく》にないことの\\n自白なんてできるかっ！",
+      "old_translation": "【코우지】\\n기억에 없는 것의\\n자백은 할 수 있을까!",
+      "new_translation": "【코우지】\\n기억에도 없는 일을\\n자백할 수 있겠어!?",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4799,
+      "source_index": "0x000c8754",
+      "source_ja_raw": "【光志】\\nオレは殺してない！\\nＶＩＰルームにも入ってないんだ！",
+      "source_ja_applied": "【光志】\\nオレは殺してない！\\nＶＩＰルームにも入ってないんだ！",
+      "source_ja_reviewed": "【光志】\\nオレは殺してない！\\nＶＩＰルームにも入ってないんだ！",
+      "old_translation": "【코우지】\\n나는 죽이지 않았어!\\nVIP룸에도 들어가지 않았다고!",
+      "new_translation": "【코우지】\\n나는 죽이지 않았어!\\nVIP룸에도 들어가지 않았다고!",
+      "speaker": "코우지",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4800,
+      "source_index": "0x000c87cc",
+      "source_ja_raw": "【退職】\\n……フム。\\nでは、今関はあの話をしておくか。",
+      "source_ja_applied": "【三浦】\\n……フム。\\nでは、今回はあの話をしておくか。",
+      "source_ja_reviewed": "【三浦】\\n……フム。\\nでは、今回はあの話をしておくか。",
+      "old_translation": "【미우라】\\n……흠.\\n그럼, 이번에는 그 이야기를 해 둘까.",
+      "new_translation": "【미우라】\\n……흠.\\n그럼 이번에는 그 이야기를 해\\n보자.",
+      "speaker": "미우라",
+      "scene": "콘도의 강압 취조와 피해자 면식 확인",
+      "relationship_context": "콘도는 자백을 강요하고 사법 거래를 제안하지만 미우라는 제지한다. 이후 미우라는 코우지와 피해자의 면식 및 피해자 명함을 추궁한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 현장 구조·취조 논리·증거 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    }
+  ]
+}

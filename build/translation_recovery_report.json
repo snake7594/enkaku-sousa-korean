@@ -1,0 +1,31 @@
+{
+  "schema": "enkaku_translation_recovery_report_v2",
+  "emulator_launched": false,
+  "row_count": 9626,
+  "provenance_counts": {
+    "manual_or_confirmed_override": 185,
+    "legacy_unannotated": 996,
+    "legacy_claude_translation": 1785,
+    "bulk_machine_draft": 6660
+  },
+  "status_counts": {
+    "preserve_candidate": 2959,
+    "needs_retranslation": 6595,
+    "verified_retranslation_override": 28,
+    "verified_quality_override": 44
+  },
+  "priority_counts": {
+    "P3_preserve_and_review": 2966,
+    "P1_source_recovery": 4992,
+    "P2_scene_retranslation": 1501,
+    "P0_truncation": 37,
+    "P0_pronoun_context": 130
+  },
+  "quality_overrides_applied": 44,
+  "retranslation_overrides_applied": 28,
+  "offset_alignment": {
+    "ok": true,
+    "count": 9626
+  },
+  "baseline_note": "비기계 보존 후보와 확인된 조건부 보정은 복구했으며, needs_retranslation 행은 최종 번역으로 간주하지 않는다."
+}

@@ -1,0 +1,3653 @@
+{
+  "schema": "enkaku_retranslation_batch_v2",
+  "batch": 6,
+  "source_range": {
+    "order_start": 1851,
+    "order_end": 2050,
+    "count": 200
+  },
+  "purpose": "라이트 블루의 마스터·종업원 조사에서 방범 카메라·지문·외부 입력 장치 단서까지 재번역",
+  "emulator_launched": false,
+  "display_width": 19,
+  "translation_policy": [
+    "杉田은 마스터의 자기소개에만 이름으로 남기고 화자 표기는 마스터로 통일",
+    "彩業元은 장면 역할에 맞춰 종업원으로 통일",
+    "酔いつぶれる는 곯아떨어지다, 防犯カメラ는 방범 카메라, 指紋を拭き取る는 지문을 닦아내다로 통일",
+    "플레이어·외부 입력 단자·외부 기기 관련 추리의 인과를 보존",
+    "대사 본문은 프로젝트 기준 폭 19자에 맞춰 의미 단위로 줄바꿈"
+  ],
+  "counts": {
+    "entries": 200,
+    "changed": 188,
+    "wrapped_rows": 59
+  },
+  "translations": [
+    {
+      "order": 1851,
+      "source_index": "0x0006bb3b",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [],
+      "confidence": 0.92,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1852,
+      "source_index": "0x0006bb74",
+      "source_ja_raw": "【法子】\\n（もう普通《ふつう》に営業してるのね。\\nでも、心なしかあまりお客さんが\\nいないような気が……）",
+      "source_ja_applied": "【法子】\\n（もう普通《ふつう》に営業してるのね。\\nでも、心なしかあまりお客さんが\\nいないような気が……）",
+      "source_ja_reviewed": "【法子】\\n（もう普通《ふつう》に営業してるのね。\\nでも、心なしかあまりお客さんが\\nいないような気が……）",
+      "old_translation": "【노리코】\\n(이제 보통으로 영업하고 있는\\n거네.\\n이라도, 마음 밖에 별로 손님이\\n없는 것 같은 생각이…",
+      "new_translation": "【노리코】\\n(이제 평범하게 영업하고 있네.\\n그래도 왠지 손님이 별로 없는 것\\n같아……)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [],
+      "confidence": 0.92,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1853,
+      "source_index": "0x0006bc41",
+      "source_ja_raw": "【男性】\\nお待たせ幸《いた》しました。\\nこの堂のマスターをしている\\n杉田《すぎた》と申します。",
+      "source_ja_applied": "【男性】\\nお待たせ幸《いた》しました。\\nこの堂のマスターをしている\\n杉田《すぎた》と申します。",
+      "source_ja_reviewed": "【男性】\\nお待たせいたしました。\\nこの堂のマスターをしている\\n杉田と申します。",
+      "old_translation": "【스기타】\\n기다리게 했습니다. \\n이 가게의 마스터를 하고 있는\\n스기타라고 합니다.",
+      "new_translation": "【마스터】\\n기다리게 했습니다.\\n이 가게의 마스터를 맡고 있는\\n스기타입니다.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1854,
+      "source_index": "0x0006bca6",
+      "source_ja_raw": "【法子】\\n初めまして。\\n私、先の事件の担当弁護士となりました\\n新城法子と申します。",
+      "source_ja_applied": "【法子】\\n初めまして。\\n私、先の事件の担当弁護士となりました\\n新城法子と申します。",
+      "source_ja_reviewed": "【法子】\\n初めまして。\\n私、先の事件の担当弁護士となりました\\n新城法子と申します。",
+      "old_translation": "【노리코】\\n반갑습니다. \\n제 이름은 신조 노리코이고 위\\n사건의\\n상업 변호사였습니다.\\n제 이름은 신조 노리코입니다.",
+      "new_translation": "【노리코】\\n처음 뵙겠습니다.\\n저는 이번 사건의 담당 변호사가 된\\n신조 노리코입니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [
+        "담당 변호사"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1855,
+      "source_index": "0x0006bd1a",
+      "source_ja_raw": "【マスター】\\n先の事件の担当……と申しますと、\\n被疑者《ひぎしゃ》となった斉藤光志さんの\\n担当弁護士の方ですか？",
+      "source_ja_applied": "【マスター】\\n先の事件の担当……と申しますと、\\n被疑者《ひぎしゃ》となった斉藤光志さんの\\n担当弁護士の方ですか？",
+      "source_ja_reviewed": "【マスター】\\n先の事件の担当……と申しますと、\\n被疑者《ひぎしゃ》となった斉藤光志さんの\\n担当弁護士の方ですか？",
+      "old_translation": "【마스터】\\n지난 사건의 담당이라고 하시면,\\n피의자가 된 사이토 코우지 씨의\\n담당 변호사이신가요?",
+      "new_translation": "【마스터】\\n이번 사건의 담당……이라면,\\n피의자가 된 사이토 코우지 씨의\\n담당 변호사인가요?",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [
+        "담당 변호사"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1856,
+      "source_index": "0x0006bd94",
+      "source_ja_raw": "【法子】\\nええ、その通りです。\\n彼のことをご存じで？",
+      "source_ja_applied": "【法子】\\nええ、その通りです。\\n彼のことをご存じで？",
+      "source_ja_reviewed": "【法子】\\nええ、その通りです。\\n彼のことをご存じで？",
+      "old_translation": "【노리코】\\n예, 맞습니다. \\n아야를 아시나요?",
+      "new_translation": "【노리코】\\n네, 맞아요.\\n그를 아시나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1857,
+      "source_index": "0x0006bded",
+      "source_ja_raw": "【マスター】\\nいえ、斉藤さんは直接の知り合いではないのですが、\\n水谷朝等様はよくお堂にいらっしゃいますので……",
+      "source_ja_applied": "【マスター】\\nいえ、斉藤さんは直接の知り合いではないのですが、\\n水谷朝等様はよくお堂にいらっしゃいますので……",
+      "source_ja_reviewed": "【マスター】\\nいえ、斉藤さんは直接の知り合いではないのですが、\\n水谷朝等様はよくお店にいらっしゃいますので……",
+      "old_translation": "【마스터】\\n아니, 사이토씨는 직접의 아는 것은\\n아닙니다만,\\n미즈타니 아사츠유님은 잘 가르쳐\\n가기\\n때문에…",
+      "new_translation": "【마스터】\\n아니요, 사이토 씨는 직접 아는\\n사이는 아니지만,\\n미즈타니 아사츠유 씨는 자주 이\\n가게에 오시니까……",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1858,
+      "source_index": "0x0006be5e",
+      "source_ja_raw": "【法子】\\n水谷さんはここの進連だったんですね。",
+      "source_ja_applied": "【法子】\\n水谷さんはここの進連だったんですね。",
+      "source_ja_reviewed": "【法子】\\n水谷さんはここの常連だったんですね。",
+      "old_translation": "【노리코】\\n미즈타니씨는 여기의 단골이었지요.",
+      "new_translation": "【노리코】\\n미즈타니 씨는 여기 단골이었군요.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1859,
+      "source_index": "0x0006beb3",
+      "source_ja_raw": "【マスター】\\nええ。\\nそのお連れ様が容疑者《ようぎしゃ》となっていると聞きまして、\\n大変十《おどろ》きました。",
+      "source_ja_applied": "【マスター】\\nええ。\\nそのお連れ様が容疑者《ようぎしゃ》となっていると聞きまして、\\n大変十《おどろ》きました。",
+      "source_ja_reviewed": "【マスター】\\nええ。\\nそのお連れ様が容疑者《ようぎしゃ》となっていると聞きまして、\\n大変十《おどろ》きました。",
+      "old_translation": "【마스터】\\n그래. \\n그 동반자가 용의자가 되고 있다고\\n들었고,\\n매우 가시었습니다.",
+      "new_translation": "【마스터】\\n네.\\n그 동행인이 용의자라고 들어서\\n매우 놀랐습니다.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1860,
+      "source_index": "0x0006bf22",
+      "source_ja_raw": "【法子】\\n彼は無罪を主張しています。\\nしかし警察は彼の犯行だと考えているようです。",
+      "source_ja_applied": "【法子】\\n彼は無罪を主張しています。\\nしかし警察は彼の犯行だと考えているようです。",
+      "source_ja_reviewed": "【法子】\\n彼は無罪を主張しています。\\nしかし警察は彼の犯行だと考えているようです。",
+      "old_translation": "【노리코】\\n아야는 무죄를 수첩하고 있습니다. \\n 그러나 경찰은 아야의 잔행이라고\\n생각하는 것 같습니다.",
+      "new_translation": "【노리코】\\n그는 무죄를 주장하고 있습니다.\\n하지만 경찰은 그가 범행을\\n저질렀다고\\n보는 것 같습니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1861,
+      "source_index": "0x0006bf84",
+      "source_ja_raw": "【法子】\\nそこで手がかりを得るためにも、\\nこちらのお堂を調べさせていただきたいのですが……",
+      "source_ja_applied": "【法子】\\nそこで手がかりを得るためにも、\\nこちらのお堂を調べさせていただきたいのですが……",
+      "source_ja_reviewed": "【法子】\\nそこで手がかりを得るためにも、\\nこちらのお堂を調べさせていただきたいのですが……",
+      "old_translation": "【노리코】\\n단서를 얻기 위해\\n이 가르침을 조사하고 싶습니다...",
+      "new_translation": "【노리코】\\n그래서 단서를 얻기 위해\\n이 가게를 조사하게 해 주셨으면\\n하는데……",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1862,
+      "source_index": "0x0006bfe4",
+      "source_ja_raw": "【法子】\\nもちろん、他のお客様の邪魔《じゃま》にならないように、\\n最大限の配慮《はいりょ》をいたしますので。",
+      "source_ja_applied": "【法子】\\nもちろん、他のお客様の邪魔《じゃま》にならないように、\\n最大限の配慮《はいりょ》をいたしますので。",
+      "source_ja_reviewed": "【法子】\\nもちろん、他のお客様の邪魔《じゃま》にならないように、\\n最大限の配慮《はいりょ》をいたしますので。",
+      "old_translation": "【노리코】\\n물론, 범의 손님의 방해가 되지\\n않도록,\\n최대급의 배려를 하므로.",
+      "new_translation": "【노리코】\\n물론 다른 손님에게 방해되지 않게\\n최대한 배려하겠습니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1863,
+      "source_index": "0x0006c062",
+      "source_ja_raw": "【マスター】\\nええ、それは結構ですよ。",
+      "source_ja_applied": "【マスター】\\nええ、それは結構ですよ。",
+      "source_ja_reviewed": "【マスター】\\nええ、それは結構ですよ。",
+      "old_translation": "【마스터】\\n그래, 그것은 결막이에요.",
+      "new_translation": "【마스터】\\n네, 그건 괜찮습니다.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1864,
+      "source_index": "0x0006c0c9",
+      "source_ja_raw": "【マスター】\\nただＶＩＰルーム内だけは、警察の指導で\\n事件当恋の状島を画存する関係上、\\n中には入れませんが……",
+      "source_ja_applied": "【マスター】\\nただＶＩＰルーム内だけは、警察の指導で\\n事件当恋の状島を画存する関係上、\\n中には入れませんが……",
+      "source_ja_reviewed": "【マスター】\\nただＶＩＰルーム内だけは、警察の指導で\\n事件当時の状態を保存する関係上、\\n中には入れませんが……",
+      "old_translation": "【마스터】\\n단지 VIP룸내만은, 경찰의 지도로\\n사건 당시의 상민을 보존하는\\n관계상,\\n중에는 넣지 않습니다만…",
+      "new_translation": "【마스터】\\n다만 VIP룸 안은 경찰 지시에\\n따라\\n사건 당시의 상태를 보존하고 있어서\\n들어갈 수 없지만……",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1865,
+      "source_index": "0x0006c143",
+      "source_ja_raw": "【法子】\\nなるほど、そうですか……\\nできればそこが一番見たかったんですけどね……",
+      "source_ja_applied": "【法子】\\nなるほど、そうですか……\\nできればそこが一番見たかったんですけどね……",
+      "source_ja_reviewed": "【法子】\\nなるほど、そうですか……\\nできればそこが一番見たかったんですけどね……",
+      "old_translation": "【노리코】\\n과연, 그렇습니까…\\n가능하면 거기가 가장 보고\\n싶었는데…",
+      "new_translation": "【노리코】\\n그렇군요……\\n가능하면 그곳을 가장 보고\\n싶었는데요……",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1866,
+      "source_index": "0x0006c1c5",
+      "source_ja_raw": "【マスター】\\nでは、中には入れませんが、\\n中の様子を写した写真がありますので、\\nそちらを後ほどお見せいたします。",
+      "source_ja_applied": "【マスター】\\nでは、中には入れませんが、\\n中の様子を写した写真がありますので、\\nそちらを後ほどお見せいたします。",
+      "source_ja_reviewed": "【マスター】\\nでは、中には入れませんが、\\n中の様子を写した写真がありますので、\\nそちらを後ほどお見せいたします。",
+      "old_translation": "【마스터】\\n에서는, 안에는 넣지 않습니다만,\\n중의 모습을 찍은 사진이 있으므로,\\n그쪽을 나중에 보여드리겠습니다.",
+      "new_translation": "【마스터】\\n안에는 못 들어가지만\\n내부 모습을 찍은 사진이 있으니\\n나중에 보여 드리겠습니다.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1867,
+      "source_index": "0x0006c235",
+      "source_ja_raw": "【法子】\\nえっ、そんな写真があるんですか！？",
+      "source_ja_applied": "【法子】\\nえっ、そんな写真があるんですか！？",
+      "source_ja_reviewed": "【法子】\\nえっ、そんな写真があるんですか！？",
+      "old_translation": "【노리코】\\n엣, 그런 사진이 있나요! ?",
+      "new_translation": "【노리코】\\n네!?\\n그런 사진이 있나요!?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1868,
+      "source_index": "0x0006c289",
+      "source_ja_raw": "【マスター】\\nええ、こっそりと屠影《さつえい》した写真が……\\nあまり大きな声では言えませんがね。",
+      "source_ja_applied": "【マスター】\\nええ、こっそりと屠影《さつえい》した写真が……\\nあまり大きな声では言えませんがね。",
+      "source_ja_reviewed": "【マスター】\\nええ、こっそりと撮影した写真が……\\nあまり大きな声では言えませんがね。",
+      "old_translation": "【마스터】\\n그래, 몰래 촬영한 사진이…\\n별로 큰 목소리로는 말할 수\\n없지만요.",
+      "new_translation": "【마스터】\\n네, 몰래 찍은 사진이……\\n큰 소리로 말할 수는 없지만요.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1869,
+      "source_index": "0x0006c2fc",
+      "source_ja_raw": "【マスター】\\nですので、\\nお渡《わた》しすることはできませんが……",
+      "source_ja_applied": "【マスター】\\nですので、\\nお渡《わた》しすることはできませんが……",
+      "source_ja_reviewed": "【マスター】\\nですので、\\nお渡《わた》しすることはできませんが……",
+      "old_translation": "【마스터】\\n이므로,\\n보는 것은 불가능합니다만…",
+      "new_translation": "【마스터】\\n그래서 건네 드릴 수는 없지만……",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1870,
+      "source_index": "0x0006c34c",
+      "source_ja_raw": "【法子】\\nいえ、とても助かります！\\nありがとうございます！",
+      "source_ja_applied": "【法子】\\nいえ、とても助かります！\\nありがとうございます！",
+      "source_ja_reviewed": "【法子】\\nいえ、とても助かります！\\nありがとうございます！",
+      "old_translation": "【노리코】\\n아니, 매우 살아납니다! \\n감사합니다!",
+      "new_translation": "【노리코】\\n아니요, 정말 도움이 됩니다!\\n감사합니다!",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1871,
+      "source_index": "0x0006c3a6",
+      "source_ja_raw": "【マスター】\\n水谷様のお連れ様が事件を刑こしたとは\\n思えませんし、少しでもお役に立てれば\\nこちらも月いです。",
+      "source_ja_applied": "【マスター】\\n水谷様のお連れ様が事件を刑こしたとは\\n思えませんし、少しでもお役に立てれば\\nこちらも月いです。",
+      "source_ja_reviewed": "【マスター】\\n水谷様のお連れ様が事件を起こしたとは\\n思えませんし、少しでもお役に立てれば\\nこちらも嬉しいです。",
+      "old_translation": "【마스터】\\n미즈타니님의 동반자가 사건을\\n접어들었다고는\\n생각할 수 없고, 조금이라도 걸어\\n서면\\n이쪽도 다행입니다.",
+      "new_translation": "【마스터】\\n미즈타니 씨의 동행인이 사건을\\n일으켰다고는\\n생각하지 않지만, 조금이라도 도움이\\n된다면\\n저도 기쁘겠습니다.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1872,
+      "source_index": "0x0006c422",
+      "source_ja_raw": "【マスター】\\nそれではご用意しておきますので、\\nお帰りになる恋にお見せしますよ。",
+      "source_ja_applied": "【マスター】\\nそれではご用意しておきますので、\\nお帰りになる恋にお見せしますよ。",
+      "source_ja_reviewed": "【マスター】\\nそれではご用意しておきますので、\\nお帰りになる恋にお見せしますよ。",
+      "old_translation": "【마스터】\\n그러면 준비해 두므로,\\n귀가가 될 때에 보여드리겠습니다.",
+      "new_translation": "【마스터】\\n그럼 준비해 두겠습니다.\\n돌아가시기 전에 보여 드리겠습니다.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1873,
+      "source_index": "0x0006c488",
+      "source_ja_raw": "【マスター】\\nまた彩業元にも弁護士さんの調査に\\n協力するよう声をかけておきますので。",
+      "source_ja_applied": "【マスター】\\nまた彩業元にも弁護士さんの調査に\\n協力するよう声をかけておきますので。",
+      "source_ja_reviewed": "【マスター】\\nまた店員にも弁護士さんの調査に\\n協力するよう声をかけておきますので。",
+      "old_translation": "【마스터】\\n또 직원에게도 변호사씨의 조사에\\n자력하도록(듯이) 말을 걸어 두기\\n때문에.",
+      "new_translation": "【마스터】\\n또 종업원에게도 변호사님 조사에\\n협조하라고 말해 두겠습니다.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1874,
+      "source_index": "0x0006c4e8",
+      "source_ja_raw": "【法子】\\n本当に遅縮《きょうしゅく》です。\\nご協力に感謝いたします。",
+      "source_ja_applied": "【法子】\\n本当に恐縮《きょうしゅく》です。\\nご協力に感謝いたします。",
+      "source_ja_reviewed": "【法子】\\n本当に恐縮《きょうしゅく》です。\\nご協力に感謝いたします。",
+      "old_translation": "【노리코】\\n정말 늦어집니다. \\n자력에 감사드립니다.",
+      "new_translation": "【노리코】\\n정말 송구합니다.\\n협조에 감사드립니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1875,
+      "source_index": "0x0006c541",
+      "source_ja_raw": "【法子】\\nあっ、最後に一ついいですか？",
+      "source_ja_applied": "【法子】\\nあっ、最後に一ついいですか？",
+      "source_ja_reviewed": "【法子】\\nあっ、最後に一ついいですか？",
+      "old_translation": "【노리코】\\n아니, 마지막으로 하나 좋습니까?",
+      "new_translation": "【노리코】\\n아, 마지막으로 하나만 여쭤봐도\\n될까요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1876,
+      "source_index": "0x0006c592",
+      "source_ja_raw": "【マスター】\\nもちろん。\\nどうぞ。",
+      "source_ja_applied": "【マスター】\\nもちろん。\\nどうぞ。",
+      "source_ja_reviewed": "【マスター】\\nもちろん。\\nどうぞ。",
+      "old_translation": "【마스터】\\n물론. \\n 제발.",
+      "new_translation": "【마스터】\\n물론이죠.\\n말씀하세요.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1877,
+      "source_index": "0x0006c5cf",
+      "source_ja_raw": "【法子】\\n被疑者《ひぎしゃ》の斉藤さんが被害者《ひがいしゃ》と口論していたという\\n押撃証言《もくげきしょうげん》があるそうです。",
+      "source_ja_applied": "【法子】\\n被疑者《ひぎしゃ》の斉藤さんが被害者《ひがいしゃ》と口論していたという\\n押撃証言《もくげきしょうげん》があるそうです。",
+      "source_ja_reviewed": "【法子】\\n被疑者の斉藤さんが被害者と口論していたという\\n目撃証言があるそうです。",
+      "old_translation": "【노리코】\\n피의자 사이토 씨가 피해자와 말다툼하고 있었다는\\n목격 증언이 있다고 합니다.",
+      "new_translation": "【노리코】\\n피의자 사이토 씨가 피해자와\\n말다툼했다는\\n목격 증언이 있다던데요.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [
+        "피해자",
+        "증언"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1878,
+      "source_index": "0x0006c64d",
+      "source_ja_raw": "【法子】\\nマスターはなにかご存じですか？",
+      "source_ja_applied": "【法子】\\nマスターはなにかご存じですか？",
+      "source_ja_reviewed": "【法子】\\nマスターはなにかご存じですか？",
+      "old_translation": "【노리코】\\n마스터는 무엇인가 알고 계십니까?",
+      "new_translation": "【노리코】\\n마스터께서는 뭔가 알고 계신가요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1879,
+      "source_index": "0x0006c6b5",
+      "source_ja_raw": "【マスター】\\nさあ、私は毎本的に\\nいつもカウンター内におりますので……",
+      "source_ja_applied": "【マスター】\\nさあ、私は毎本的に\\nいつもカウンター内におりますので……",
+      "source_ja_reviewed": "【マスター】\\nさあ、私は基本的に\\nいつもカウンター内におりますので……",
+      "old_translation": "【마스터】\\n자, 나는 간본적으로\\n언제나 카운터내에 있기 때문에…",
+      "new_translation": "【마스터】\\n글쎄요, 저는 기본적으로\\n항상 카운터 안에 있어서……",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1880,
+      "source_index": "0x0006c730",
+      "source_ja_raw": "【マスター】\\n私が知っているのは、斉藤さんがカウンターで\\n畭《よ》いつぶれている會だけです。",
+      "source_ja_applied": "【マスター】\\n私が知っているのは、斉藤さんがカウンターで\\n畭《よ》いつぶれている姿だけです。",
+      "source_ja_reviewed": "【マスター】\\n私が知っているのは、斉藤さんがカウンターで\\n酔いつぶれている姿だけです。",
+      "old_translation": "【마스터】\\n내가 알고 있는 것은 사이토씨가\\n카운터에서\\n뭉치고 있는 사이뿐입니다.",
+      "new_translation": "【마스터】\\n제가 아는 건 사이토 씨가\\n카운터에서\\n곯아떨어져 있던 모습뿐입니다.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1881,
+      "source_index": "0x0006c791",
+      "source_ja_raw": "【法子】\\nありがとうございます。\\nそれではちょっと調べさせていただきますので\\nよろしくお願いします。",
+      "source_ja_applied": "【法子】\\nありがとうございます。\\nそれではちょっと調べさせていただきますので\\nよろしくお願いします。",
+      "source_ja_reviewed": "【法子】\\nありがとうございます。\\nそれではちょっと調べさせていただきますので\\nよろしくお願いします。",
+      "old_translation": "【노리코】\\n감사합니다. \\n그러면 조금 조사하겠습니다 때문에\\n잘 부탁드립니다.",
+      "new_translation": "【노리코】\\n감사합니다.\\n그럼 잠시 조사하게 해 주세요.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1882,
+      "source_index": "0x0006c80c",
+      "source_ja_raw": "【法子】\\n（ううっ……\\nなんていい人なんだろう……）",
+      "source_ja_applied": "【法子】\\n（ううっ……\\nなんていい人なんだろう……）",
+      "source_ja_reviewed": "【法子】\\n（ううっ……\\nなんていい人なんだろう……）",
+      "old_translation": "【노리코】\\n(으으……\\n은 좋은 사람일까…",
+      "new_translation": "【노리코】\\n(으……\\n정말 좋은 분이네……)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1883,
+      "source_index": "0x0006c859",
+      "source_ja_raw": "【法子】\\n（でも、水谷さんってマスターに\\n相当信頼《しんらい》されてるみたいね）",
+      "source_ja_applied": "【法子】\\n（でも、水谷さんってマスターに\\n相当信頼《しんらい》されてるみたいね）",
+      "source_ja_reviewed": "【法子】\\n（でも、水谷さんってマスターに\\n相当信頼《しんらい》されてるみたいね）",
+      "old_translation": "【노리코】\\n(하지만, 미즈타니씨는 마스터에게\\n상당히 신뢰받고 있는 것 같네)",
+      "new_translation": "【노리코】\\n(하지만 미즈타니 씨는 마스터에게\\n상당히 신뢰받는 모양이네.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1884,
+      "source_index": "0x0006c8b7",
+      "source_ja_raw": "【法子】\\n（信頼《しんらい》を裏切らないよう、\\n限りある恋付をムダにしないようにしなきゃ）",
+      "source_ja_applied": "【法子】\\n（信頼《しんらい》を裏切らないよう、\\n限りある恋付をムダにしないようにしなきゃ）",
+      "source_ja_reviewed": "【法子】\\n（信頼を裏切らないよう、\\n限りある時間をムダにしないようにしなきゃ）",
+      "old_translation": "【노리코】\\n(신뢰를 용절하지 않게,\\n급한 시간을 낭비하지 않게 해야\\n한다)",
+      "new_translation": "【노리코】\\n(신뢰를 배신하지 않도록,\\n시간을 아껴 쓰도록 해야겠어.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1885,
+      "source_index": "0x0006c91c",
+      "source_ja_raw": "【法子】\\n（それじゃ、まずはどうしようかしら……）",
+      "source_ja_applied": "【法子】\\n（それじゃ、まずはどうしようかしら……）",
+      "source_ja_reviewed": "【法子】\\n（それじゃ、まずはどうしようかしら……）",
+      "old_translation": "【노리코】\\n(그럼, 우선은 어떻게 할까…",
+      "new_translation": "【노리코】\\n(그럼 우선 어떻게 할까……?)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 마스터의 협조",
+      "relationship_context": "스기타 마스터는 정중하게 조사에 협조하고, 노리코는 사건 당시 코우지의 취중 상태를 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1886,
+      "source_index": "0x0006ca05",
+      "source_ja_raw": "【法子】\\n（ここは事件現場となった\\nライトブルーね）",
+      "source_ja_applied": "【法子】\\n（ここは事件現場となった\\nライトブルーね）",
+      "source_ja_reviewed": "【法子】\\n（ここは事件現場となった\\nライトブルーね）",
+      "old_translation": "【노리코】\\n(여기가 사건 현장이 된\\n라이트 블루구나)",
+      "new_translation": "【노리코】\\n(여기가 사건 현장이 된\\n라이트 블루네.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1887,
+      "source_index": "0x0006ca78",
+      "source_ja_raw": "【彩業元】\\nいらっしゃいませ……\\nあっ、弁護士さん、ご苦労様っス。",
+      "source_ja_applied": "【彩業元】\\nいらっしゃいませ……\\nあっ、弁護士さん、ご苦労様っス。",
+      "source_ja_reviewed": "【店員】\\nいらっしゃいませ……\\nあっ、弁護士さん、ご苦労様っス。",
+      "old_translation": "【직원】\\n어서 오세요……\\n아, 변호사님, 수고 많으십니다.",
+      "new_translation": "【종업원】\\n어서 오세요……\\n아, 변호사님, 수고 많으십니다.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1888,
+      "source_index": "0x0006cafb",
+      "source_ja_raw": "【彩業元】\\n今日もお話があるっスか？",
+      "source_ja_applied": "【彩業元】\\n今日もお話があるっスか？",
+      "source_ja_reviewed": "【彩業元】\\n今日もお話があるっスか？",
+      "old_translation": "【종업원】\\n오늘도 이야기가 있나요?",
+      "new_translation": "【종업원】\\n오늘도 할 이야기가 있나요?",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1889,
+      "source_index": "0x0006cb3e",
+      "source_ja_raw": "【法子】\\nあ、今日はマスターからちょっと\\nお話を伺《うかが》いたいだけですので……",
+      "source_ja_applied": "【法子】\\nあ、今日はマスターからちょっと\\nお話を伺《うかが》いたいだけですので……",
+      "source_ja_reviewed": "【法子】\\nあ、今日はマスターからちょっと\\nお話を伺《うかが》いたいだけですので……",
+      "old_translation": "【노리코】\\n아, 오늘은 마스터로부터 조금\\n 이야기를 듣고 싶은 뿐이므로…",
+      "new_translation": "【노리코】\\n아, 오늘은 마스터에게\\n이야기를 좀 듣고 싶을 뿐이라서……",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1890,
+      "source_index": "0x0006cba8",
+      "source_ja_raw": "【彩業元】\\nあぁ、そうっスか。\\nではカウンターの方にどうぞ。",
+      "source_ja_applied": "【彩業元】\\nあぁ、そうっスか。\\nではカウンターの方にどうぞ。",
+      "source_ja_reviewed": "【彩業元】\\nあぁ、そうっスか。\\nではカウンターの方にどうぞ。",
+      "old_translation": "【종업원】\\n아아, 그래? \\n에서는 카운터쪽으로 부디.",
+      "new_translation": "【종업원】\\n아, 그러세요?\\n그럼 카운터 쪽으로 오세요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1891,
+      "source_index": "0x0006cbf7",
+      "source_ja_raw": "【法子】\\nええ、ありがとうございます。",
+      "source_ja_applied": "【法子】\\nええ、ありがとうございます。",
+      "source_ja_reviewed": "【法子】\\nええ、ありがとうございます。",
+      "old_translation": "【노리코】\\n네, 고마워요.",
+      "new_translation": "【노리코】\\n네, 감사합니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1892,
+      "source_index": "0x0006cc49",
+      "source_ja_raw": "【法子】\\nああ、ちょうど良かった。\\nいくつかお話を聞かせてもらいたいんですけど、\\nいいですか？",
+      "source_ja_applied": "【法子】\\nああ、ちょうど良かった。\\nいくつかお話を聞かせてもらいたいんですけど、\\nいいですか？",
+      "source_ja_reviewed": "【法子】\\nああ、ちょうど良かった。\\nいくつかお話を聞かせてもらいたいんですけど、\\nいいですか？",
+      "old_translation": "【노리코】\\n오, 그냥 좋았어요.\\n몇 가지 이야기를 넣고 싶습니다만,\\n좋은가요?",
+      "new_translation": "【노리코】\\n아, 마침 잘 됐네요.\\n몇 가지 이야기를 듣고 싶은데,\\n괜찮을까요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1893,
+      "source_index": "0x0006ccd1",
+      "source_ja_raw": "【彩業元】\\nえっと、それじゃあ、\\n事務所で聞くっス。",
+      "source_ja_applied": "【彩業元】\\nえっと、それじゃあ、\\n事務所で聞くっス。",
+      "source_ja_reviewed": "【店員】\\nえっと、それじゃあ、\\n事務所で聞くっス。",
+      "old_translation": "【직원】\\n저기, 그럼\\n사무소에서 듣겠습니다.",
+      "new_translation": "【종업원】\\n음, 그럼 사무실에서 듣죠.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1894,
+      "source_index": "0x0006cd1f",
+      "source_ja_raw": "【法子】\\nあ、はい、了婚《りょうかい》です。",
+      "source_ja_applied": "【法子】\\nあ、はい、了婚《りょうかい》です。",
+      "source_ja_reviewed": "【法子】\\nあ、はい、了婚《りょうかい》です。",
+      "old_translation": "【노리코】\\n아, 네, 알겠습니다.",
+      "new_translation": "【노리코】\\n아, 네, 알겠습니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1895,
+      "source_index": "0x0006cd8d",
+      "source_ja_raw": "【彩業元】\\nでは先に行ってるっスね。",
+      "source_ja_applied": "【彩業元】\\nでは先に行ってるっスね。",
+      "source_ja_reviewed": "【彩業元】\\nでは先に行ってるっスね。",
+      "old_translation": "【종업원】\\n에서는 먼저 가고 있어요.",
+      "new_translation": "【종업원】\\n그럼 먼저 가 있을게요.",
+      "speaker": "종업원",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1896,
+      "source_index": "0x0006cdf4",
+      "source_ja_raw": "【法子】\\n（……それじゃ、どうしようかしら？）",
+      "source_ja_applied": "【法子】\\n（……それじゃ、どうしようかしら？）",
+      "source_ja_reviewed": "【法子】\\n（……それじゃ、どうしようかしら？）",
+      "old_translation": "【노리코】\\n(……그럼, 어떻게 할까?)",
+      "new_translation": "【노리코】\\n(……그럼 어떻게 할까?)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1897,
+      "source_index": "0x0006cf3a",
+      "source_ja_raw": "【法子】\\n（ここがコウジと水谷さんが埜んでた場所ね）",
+      "source_ja_applied": "【法子】\\n（ここがコウジと水谷さんが埜んでた場所ね）",
+      "source_ja_reviewed": "【法子】\\n（ここが光志と水谷さんが飲んでた場所ね）",
+      "old_translation": "【노리코】\\n(여기가 코우지와 미즈타니 씨가\\n떠났던\\n장소네)",
+      "new_translation": "【노리코】\\n(여기가 코우지와 미즈타니 씨가\\n술을 마시던 곳이네.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1898,
+      "source_index": "0x0006cf88",
+      "source_ja_raw": "【法子】\\n（たくさんのお轉が重んでるわ）",
+      "source_ja_applied": "【法子】\\n（たくさんのお轉が重んでるわ）",
+      "source_ja_reviewed": "【法子】\\n（たくさんのお酒が並んでるわ）",
+      "old_translation": "【노리코】\\n(많은 술이 놓여 있네)",
+      "new_translation": "【노리코】\\n(술이 많이 놓여 있네.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1899,
+      "source_index": "0x0006cfcc",
+      "source_ja_raw": "【法子】\\n（でもコウジ、\\nお轉苦手だったはずなのに……）",
+      "source_ja_applied": "【法子】\\n（でもコウジ、\\nお轉苦手だったはずなのに……）",
+      "source_ja_reviewed": "【法子】\\n（でもコウジ、\\nお轉苦手だったはずなのに……）",
+      "old_translation": "【노리코】\\n(그래도 코우지,\\n꽉 비수였을 텐데……)",
+      "new_translation": "【노리코】\\n(그런데 코우지,\\n술 약했을 텐데……)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1900,
+      "source_index": "0x0006d01d",
+      "source_ja_raw": "【法子】\\n（水谷さんに北《きた》えられて\\n埜めるようになったのかな？）",
+      "source_ja_applied": "【法子】\\n（水谷さんに北《きた》えられて\\n埜めるようになったのかな？）",
+      "source_ja_reviewed": "【法子】\\n（水谷さんに鍛えられて\\n飲めるようになったのかな？）",
+      "old_translation": "【노리코】\\n(미즈타니씨에게 북쪽으로 잡혀\\n회하게 되었나?)",
+      "new_translation": "【노리코】\\n(미즈타니 씨가 단련해서\\n마실 수 있게 된 걸까?)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1901,
+      "source_index": "0x0006d079",
+      "source_ja_raw": "【法子】\\n（コウジと水谷さんが埜んでた場所ね）",
+      "source_ja_applied": "【法子】\\n（コウジと水谷さんが埜んでた場所ね）",
+      "source_ja_reviewed": "【法子】\\n（コウジと水谷さんが埜んでた場所ね）",
+      "old_translation": "【노리코】\\n(코우지와 미즈타니 씨가 술을 마시던 곳이네.)",
+      "new_translation": "【노리코】\\n(코우지와 미즈타니 씨가\\n술을 마시던 곳이네.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1902,
+      "source_index": "0x0006d0c4",
+      "source_ja_raw": "【法子】\\n（たくさんのお轉が重んでるわ）",
+      "source_ja_applied": "【法子】\\n（たくさんのお轉が重んでるわ）",
+      "source_ja_reviewed": "【法子】\\n（たくさんのお轉が重んでるわ）",
+      "old_translation": "【노리코】\\n(많은 술이 놓여 있네)",
+      "new_translation": "【노리코】\\n(술이 많이 놓여 있네.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1903,
+      "source_index": "0x0006d141",
+      "source_ja_raw": "【法子】\\n（奥にはテーブル席が重んでるわ）",
+      "source_ja_applied": "【法子】\\n（奥にはテーブル席が重んでるわ）",
+      "source_ja_reviewed": "【法子】\\n（奥にはテーブル席が重んでるわ）",
+      "old_translation": "【노리코】\\n(안쪽에는 테이블이 놓여 있네.)",
+      "new_translation": "【노리코】\\n(안쪽에는 테이블석이 놓여 있네.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1904,
+      "source_index": "0x0006d188",
+      "source_ja_raw": "【法子】\\n（グループで来たお客さんは\\nあちらで埜むわけね）",
+      "source_ja_applied": "【法子】\\n（グループで来たお客さんは\\nあちらで埜むわけね）",
+      "source_ja_reviewed": "【法子】\\n（グループで来たお客さんは\\nあちらで埜むわけね）",
+      "old_translation": "【노리코】\\n(그룹으로 붐비는 손님은\\n저쪽으로 떠들썩하게 되는 거네)",
+      "new_translation": "【노리코】\\n(단체로 온 손님은\\n저쪽에서 마시는 거구나.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1905,
+      "source_index": "0x0006d1d8",
+      "source_ja_raw": "【法子】\\n（奥には通路があるわ。\\nそのさきにはトイレがあるみたい）",
+      "source_ja_applied": "【法子】\\n（奥には通路があるわ。\\nそのさきにはトイレがあるみたい）",
+      "source_ja_reviewed": "【法子】\\n（奥には通路があるわ。\\nそのさきにはトイレがあるみたい）",
+      "old_translation": "【노리코】\\n(안쪽에는 통언이 있어.\\n그 갑자기에는 화장실이 있는 것\\n같다)",
+      "new_translation": "【노리코】\\n(안쪽에 통로가 있어.\\n그 앞에 화장실이 있는 모양이네.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1906,
+      "source_index": "0x0006d230",
+      "source_ja_raw": "【法子】\\n（テーブル席ね。\\n奥には通路があるわ）",
+      "source_ja_applied": "【法子】\\n（テーブル席ね。\\n奥には通路があるわ）",
+      "source_ja_reviewed": "【法子】\\n（テーブル席ね。\\n奥には通路があるわ）",
+      "old_translation": "【노리코】\\n(테이블 위네.\\n안쪽에는 통로가 있어.)",
+      "new_translation": "【노리코】\\n(테이블석이네.\\n안쪽에 통로가 있어.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1907,
+      "source_index": "0x0006d374",
+      "source_ja_raw": "【法子】\\n（そうね。\\nコウジが畭《よ》いつぶれてた話を聞かないと……）",
+      "source_ja_applied": "【法子】\\n（そうね。\\nコウジが畭《よ》いつぶれてた話を聞かないと……）",
+      "source_ja_reviewed": "【法子】\\n（そうね。\\nコウジが畭《よ》いつぶれてた話を聞かないと……）",
+      "old_translation": "【노리코】\\n(그렇네.\\n코우지가 엄청 찢어진 이야기를 두지\\n않으면......)",
+      "new_translation": "【노리코】\\n(그래.\\n코우지가 곯아떨어져 있었다는 얘기를\\n들어야 하는데……)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1908,
+      "source_index": "0x0006d3cd",
+      "source_ja_raw": "【法子】\\n少しだけお話を聞きたいのですが\\nよろしいですか……？",
+      "source_ja_applied": "【法子】\\n少しだけお話を聞きたいのですが\\nよろしいですか……？",
+      "source_ja_reviewed": "【法子】\\n少しだけお話を聞きたいのですが\\nよろしいですか……？",
+      "old_translation": "【노리코】\\n조금만 이야기를 넣고 싶습니다만\\n좋아요…",
+      "new_translation": "【노리코】\\n조금만 이야기를 듣고 싶은데\\n괜찮을까요……?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1909,
+      "source_index": "0x0006d47d",
+      "source_ja_raw": "【マスター】\\nええ、どうぞ。",
+      "source_ja_applied": "【マスター】\\nええ、どうぞ。",
+      "source_ja_reviewed": "【マスター】\\nええ、どうぞ。",
+      "old_translation": "【마스터】\\n그래, 제발.",
+      "new_translation": "【마스터】\\n네, 말씀하세요.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1910,
+      "source_index": "0x0006d4b7",
+      "source_ja_raw": "【法子】\\nえっと……被疑者《ひぎしゃ》である斉藤さんは事件当恋\\n畭《よ》いつぶれていたと主張していますが、\\n警察はこれを認めてくれません。",
+      "source_ja_applied": "【法子】\\nえっと……被疑者《ひぎしゃ》である斉藤さんは事件当恋\\n畭《よ》いつぶれていたと主張していますが、\\n警察はこれを認めてくれません。",
+      "source_ja_reviewed": "【法子】\\nえっと……被疑者である斉藤さんは事件当時\\n酔いつぶれていたと主張していますが、\\n警察はこれを認めてくれません。",
+      "old_translation": "【노리코】\\n 음......피의자인 사이토 씨는\\n사건\\n당시\\n당신 엉망이었다고 수첩하고\\n있습니다만,\\n경찰은 이것을 인정해 주지\\n않습니다.",
+      "new_translation": "【노리코】\\n음…… 피의자 사이토 씨는 사건\\n당시\\n곯아떨어져 있었다고 주장하지만,\\n경찰은 인정하지 않아요.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1911,
+      "source_index": "0x0006d53d",
+      "source_ja_raw": "【法子】\\nそこでマスターにお伺《うかが》いしたいのです。",
+      "source_ja_applied": "【法子】\\nそこでマスターにお伺《うかが》いしたいのです。",
+      "source_ja_reviewed": "【法子】\\nそこでマスターにお伺《うかが》いしたいのです。",
+      "old_translation": "【노리코】\\n거기서 마스터에 묻고 싶습니다.",
+      "new_translation": "【노리코】\\n그래서 마스터께 여쭤보려는 겁니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1912,
+      "source_index": "0x0006d588",
+      "source_ja_raw": "【法子】\\nたしか毎本的にカウンター内にいるとのことでしたので\\n斉藤さんが畭《よ》いつぶれていたのを\\n押撃《もくげき》しているのではないかと……",
+      "source_ja_applied": "【法子】\\nたしか毎本的にカウンター内にいるとのことでしたので\\n斉藤さんが畭《よ》いつぶれていたのを\\n押撃《もくげき》しているのではないかと……",
+      "source_ja_reviewed": "【法子】\\nたしか基本的にカウンター内にいるとのことでしたので\\n斉藤さんが酔いつぶれていたのを\\n目撃しているのではないかと……",
+      "old_translation": "【노리코】\\n확실히 간본적으로 카운터 안에\\n있다는\\n것이었기 때문에\\n사이토씨가 뭉쳐있었던 것을\\n목격하고 있는 것이 아닐까…",
+      "new_translation": "【노리코】\\n항상 기본적으로 카운터 안에\\n계신다고 했으니\\n사이토 씨가 곯아떨어져 있던 걸\\n목격하셨을 것 같아서요……",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1913,
+      "source_index": "0x0006d615",
+      "source_ja_raw": "【マスター】\\nええ、良く覚えていますよ。\\n彼は完落に畭《よ》いつぶれていました。",
+      "source_ja_applied": "【マスター】\\nええ、良く覚えていますよ。\\n彼は完落に畭《よ》いつぶれていました。",
+      "source_ja_reviewed": "【マスター】\\nええ、良く覚えていますよ。\\n彼は完全に酔いつぶれていました。",
+      "old_translation": "【마스터】\\n그래, 잘 기억하고 있어요. \\n 아야는 감전에 술에 취해 있었다.",
+      "new_translation": "【마스터】\\n네, 잘 기억하고 있습니다.\\n그는 완전히 곯아떨어져 있었어요.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1914,
+      "source_index": "0x0006d671",
+      "source_ja_raw": "【法子】\\nそれを証間する、\\n客観的な証拠《しょうこ》があればいいのですが……",
+      "source_ja_applied": "【法子】\\nそれを証間する、\\n客観的な証拠《しょうこ》があればいいのですが……",
+      "source_ja_reviewed": "【法子】\\nそれを証間する、\\n客観的な証拠《しょうこ》があればいいのですが……",
+      "old_translation": "【노리코】\\n그것을 증명하는,\\n객관적인 증거가 있으면 됩니다만…",
+      "new_translation": "【노리코】\\n그걸 증명할 객관적인 증거가\\n있으면 좋겠는데요……",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1915,
+      "source_index": "0x0006d6db",
+      "source_ja_raw": "【マスター】\\n私の証言だけではいけませんか？",
+      "source_ja_applied": "【マスター】\\n私の証言だけではいけませんか？",
+      "source_ja_reviewed": "【マスター】\\n私の証言だけではいけませんか？",
+      "old_translation": "【마스터】\\n내 증언만으로는 안 되나요?",
+      "new_translation": "【마스터】\\n제 증언만으로는 안 될까요?",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [
+        "증언"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1916,
+      "source_index": "0x0006d71f",
+      "source_ja_raw": "【法子】\\nおそらく、畭《よ》いつぶれていたフリだろうと\\n反論されると思われます。",
+      "source_ja_applied": "【法子】\\nおそらく、畭《よ》いつぶれていたフリだろうと\\n反論されると思われます。",
+      "source_ja_reviewed": "【法子】\\nおそらく、酔いつぶれていたフリだろうと\\n反論されると思われます。",
+      "old_translation": "【노리코】\\n아마 취해 쓰러져 있던 척이었을 거라며\\n반론을 받을 것 같습니다.",
+      "new_translation": "【노리코】\\n아마 곯아떨어진 척한 거라고\\n반박할 것 같아요.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1917,
+      "source_index": "0x0006d7a0",
+      "source_ja_raw": "【マスター】\\nなるほど……\\nフリ、ですか。",
+      "source_ja_applied": "【マスター】\\nなるほど……\\nフリ、ですか。",
+      "source_ja_reviewed": "【マスター】\\nなるほど……\\nフリ、ですか。",
+      "old_translation": "【마스터】\\n과연……\\n후리, 입니까.",
+      "new_translation": "【마스터】\\n그렇군요……\\n척이라……",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1918,
+      "source_index": "0x0006d809",
+      "source_ja_raw": "【マスター】\\nですが、\\nあれは倚してフリではなかったですけどね。",
+      "source_ja_applied": "【マスター】\\nですが、\\nあれは倚してフリではなかったですけどね。",
+      "source_ja_reviewed": "【マスター】\\nですが、\\nあれは決してフリではなかったですけどね。",
+      "old_translation": "【마스터】\\n입니다만,\\n저것은 흠뻑 빠지지 않았지만요.",
+      "new_translation": "【마스터】\\n하지만 정말로 척한 건 아니었는데\\n말이죠.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1919,
+      "source_index": "0x0006d867",
+      "source_ja_raw": "【マスター】\\n私もこの商売を始めて長いですから、\\n畭《よ》ったフリなのかどうかは、\\n見ただけでわかります。",
+      "source_ja_applied": "【マスター】\\n私もこの商売を始めて長いですから、\\n畭《よ》ったフリなのかどうかは、\\n見ただけでわかります。",
+      "source_ja_reviewed": "【マスター】\\n私もこの商売を始めて長いですから、\\n酔ったフリなのかどうかは、\\n見ただけでわかります。",
+      "old_translation": "【마스터】\\n나도 이 장사를 단단히 길기\\n때문에,\\n취한 척인지는,\\n본 것만으로 알 수 있습니다.",
+      "new_translation": "【마스터】\\n저도 이 장사를 오래 해서,\\n취한 척인지 아닌지는\\n보기만 해도 알 수 있습니다.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1920,
+      "source_index": "0x0006d8d1",
+      "source_ja_raw": "【法子】\\nそれは心強いお言何です。\\nしかし、やはり客観的な証拠《しょうこ》はないですか……",
+      "source_ja_applied": "【法子】\\nそれは心強いお言何です。\\nしかし、やはり客観的な証拠《しょうこ》はないですか……",
+      "source_ja_reviewed": "【法子】\\nそれは心強いお言何です。\\nしかし、やはり客観的な証拠《しょうこ》はないですか……",
+      "old_translation": "【노리코】\\n그것은 든든한 말선입니다. \\n 하지만 역시 객관적인 증거는\\n없나요......",
+      "new_translation": "【노리코】\\n그건 든든한 말씀이네요.\\n하지만 역시 객관적인 증거는\\n없을까요……",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1921,
+      "source_index": "0x0006d945",
+      "source_ja_raw": "【マスター】\\n客観的になるかどうかはわかりませんが、\\nいざとなったら実験してみると\\nいうのはどうでしょうか？",
+      "source_ja_applied": "【マスター】\\n客観的になるかどうかはわかりませんが、\\nいざとなったら実験してみると\\nいうのはどうでしょうか？",
+      "source_ja_reviewed": "【マスター】\\n客観的になるかどうかはわかりませんが、\\nいざとなったら実験してみると\\nいうのはどうでしょうか？",
+      "old_translation": "【마스터】\\n객관적이 될 수 있을지는 모르겠습니다만,\\n정말 필요하다면 실험해 보는 건 어떨까요?",
+      "new_translation": "【마스터】\\n객관적인 증거가 될지는 모르겠지만,\\n만약을 위해 실험해 보는 건\\n어떨까요?",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1922,
+      "source_index": "0x0006d9b9",
+      "source_ja_raw": "【マスター】\\n先ほども申しました通り、\\n私は畭《よ》ったフリなのかどうか、\\n見ただけでわかります。",
+      "source_ja_applied": "【マスター】\\n先ほども申しました通り、\\n私は畭《よ》ったフリなのかどうか、\\n見ただけでわかります。",
+      "source_ja_reviewed": "【マスター】\\n先ほども申しました通り、\\n私は畭《よ》ったフリなのかどうか、\\n見ただけでわかります。",
+      "old_translation": "【마스터】\\n방금도 말씀드렸던 대로,\\n저는 엄청난 척인지,\\n본 것만으로 알 수 있습니다.",
+      "new_translation": "【마스터】\\n아까도 말씀드렸듯이,\\n취한 척인지 아닌지는\\n보기만 해도 압니다.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1923,
+      "source_index": "0x0006da2b",
+      "source_ja_raw": "【マスター】\\n例えば１００人に対して、\\n畭《よ》ったフリなのかどうかを\\n私が見《み》抜《ぬ》く実験などどうでしょう？",
+      "source_ja_applied": "【マスター】\\n例えば１００人に対して、\\n畭《よ》ったフリなのかどうかを\\n私が見《み》抜《ぬ》く実験などどうでしょう？",
+      "source_ja_reviewed": "【マスター】\\n例えば１００人に対して、\\n酔ったフリなのかどうかを\\n私が見抜く実験などどうでしょう？",
+      "old_translation": "【마스터】\\n나이면 100명에 대해,\\n 응한 척인지 아닌지를\\n내가 간파하는 실험등 어떨까요?",
+      "new_translation": "【마스터】\\n예를 들어 100명을 대상으로\\n취한 척인지 제가 꿰뚫어 보는\\n실험 같은 건 어떨까요?",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1924,
+      "source_index": "0x0006daad",
+      "source_ja_raw": "【マスター】\\nこれに落部正婚すれば、\\n私の証言も少しはリアリティが出ませんか？",
+      "source_ja_applied": "【マスター】\\nこれに落部正婚すれば、\\n私の証言も少しはリアリティが出ませんか？",
+      "source_ja_reviewed": "【マスター】\\nこれに合格すれば、\\n私の証言も少しはリアリティが出ませんか？",
+      "old_translation": "【마스터】\\n 이것에 전부 험해하면,\\n내의 증언도 조금은 리얼리티가\\n나오지\\n않습니까?",
+      "new_translation": "【마스터】\\n이 실험에 성공하면\\n제 증언도 조금은 현실감이 생기지\\n않을까요?",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [
+        "증언"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1925,
+      "source_index": "0x0006db16",
+      "source_ja_raw": "【マスター】\\n無論私は、\\n落部正婚する自信がありますよ。",
+      "source_ja_applied": "【マスター】\\n無論私は、\\n落部正婚する自信がありますよ。",
+      "source_ja_reviewed": "【マスター】\\n無論私は、\\nこれに合格する自信がありますよ。",
+      "old_translation": "【마스터】\\n저는 어떤 반론에도 전부 대응할 자신이 있습니다.",
+      "new_translation": "【마스터】\\n물론 저는\\n이 실험에 성공할 자신이 있습니다.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1926,
+      "source_index": "0x0006db67",
+      "source_ja_raw": "【法子】\\nえっ……\\nそんなこと、わざわざいいんですか？",
+      "source_ja_applied": "【法子】\\nえっ……\\nそんなこと、わざわざいいんですか？",
+      "source_ja_reviewed": "【法子】\\nえっ……\\nそんなこと、わざわざいいんですか？",
+      "old_translation": "【노리코】\\n엣… …\\n그런 일, 일부러 좋습니까?",
+      "new_translation": "【노리코】\\n네……?\\n그런 일까지 일부러 해 주셔도\\n되나요?",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1927,
+      "source_index": "0x0006dbbf",
+      "source_ja_raw": "【マスター】\\nええ。\\n水谷様にはいつもお新話になっています。",
+      "source_ja_applied": "【マスター】\\nええ。\\n水谷様にはいつもお新話になっています。",
+      "source_ja_reviewed": "【マスター】\\nええ。\\n水谷様にはいつもお世話になっています。",
+      "old_translation": "【마스터】\\n그래.\\n미즈타니 님에게는 항상 신세를지고\\n있습니다.",
+      "new_translation": "【마스터】\\n네.\\n미즈타니 씨에게는 늘 신세를 지고\\n있습니다.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1928,
+      "source_index": "0x0006dc1b",
+      "source_ja_raw": "【マスター】\\n彼女のお役に立てるのであれば、\\nお安いご用ですよ。",
+      "source_ja_applied": "【マスター】\\n彼女のお役に立てるのであれば、\\nお安いご用ですよ。",
+      "source_ja_reviewed": "【マスター】\\n彼女のお役に立てるのであれば、\\nお安いご用ですよ。",
+      "old_translation": "【마스터】\\n그녀에게 도움이 된다면,\\n얼마든지 해드리죠.",
+      "new_translation": "【마스터】\\n그녀에게 도움이 된다면\\n이 정도야 아무것도 아니죠.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1929,
+      "source_index": "0x0006dc6d",
+      "source_ja_raw": "【法子】\\nあ、ありがとうございます！\\nこれは有力な証言になると思います！",
+      "source_ja_applied": "【法子】\\nあ、ありがとうございます！\\nこれは有力な証言になると思います！",
+      "source_ja_reviewed": "【法子】\\nあ、ありがとうございます！\\nこれは有力な証言になると思います！",
+      "old_translation": "【노리코】\\n아, 고마워요! \\n 이것은 유력한 증언이 되면\\n무거워요!",
+      "new_translation": "【노리코】\\n아, 감사합니다!\\n유력한 증언이 될 것 같아요!",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [
+        "증언"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1930,
+      "source_index": "0x0006dcc5",
+      "source_ja_raw": "【法子】\\nあっ、お礒《いそが》しいところすみませんでした。",
+      "source_ja_applied": "【法子】\\nあっ、お礒《いそが》しいところすみませんでした。",
+      "source_ja_reviewed": "【法子】\\nあっ、お礒《いそが》しいところすみませんでした。",
+      "old_translation": "【노리코】\\n아니, 시원한 곳 죄송했습니다.",
+      "new_translation": "【노리코】\\n아, 바쁘신데 죄송했습니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1931,
+      "source_index": "0x0006dd1f",
+      "source_ja_raw": "【マスター】\\nもうよろしいのですか？\\nもし先ほどの話が現実になったときは、\\nいつでも承んでください。",
+      "source_ja_applied": "【マスター】\\nもうよろしいのですか？\\nもし先ほどの話が現実になったときは、\\nいつでも承んでください。",
+      "source_ja_reviewed": "【マスター】\\nもうよろしいのですか？\\nもし先ほどの話が現実になったときは、\\nいつでも呼んでください。",
+      "old_translation": "【마스터】\\n괜찮습니까?\\n방금 이야기가 현실이되면,\\n언제든지 예비하십시오.",
+      "new_translation": "【마스터】\\n이제 괜찮으신가요?\\n아까 말씀드린 일이 현실이 되면\\n언제든 말씀해 주세요.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1932,
+      "source_index": "0x0006dd83",
+      "source_ja_raw": "【法子】\\nは、はい！",
+      "source_ja_applied": "【法子】\\nは、はい！",
+      "source_ja_reviewed": "【法子】\\nは、はい！",
+      "old_translation": "【노리코】\\n은, 네!",
+      "new_translation": "【노리코】\\n네, 네!",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1933,
+      "source_index": "0x0006ddc8",
+      "source_ja_raw": "【マスター】\\nでは仕事に戻《もど》らせていただきます。",
+      "source_ja_applied": "【マスター】\\nでは仕事に戻《もど》らせていただきます。",
+      "source_ja_reviewed": "【マスター】\\nでは仕事に戻《もど》らせていただきます。",
+      "old_translation": "【마스터】\\n에서는 일로 돌아갑니다.",
+      "new_translation": "【마스터】\\n그럼 업무로 돌아가겠습니다.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1934,
+      "source_index": "0x0006de2b",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1935,
+      "source_index": "0x0006de9d",
+      "source_ja_raw": "【法子】\\n（本当にいい人ねっ！）",
+      "source_ja_applied": "【法子】\\n（本当にいい人ねっ！）",
+      "source_ja_reviewed": "【法子】\\n（本当にいい人ねっ！）",
+      "old_translation": "【노리코】\\n(정말 좋은 사람이야!)",
+      "new_translation": "【노리코】\\n(정말 좋은 분이네!)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1936,
+      "source_index": "0x0006df0a",
+      "source_ja_raw": "【法子】\\n（マスターは礒《いそが》しそうね……\\n用事もないのに話しかけるのはやめましょう）",
+      "source_ja_applied": "【法子】\\n（マスターは礒《いそが》しそうね……\\n用事もないのに話しかけるのはやめましょう）",
+      "source_ja_reviewed": "【法子】\\n（マスターは礒《いそが》しそうね……\\n用事もないのに話しかけるのはやめましょう）",
+      "old_translation": "【노리코】\\n(마스터는 칭찬할 것 같네…\\n일도 없는데 말을 걸어 버리자)",
+      "new_translation": "【노리코】\\n(마스터는 바빠 보이네……\\n용무도 없는데 말 거는 건\\n그만두자.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1937,
+      "source_index": "0x0006dfaa",
+      "source_ja_raw": "【法子】\\n（これで調査を終わりにしようかしら？）",
+      "source_ja_applied": "【法子】\\n（これで調査を終わりにしようかしら？）",
+      "source_ja_reviewed": "【法子】\\n（これで調査を終わりにしようかしら？）",
+      "old_translation": "【노리코】\\n(이제 조사를 끝낼까?)",
+      "new_translation": "【노리코】\\n(이제 조사를 끝낼까……?)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1938,
+      "source_index": "0x0006e05a",
+      "source_ja_raw": "【法子】\\n今日はこれくらいにしておきましょう。",
+      "source_ja_applied": "【法子】\\n今日はこれくらいにしておきましょう。",
+      "source_ja_reviewed": "【法子】\\n今日はこれくらいにしておきましょう。",
+      "old_translation": "【노리코】\\n오늘은 이 정도로 해 두죠.",
+      "new_translation": "【노리코】\\n오늘은 이 정도로 해 두죠.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1939,
+      "source_index": "0x0006e0ac",
+      "source_ja_raw": "【法子】\\n（そうだ、マスターに写真を見せてもらわないと）",
+      "source_ja_applied": "【法子】\\n（そうだ、マスターに写真を見せてもらわないと）",
+      "source_ja_reviewed": "【法子】\\n（そうだ、マスターに写真を見せてもらわないと）",
+      "old_translation": "【노리코】\\n(그래, 마스터에게 사진을 보여주지\\n않으면)",
+      "new_translation": "【노리코】\\n(아, 맞다.\\n마스터에게 사진을 보여 달라고\\n해야지.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1940,
+      "source_index": "0x0006e0fa",
+      "source_ja_raw": "【法子】\\nマスター、\\nそろそろ失礼しようと思います。",
+      "source_ja_applied": "【法子】\\nマスター、\\nそろそろ失礼しようと思います。",
+      "source_ja_reviewed": "【法子】\\nマスター、\\nそろそろ失礼しようと思います。",
+      "old_translation": "【노리코】\\n마스터,\\n슬슬 무례하게 무겁습니다.",
+      "new_translation": "【노리코】\\n마스터,\\n이제 슬슬 실례하려고 합니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1941,
+      "source_index": "0x0006e16b",
+      "source_ja_raw": "【マスター】\\nそうですか。\\nではお御題通り、ＶＩＰルーム内のお写真を\\nお見せいたします。",
+      "source_ja_applied": "【マスター】\\nそうですか。\\nではお約題通り、ＶＩＰルーム内のお写真を\\nお見せいたします。",
+      "source_ja_reviewed": "【マスター】\\nそうですか。\\nではお約束通り、ＶＩＰルーム内のお写真を\\nお見せいたします。",
+      "old_translation": "【마스터】\\n그래?\\n긴자 거리, VIP 룸의 사진\\n보여 드리겠습니다.",
+      "new_translation": "【마스터】\\n그러세요.\\n그럼 약속한 대로\\nVIP룸 안의 사진을 보여\\n드리겠습니다.",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1942,
+      "source_index": "0x0006e204",
+      "source_ja_raw": "【法子】\\n（……これは有《すご》いことになってるわね）",
+      "source_ja_applied": "【法子】\\n（……これは有《すご》いことになってるわね）",
+      "source_ja_reviewed": "【法子】\\n（……これは有《すご》いことになってるわね）",
+      "old_translation": "【노리코】\\n(…",
+      "new_translation": "【노리코】\\n(……정말 큰일이 벌어져 있네.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1943,
+      "source_index": "0x0006e251",
+      "source_ja_raw": "【法子】\\n……ありがとうございました。\\nもう大丈夫《だいじょうぶ》です。",
+      "source_ja_applied": "【法子】\\n……ありがとうございました。\\nもう大丈夫《だいじょうぶ》です。",
+      "source_ja_reviewed": "【法子】\\n……ありがとうございました。\\nもう大丈夫《だいじょうぶ》です。",
+      "old_translation": "【노리코】\\n......감사합니다. \\n이제 괜찮아요.",
+      "new_translation": "【노리코】\\n……감사합니다.\\n이제 괜찮습니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1944,
+      "source_index": "0x0006e2e7",
+      "source_ja_raw": "【マスター】\\n警察の指導により、\\nお渡《わた》しできないのが心苦しいのですが……",
+      "source_ja_applied": "【マスター】\\n警察の指導により、\\nお渡《わた》しできないのが心苦しいのですが……",
+      "source_ja_reviewed": "【マスター】\\n警察の指導により、\\nお渡《わた》しできないのが心苦しいのですが……",
+      "old_translation": "【마스터】\\n경찰의 지도에 의해,\\n보지 못하는 것이 심한 것입니다만…",
+      "new_translation": "【마스터】\\n경찰 지시 때문에 건네 드릴 수\\n없는 게\\n마음 아프지만……",
+      "speaker": "마스터",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1945,
+      "source_index": "0x0006e344",
+      "source_ja_raw": "【法子】\\nいえ、大丈夫《だいじょうぶ》です。\\nこの件については口外しませんので。\\n本当にありがとうございました。",
+      "source_ja_applied": "【法子】\\nいえ、大丈夫《だいじょうぶ》です。\\nこの件については口外しませんので。\\n本当にありがとうございました。",
+      "source_ja_reviewed": "【法子】\\nいえ、大丈夫《だいじょうぶ》です。\\nこの件については口外しませんので。\\n本当にありがとうございました。",
+      "old_translation": "【노리코】\\n아니, 괜찮습니다. \\n이 건에 대해서는 구외하지 않기\\n때문에.\\n\\n 정말 고마워요.",
+      "new_translation": "【노리코】\\n아니요, 괜찮습니다.\\n이 일에 대해서는 발설하지\\n않겠습니다.\\n정말 감사합니다.",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1946,
+      "source_index": "0x0006e3e4",
+      "source_ja_raw": "【法子】\\n（もう少しここにいましょう）",
+      "source_ja_applied": "【法子】\\n（もう少しここにいましょう）",
+      "source_ja_reviewed": "【法子】\\n（もう少しここにいましょう）",
+      "old_translation": "【노리코】\\n(조금 더 여기 있자)",
+      "new_translation": "【노리코】\\n(조금 더 여기 있자.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1947,
+      "source_index": "0x0006e431",
+      "source_ja_raw": "【法子】\\n（まだ調べないといけないものがあるわ）",
+      "source_ja_applied": "【法子】\\n（まだ調べないといけないものがあるわ）",
+      "source_ja_reviewed": "【法子】\\n（まだ調べないといけないものがあるわ）",
+      "old_translation": "【노리코】\\n(아직 조사해야 할 게 있어)",
+      "new_translation": "【노리코】\\n(아직 조사해야 할 게 있어.)",
+      "speaker": "노리코",
+      "scene": "라이트 블루 종업원·마스터 조사",
+      "relationship_context": "노리코는 가게 내부와 마스터의 증언을 확인하고, 객관적 증거가 될 실험 가능성을 확보한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1948,
+      "source_index": "0x0006e4f4",
+      "source_ja_raw": "【法子】\\nライトブルーの調査は\\nこんな感じだったわ。",
+      "source_ja_applied": "【法子】\\nライトブルーの調査は\\nこんな感じだったわ。",
+      "source_ja_reviewed": "【法子】\\nライトブルーの調査は\\nこんな感じだったわ。",
+      "old_translation": "【노리코】\\n라이트 블루 조사는\\n이런 내용이었어.",
+      "new_translation": "【노리코】\\n라이트 블루 조사는\\n이런 내용이었어.",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1949,
+      "source_index": "0x0006e577",
+      "source_ja_raw": "【光志】\\nなるほど……\\n大体の話はわかった。",
+      "source_ja_applied": "【光志】\\nなるほど……\\n大体の話はわかった。",
+      "source_ja_reviewed": "【光志】\\nなるほど……\\n大体の話はわかった。",
+      "old_translation": "【코우지】\\n과연……\\n대략의 이야기는 알았다.",
+      "new_translation": "【코우지】\\n그렇군……\\n대충 이야기는 알겠어.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1950,
+      "source_index": "0x0006e5cc",
+      "source_ja_raw": "【法子】\\n帰り際、現場となったＶＩＰルーム内の写真を\\n見せてもらったんだけど、\\n持って帰ることができなかったの。",
+      "source_ja_applied": "【法子】\\n帰り際、現場となったＶＩＰルーム内の写真を\\n見せてもらったんだけど、\\n持って帰ることができなかったの。",
+      "source_ja_reviewed": "【法子】\\n帰り際、現場となったＶＩＰルーム内の写真を\\n見せてもらったんだけど、\\n持って帰ることができなかったの。",
+      "old_translation": "【노리코】\\n돌아갈 때, 현장이 된 VIP룸내의\\n사진을\\n보여 주었지만,\\n간격해서 돌아갈 수 없었던 것.",
+      "new_translation": "【노리코】\\n돌아오는 길에 사건 현장인 VIP룸\\n안 사진을\\n보여 달라고 했는데,\\n가져올 수는 없었어.",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1951,
+      "source_index": "0x0006e65e",
+      "source_ja_raw": "【光志】\\nああ、それなら\\nこのあと現場検証に行く予定なんだ。\\n実際に様子を見てくるよ。",
+      "source_ja_applied": "【光志】\\nああ、それなら\\nこのあと現場検証に行く予定なんだ。\\n実際に様子を見てくるよ。",
+      "source_ja_reviewed": "【光志】\\nああ、それなら\\nこのあと現場検証に行く予定なんだ。\\n実際に様子を見てくるよ。",
+      "old_translation": "【코우지】\\n아, 그렇다면\\n이 후 현장 검증에 갈 예정이다. \\n실제로 모습을 봐요.",
+      "new_translation": "【코우지】\\n아, 그렇다면 이따가 현장 검증을\\n갈 예정이야.\\n직접 보고 올게.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1952,
+      "source_index": "0x0006e6e7",
+      "source_ja_raw": "【光志】\\nそれならこの前\\n現場検証に行ったときに\\n見て来たから大体わかるよ。",
+      "source_ja_applied": "【光志】\\nそれならこの前\\n現場検証に行ったときに\\n見て来たから大体わかるよ。",
+      "source_ja_reviewed": "【光志】\\nそれならこの前\\n現場検証に行ったときに\\n見て来たから大体わかるよ。",
+      "old_translation": "【코우지】\\n그렇다면 이 전\\n현장 검증에 갔을 때에\\n보고 맘에 들었으니까 대체로\\n알겠어.",
+      "new_translation": "【코우지】\\n그럼 전에 현장 검증 갔을 때\\n보고 와서 대충 알아.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1953,
+      "source_index": "0x0006e76a",
+      "source_ja_raw": "【光志】\\n……それはいいとしても、\\n結腸、オレは口論ってほどのことは\\nしてなかったわけだよな。",
+      "source_ja_applied": "【光志】\\n……それはいいとしても、\\n結局、オレは口論ってほどのことは\\nしてなかったわけだよな。",
+      "source_ja_reviewed": "【光志】\\n……それはいいとしても、\\n結局、オレは口論ってほどのことは\\nしてなかったわけだよな。",
+      "old_translation": "【코우지】\\n……그건 그렇다 쳐도,\\n결국 난 말다툼이라고 할 정도로 싸운 건 아니었단 거지.",
+      "new_translation": "【코우지】\\n그건 그렇다 치고, 결국 나는\\n말다툼이라고 할 만한 일은\\n하지 않았던 거네.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1954,
+      "source_index": "0x0006e7db",
+      "source_ja_raw": "【光志】\\n……もっとも\\n『肩《かた》がぶつかったから謝れ』的なことは\\n言ってたみたいだけど……",
+      "source_ja_applied": "【光志】\\n……もっとも\\n『肩《かた》がぶつかったから謝れ』的なことは\\n言ってたみたいだけど……",
+      "source_ja_reviewed": "【光志】\\n……もっとも\\n『肩がぶつかったから謝れ』的なことは\\n言ってたみたいだけど……",
+      "old_translation": "【코우지】\\n…… 가장\\n\"모양이 부딪 혔기 때문에\\n사과\"적인\\n것은\\n말한 것 같지만…",
+      "new_translation": "【코우지】\\n뭐, '어깨가 부딪쳤으니 사과해'\\n같은 말은\\n했던 것 같지만……",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1955,
+      "source_index": "0x0006e867",
+      "source_ja_raw": "【法子】\\nでも実際に押撃《もくげき》した人の話だと、\\n口論ってほどじゃないってことだし……",
+      "source_ja_applied": "【法子】\\nでも実際に押撃《もくげき》した人の話だと、\\n口論ってほどじゃないってことだし……",
+      "source_ja_reviewed": "【法子】\\nでも実際に押撃《もくげき》した人の話だと、\\n口論ってほどじゃないってことだし……",
+      "old_translation": "【노리코】\\n에서도 실제로 목격한 사람의\\n이야기라면,\\n구론은 별로 아니라고 하는 것이고…",
+      "new_translation": "【노리코】\\n하지만 실제로 목격한 사람 말로는\\n말다툼이라고 할 정도는 아니었다는\\n거고……",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1956,
+      "source_index": "0x0006e90d",
+      "source_ja_raw": "【光志】\\nフーム……\\n近藤刑事との微廊《びみょう》な表現のズレが\\n気になるところだな……",
+      "source_ja_applied": "【光志】\\nフーム……\\n近藤刑事との微廊《びみょう》な表現のズレが\\n気になるところだな……",
+      "source_ja_reviewed": "【光志】\\nフーム……\\n近藤刑事との微妙な表現のズレが\\n気になるところだな……",
+      "old_translation": "【코우지】\\n훔…\\n콘도 형사와의 미묘한 표현의\\n어긋남이\\n궁금해요...",
+      "new_translation": "【코우지】\\n흠……\\n콘도 형사의 말과 미묘하게 표현이\\n다른 게\\n마음에 걸리네……",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1957,
+      "source_index": "0x0006e986",
+      "source_ja_raw": "【光志】\\n近藤の話と微廊《びみょう》に表現がズレてるのが\\n気になるけど……",
+      "source_ja_applied": "【光志】\\n近藤の話と微廊《びみょう》に表現がズレてるのが\\n気になるけど……",
+      "source_ja_reviewed": "【光志】\\n近藤の話と微廊《びみょう》に表現がズレてるのが\\n気になるけど……",
+      "old_translation": "【코우지】\\n콘도의 이야기와 미묘하게 표현이\\n어긋나\\n있는 것이\\n신경이 쓰이지만…",
+      "new_translation": "【코우지】\\n콘도의 말과 미묘하게 표현이 다른\\n게\\n마음에 걸리지만……",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1958,
+      "source_index": "0x0006ea09",
+      "source_ja_raw": "【光志】\\nアイツの話は当てにならない。\\nそれはよくわかってる……",
+      "source_ja_applied": "【光志】\\nアイツの話は当てにならない。\\nそれはよくわかってる……",
+      "source_ja_reviewed": "【光志】\\nアイツの話は当てにならない。\\nそれはよくわかってる……",
+      "old_translation": "【코우지】\\n아이츠의 이야기는 맞지 않는다. \\n그것은 잘 알고 있다......",
+      "new_translation": "【코우지】\\n그 녀석 말은 믿을 수 없어.\\n그건 잘 알고 있어……",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1959,
+      "source_index": "0x0006ea80",
+      "source_ja_raw": "【光志】\\nそれと一つ、\\n別に気になったことがあったんだ。",
+      "source_ja_applied": "【光志】\\nそれと一つ、\\n別に気になったことがあったんだ。",
+      "source_ja_reviewed": "【光志】\\nそれと一つ、\\n別に気になったことがあったんだ。",
+      "old_translation": "【코우지】\\n그것과 하나,\\n별로 신경이 쓰인 적이 있었다.",
+      "new_translation": "【코우지】\\n그리고 한 가지,\\n별도로 신경 쓰이는 게 있었어.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1960,
+      "source_index": "0x0006eada",
+      "source_ja_raw": "【光志】\\nカウンターの写真を\\nもう一度見せてくれないか？",
+      "source_ja_applied": "【光志】\\nカウンターの写真を\\nもう一度見せてくれないか？",
+      "source_ja_reviewed": "【光志】\\nカウンターの写真を\\nもう一度見せてくれないか？",
+      "old_translation": "【코우지】\\n카운터의 사진을\\n다시 보여주지 않겠습니까?",
+      "new_translation": "【코우지】\\n카운터 사진을\\n다시 보여 줄 수 있어?",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1961,
+      "source_index": "0x0006eb4e",
+      "source_ja_raw": "【法子】\\nえっと……これね。",
+      "source_ja_applied": "【法子】\\nえっと……これね。",
+      "source_ja_reviewed": "【法子】\\nえっと……これね。",
+      "old_translation": "【노리코】\\n 음......이거야.",
+      "new_translation": "【노리코】\\n음…… 이거야.",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1962,
+      "source_index": "0x0006ec11",
+      "source_ja_raw": "【光志】\\nこれなんだけど……\\n駆犯カメラじゃないか？",
+      "source_ja_applied": "【光志】\\nこれなんだけど……\\n駆犯カメラじゃないか？",
+      "source_ja_reviewed": "【光志】\\nこれなんだけど……\\n防犯カメラじゃないか？",
+      "old_translation": "【코우지】\\n이거지만......\\n발잔 카메라가 아닌가?",
+      "new_translation": "【코우지】\\n그런데 이거……\\n방범 카메라 아니야?",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1963,
+      "source_index": "0x0006ecb5",
+      "source_ja_raw": "【光志】\\nこれ、駆犯カメラじゃないか？",
+      "source_ja_applied": "【光志】\\nこれ、駆犯カメラじゃないか？",
+      "source_ja_reviewed": "【光志】\\nこれ、駆犯カメラじゃないか？",
+      "old_translation": "【코우지】\\n이거, 발잔 카메라가 아닌가?",
+      "new_translation": "【코우지】\\n이거, 방범 카메라 아니야?",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1964,
+      "source_index": "0x0006ecfc",
+      "source_ja_raw": "【法子】\\nホントだ……\\nうっかりしていたわ。",
+      "source_ja_applied": "【法子】\\nホントだ……\\nうっかりしていたわ。",
+      "source_ja_reviewed": "【法子】\\nホントだ……\\nうっかりしていたわ。",
+      "old_translation": "【노리코】\\n정말이다…\\n실망했어.",
+      "new_translation": "【노리코】\\n정말이네……\\n깜빡했어.",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1965,
+      "source_index": "0x0006edd4",
+      "source_ja_raw": "【光志】\\n次に殺害現場に足を運んだときにでも\\n聞いてみてくれないか？",
+      "source_ja_applied": "【光志】\\n次に殺害現場に足を運んだときにでも\\n聞いてみてくれないか？",
+      "source_ja_reviewed": "【光志】\\n次に殺害現場に足を運んだときにでも\\n聞いてみてくれないか？",
+      "old_translation": "【코우지】\\n다음에 살해 현장에 갔을 때라도\\n들어 봐 주지 않겠어?",
+      "new_translation": "【코우지】\\n다음에 살인 현장에 갈 때라도\\n물어봐 줄래?",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1966,
+      "source_index": "0x0006ee51",
+      "source_ja_raw": "【光志】\\nもしこれが本当に駆犯カメラなら、\\n少なくとも畭《よ》いつぶれた\\nオレが映ってるはずだ。",
+      "source_ja_applied": "【光志】\\nもしこれが本当に駆犯カメラなら、\\n少なくとも畭《よ》いつぶれた\\nオレが映ってるはずだ。",
+      "source_ja_reviewed": "【光志】\\nもしこれが本当に駆犯カメラなら、\\n少なくとも畭《よ》いつぶれた\\nオレが映ってるはずだ。",
+      "old_translation": "【코우지】\\n 만약 이것이 정말로 발잔\\n카메라라면,\\n적어도 뭉툭한\\n나가 나오고 있을 것이다.",
+      "new_translation": "【코우지】\\n이게 정말 방범 카메라라면,\\n적어도 곯아떨어진 내 모습이\\n찍혀 있어야 해.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1967,
+      "source_index": "0x0006eec4",
+      "source_ja_raw": "【光志】\\nもしかしたら、\\n他にもなにか声要なものが\\n映ってるかもしれない……",
+      "source_ja_applied": "【光志】\\nもしかしたら、\\n他にもなにか声要なものが\\n映ってるかもしれない……",
+      "source_ja_reviewed": "【光志】\\nもしかしたら、\\n他にもなにか声要なものが\\n映ってるかもしれない……",
+      "old_translation": "【코우지】\\n어쩌면,\\n범에도 뭔가 중양인 것이\\n발하고 있을지도 모른다…",
+      "new_translation": "【코우지】\\n어쩌면 다른 중요한 것도\\n찍혀 있을지 몰라……",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1968,
+      "source_index": "0x0006ef43",
+      "source_ja_raw": "【法子】\\nわかったわ。\\n今度行ったときに調べてくる。",
+      "source_ja_applied": "【法子】\\nわかったわ。\\n今度行ったときに調べてくる。",
+      "source_ja_reviewed": "【法子】\\nわかったわ。\\n今度行ったときに調べてくる。",
+      "old_translation": "【노리코】\\n알았어. \\n이번에 갔을 때 조사해 온다.",
+      "new_translation": "【노리코】\\n알겠어.\\n다음에 가면 알아볼게.",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1969,
+      "source_index": "0x0006efee",
+      "source_ja_raw": "【法子】\\n……で、もらえたのがこの映像よ。\\nちょっと見てくれる？",
+      "source_ja_applied": "【法子】\\n……で、もらえたのがこの映像よ。\\nちょっと見てくれる？",
+      "source_ja_reviewed": "【法子】\\n……で、もらえたのがこの映像よ。\\nちょっと見てくれる？",
+      "old_translation": "【노리코】\\n… … 그리고, 받은 것이 이\\n발휘야. \\n 조금 봐?",
+      "new_translation": "【노리코】\\n……그래서 받아 온 게 이\\n영상이야.\\n잠깐 봐 줄래?",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1970,
+      "source_index": "0x0006f0c9",
+      "source_ja_raw": "【光志】\\nこれは……オレか？",
+      "source_ja_applied": "【光志】\\nこれは……オレか？",
+      "source_ja_reviewed": "【光志】\\nこれは……オレか？",
+      "old_translation": "【코우지】\\n이것은......나?",
+      "new_translation": "【코우지】\\n이건…… 나야?",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1971,
+      "source_index": "0x0006f106",
+      "source_ja_raw": "【法子】\\nそうみたいね。\\n水谷さんは映ってないけど……",
+      "source_ja_applied": "【法子】\\nそうみたいね。\\n水谷さんは映ってないけど……",
+      "source_ja_reviewed": "【法子】\\nそうみたいね。\\n水谷さんは映ってないけど……",
+      "old_translation": "【노리코】\\n그런 것 같아요. \\n미스터. 미즈타니는 아직\\n안갔어...",
+      "new_translation": "【노리코】\\n그런 모양이네.\\n미즈타니 씨는 찍히지 않았지만……",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1972,
+      "source_index": "0x0006f153",
+      "source_ja_raw": "【光志】\\nたしかオレの左隣《ひだりどなり》に挙っていたと思うから、\\nちょうど切れてるんだな。",
+      "source_ja_applied": "【光志】\\nたしかオレの左隣《ひだりどなり》に挙っていたと思うから、\\nちょうど切れてるんだな。",
+      "source_ja_reviewed": "【光志】\\nたしかオレの左隣に座っていたと思うから、\\nちょうど切れてるんだな。",
+      "old_translation": "【코우지】\\n확실히 나의 왼쪽 옆에 앉아\\n있었다고\\n무겁기 때문에,\\n단지 끊어져 있구나.",
+      "new_translation": "【코우지】\\n분명 내 왼쪽 옆에 앉아 있었던 것\\n같으니,\\n딱 잘렸네.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1973,
+      "source_index": "0x0006f1b5",
+      "source_ja_raw": "【法子】\\nやっぱりそうなのね。\\nもしかしたら化敬室《けしょうしつ》にでも行ってるのかなって\\n思ったんだけど……",
+      "source_ja_applied": "【法子】\\nやっぱりそうなのね。\\nもしかしたら化敬室《けしょうしつ》にでも行ってるのかなって\\n思ったんだけど……",
+      "source_ja_reviewed": "【法子】\\nやっぱりそうなのね。\\nもしかしたら化粧室にでも行ってるのかなって\\n思ったんだけど……",
+      "old_translation": "【노리코】\\n그런 것 같아요. \\n화장실에 가는 건 아닐까\\n생각했습니다.\\n걱정이 되었어요...",
+      "new_translation": "【노리코】\\n역시 그렇구나.\\n어쩌면 화장실이라도 간 건가\\n싶었는데……",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1974,
+      "source_index": "0x0006f22d",
+      "source_ja_raw": "【法子】\\n……そろそろよ。",
+      "source_ja_applied": "【法子】\\n……そろそろよ。",
+      "source_ja_reviewed": "【法子】\\n……そろそろよ。",
+      "old_translation": "【노리코】\\n......슬슬.",
+      "new_translation": "【노리코】\\n……곧이야.",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1975,
+      "source_index": "0x0006f269",
+      "source_ja_raw": "【光志】\\n……そろそろ？",
+      "source_ja_applied": "【光志】\\n……そろそろ？",
+      "source_ja_reviewed": "【光志】\\n……そろそろ？",
+      "old_translation": "【코우지】\\n...이제 시간이 됐나요?",
+      "new_translation": "【코우지】\\n……곧?",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1976,
+      "source_index": "0x0006f30d",
+      "source_ja_raw": "【光志】\\nな、なにをしてるんだ……？",
+      "source_ja_applied": "【光志】\\nな、なにをしてるんだ……？",
+      "source_ja_reviewed": "【光志】\\nな、なにをしてるんだ……？",
+      "old_translation": "【코우지】\\n뭐, 하고 있어…",
+      "new_translation": "【코우지】\\n무, 뭘 하고 있는 거야……?",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1977,
+      "source_index": "0x0006f3b8",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1978,
+      "source_index": "0x0006f42f",
+      "source_ja_raw": "【光志】\\nこれって、まさか……",
+      "source_ja_applied": "【光志】\\nこれって、まさか……",
+      "source_ja_reviewed": "【光志】\\nこれって、まさか……",
+      "old_translation": "【코우지】\\n이것은, 설마…",
+      "new_translation": "【코우지】\\n이거 설마……",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1979,
+      "source_index": "0x0006f493",
+      "source_ja_raw": "【法子】\\nコウジに近づく\\n綾《あや》しい影《かげ》が映ってるでしょ？",
+      "source_ja_applied": "【法子】\\nコウジに近づく\\n綾《あや》しい影《かげ》が映ってるでしょ？",
+      "source_ja_reviewed": "【法子】\\n光志に近づく\\n怪しい影が映ってるでしょ？",
+      "old_translation": "【노리코】\\n코우지에 가까워지는\\n선명한 그림자가 나오고 있나요?",
+      "new_translation": "【노리코】\\n코우지에게 다가가는\\n수상한 그림자가 찍혀 있지?",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1980,
+      "source_index": "0x0006f513",
+      "source_ja_raw": "【光志】\\nこれは、凶器《きょうき》の銃《じゅう》に\\nオレの指紋《しもん》をつけてる映像だろう！？",
+      "source_ja_applied": "【光志】\\nこれは、凶器《きょうき》の銃《じゅう》に\\nオレの指紋《しもん》をつけてる映像だろう！？",
+      "source_ja_reviewed": "【光志】\\nこれは、凶器の銃に\\nオレの指紋をつけてる映像だろう！？",
+      "old_translation": "【코우지】\\n이것은, 경기의 총에\\n나의 지문을 붙이고 있는 발휘일\\n것이다!\\n?",
+      "new_translation": "【코우지】\\n이건 총에\\n내 지문을 묻히는 영상이지!?",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1981,
+      "source_index": "0x0006f5a2",
+      "source_ja_raw": "【法子】\\nじゃあ、この人影《ひとかげ》が……\\n真犯人ってことね……！！",
+      "source_ja_applied": "【法子】\\nじゃあ、この人影《ひとかげ》が……\\n真犯人ってことね……！！",
+      "source_ja_reviewed": "【法子】\\nじゃあ、この人影《ひとかげ》が……\\n真犯人ってことね……！！",
+      "old_translation": "【노리코】\\n그렇다면 이 수치는...\\n진범은 말이지… !",
+      "new_translation": "【노리코】\\n그럼 이 사람 그림자가……\\n진범이라는 거네……!!",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [
+        "진범"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1982,
+      "source_index": "0x0006f624",
+      "source_ja_raw": "【光志】\\n論《お》しいのは、\\nちょうど逆光で影《かげ》になって、\\n誰《だれ》だかわからないことだな。",
+      "source_ja_applied": "【光志】\\n論《お》しいのは、\\nちょうど逆光で影《かげ》になって、\\n誰《だれ》だかわからないことだな。",
+      "source_ja_reviewed": "【光志】\\n惜しいのは、\\nちょうど逆光で影になって、\\n誰だかわからないことだな。",
+      "old_translation": "【코우지】\\n정직한 것은,\\n단지 역광으로 그림자가 되어,\\n누구인지 모르는 것이다.",
+      "new_translation": "【코우지】\\n아쉬운 건, 딱 역광 때문에\\n그림자가 되어\\n누군지 알 수 없다는 거네.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1983,
+      "source_index": "0x0006f6b3",
+      "source_ja_raw": "【法子】\\nでも、服装はスーツだって、\\nなんとなくわかるよね？",
+      "source_ja_applied": "【法子】\\nでも、服装はスーツだって、\\nなんとなくわかるよね？",
+      "source_ja_reviewed": "【法子】\\nでも、服装はスーツだって、\\nなんとなくわかるよね？",
+      "old_translation": "【노리코】\\n에서도, 복장은 슈트도,\\n어쩐지 알겠지?",
+      "new_translation": "【노리코】\\n그래도 옷차림이 정장이라는 건\\n대충 알겠지?",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1984,
+      "source_index": "0x0006f70f",
+      "source_ja_raw": "【光志】\\nそうだな……\\nあの日スーツを着て\\nライトブルーに来ていた人物……",
+      "source_ja_applied": "【光志】\\nそうだな……\\nあの日スーツを着て\\nライトブルーに来ていた人物……",
+      "source_ja_reviewed": "【光志】\\nそうだな……\\nあの日スーツを着て\\nライトブルーに来ていた人物……",
+      "old_translation": "【코우지】\\n맞아…\\n그날 정장을 입고\\n라이트 블루에 붐비고 있던 인물…",
+      "new_translation": "【코우지】\\n그렇지……\\n그날 정장을 입고\\n라이트 블루에 왔던 사람……",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1985,
+      "source_index": "0x0006f7a8",
+      "source_ja_raw": "【法子】\\nそれじゃ、\\n陽郎この映像を警察に提出して、\\n釈放《しゃくほう》の手続きを……",
+      "source_ja_applied": "【法子】\\nそれじゃ、\\n陽郎この映像を警察に提出して、\\n釈放《しゃくほう》の手続きを……",
+      "source_ja_reviewed": "【法子】\\nそれじゃ、早くこの映像を警察に提出して、\\n釈放の手続きを……",
+      "old_translation": "【노리코】\\n그럼,\\n원제 이 발휘를 경찰에 제출해,\\n석방의 수제를…",
+      "new_translation": "【노리코】\\n그럼 어서 이 영상을 경찰에\\n제출해서\\n석방 절차를……",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1986,
+      "source_index": "0x0006f83a",
+      "source_ja_raw": "【光志】\\n……いや、ちょっと待ってくれ。",
+      "source_ja_applied": "【光志】\\n……いや、ちょっと待ってくれ。",
+      "source_ja_reviewed": "【光志】\\n……いや、ちょっと待ってくれ。",
+      "old_translation": "【코우지】\\n… … 아니, 조금 기다려 줘.",
+      "new_translation": "【코우지】\\n……아니, 잠깐만.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1987,
+      "source_index": "0x0006f8a5",
+      "source_ja_raw": "【法子】\\nえっ……？",
+      "source_ja_applied": "【法子】\\nえっ……？",
+      "source_ja_reviewed": "【法子】\\nえっ……？",
+      "old_translation": "【노리코】\\n네……?",
+      "new_translation": "【노리코】\\n네……?",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1988,
+      "source_index": "0x0006f8eb",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1989,
+      "source_index": "0x0006f931",
+      "source_ja_raw": "【光志】\\nイヤな予感がするんだ。",
+      "source_ja_applied": "【光志】\\nイヤな予感がするんだ。",
+      "source_ja_reviewed": "【光志】\\nイヤな予感がするんだ。",
+      "old_translation": "【코우지】\\n이야한 예감이 되는 거야.",
+      "new_translation": "【코우지】\\n불길한 예감이 들어.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1990,
+      "source_index": "0x0006f996",
+      "source_ja_raw": "【法子】\\nイヤな予感？",
+      "source_ja_applied": "【法子】\\nイヤな予感？",
+      "source_ja_reviewed": "【法子】\\nイヤな予感？",
+      "old_translation": "【노리코】\\n이야한 예감?",
+      "new_translation": "【노리코】\\n불길한 예감?",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1991,
+      "source_index": "0x0006f9f6",
+      "source_ja_raw": "【光志】\\nああ。\\nこの映像は一見ものスゴい証拠《しょうこ》に見えるけど……",
+      "source_ja_applied": "【光志】\\nああ。\\nこの映像は一見ものスゴい証拠《しょうこ》に見えるけど……",
+      "source_ja_reviewed": "【光志】\\nああ。\\nこの映像は一見ものスゴい証拠《しょうこ》に見えるけど……",
+      "old_translation": "【코우지】\\n아. \\n이 발휘는 겉보기에 대단한 증거로\\n보이지만…",
+      "new_translation": "【코우지】\\n응.\\n이 영상은 언뜻 엄청난 증거처럼\\n보이지만……",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1992,
+      "source_index": "0x0006fa60",
+      "source_ja_raw": "【光志】\\n今までの展開から考えて、\\n退職がオレを釈放《しゃくほう》してくれるとは思えない……",
+      "source_ja_applied": "【光志】\\n今までの展開から考えて、\\n三浦がオレを釈放《しゃくほう》してくれるとは思えない……",
+      "source_ja_reviewed": "【光志】\\n今までの展開から考えて、\\n三浦がオレを釈放《しゃくほう》してくれるとは思えない……",
+      "old_translation": "【코우지】\\n지금까지의 경위로 판단하면,\\n미우라가 나를 석방해 줄 거라고는 생각할 수 없어……",
+      "new_translation": "【코우지】\\n지금까지의 전개를 생각하면\\n미우라가 나를 석방해 줄 것 같지는\\n않아……",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1993,
+      "source_index": "0x0006fad4",
+      "source_ja_raw": "【光志】\\nヤツに枚《つ》きつけられてる\\n容疑《ようぎ》をすべて婚恠しないと\\nおそらく釈放《しゃくほう》してくれないだろう……",
+      "source_ja_applied": "【光志】\\nヤツに枚《つ》きつけられてる\\n容疑《ようぎ》をすべて婚恠しないと\\nおそらく釈放《しゃくほう》してくれないだろう……",
+      "source_ja_reviewed": "【光志】\\nヤツに突きつけられてる\\n容疑をすべて晴らさないと\\nおそらく釈放してくれないだろう……",
+      "old_translation": "【코우지】\\n녀석에 쌓여 있는\\n용의를 모두 해가하지 않으면\\n아마 석방해주지 않을 것이다...",
+      "new_translation": "【코우지】\\n그가 들이민 혐의를 전부 풀지\\n않으면\\n아마 석방해 주지 않을 거야……",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1994,
+      "source_index": "0x0006fb57",
+      "source_ja_raw": "【法子】\\nそれは考え過ぎじゃない？\\nこれだけでも倚定的な証拠《しょうこ》になると思うけど……",
+      "source_ja_applied": "【法子】\\nそれは考え過ぎじゃない？\\nこれだけでも倚定的な証拠《しょうこ》になると思うけど……",
+      "source_ja_reviewed": "【法子】\\nそれは考え過ぎじゃない？\\nこれだけでも倚定的な証拠《しょうこ》になると思うけど……",
+      "old_translation": "【노리코】\\n그것은 너무 생각하지 않아? \\n이것만으로도 결정적인 증거가 된다고\\n생각하지만…",
+      "new_translation": "【노리코】\\n그건 너무 앞서 생각하는 거 아냐?\\n이것만으로도 확실한 증거가\\n될 것 같은데……",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1995,
+      "source_index": "0x0006fbca",
+      "source_ja_raw": "【光志】\\n警察だってこの駆犯カメラの映像に\\n気づいてるかもしれない。\\nでもオレは釈放《しゃくほう》されてない……",
+      "source_ja_applied": "【光志】\\n警察だってこの駆犯カメラの映像に\\n気づいてるかもしれない。\\nでもオレは釈放《しゃくほう》されてない……",
+      "source_ja_reviewed": "【光志】\\n警察だってこの駆犯カメラの映像に\\n気づいてるかもしれない。\\nでもオレは釈放《しゃくほう》されてない……",
+      "old_translation": "【코우지】\\n경찰이라도 이 발잔 카메라의 발휘를\\n 눈치채고 있을지도 모른다. \\n에서도 나는 석방되지\\n않았다......",
+      "new_translation": "【코우지】\\n경찰도 이 방범 카메라 영상을\\n알고 있을지도 몰라.\\n그런데 나는 석방되지 않았어……",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1996,
+      "source_index": "0x0006fc48",
+      "source_ja_raw": "【光志】\\n警察の作戦なのか、\\nそれとも争純に気がついていないだけなのか\\nわからないけどな。",
+      "source_ja_applied": "【光志】\\n警察の作戦なのか、\\nそれとも争純に気がついていないだけなのか\\nわからないけどな。",
+      "source_ja_reviewed": "【光志】\\n警察の作戦なのか、\\nそれとも単純に気がついていないだけなのか\\nわからないけどな。",
+      "old_translation": "【코우지】\\n경찰의 작전인가,\\n 아니면 직순하게 눈치채지 못할\\n뿐인지\\n모르지만.",
+      "new_translation": "【코우지】\\n경찰의 작전인지,\\n아니면 단순히 눈치채지 못한 건지는\\n모르겠지만.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1997,
+      "source_index": "0x0006fcd0",
+      "source_ja_raw": "【光志】\\nそれよりもこの影《かげ》の正体だ。\\nポイントになりそうなのが、\\nスーツっぽい服を着てる点だな。",
+      "source_ja_applied": "【光志】\\nそれよりもこの影《かげ》の正体だ。\\nポイントになりそうなのが、\\nスーツっぽい服を着てる点だな。",
+      "source_ja_reviewed": "【光志】\\nそれよりもこの影《かげ》の正体だ。\\nポイントになりそうなのが、\\nスーツっぽい服を着てる点だな。",
+      "old_translation": "【코우지】\\n그것보다 이 그림자의 험체다. \\n포인트가 될 것 같은 것이,\\n슈트 같은 옷을 입고 있는\\n점이구나.",
+      "new_translation": "【코우지】\\n그보다 중요한 건 이 그림자의\\n정체야.\\n단서가 될 만한 건\\n정장 같은 옷을 입고 있다는\\n점이지.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1998,
+      "source_index": "0x0006fd48",
+      "source_ja_raw": "【光志】\\n関係者と話す機会があれば、\\n当日にスーツを着てたかどうかを\\nたしかめてほしい。",
+      "source_ja_applied": "【光志】\\n関係者と話す機会があれば、\\n当日にスーツを着てたかどうかを\\nたしかめてほしい。",
+      "source_ja_reviewed": "【光志】\\n関係者と話す機会があれば、\\n当日にスーツを着てたかどうかを\\nたしかめてほしい。",
+      "old_translation": "【코우지】\\n관계자와 이야기할 생각이 있다면,\\n당일에 슈트를 입었는지 여부를\\n지나쳐달라.",
+      "new_translation": "【코우지】\\n관계자와 이야기할 기회가 있으면\\n당일 정장을 입었는지 확인해 줘.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 1999,
+      "source_index": "0x0006fdd1",
+      "source_ja_raw": "【法子】\\nうん、わかったわ。",
+      "source_ja_applied": "【法子】\\nうん、わかったわ。",
+      "source_ja_reviewed": "【法子】\\nうん、わかったわ。",
+      "old_translation": "【노리코】\\n응, 알겠어.",
+      "new_translation": "【노리코】\\n응, 알겠어.",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2000,
+      "source_index": "0x0006febe",
+      "source_ja_raw": "【光志】\\n……ＶＩＰルームのドアについてた指紋《しもん》は、\\n銃声《じゅうせい》が率《な》り清《ひび》いたあとに完《と》び沽《こ》んだ\\n近藤刑事のものだけ……",
+      "source_ja_applied": "【光志】\\n……ＶＩＰルームのドアについてた指紋《しもん》は、\\n銃声《じゅうせい》が率《な》り清《ひび》いたあとに完《と》び込《こ》んだ\\n近藤刑事のものだけ……",
+      "source_ja_reviewed": "【光志】\\n……ＶＩＰルームのドアについてた指紋は、\\n銃声が鳴り響いたあとに飛び込んだ\\n近藤刑事のものだけ……",
+      "old_translation": "【코우지】\\n...... VIP 룸 도어에 관한\\n지문은\\n총성이 울려 퍼진 뒤에 흠뻑\\n자랐다.\\n콘도 형사의 것만…",
+      "new_translation": "【코우지】\\n……VIP룸 문에 남은 지문은\\n총성이 울린 뒤 뛰어 들어간\\n콘도 형사의 것뿐……",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2001,
+      "source_index": "0x0006ff61",
+      "source_ja_raw": "【光志】\\n確かに退職も指紋《しもん》を扶《ふ》き蠧《と》られた跡《あと》が\\nあるって言っていた……",
+      "source_ja_applied": "【光志】\\n確かに三浦も指紋《しもん》を扶《ふ》き取《と》られた跡《あと》が\\nあるって言っていた……",
+      "source_ja_reviewed": "【光志】\\n確かに三浦も指紋を拭き取られた跡が\\nあるって言っていた……",
+      "old_translation": "【코우지】\\n확실히 미우라도 지문이 닦여 나간\\n흔적이 있다고\\n말했었지……",
+      "new_translation": "【코우지】\\n확실히 미우라도 지문을 닦아낸\\n흔적이\\n있다고 했어……",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2002,
+      "source_index": "0x0006fff3",
+      "source_ja_raw": "【法子】\\n指紋《しもん》を扶《ふ》き蠧《と》ったってことは、\\n自分の指紋《しもん》が残ることで\\n犯人だと疑われるのを駆ぐためだよね？",
+      "source_ja_applied": "【法子】\\n指紋《しもん》を扶《ふ》き取《と》ったってことは、\\n自分の指紋《しもん》が残ることで\\n犯人だと疑われるのを駆ぐためだよね？",
+      "source_ja_reviewed": "【法子】\\n指紋を拭き取ったってことは、\\n自分の指紋が残ることで\\n犯人だと疑われるのを避けるためだよね？",
+      "old_translation": "【노리코】\\n지문을 흔들어 버렸다는 것은,\\n자신의 지문이 타는 것으로\\n범인이라고 의심되는 것을 발하기\\n위해서\\n맞지?",
+      "new_translation": "【노리코】\\n지문을 닦아냈다는 건,\\n자기 지문이 남아서 범인으로\\n의심받는 걸\\n피하기 위해서였겠지?",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2003,
+      "source_index": "0x00070081",
+      "source_ja_raw": "【法子】\\nでも真犯人は指紋《しもん》を扶《ふ》き蠧《と》る撃要なんかないよね？\\nだって……",
+      "source_ja_applied": "【法子】\\nでも真犯人は指紋《しもん》を扶《ふ》き取《と》る撃要なんかないよね？\\nだって……",
+      "source_ja_reviewed": "【法子】\\nでも真犯人は指紋を拭き取る必要なんかないよね？\\nだって……",
+      "old_translation": "【노리코】\\n에서도 진범은 지문을 흔들어 삼킬\\n필요\\n없어요? \\n도…",
+      "new_translation": "【노리코】\\n하지만 진범은 지문을 닦아낼 필요가\\n없잖아?\\n왜냐하면……",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [
+        "진범"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2004,
+      "source_index": "0x000700f6",
+      "source_ja_raw": "【光志】\\n法子の言いたいことはわかる。\\n法子が指紋《しもん》を扶《ふ》き蠧《と》る撃要がないと思ってるのは\\nあの情報があるからだろ？",
+      "source_ja_applied": "【光志】\\n法子の言いたいことはわかる。\\n法子が指紋《しもん》を扶《ふ》き取《と》る撃要がないと思ってるのは\\nあの情報があるからだろ？",
+      "source_ja_reviewed": "【光志】\\n法子の言いたいことはわかる。\\n法子が指紋を拭き取る必要がないと思ってるのは\\nあの情報があるからだろ？",
+      "old_translation": "【코우지】\\n노리코의 말하고 싶은 것을 알 수\\n있다.\\n\\n노리코가 지문을 쓰러뜨릴 필요가\\n없다고\\n생각하는 것은 \\n저 정보가 있으니까?",
+      "new_translation": "【코우지】\\n노리코가 하고 싶은 말은 알아.\\n노리코가 지문을 닦아낼 필요가\\n없다고\\n생각하는 건 그 정보가 있어서겠지?",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2005,
+      "source_index": "0x0007019d",
+      "source_ja_raw": "【光志】\\nでも、逆なんだ。\\nだからこそ\\n指紋《しもん》を扶《ふ》き蠧《と》らなければならないんだよ。",
+      "source_ja_applied": "【光志】\\nでも、逆なんだ。\\nだからこそ\\n指紋《しもん》を扶《ふ》き取《と》らなければならないんだよ。",
+      "source_ja_reviewed": "【光志】\\nでも、逆なんだ。\\nだからこそ\\n指紋を拭き取らなければならないんだよ。",
+      "old_translation": "【코우지】\\n하지만 그 반대입니다. \\n그래서\\n지문을 보호해야 합니다.",
+      "new_translation": "【코우지】\\n하지만 반대야.\\n그렇기 때문에\\n지문을 닦아내야 했던 거야.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2006,
+      "source_index": "0x00070213",
+      "source_ja_raw": "【法子】\\nえっ、どういうこと……？",
+      "source_ja_applied": "【法子】\\nえっ、どういうこと……？",
+      "source_ja_reviewed": "【法子】\\nえっ、どういうこと……？",
+      "old_translation": "【노리코】\\n어, 무슨 뜻이야……?",
+      "new_translation": "【노리코】\\n네? 무슨 뜻이야……?",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2007,
+      "source_index": "0x000702c6",
+      "source_ja_raw": "【光志】\\n法子は指紋《しもん》を扶《ふ》き蠧《と》る撃要なんかないと言った。\\nその酔理は正しいが、\\nこの根拠《こんきょ》となったクルーは……？",
+      "source_ja_applied": "【光志】\\n法子は指紋《しもん》を扶《ふ》き取《と》る撃要なんかないと言った。\\nその酔理は正しいが、\\nこの根拠《こんきょ》となったクルーは……？",
+      "source_ja_reviewed": "【光志】\\n法子は指紋を拭き取る必要なんかないと言った。\\nその推理は正しいが、\\nこの根拠となったクルーは……？",
+      "old_translation": "【코우지】\\n노리코는 지문을 흔들어 삼킬 필요가\\n없다고 말했다. \\n그 역리는 맞지만,\\n이 근거가 된 승무원은......?",
+      "new_translation": "【코우지】\\n노리코는 지문을 닦아낼 필요가\\n없다고 했어.\\n그 추리는 맞지만,\\n그 근거가 된 단서는……?",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2008,
+      "source_index": "0x00070413",
+      "source_ja_raw": "【光志】\\n（いや、これは違《ちが》う！）",
+      "source_ja_applied": "【光志】\\n（いや、これは違《ちが》う！）",
+      "source_ja_reviewed": "【光志】\\n（いや、これは違《ちが》う！）",
+      "old_translation": "【코우지】\\n(아니요, 이건 다릅니다!)",
+      "new_translation": "【코우지】\\n(아니야, 이건 틀렸어!)",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2009,
+      "source_index": "0x00070472",
+      "source_ja_raw": "【光志】\\n（今のところ真犯人らしき人物の指紋《しもん》は\\nまったく見当たらない）",
+      "source_ja_applied": "【光志】\\n（今のところ真犯人らしき人物の指紋《しもん》は\\nまったく見当たらない）",
+      "source_ja_reviewed": "【光志】\\n（今のところ真犯人らしき人物の指紋《しもん》は\\nまったく見当たらない）",
+      "old_translation": "【코우지】\\n(지금까지 진범다운 인물의 지문은\\n전혀 보이지 않는다)",
+      "new_translation": "【코우지】\\n(지금까지 진범으로 보이는 사람의\\n지문은\\n전혀 발견되지 않았어.)",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [
+        "진범"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2010,
+      "source_index": "0x000704d3",
+      "source_ja_raw": "【光志】\\n（それは真犯人が指紋《しもん》を残さないための\\n対策をしてたからだ！）",
+      "source_ja_applied": "【光志】\\n（それは真犯人が指紋《しもん》を残さないための\\n対策をしてたからだ！）",
+      "source_ja_reviewed": "【光志】\\n（それは真犯人が指紋を残さないための\\n対策をしてたからだ！）",
+      "old_translation": "【코우지】\\n(그것은 진범이 지문을 타지 않기\\n위한\\n대책을 하고 있었기 때문이다!)",
+      "new_translation": "【코우지】\\n(그건 진범이 지문을 남기지 않기\\n위한\\n조치를 했기 때문이야!)",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [
+        "진범"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2011,
+      "source_index": "0x000705a5",
+      "source_ja_raw": "【法子】\\n凶器《きょうき》となった拳銃《けんじゅう》には\\nコウジの指紋《しもん》がついていたんだよね？",
+      "source_ja_applied": "【法子】\\n凶器《きょうき》となった拳銃《けんじゅう》には\\nコウジの指紋《しもん》がついていたんだよね？",
+      "source_ja_reviewed": "【法子】\\n凶器《きょうき》となった拳銃《けんじゅう》には\\nコウジの指紋《しもん》がついていたんだよね？",
+      "old_translation": "【노리코】\\n경기가 된 권총에는\\n코우지의 지문이 붙어 있었지?",
+      "new_translation": "【노리코】\\n총에는\\n코우지의 지문이 묻어 있었지?",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2012,
+      "source_index": "0x0007061c",
+      "source_ja_raw": "【法子】\\nでも一方で真犯人らしき人物の指紋《しもん》は\\nついてなかった……",
+      "source_ja_applied": "【法子】\\nでも一方で真犯人らしき人物の指紋《しもん》は\\nついてなかった……",
+      "source_ja_reviewed": "【法子】\\nでも一方で真犯人らしき人物の指紋《しもん》は\\nついてなかった……",
+      "old_translation": "【노리코】\\n에서도 한편으로 진범다운 인물의\\n지문은\\n붙어 있지 않았다…",
+      "new_translation": "【노리코】\\n하지만 다른 한편으로\\n진범으로 보이는 사람의 지문은\\n없었고……",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [
+        "진범"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2013,
+      "source_index": "0x00070686",
+      "source_ja_raw": "【法子】\\nこれって、真犯人が手袋《てぶくろ》をはめていて、\\n指紋《しもん》が現場に残らないように\\n対策してたってことだよね？",
+      "source_ja_applied": "【法子】\\nこれって、真犯人が手袋《てぶくろ》をはめていて、\\n指紋《しもん》が現場に残らないように\\n対策してたってことだよね？",
+      "source_ja_reviewed": "【法子】\\nこれって、真犯人が手袋をはめていて、\\n指紋が現場に残らないように\\n対策してたってことだよね？",
+      "old_translation": "【노리코】\\n이것은, 진범이 장갑을 끼고\\n있어,\\n지문이 현장에 타지 않게\\n대책하고 있었던 것이군요?",
+      "new_translation": "【노리코】\\n진범이 장갑을 끼고\\n지문이 현장에 남지 않도록\\n조치한 거지?",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [
+        "진범"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2014,
+      "source_index": "0x0007070e",
+      "source_ja_raw": "【法子】\\nなら、当然ドアに\\n真犯人の指紋《しもん》がつくことはなかったはず。\\nなのになぜ、真犯人は指紋《しもん》を扶《ふ》き蠧《と》ったのかな……？",
+      "source_ja_applied": "【法子】\\nなら、当然ドアに\\n真犯人の指紋《しもん》がつくことはなかったはず。\\nなのになぜ、真犯人は指紋《しもん》を扶《ふ》き取《と》ったのかな……？",
+      "source_ja_reviewed": "【法子】\\nなら、当然ドアに\\n真犯人の指紋がつくことはなかったはず。\\nなのになぜ、真犯人は指紋を拭き取ったのかな……？",
+      "old_translation": "【노리코】\\n이라면, 당연히 문에\\n진범의 지문이 붙는 일은 없었을\\n것이다. \\n인데 왜, 진범은 지문을 흔들어\\n버렸는지......?",
+      "new_translation": "【노리코】\\n그렇다면 당연히 문에\\n진범의 지문이 묻을 리 없었어.\\n그런데 왜 진범은 지문을\\n닦아냈을까……?",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [
+        "진범"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2015,
+      "source_index": "0x000707c3",
+      "source_ja_raw": "【光志】\\nここは逆の発想が撃要なんだ。",
+      "source_ja_applied": "【光志】\\nここは逆の発想が撃要なんだ。",
+      "source_ja_reviewed": "【光志】\\nここは逆の発想が撃要なんだ。",
+      "old_translation": "【코우지】\\n여기는 반대의 발총이 필요해.",
+      "new_translation": "【코우지】\\n여기서는 반대로 생각하는 게\\n중요해.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2016,
+      "source_index": "0x00070815",
+      "source_ja_raw": "【法子】\\n逆の発想？",
+      "source_ja_applied": "【法子】\\n逆の発想？",
+      "source_ja_reviewed": "【法子】\\n逆の発想？",
+      "old_translation": "【노리코】\\n역의 발총?",
+      "new_translation": "【노리코】\\n반대로 생각한다고?",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2017,
+      "source_index": "0x0007085c",
+      "source_ja_raw": "【光志】\\n銃《じゅう》にはオレの指紋《しもん》がついてた。\\nってことは、客観的に考えれば\\nオレは指紋《しもん》対策をしてなかったってことになる。",
+      "source_ja_applied": "【光志】\\n銃《じゅう》にはオレの指紋《しもん》がついてた。\\nってことは、客観的に考えれば\\nオレは指紋《しもん》対策をしてなかったってことになる。",
+      "source_ja_reviewed": "【光志】\\n銃にはオレの指紋がついてた。\\nってことは、客観的に考えれば\\nオレは指紋対策をしてなかったってことになる。",
+      "old_translation": "【코우지】\\n총에는 나의 지문이 붙어 있었다. \\n라고 하는 것은, 객관적으로\\n생각하면\\n나는 지문 대책을 하고 있지\\n않았다고\\n하게 된다.",
+      "new_translation": "【코우지】\\n총에는 내 지문이 묻어 있었어.\\n그렇다면 객관적으로 생각하면\\n나는 지문 방지 조치를 하지\\n않았다는 뜻이야.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2018,
+      "source_index": "0x000708ee",
+      "source_ja_raw": "【光志】\\nそうなれば当然ＶＩＰルームのドアにも\\nオレの指紋《しもん》が残っていなければおかしいだろう？",
+      "source_ja_applied": "【光志】\\nそうなれば当然ＶＩＰルームのドアにも\\nオレの指紋《しもん》が残っていなければおかしいだろう？",
+      "source_ja_reviewed": "【光志】\\nそうなれば当然ＶＩＰルームのドアにも\\nオレの指紋《しもん》が残っていなければおかしいだろう？",
+      "old_translation": "【코우지】\\n그렇게 되면 당연히 VIP룸의\\n문에도\\n나의 지문이 타고 있지 않으면\\n이상할까?",
+      "new_translation": "【코우지】\\n그렇다면 당연히 VIP룸 문에도\\n내 지문이 남아 있지 않으면\\n이상하잖아?",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2019,
+      "source_index": "0x00070997",
+      "source_ja_raw": "【法子】\\nあ……そっか……！",
+      "source_ja_applied": "【法子】\\nあ……そっか……！",
+      "source_ja_reviewed": "【法子】\\nあ……そっか……！",
+      "old_translation": "【노리코】\\n아......그런가......!",
+      "new_translation": "【노리코】\\n아…… 그렇구나……!",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2020,
+      "source_index": "0x000709fc",
+      "source_ja_raw": "【法子】\\n拳銃《けんじゅう》にコウジの指紋《しもん》を付けることはできても\\nＶＩＰルームのドアに指紋《しもん》をつけることは\\nできなかった……",
+      "source_ja_applied": "【法子】\\n拳銃《けんじゅう》にコウジの指紋《しもん》を付けることはできても\\nＶＩＰルームのドアに指紋《しもん》をつけることは\\nできなかった……",
+      "source_ja_reviewed": "【法子】\\n拳銃《けんじゅう》にコウジの指紋《しもん》を付けることはできても\\nＶＩＰルームのドアに指紋《しもん》をつけることは\\nできなかった……",
+      "old_translation": "【노리코】\\n권총에 코우지의 지문을 붙일 수\\n있어도\\nVIP룸의 문에 지문을 붙이는 것은\\n할 수 없었다…",
+      "new_translation": "【노리코】\\n권총에 코우지의 지문을 묻힐 수는\\n있어도\\nVIP룸 문에 지문을 묻힐 수는\\n없었어……",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2021,
+      "source_index": "0x00070a8d",
+      "source_ja_raw": "【光志】\\nだけど拳銃《けんじゅう》にオレの指紋《しもん》をつけて\\nオレをワナにハメようとしてる以上、\\nドアに指紋《しもん》がついてないのは矛盾《むじゅん》が出る。",
+      "source_ja_applied": "【光志】\\nだけど拳銃《けんじゅう》にオレの指紋《しもん》をつけて\\nオレをワナにハメようとしてる以上、\\nドアに指紋《しもん》がついてないのは矛盾《むじゅん》が出る。",
+      "source_ja_reviewed": "【光志】\\nだけど拳銃にオレの指紋をつけて\\nオレをワナにハメようとしてる以上、\\nドアに指紋がついてないのは矛盾が出る。",
+      "old_translation": "【코우지】\\n하지만 권총에 나의 지문을 붙이고 \\n나를 와나에 하메려고 하는 이상, \\n문에 지문이 붙지 않은 것은 모순이\\n나온다.",
+      "new_translation": "【코우지】\\n하지만 총에 내 지문을 묻혀\\n나를 함정에 빠뜨리려 했다면,\\n문에 지문이 없는 건 모순이 생겨.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2022,
+      "source_index": "0x00070b29",
+      "source_ja_raw": "【光志】\\nだから指紋《しもん》を扶《ふ》き蠧《と》ったんだ。\\n誰《だれ》の指紋《しもん》も残ってなければ、\\nオレの指紋《しもん》が残ってないのも不自然じゃない。",
+      "source_ja_applied": "【光志】\\nだから指紋《しもん》を扶《ふ》き取《と》ったんだ。\\n誰《だれ》の指紋《しもん》も残ってなければ、\\nオレの指紋《しもん》が残ってないのも不自然じゃない。",
+      "source_ja_reviewed": "【光志】\\nだから指紋を拭き取ったんだ。\\n誰の指紋も残ってなければ、\\nオレの指紋が残ってないのも不自然じゃない。",
+      "old_translation": "【코우지】\\n그래서 지문을 흔들어 버렸다. \\n누구의 지문도 타고 있지 않으면,\\n나의 지문이 타지 않은 것도\\n부자연이\\n아니다.",
+      "new_translation": "【코우지】\\n그래서 지문을 닦아낸 거야.\\n누구의 지문도 남아 있지 않다면,\\n내 지문이 남아 있지 않은 것도\\n이상하지 않지.",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2023,
+      "source_index": "0x00070be6",
+      "source_ja_raw": "【法子】\\nそっか、そういうことだったんだ……！",
+      "source_ja_applied": "【法子】\\nそっか、そういうことだったんだ……！",
+      "source_ja_reviewed": "【法子】\\nそっか、そういうことだったんだ……！",
+      "old_translation": "【노리코】\\n그런가, 그런 일이었구나…",
+      "new_translation": "【노리코】\\n아, 그런 뜻이었구나……!",
+      "speaker": "노리코",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2024,
+      "source_index": "0x00070d44",
+      "source_ja_raw": "【光志】\\nマスターの証言は心強いな。\\nこれで退職の牙城《がじょう》を屑《くず》せるといいけど……",
+      "source_ja_applied": "【光志】\\nマスターの証言は心強いな。\\nこれで三浦の牙城《がじょう》を屑《くず》せるといいけど……",
+      "source_ja_reviewed": "【光志】\\nマスターの証言は心強いな。\\nこれで三浦の牙城を崩せるといいけど……",
+      "old_translation": "【코우지】\\n마스터의 증언은 든든하네.\\n이걸로 미우라의 아성을 무너뜨릴 수 있으면 좋겠는데……",
+      "new_translation": "【코우지】\\n마스터의 증언은 든든하네.\\n이걸로 미우라의 요새를\\n무너뜨릴 수 있으면 좋겠는데……",
+      "speaker": "코우지",
+      "scene": "방범 카메라와 지문 추리",
+      "relationship_context": "코우지와 노리코는 영상 속 그림자, 지문을 닦은 흔적, 코우지를 함정에 빠뜨린 수법을 논리적으로 연결한다.",
+      "terms": [
+        "증언"
+      ],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2025,
+      "source_index": "0x00070dfe",
+      "source_ja_raw": "【法子】\\nそれとね、あともう一つ、\\n気になったことがあったの。",
+      "source_ja_applied": "【法子】\\nそれとね、あともう一つ、\\n気になったことがあったの。",
+      "source_ja_reviewed": "【法子】\\nそれとね、あともう一つ、\\n気になったことがあったの。",
+      "old_translation": "【노리코】\\n그리고 말이야, 또 하나\\n신경 쓰이는 게 있었어.",
+      "new_translation": "【노리코】\\n그런데 또 하나\\n신경 쓰이는 게 있었어.",
+      "speaker": "노리코",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2026,
+      "source_index": "0x00070e74",
+      "source_ja_raw": "【光志】\\n気になったこと？\\nなんだ？",
+      "source_ja_applied": "【光志】\\n気になったこと？\\nなんだ？",
+      "source_ja_reviewed": "【光志】\\n気になったこと？\\nなんだ？",
+      "old_translation": "【코우지】\\n신경 쓰이는 점?\\n뭔데?",
+      "new_translation": "【코우지】\\n신경 쓰이는 것?\\n뭔데?",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2027,
+      "source_index": "0x00070ee0",
+      "source_ja_raw": "【光志】\\nなるほど……",
+      "source_ja_applied": "【光志】\\nなるほど……",
+      "source_ja_reviewed": "【光志】\\nなるほど……",
+      "old_translation": "【코우지】\\n그렇군……",
+      "new_translation": "【코우지】\\n그렇군……",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2028,
+      "source_index": "0x00070f30",
+      "source_ja_raw": "【法子】\\nあともう一つ、\\n気になったことがあったの。",
+      "source_ja_applied": "【法子】\\nあともう一つ、\\n気になったことがあったの。",
+      "source_ja_reviewed": "【法子】\\nあともう一つ、\\n気になったことがあったの。",
+      "old_translation": "【노리코】\\n그리고 또 하나,\\n신경이 쓰인 적이 있었어.",
+      "new_translation": "【노리코】\\n또 하나\\n신경 쓰이는 게 있었어.",
+      "speaker": "노리코",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2029,
+      "source_index": "0x00070fa0",
+      "source_ja_raw": "【法子】\\nそれとね、あともう一つ、\\n気になったことがあったの。",
+      "source_ja_applied": "【法子】\\nそれとね、あともう一つ、\\n気になったことがあったの。",
+      "source_ja_reviewed": "【法子】\\nそれとね、あともう一つ、\\n気になったことがあったの。",
+      "old_translation": "【노리코】\\n그리고 말이야, 또 하나\\n신경 쓰이는 게 있었어.",
+      "new_translation": "【노리코】\\n그런데 또 하나\\n신경 쓰이는 게 있었어.",
+      "speaker": "노리코",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2030,
+      "source_index": "0x00070ffd",
+      "source_ja_raw": "【光志】\\n気になったこと？\\nなんだ？",
+      "source_ja_applied": "【光志】\\n気になったこと？\\nなんだ？",
+      "source_ja_reviewed": "【光志】\\n気になったこと？\\nなんだ？",
+      "old_translation": "【코우지】\\n신경 쓰이는 점?\\n뭔데?",
+      "new_translation": "【코우지】\\n신경 쓰이는 것?\\n뭔데?",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2031,
+      "source_index": "0x00071057",
+      "source_ja_raw": "【法子】\\nこの写真をもう一度見てくれる？",
+      "source_ja_applied": "【法子】\\nこの写真をもう一度見てくれる？",
+      "source_ja_reviewed": "【法子】\\nこの写真をもう一度見てくれる？",
+      "old_translation": "【노리코】\\n이 사진을 다시 한번\\n봐주시겠습니까?",
+      "new_translation": "【노리코】\\n이 사진을 다시 봐 줄래?",
+      "speaker": "노리코",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2032,
+      "source_index": "0x000710db",
+      "source_ja_raw": "【光志】\\n……これが？",
+      "source_ja_applied": "【光志】\\n……これが？",
+      "source_ja_reviewed": "【光志】\\n……これが？",
+      "old_translation": "【코우지】\\n… … 이것이?",
+      "new_translation": "【코우지】\\n……이게?",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2033,
+      "source_index": "0x0007113b",
+      "source_ja_raw": "【法子】\\nこの部分なんだけど……\\n廊《みょう》な傷がついてるのよ。",
+      "source_ja_applied": "【法子】\\nこの部分なんだけど……\\n廊《みょう》な傷がついてるのよ。",
+      "source_ja_reviewed": "【法子】\\nこの部分なんだけど……\\n妙な傷がついてるのよ。",
+      "old_translation": "【노리코】\\n이 부분이지만……\\n묘한 상처가 붙어 있는 거야.",
+      "new_translation": "【노리코】\\n이 부분인데……\\n이상한 상처가 나 있어.",
+      "speaker": "노리코",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2034,
+      "source_index": "0x000711a1",
+      "source_ja_raw": "【光志】\\n……キズ？",
+      "source_ja_applied": "【光志】\\n……キズ？",
+      "source_ja_reviewed": "【光志】\\n……キズ？",
+      "old_translation": "【코우지】\\n……상처?",
+      "new_translation": "【코우지】\\n……상처?",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2035,
+      "source_index": "0x000711e8",
+      "source_ja_raw": "【法子】\\nえぇ、そうなの。\\nなんだかちょっと気になっちゃって……",
+      "source_ja_applied": "【法子】\\nえぇ、そうなの。\\nなんだかちょっと気になっちゃって……",
+      "source_ja_reviewed": "【法子】\\nえぇ、そうなの。\\nなんだかちょっと気になっちゃって……",
+      "old_translation": "【노리코】\\n에에, 그렇구나. \\n어쩐지 조금 신경이 쓰여져…",
+      "new_translation": "【노리코】\\n응, 그래.\\n왠지 좀 신경 쓰여서……",
+      "speaker": "노리코",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2036,
+      "source_index": "0x0007125f",
+      "source_ja_raw": "【光志】\\n……あぁ、気になるな。\\nもしかしたら……？",
+      "source_ja_applied": "【光志】\\n……あぁ、気になるな。\\nもしかしたら……？",
+      "source_ja_reviewed": "【光志】\\n……あぁ、気になるな。\\nもしかしたら……？",
+      "old_translation": "【코우지】\\n… … 아, 신경이 쓰이지 마. \\n 혹시......?",
+      "new_translation": "【코우지】\\n……아, 신경 쓰이네.\\n혹시……?",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2037,
+      "source_index": "0x0007134a",
+      "source_ja_raw": "【光志】\\nこの傷に関係する情報があったはず。\\nそれは……？",
+      "source_ja_applied": "【光志】\\nこの傷に関係する情報があったはず。\\nそれは……？",
+      "source_ja_reviewed": "【光志】\\nこの傷に関係する情報があったはず。\\nそれは……？",
+      "old_translation": "【코우지】\\n이 상처와 관련된 정보가 있었을\\n것. \\n그건......?",
+      "new_translation": "【코우지】\\n이 상처와 관련된 정보가 있었어.\\n그건……?",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2038,
+      "source_index": "0x0007145f",
+      "source_ja_raw": "【光志】\\n（違《ちが》う、これじゃない！）",
+      "source_ja_applied": "【光志】\\n（違《ちが》う、これじゃない！）",
+      "source_ja_reviewed": "【光志】\\n（違《ちが》う、これじゃない！）",
+      "old_translation": "【코우지】\\n(아니야, 이게 아니야!)",
+      "new_translation": "【코우지】\\n(아니야, 이게 아니야!)",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2039,
+      "source_index": "0x000714bf",
+      "source_ja_raw": "【光志】\\n（この傷はプレイヤーを移係させたことによって\\nついた傷だと酔譲される）",
+      "source_ja_applied": "【光志】\\n（この傷はプレイヤーを移係させたことによって\\nついた傷だと酔測される）",
+      "source_ja_reviewed": "【光志】\\n（この傷はプレイヤーを移動させたことによって\\nついた傷だと推測される）",
+      "old_translation": "【코우지】\\n(이 상처는 플레이어를 이동시킴에\\n의해\\n붙은 상처라고 역설된다)",
+      "new_translation": "【코우지】\\n(이 상처는 플레이어를 옮겨서 생긴\\n상처라고\\n추측돼.)",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2040,
+      "source_index": "0x0007151c",
+      "source_ja_raw": "【光志】\\n（だとしたら、なぜプレイヤーを移係させたのか？\\nそれを示すような話題があったはず……）",
+      "source_ja_applied": "【光志】\\n（だとしたら、なぜプレイヤーを移係させたのか？\\nそれを示すような話題があったはず……）",
+      "source_ja_reviewed": "【光志】\\n（だとしたら、なぜプレイヤーを移係させたのか？\\nそれを示すような話題があったはず……）",
+      "old_translation": "【코우지】\\n(그렇다면, 왜 플레이어를\\n이동시켰는가?\\n그것을 보여주는 화제가 있었을\\n것이다…",
+      "new_translation": "【코우지】\\n(그렇다면 왜 플레이어를 옮긴\\n거지?\\n그걸 보여 주는 이야기가 있었을\\n텐데……)",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2041,
+      "source_index": "0x000715f6",
+      "source_ja_raw": "【光志】\\nこの傷はプレイヤーを移係させたことによって\\nついた傷に見えないか？",
+      "source_ja_applied": "【光志】\\nこの傷はプレイヤーを移係させたことによって\\nついた傷に見えないか？",
+      "source_ja_reviewed": "【光志】\\nこの傷はプレイヤーを移係させたことによって\\nついた傷に見えないか？",
+      "old_translation": "【코우지】\\n이 상처는 플레이어를 이동시킨 것에\\n의해\\n붙은 상처로 보이지 않는가?",
+      "new_translation": "【코우지】\\n이 상처는 플레이어를 옮겨서\\n생긴 상처처럼 보이지 않아?",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2042,
+      "source_index": "0x0007168e",
+      "source_ja_raw": "【法子】\\nそう言われればそう見えるけど……",
+      "source_ja_applied": "【法子】\\nそう言われればそう見えるけど……",
+      "source_ja_reviewed": "【法子】\\nそう言われればそう見えるけど……",
+      "old_translation": "【노리코】\\n그렇게 말하면 그렇게 보이지만…",
+      "new_translation": "【노리코】\\n그렇게 들으니 그렇게 보이지만……",
+      "speaker": "노리코",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2043,
+      "source_index": "0x000716f9",
+      "source_ja_raw": "【光志】\\nたしかライトブルーの彩業元が言ってたよな？\\nこのプレイヤーは外部入力長子経由《がいぶにゅうりょくたんしけいゆ》で\\n外部効蹶とつなげられるって。",
+      "source_ja_applied": "【光志】\\nたしかライトブルーの彩業元が言ってたよな？\\nこのプレイヤーは外部入力長子経由《がいぶにゅうりょくたんしけいゆ》で\\n外部効蹶とつなげられるって。",
+      "source_ja_reviewed": "【光志】\\nたしかライトブルーの店員が言ってたよな？\\nこのプレイヤーは外部入力端子経由で\\n外部機器とつなげられるって。",
+      "old_translation": "【코우지】\\n확실히 라이트 블루의 직원이\\n말했지? \\n이 플레이어는 외부 입력 단자\\n경원에서\\n외부 음원과 연결된다고.",
+      "new_translation": "【코우지】\\n분명 라이트 블루 종업원이 말했지?\\n이 플레이어는 외부 입력 단자를\\n통해\\n외부 기기와 연결할 수 있다고.",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2044,
+      "source_index": "0x00071793",
+      "source_ja_raw": "【法子】\\nもしかして……\\nコウジは誰《だれ》かが外部効蹶を\\nこのプレイヤーにつなげたと思ってるの？",
+      "source_ja_applied": "【法子】\\nもしかして……\\nコウジは誰《だれ》かが外部効蹶を\\nこのプレイヤーにつなげたと思ってるの？",
+      "source_ja_reviewed": "【法子】\\nもしかして……\\nコウジは誰《だれ》かが外部効蹶を\\nこのプレイヤーにつなげたと思ってるの？",
+      "old_translation": "【노리코】\\n혹시…\\n코우지는 누군가 외부 음원을\\n이 플레이어에 연결했다고 무거워?",
+      "new_translation": "【노리코】\\n설마……\\n코우지는 누군가가 외부 기기를\\n이 플레이어에 연결했다고 생각하는\\n거야?",
+      "speaker": "노리코",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2045,
+      "source_index": "0x00071822",
+      "source_ja_raw": "【光志】\\nそれも、可能性の一つだ。",
+      "source_ja_applied": "【光志】\\nそれも、可能性の一つだ。",
+      "source_ja_reviewed": "【光志】\\nそれも、可能性の一つだ。",
+      "old_translation": "【코우지】\\n그것도 가능성의 하나다.",
+      "new_translation": "【코우지】\\n그것도 가능성 중 하나야.",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2046,
+      "source_index": "0x00071872",
+      "source_ja_raw": "【光志】\\nなんらかの効が出る機械と\\nつなげたことが証間されれば、\\n一つの大きな可能性が考えられる！",
+      "source_ja_applied": "【光志】\\nなんらかの効が出る機械と\\nつなげたことが証間されれば、\\n一つの大きな可能性が考えられる！",
+      "source_ja_reviewed": "【光志】\\nなんらかの音が出る機械と\\nつなげたことが証明されれば、\\n一つの大きな可能性が考えられる！",
+      "old_translation": "【코우지】\\n어떤 소리가 나는 기계와 연결했다는 사실이 입증되면,\\n하나의 큰 가능성을 생각할 수 있어!",
+      "new_translation": "【코우지】\\n어떤 음이 나오는 기계와 연결했다는\\n게\\n증명되면,\\n하나의 큰 가능성을 생각할 수\\n있어!",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2047,
+      "source_index": "0x00071903",
+      "source_ja_raw": "【法子】\\nえっ……\\nそれって……？",
+      "source_ja_applied": "【法子】\\nえっ……\\nそれって……？",
+      "source_ja_reviewed": "【法子】\\nえっ……\\nそれって……？",
+      "old_translation": "【노리코】\\n엣......\\n그것은......?",
+      "new_translation": "【노리코】\\n네……\\n그게……?",
+      "speaker": "노리코",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2048,
+      "source_index": "0x0007196b",
+      "source_ja_raw": "【光志】\\n外部効蹶とプレイヤーが接続されて、\\n外部効蹶の中に入ってた効が\\n示生された可能性だ！",
+      "source_ja_applied": "【光志】\\n外部効蹶とプレイヤーが接続されて、\\n外部効蹶の中に入ってた効が\\n示生された可能性だ！",
+      "source_ja_reviewed": "【光志】\\n外部機器とプレイヤーが接続されて、\\n外部機器の中に入ってた曲が\\n再生された可能性だ！",
+      "old_translation": "【코우지】\\n외부 음원과 플레이어가 접제되어,\\n외부 음원 안에 들어간 소리가\\n재생되었을 가능성이다!",
+      "new_translation": "【코우지】\\n외부 기기와 플레이어가 연결되고,\\n외부 기기에 들어 있던 곡이\\n재생됐을 가능성이야!",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2049,
+      "source_index": "0x00071a51",
+      "source_ja_raw": "【法子】\\nちょっと待って！\\nその酔理には根本的な矛盾《むじゅん》があるわよ！？",
+      "source_ja_applied": "【法子】\\nちょっと待って！\\nその酔理には根本的な矛盾《むじゅん》があるわよ！？",
+      "source_ja_reviewed": "【法子】\\nちょっと待って！\\nその酔理には根本的な矛盾《むじゅん》があるわよ！？",
+      "old_translation": "【노리코】\\n 조금 기다려! \\n그 역리에는 근본적인 모순이 있어!\\n?",
+      "new_translation": "【노리코】\\n잠깐!\\n그 추리에는 근본적인 모순이\\n있어……!?",
+      "speaker": "노리코",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2050,
+      "source_index": "0x00071ad6",
+      "source_ja_raw": "【光志】\\nああ、そのとおり。\\n一つの矛盾《むじゅん》が存在する……",
+      "source_ja_applied": "【光志】\\nああ、そのとおり。\\n一つの矛盾《むじゅん》が存在する……",
+      "source_ja_reviewed": "【光志】\\nああ、そのとおり。\\n一つの矛盾《むじゅん》が存在する……",
+      "old_translation": "【코우지】\\n 아, 그대로. \\n하나의 모순이 존재한다...",
+      "new_translation": "【코우지】\\n아아, 맞아.\\n하나의 모순이 존재해……",
+      "speaker": "코우지",
+      "scene": "플레이어 상처와 외부 입력 단서",
+      "relationship_context": "플레이어의 상처가 외부 기기 연결과 관련될 가능성을 추리하고, 다음 모순을 확인한다.",
+      "terms": [],
+      "uncertainty": [
+        "일부 한자/OCR 손상은 문맥과 기존 인물·용어 확인으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    }
+  ]
+}

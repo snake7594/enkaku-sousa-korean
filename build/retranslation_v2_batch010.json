@@ -1,0 +1,4549 @@
+{
+  "schema": "enkaku_retranslation_batch_v2",
+  "batch": 10,
+  "source_range": {
+    "order_start": 2801,
+    "order_end": 3050,
+    "count": 250
+  },
+  "purpose": "사토루의 회상, 사건 추리, 코우지 아파트와 수도 택시 센터 조사 구간을 원문 문맥에 맞게 재번역한다.",
+  "emulator_launched": false,
+  "display_width": 19,
+  "translation_policy": [
+    "白川真了는 사토루, 白川一利는 피해자 이치리로 분리해 형제 관계를 보존한다.",
+    "사토루의 회상은 차분하고 정중한 고백체, 에이타로는 연장자다운 조언체로 통일한다.",
+    "코우지와 노리코의 추리 대화는 앞선 BGM·알리바이 용어와 동일하게 유지한다.",
+    "관리인·접수처와의 조사는 자연스러운 공손한 말투로 처리하고, 장소·메뉴 문자열은 짧게 유지한다."
+  ],
+  "counts": {
+    "entries": 250,
+    "changed": 224,
+    "wrapped_rows": 63
+  },
+  "translations": [
+    {
+      "order": 2801,
+      "source_index": "0x000898ca",
+      "source_ja_raw": "【真了】\\nはい……",
+      "source_ja_applied": "【真了】\\nはい……",
+      "source_ja_reviewed": "【真了】\\nはい……",
+      "old_translation": "【신지】\\n네…",
+      "new_translation": "【사토루】\\n네……",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2802,
+      "source_index": "0x00089901",
+      "source_ja_raw": "【栄太郎】\\n移度手搬が成功すれば、\\n透件《とうせき》からも婚放されるだろう。",
+      "source_ja_applied": "【栄太郎】\\n移度手術が成功すれば、\\n透件《とうせき》からも婚放されるだろう。",
+      "source_ja_reviewed": "移植手術が成功すれば、透析《とうせき》からも解放されるだろう。",
+      "old_translation": "【慎太郎】\\n이식 수술이 성공하면\\n투석에서도 해방되겠지.",
+      "new_translation": "【에이타로】\\n이식 수술이 성공하면\\n투석에서도 해방되겠지.",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2803,
+      "source_index": "0x00089961",
+      "source_ja_raw": "【栄太郎】\\nそうなれば、仕事にも能中できるようになる。\\n私はキミに期待しているんだ。",
+      "source_ja_applied": "【栄太郎】\\nそうなれば、仕事にも集中できるようになる。\\n私はキミに期待しているんだ。",
+      "source_ja_reviewed": "【栄太郎】\\nそうなれば、仕事にも集中できるようになる。\\n私はキミに期待しているんだ。",
+      "old_translation": "【신타로】\\n그렇게 되면, 일에도 집중할 수\\n있게\\n된다. \\n 난 너에게 촛대가 있어.",
+      "new_translation": "【에이타로】\\n그렇게 되면 일에도 집중할 수 있을\\n거야.\\n나는 자네를 기대하고 있네.",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2804,
+      "source_index": "0x000899c2",
+      "source_ja_raw": "【栄太郎】\\nがんばって、\\n今以上に白川グループを食り上げてくれよ。",
+      "source_ja_applied": "【栄太郎】\\nがんばって、\\n今以上に白川グループを食り上げてくれよ。",
+      "source_ja_reviewed": "がんばって、今以上に白川グループを作り上げてくれよ。",
+      "old_translation": "【신타로】\\n 노력해,\\n지금 이상으로 시라카와 그룹을\\n잠그어\\n줘.",
+      "new_translation": "【에이타로】\\n힘내서 지금보다 더 크게\\n시라카와 그룹을 키워 주게.",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2805,
+      "source_index": "0x00089a41",
+      "source_ja_raw": "【真了】\\nそうですね。\\n移度手搬が成功すれば、ですが……",
+      "source_ja_applied": "【真了】\\nそうですね。\\n移度手術が成功すれば、ですが……",
+      "source_ja_reviewed": "【真了】\\nそうですね。\\n移度手術が成功すれば、ですが……",
+      "old_translation": "【真二】\\n그렇군요.\\n이식 수술이 성공한다면 말이지만……",
+      "new_translation": "【사토루】\\n그렇죠.\\n이식 수술이 성공한다면 말이지만……",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2806,
+      "source_index": "0x00089a93",
+      "source_ja_raw": "【栄太郎】\\n……手搬が不安なのかい？",
+      "source_ja_applied": "【栄太郎】\\n……手術が不安なのかい？",
+      "source_ja_reviewed": "【栄太郎】\\n……手術が不安なのかい？",
+      "old_translation": "【신타로】\\n… … 수술이 불안한 것일까?",
+      "new_translation": "【에이타로】\\n……수술이 불안한가?",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2807,
+      "source_index": "0x00089ad9",
+      "source_ja_raw": "【栄太郎】\\n移度手搬の中でも、\\n腎臓移度《じんぞういしょく》は成功率が高いらしいじゃないか。\\n大丈夫《だいじょうぶ》、成功するよ。",
+      "source_ja_applied": "【栄太郎】\\n移度手術の中でも、\\n腎臓移度《じんぞういしょく》は成功率が高いらしいじゃないか。\\n大丈夫《だいじょうぶ》、成功するよ。",
+      "source_ja_reviewed": "移植手術の中でも、腎臓移植《じんぞういしょく》は成功率が高いらしいじゃないか。大丈夫、成功するよ。",
+      "old_translation": "【慎太郎】\\n이식 수술 중에서도\\n신장 이식은 성공률이 높다더군.\\n괜찮아, 성공할 거야.",
+      "new_translation": "【에이타로】\\n이식 수술 중에서도\\n신장 이식은 성공률이 높다지 않나.\\n괜찮아, 성공할 거야.",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2808,
+      "source_index": "0x00089b85",
+      "source_ja_raw": "【真了】\\n……そうですね。\\n私もそう思います。",
+      "source_ja_applied": "【真了】\\n……そうですね。\\n私もそう思います。",
+      "source_ja_reviewed": "【真了】\\n……そうですね。\\n私もそう思います。",
+      "old_translation": "【신지】\\n… … 그렇네요. \\n나 너무 무겁다.",
+      "new_translation": "【사토루】\\n……그렇군요.\\n저도 그렇게 생각합니다.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2809,
+      "source_index": "0x00089bdb",
+      "source_ja_raw": "【真了】\\nところで、\\n沼崎先生は今の白川グループを\\nどう思いますか？",
+      "source_ja_applied": "【真了】\\nところで、\\n沼崎先生は今の白川グループを\\nどう思いますか？",
+      "source_ja_reviewed": "【真了】\\nところで、\\n沼崎先生は今の白川グループを\\nどう思いますか？",
+      "old_translation": "【신지】\\n그런데,\\n누마사키선생님은 지금의 시라카와\\n그룹을\\n어떻게 무겁습니까?",
+      "new_translation": "【사토루】\\n그런데,\\n누마사키 선생님은 지금의 시라카와\\n그룹을\\n어떻게 생각하십니까?",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2810,
+      "source_index": "0x00089c35",
+      "source_ja_raw": "【栄太郎】\\nどう……と聞かれると、\\nどの部分について答えればいいのか……",
+      "source_ja_applied": "【栄太郎】\\nどう……と聞かれると、\\nどの部分について答えればいいのか……",
+      "source_ja_reviewed": "【栄太郎】\\nどう……と聞かれると、\\nどの部分について答えればいいのか……",
+      "old_translation": "【신타로】\\n어떻게......라고 놓으면,\\n어느 부분에 대해 대답하면 좋은\\n것인가…",
+      "new_translation": "【에이타로】\\n어떻게……라고 물으면,\\n어느 부분에 대해 대답해야 할지……",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2811,
+      "source_index": "0x00089cb5",
+      "source_ja_raw": "【真了】\\n裏、の部分です。",
+      "source_ja_applied": "【真了】\\n裏、の部分です。",
+      "source_ja_reviewed": "【真了】\\n裏、の部分です。",
+      "old_translation": "【신지】\\n용, 의 부분입니다.",
+      "new_translation": "【사토루】\\n어두운 부분 말입니다.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2812,
+      "source_index": "0x00089cf3",
+      "source_ja_raw": "【栄太郎】\\n……あまりよろしくないね。",
+      "source_ja_applied": "【栄太郎】\\n……あまりよろしくないね。",
+      "source_ja_reviewed": "【栄太郎】\\n……あまりよろしくないね。",
+      "old_translation": "【신타로】\\n......별로 잘 안 돼.",
+      "new_translation": "【에이타로】\\n……별로 좋지는 않지.",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2813,
+      "source_index": "0x00089d36",
+      "source_ja_raw": "【栄太郎】\\n私は一利順に雇《やと》われている立場だから、\\nあまり義くは言えないが……",
+      "source_ja_applied": "【栄太郎】\\n私は一利順に雇《やと》われている立場だから、\\nあまり義くは言えないが……",
+      "source_ja_reviewed": "私は一利さんに雇われている立場だから、あまり悪くは言えないが……",
+      "old_translation": "【신타로】\\n나는 이치로강에 얽매이고 있는\\n입장이니까,\\n별로 나쁘게는 말할 수 없지만…",
+      "new_translation": "【에이타로】\\n나는 이치리 씨에게 고용된 입장이라\\n심한 말은 할 수 없지만……",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2814,
+      "source_index": "0x00089d9a",
+      "source_ja_raw": "【栄太郎】\\n正直に言わせてもらえば、\\n私のポリシーに反するところだよ。",
+      "source_ja_applied": "【栄太郎】\\n正直に言わせてもらえば、\\n私のポリシーに反するところだよ。",
+      "source_ja_reviewed": "【栄太郎】\\n正直に言わせてもらえば、\\n私のポリシーに反するところだよ。",
+      "old_translation": "【신타로】\\n험직하게 말하게 하면,\\n내의 정책에 반하는 곳이야.",
+      "new_translation": "【에이타로】\\n솔직히 말하자면\\n내 생각과 맞지 않는 부분이야.",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2815,
+      "source_index": "0x00089df2",
+      "source_ja_raw": "【栄太郎】\\n白川ハウジング副各長である\\n真了順に話すことじゃないけどね。",
+      "source_ja_applied": "【栄太郎】\\n白川ハウジング副各長である\\n真了順に話すことじゃないけどね。",
+      "source_ja_reviewed": "白川ハウジング副社長である真了君に話すことじゃないけどね。",
+      "old_translation": "【慎太郎】\\n시라카와 하우징의 부사장인 신지에게\\n할 말은 아니지만 말이야.",
+      "new_translation": "【에이타로】\\n시라카와 하우징의 부사장인\\n사토루 군에게 할 말은 아니지만\\n말이야.",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2816,
+      "source_index": "0x00089e5c",
+      "source_ja_raw": "【真了】\\nポリシーに反する……\\nそれでも顧問弁護士《こもんべんごし》でいるのは、\\n兄に俗みを握《にぎ》られているからですよね？",
+      "source_ja_applied": "【真了】\\nポリシーに反する……\\nそれでも顧問弁護士《こもんべんごし》でいるのは、\\n兄に弱みを握《にぎ》られているからですよね？",
+      "source_ja_reviewed": "ポリシーに反する……それでも顧問弁護士《こもんべんごし》でいるのは、兄に弱みを握られているからですよね？",
+      "old_translation": "【신지】\\n정책에 위배…\\n그래도 고문 변호사인 것은\\n오빠에게 적을 쥐고 있기\\n때문이지요?",
+      "new_translation": "【사토루】\\n생각과 맞지 않는다……\\n그런데도 고문 변호사로 있는 건\\n형에게 약점을 잡혀 있기 때문이죠?",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2817,
+      "source_index": "0x00089ed7",
+      "source_ja_raw": "【栄太郎】\\n…………",
+      "source_ja_applied": "【栄太郎】\\n…………",
+      "source_ja_reviewed": "【栄太郎】\\n…………",
+      "old_translation": "【신타로】\\n…………",
+      "new_translation": "【에이타로】\\n…………",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2818,
+      "source_index": "0x00089f1f",
+      "source_ja_raw": "【真了】\\nすみません……\\nなにもできなくて……",
+      "source_ja_applied": "【真了】\\nすみません……\\nなにもできなくて……",
+      "source_ja_reviewed": "【真了】\\nすみません……\\nなにもできなくて……",
+      "old_translation": "【신지】\\n미안해......\\n아무것도 할 수 없어서......",
+      "new_translation": "【사토루】\\n죄송합니다……\\n아무것도 하지 못해서……",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2819,
+      "source_index": "0x00089f66",
+      "source_ja_raw": "【栄太郎】\\nいや、真了順が謝ることじゃない。\\nこれは私自身の問題だ。",
+      "source_ja_applied": "【栄太郎】\\nいや、真了順が謝ることじゃない。\\nこれは私自身の問題だ。",
+      "source_ja_reviewed": "【栄太郎】\\nいや、真了順が謝ることじゃない。\\nこれは私自身の問題だ。",
+      "old_translation": "【신타로】\\n아니, 신지강이 사과하는 것이\\n아니다. \\n 이것은 내 자신의 문제입니다.",
+      "new_translation": "【에이타로】\\n아니, 사토루 군이 사과할 일이\\n아니야.\\n이건 내 문제니까.",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2820,
+      "source_index": "0x00089fe7",
+      "source_ja_raw": "【真了】\\n……沼崎先生に話しておきたいことが\\nあるんです。",
+      "source_ja_applied": "【真了】\\n……沼崎先生に話しておきたいことが\\nあるんです。",
+      "source_ja_reviewed": "【真了】\\n……沼崎先生に話しておきたいことが\\nあるんです。",
+      "old_translation": "【신지】\\n…\\n있어요.",
+      "new_translation": "【사토루】\\n……누마사키 선생님께\\n말씀드리고 싶은 게 있습니다.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2821,
+      "source_index": "0x0008a038",
+      "source_ja_raw": "【栄太郎】\\n話しておきたいこと？",
+      "source_ja_applied": "【栄太郎】\\n話しておきたいこと？",
+      "source_ja_reviewed": "【栄太郎】\\n話しておきたいこと？",
+      "old_translation": "【신타로】\\n이야기하고 싶은 것?",
+      "new_translation": "【에이타로】\\n말해 두고 싶은 것?",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2822,
+      "source_index": "0x0008a084",
+      "source_ja_raw": "【真了】\\nはい。\\n私のために犠牲《ぎせい》になってしまった\\n２人の女性の話です。",
+      "source_ja_applied": "【真了】\\nはい。\\n私のために犠牲《ぎせい》になってしまった\\n２人の女性の話です。",
+      "source_ja_reviewed": "【真了】\\nはい。\\n私のために犠牲《ぎせい》になってしまった\\n２人の女性の話です。",
+      "old_translation": "【신지】\\n네. \\n나를 위해 희생되어 버린\\n2명의 여성의 이야기입니다.",
+      "new_translation": "【사토루】\\n네.\\n저 때문에 희생되고 만\\n두 여성에 관한 이야기입니다.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2823,
+      "source_index": "0x0008a0e3",
+      "source_ja_raw": "【栄太郎】\\n……その話は、\\n私が聞いていいものなのかい？",
+      "source_ja_applied": "【栄太郎】\\n……その話は、\\n私が聞いていいものなのかい？",
+      "source_ja_reviewed": "【栄太郎】\\n……その話は、\\n私が聞いていいものなのかい？",
+      "old_translation": "【신타로】\\n……그 이야기는,\\n내가 넣어 좋은 것인가?",
+      "new_translation": "【에이타로】\\n……그 이야기를\\n내가 들어도 되는 건가?",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2824,
+      "source_index": "0x0008a140",
+      "source_ja_raw": "【真了】\\n沼崎先生が\\n一番信用できると思いますので。",
+      "source_ja_applied": "【真了】\\n沼崎先生が\\n一番信用できると思いますので。",
+      "source_ja_reviewed": "【真了】\\n沼崎先生が\\n一番信用できると思いますので。",
+      "old_translation": "【신지】\\n누마사키선생님이\\n제일 신용할 수 있으면 무겁기\\n때문에.",
+      "new_translation": "【사토루】\\n누마사키 선생님이\\n가장 믿을 수 있는 분이라고\\n생각해서요.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2825,
+      "source_index": "0x0008a190",
+      "source_ja_raw": "【栄太郎】\\nわかった、聞こうじゃないか。\\n話してくれ。",
+      "source_ja_applied": "【栄太郎】\\nわかった、聞こうじゃないか。\\n話してくれ。",
+      "source_ja_reviewed": "【栄太郎】\\nわかった、聞こうじゃないか。\\n話してくれ。",
+      "old_translation": "【신타로】\\n알았어, 둘까? \\n 말해줘.",
+      "new_translation": "【에이타로】\\n알았어, 들어 보지.\\n말해 보게.",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2826,
+      "source_index": "0x0008a228",
+      "source_ja_raw": "【真了】\\n初恋《はつこい》の人の話です。\\n斉藤勝代さん、という女性です。",
+      "source_ja_applied": "【真了】\\n初恋《はつこい》の人の話です。\\n斉藤勝代さん、という女性です。",
+      "source_ja_reviewed": "【真了】\\n初恋《はつこい》の人の話です。\\n斉藤勝代さん、という女性です。",
+      "old_translation": "【신지】\\n첫사랑의 사람의 이야기입니다. \\n 사이토 카츠요 씨, 라는\\n여성입니다.",
+      "new_translation": "【사토루】\\n첫사랑에 관한 이야기입니다.\\n사이토 가쓰요 씨라는 여성입니다.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2827,
+      "source_index": "0x0008a2ac",
+      "source_ja_raw": "【真了】\\n生まれつき腎臓《じんぞう》が俗かった私は、\\n子どもの頃《ころ》からあまり外出せず、\\n兄以外の人とあまり話すことがありませんでした。",
+      "source_ja_applied": "【真了】\\n生まれつき腎臓《じんぞう》が弱かった私は、\\n子どもの頃《ころ》からあまり外出せず、\\n兄以外の人とあまり話すことがありませんでした。",
+      "source_ja_reviewed": "【真了】\\n生まれつき腎臓《じんぞう》が弱かった私は、\\n子どもの頃《ころ》からあまり外出せず、\\n兄以外の人とあまり話すことがありませんでした。",
+      "old_translation": "【신지】\\n태어나 신장이 적이었던 나는,\\n어린 시절부터 별로 외출하지 않고,\\n오빠 이외의 사람과 별로\\n이야기하는\\n일이 없었습니다.",
+      "new_translation": "【사토루】\\n태어날 때부터 신장이 약했던 저는\\n어릴 때부터 외출을 거의 하지\\n않았고,\\n형 이외의 사람과는 별로 이야기하지\\n않았습니다.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2828,
+      "source_index": "0x0008a357",
+      "source_ja_raw": "【真了】\\nそんな引《ひ》っ沽《こ》み思司《じあん》の私の新界を高げてくれのが\\n勝代さんなんです。\\n桜蔭高校の２つ上の先輩《せんぱい》でした。",
+      "source_ja_applied": "【真了】\\nそんな引《ひ》っ込《こ》み思司《じあん》の私の新界を広げてくれのが\\n勝代さんなんです。\\n桜蔭高校の２つ上の先輩《せんぱい》でした。",
+      "source_ja_reviewed": "そんな引っ込み思案の私の世界を広げてくれたのが勝代さんなんです。桜蔭高校の２つ上の先輩《せんぱい》でした。",
+      "old_translation": "【신지】\\n그렇게 당겨 사안의 나의 세계를\\n높여\\n주는 것이\\n어머니씨입니다. \\n준텐 고등학교의 두 선배였습니다.",
+      "new_translation": "【사토루】\\n그렇게 내성적이던 제 세계를 키워\\n준 사람이\\n가쓰요 씨였습니다.\\n오인 고등학교에서 두 학년 위인\\n선배였죠.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [
+        "오인 고등학교"
+      ],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2829,
+      "source_index": "0x0008a3ee",
+      "source_ja_raw": "【真了】\\n彼女はときに私を座のように楽ってくれ、\\nときに叱咤治療《しったげきれい》してくれました。",
+      "source_ja_applied": "【真了】\\n彼女はときに私を座のように楽ってくれ、\\nときに叱咤治療《しったげきれい》してくれました。",
+      "source_ja_reviewed": "彼女はときに私を弟のように扱ってくれ、ときに叱咤激励《しったげきれい》してくれました。",
+      "old_translation": "【신지】\\n그녀는 때로는 나를 아들처럼 아껴\\n주었고,\\n때로는 호되게 꾸짖어 주었습니다.",
+      "new_translation": "【사토루】\\n그녀는 때로 나를 동생처럼 대해\\n줬고,\\n때로는 격려해 주었습니다.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2830,
+      "source_index": "0x0008a464",
+      "source_ja_raw": "【真了】\\n彼女に想いを計《いだ》くまで、\\nそんなに恋付はかかりませんでした。",
+      "source_ja_applied": "【真了】\\n彼女に想いを計《いだ》くまで、\\nそんなに恋付はかかりませんでした。",
+      "source_ja_reviewed": "【真了】\\n彼女に想いを計《いだ》くまで、\\nそんなに恋付はかかりませんでした。",
+      "old_translation": "【신지】\\n그녀에게 마음을 품기까지,\\n그렇게 오래 걸리지는 않았습니다.",
+      "new_translation": "【사토루】\\n그녀에게 마음을 품기까지\\n그리 오래 걸리지 않았습니다.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2831,
+      "source_index": "0x0008a4bf",
+      "source_ja_raw": "【栄太郎】\\n…………",
+      "source_ja_applied": "【栄太郎】\\n…………",
+      "source_ja_reviewed": "【栄太郎】\\n…………",
+      "old_translation": "【신타로】\\n…………",
+      "new_translation": "【에이타로】\\n…………",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2832,
+      "source_index": "0x0008a507",
+      "source_ja_raw": "【真了】\\n彼女が卒業して結婚《けっこん》したあとも、\\n私はずっと彼女を想い続けました。\\n彼女の状踏《じょうきょう》が進に気になっていたんです。",
+      "source_ja_applied": "【真了】\\n彼女が卒業して結婚《けっこん》したあとも、\\n私はずっと彼女を想い続けました。\\n彼女の状踏《じょうきょう》が進に気になっていたんです。",
+      "source_ja_reviewed": "彼女が卒業して結婚したあとも、私はずっと彼女を想い続けました。彼女の状況が常に気になっていたんです。",
+      "old_translation": "【신지】\\n그녀가 졸업하고 결혼한 뒤에도,\\n저는 계속 그녀를 그리워했습니다.\\n그녀의 상황이 늘 마음에\\n걸렸습니다.",
+      "new_translation": "【사토루】\\n그녀가 졸업하고 결혼한 뒤에도\\n나는 계속 그녀를 사랑했습니다.\\n그녀의 상황이 늘 마음에\\n걸렸습니다.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2833,
+      "source_index": "0x0008a5bd",
+      "source_ja_raw": "【真了】\\nそして、あの事件が刑きました……",
+      "source_ja_applied": "【真了】\\nそして、あの事件が刑きました……",
+      "source_ja_reviewed": "【真了】\\nそして、あの事件が刑きました……",
+      "old_translation": "【신지】\\n그리고, 그 사건이 흩어졌습니다…",
+      "new_translation": "【사토루】\\n그리고 그 사건이 일어났습니다……",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2834,
+      "source_index": "0x0008a604",
+      "source_ja_raw": "【栄太郎】\\nあの事件……？",
+      "source_ja_applied": "【栄太郎】\\nあの事件……？",
+      "source_ja_reviewed": "【栄太郎】\\nあの事件……？",
+      "old_translation": "【신타로】\\n그 사건…",
+      "new_translation": "【에이타로】\\n그 사건……?",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2835,
+      "source_index": "0x0008a650",
+      "source_ja_raw": "【真了】\\n……彼女の旦那《だんな》さんを、兄が……\\n殺めてしまいました。",
+      "source_ja_applied": "【真了】\\n……彼女の旦那《だんな》さんを、兄が……\\n殺めてしまいました。",
+      "source_ja_reviewed": "【真了】\\n……彼女の旦那《だんな》さんを、兄が……\\n殺めてしまいました。",
+      "old_translation": "【신지】\\n……아야 씨의 남편을,\\n오빠가 죽이고 말았습니다.",
+      "new_translation": "【사토루】\\n……그녀의 남편을, 형이……\\n죽이고 말았습니다.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2836,
+      "source_index": "0x0008a6ba",
+      "source_ja_raw": "【真了】\\n私は……\\n兄を止めようと思えば\\n止めることができたかもしれない……",
+      "source_ja_applied": "【真了】\\n私は……\\n兄を止めようと思えば\\n止めることができたかもしれない……",
+      "source_ja_reviewed": "【真了】\\n私は……\\n兄を止めようと思えば\\n止めることができたかもしれない……",
+      "old_translation": "【신지】\\n나는......\\n오빠를 뿌리려고 하면\\n흙 수 있을지도 모른다…",
+      "new_translation": "【사토루】\\n나는……\\n형을 막으려고 했다면\\n막을 수 있었을지도 모릅니다……",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2837,
+      "source_index": "0x0008a722",
+      "source_ja_raw": "【真了】\\nでも私は……\\n兄を止められなかった……\\n私は初恋《はつこい》の人を楽ることができなかった……",
+      "source_ja_applied": "【真了】\\nでも私は……\\n兄を止められなかった……\\n私は初恋《はつこい》の人を楽ることができなかった……",
+      "source_ja_reviewed": "【真了】\\nでも私は……\\n兄を止められなかった……\\n私は初恋《はつこい》の人を楽ることができなかった……",
+      "old_translation": "【신지】\\n그렇지만 나는…\\n오빠를 뚫을 수 없었다…\\n나는 첫사랑의 사람을 지키지\\n못했다…",
+      "new_translation": "【사토루】\\n하지만 나는……\\n형을 막지 못했습니다……\\n첫사랑을 지키지 못했습니다……",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2838,
+      "source_index": "0x0008a790",
+      "source_ja_raw": "【栄太郎】\\n…………",
+      "source_ja_applied": "【栄太郎】\\n…………",
+      "source_ja_reviewed": "【栄太郎】\\n…………",
+      "old_translation": "【신타로】\\n…………",
+      "new_translation": "【에이타로】\\n…………",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2839,
+      "source_index": "0x0008a82f",
+      "source_ja_raw": "【真了】\\n彼女にはすでに子どもがいました。\\nだから私は彼女に欠金援助《しきんえんじょ》を申し出ました。\\nストレートにプロポーズもしました。",
+      "source_ja_applied": "【真了】\\n彼女にはすでに子どもがいました。\\nだから私は彼女に欠金援助《しきんえんじょ》を申し出ました。\\nストレートにプロポーズもしました。",
+      "source_ja_reviewed": "彼女にはすでに子どもがいました。だから私は彼女に資金援助《しきんえんじょ》を申し出ました。ストレートにプロポーズもしました。",
+      "old_translation": "【신지】\\n그녀에게는 이미 아이가 있었습니다.\\n그래서 저는 그녀에게 생활비 지원을\\n제안했습니다.\\n솔직하게 프러포즈도 했습니다.",
+      "new_translation": "【사토루】\\n그녀에게는 이미 아이가 있었습니다.\\n그래서 나는 그녀에게\\n경제적 지원을 제안했습니다.\\n정식으로 청혼도 했습니다.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2840,
+      "source_index": "0x0008a8de",
+      "source_ja_raw": "【真了】\\nでも、断られました。\\n同情する撃要はないと言われました。",
+      "source_ja_applied": "【真了】\\nでも、断られました。\\n同情する撃要はないと言われました。",
+      "source_ja_reviewed": "【真了】\\nでも、断られました。\\n同情する撃要はないと言われました。",
+      "old_translation": "【신지】\\n에서도, 검증되었습니다. \\n동정할 필요가 없다고 했습니다.",
+      "new_translation": "【사토루】\\n하지만 거절당했습니다.\\n동정할 필요는 없다는 말을\\n들었습니다.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2841,
+      "source_index": "0x0008a941",
+      "source_ja_raw": "【真了】\\nそして、その言何を\\nもっと前に聞きたかったとも\\n言われました……",
+      "source_ja_applied": "【真了】\\nそして、その言何を\\nもっと前に聞きたかったとも\\n言われました……",
+      "source_ja_reviewed": "【真了】\\nそして、その言何を\\nもっと前に聞きたかったとも\\n言われました……",
+      "old_translation": "【신지】\\n그리고, 그 어선을\\n더 앞에 두고 싶었다고도\\n말씀하셨습니다…",
+      "new_translation": "【사토루】\\n그리고 그 말을\\n좀 더 일찍 들었으면 좋았을\\n거라고도\\n말했습니다……",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2842,
+      "source_index": "0x0008a9a7",
+      "source_ja_raw": "【真了】\\nそれまでずっと、八《こわ》かったんです……\\n彼女に拒絶《きょぜつ》されるのが……",
+      "source_ja_applied": "【真了】\\nそれまでずっと、八《こわ》かったんです……\\n彼女に拒絶《きょぜつ》されるのが……",
+      "source_ja_reviewed": "【真了】\\nそれまでずっと、八《こわ》かったんです……\\n彼女に拒絶《きょぜつ》されるのが……",
+      "old_translation": "【신지】\\n그때까지 쭉 뻔했어요…\\n아야녀에게 거절되는 것이…",
+      "new_translation": "【사토루】\\n그때까지 계속 무서웠습니다……\\n그녀에게 거절당하는 것이……",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2843,
+      "source_index": "0x0008aa19",
+      "source_ja_raw": "【真了】\\nもっと陽く言っていれば、\\n彼女を悲しませずに済んだのに……",
+      "source_ja_applied": "【真了】\\nもっと陽く言っていれば、\\n彼女を悲しませずに済んだのに……",
+      "source_ja_reviewed": "【真了】\\nもっと陽く言っていれば、\\n彼女を悲しませずに済んだのに……",
+      "old_translation": "【신지】\\n좀 더 솔직하게 말했다면,\\n그녀를 슬프게 하지 않아도 됐을\\n텐데……",
+      "new_translation": "【사토루】\\n좀 더 일찍 말했다면\\n그녀를 슬프게 하지 않아도 됐을\\n텐데……",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2844,
+      "source_index": "0x0008aa70",
+      "source_ja_raw": "【栄太郎】\\n……キミは不器用なんだ。\\nそんなに自分を責めるんじゃない……",
+      "source_ja_applied": "【栄太郎】\\n……キミは不器用なんだ。\\nそんなに自分を責めるんじゃない……",
+      "source_ja_reviewed": "【栄太郎】\\n……キミは不器用なんだ。\\nそんなに自分を責めるんじゃない……",
+      "old_translation": "【신타로】\\n......너는 서투른다. \\n그렇게 자신을 주석하는 것이\\n아니다…",
+      "new_translation": "【에이타로】\\n……자네는 참 미숙한 사람이야.\\n그렇게 자신을 몰아붙이지 말게……",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2845,
+      "source_index": "0x0008aad9",
+      "source_ja_raw": "【真了】\\n…………",
+      "source_ja_applied": "【真了】\\n…………",
+      "source_ja_reviewed": "【真了】\\n…………",
+      "old_translation": "【신지】\\n…………",
+      "new_translation": "【사토루】\\n…………",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2846,
+      "source_index": "0x0008ab38",
+      "source_ja_raw": "【真了】\\n実はそんな私に、\\nその言何をかけてくれる女性が現れました。",
+      "source_ja_applied": "【真了】\\n実はそんな私に、\\nその言何をかけてくれる女性が現れました。",
+      "source_ja_reviewed": "実はそんな私に、その言葉をかけてくれる女性が現れました。",
+      "old_translation": "【신지】\\n실은 그런 나에게,\\n그 어선을 걸어 주는 여성이\\n나타났습니다.",
+      "new_translation": "【사토루】\\n사실 그런 나에게\\n위로의 말을 건네는 여성이\\n나타났습니다.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2847,
+      "source_index": "0x0008ab8f",
+      "source_ja_raw": "【栄太郎】\\nおお、そうか！\\nそれは良かったじゃないか！！",
+      "source_ja_applied": "【栄太郎】\\nおお、そうか！\\nそれは良かったじゃないか！！",
+      "source_ja_reviewed": "【栄太郎】\\nおお、そうか！\\nそれは良かったじゃないか！！",
+      "old_translation": "【신타로】\\n오, 그래! \\n그것은 좋지 않았다! !",
+      "new_translation": "【에이타로】\\n오, 그래!\\n정말 잘됐군!!",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2848,
+      "source_index": "0x0008ac03",
+      "source_ja_raw": "【真了】\\n悩《なや》んでいるのは、そのことなんです。",
+      "source_ja_applied": "【真了】\\n悩《なや》んでいるのは、そのことなんです。",
+      "source_ja_reviewed": "【真了】\\n悩《なや》んでいるのは、そのことなんです。",
+      "old_translation": "【신지】\\n아끼고 있는 것은, 그것입니다.",
+      "new_translation": "【사토루】\\n제가 고민하는 건 그 일입니다.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2849,
+      "source_index": "0x0008ac5a",
+      "source_ja_raw": "【真了】\\n彼女のことは過《きら》いじゃありません。\\nだけど、私の心の中にはまだ勝代さんが……",
+      "source_ja_applied": "【真了】\\n彼女のことは過《きら》いじゃありません。\\nだけど、私の心の中にはまだ勝代さんが……",
+      "source_ja_reviewed": "【真了】\\n彼女のことは過《きら》いじゃありません。\\nだけど、私の心の中にはまだ勝代さんが……",
+      "old_translation": "【신지】\\n그녀가 싫은 건 아닙니다.\\n하지만 제 마음속에는 아직 카츠요\\n씨가……",
+      "new_translation": "【사토루】\\n그녀가 싫은 건 아닙니다.\\n하지만 제 마음속에는 아직 가쓰요\\n씨가……",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2850,
+      "source_index": "0x0008acc1",
+      "source_ja_raw": "【栄太郎】\\nハハハ！\\nキミは相当不器用だな！！",
+      "source_ja_applied": "【栄太郎】\\nハハハ！\\nキミは相当不器用だな！！",
+      "source_ja_reviewed": "【栄太郎】\\nハハハ！\\nキミは相当不器用だな！！",
+      "old_translation": "【신타로】\\n하하하! \\n 너는 상당히 서투른다! !",
+      "new_translation": "【에이타로】\\n하하하!\\n자네는 정말 미숙하군!!",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2851,
+      "source_index": "0x0008ad0d",
+      "source_ja_raw": "【栄太郎】\\n私もね、キミの気持ちはわからないでもない。\\n初恋《はつこい》の相手とは特別なものだ。",
+      "source_ja_applied": "【栄太郎】\\n私もね、キミの気持ちはわからないでもない。\\n初恋《はつこい》の相手とは特別なものだ。",
+      "source_ja_reviewed": "【栄太郎】\\n私もね、キミの気持ちはわからないでもない。\\n初恋《はつこい》の相手とは特別なものだ。",
+      "old_translation": "【신타로】\\n나도 네, 너의 기탄은 모르는 것도\\n아니다. \\n첫사랑의 상대와는 특별한 것이다.",
+      "new_translation": "【에이타로】\\n나도 자네 마음을 모르는 건\\n아니야.\\n첫사랑 상대는 특별한 법이지.",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2852,
+      "source_index": "0x0008ad77",
+      "source_ja_raw": "【栄太郎】\\n私にとっても初恋《はつこい》の人は特別な存在だ。\\nだが、今は變の方が愛おしい。\\n一緒《いっしょ》にいる恋付が長くなれば長くなる程ね。",
+      "source_ja_applied": "【栄太郎】\\n私にとっても初恋《はつこい》の人は特別な存在だ。\\nだが、今は變の方が愛おしい。\\n一緒《いっしょ》にいる恋付が長くなれば長くなる程ね。",
+      "source_ja_reviewed": "私にとっても初恋の人は特別な存在だ。だが、今は妻の方が愛おしい。一緒にいる時間が長くなれば長くなる程ね。",
+      "old_translation": "【신타로】\\n나에게도 첫사랑의 사람은 특별한\\n존재다.\\n\\n이지만, 지금은 그릇이 더 좋다. \\n함께 있는 시간이 길어지면\\n길어질수록.",
+      "new_translation": "【에이타로】\\n나에게도 첫사랑은 특별한 존재야.\\n하지만 지금은 아내가 더\\n사랑스러워.\\n함께 지낸 시간이 길어질수록\\n말이지.",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2853,
+      "source_index": "0x0008ae05",
+      "source_ja_raw": "【栄太郎】\\nキミも彼女と一緒《いっしょ》にいる恋付が長くなれば、\\n今よりももっと彼女を愛おしく感じられるように\\nなるだろう。",
+      "source_ja_applied": "【栄太郎】\\nキミも彼女と一緒《いっしょ》にいる恋付が長くなれば、\\n今よりももっと彼女を愛おしく感じられるように\\nなるだろう。",
+      "source_ja_reviewed": "【栄太郎】\\nキミも彼女と一緒《いっしょ》にいる恋付が長くなれば、\\n今よりももっと彼女を愛おしく感じられるように\\nなるだろう。",
+      "old_translation": "【신타로】\\n너도 아야녀와 함께 있는 시간이\\n길어지면,\\n지금보다 더 아야녀를 사랑스럽게\\n느낄 수\\n있도록\\n이 될 것이다.",
+      "new_translation": "【에이타로】\\n자네도 그녀와 함께 지낸 시간이\\n길어지면\\n지금보다 더 그녀를 사랑스럽게\\n느끼게 될 걸세.",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2854,
+      "source_index": "0x0008ae8c",
+      "source_ja_raw": "【真了】\\n……なるでしょうか？",
+      "source_ja_applied": "【真了】\\n……なるでしょうか？",
+      "source_ja_reviewed": "【真了】\\n……なるでしょうか？",
+      "old_translation": "【신지】\\n…… 될까요?",
+      "new_translation": "【사토루】\\n……그럴까요?",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2855,
+      "source_index": "0x0008aeca",
+      "source_ja_raw": "【栄太郎】\\nああ、なるとも。",
+      "source_ja_applied": "【栄太郎】\\nああ、なるとも。",
+      "source_ja_reviewed": "【栄太郎】\\nああ、なるとも。",
+      "old_translation": "【신타로】\\n아, 된다고 해도.",
+      "new_translation": "【에이타로】\\n그래, 그럴 거야.",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2856,
+      "source_index": "0x0008af14",
+      "source_ja_raw": "【真了】\\n……そうかもしれませんね。\\n私に恋付があれば……",
+      "source_ja_applied": "【真了】\\n……そうかもしれませんね。\\n私に恋付があれば……",
+      "source_ja_reviewed": "【真了】\\n……そうかもしれませんね。\\n私に恋付があれば……",
+      "old_translation": "【신지】\\n… … 그럴지도 모르겠네요. \\n나에게 시간이 있다면......",
+      "new_translation": "【사토루】\\n……그럴지도 모르겠군요.\\n그녀와 함께할 시간이 있다면……",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2857,
+      "source_index": "0x0008af65",
+      "source_ja_raw": "【栄太郎】\\nその恋付を作るために手搬するんだろう！\\n彼女のためにもしっかりと手搬を成功させて\\n戻《もど》ってくるんだ！！",
+      "source_ja_applied": "【栄太郎】\\nその恋付を作るために手術するんだろう！\\n彼女のためにもしっかりと手術を成功させて\\n戻《もど》ってくるんだ！！",
+      "source_ja_reviewed": "その時間を作るために手術するんだろう！彼女のためにもしっかりと手術を成功させて戻ってくるんだ！！",
+      "old_translation": "【신타로】\\n그 시간을 만들기 위해 수술하는\\n거야!\\n그녀를 위해서라도 반드시 수술을\\n성공시키고\\n돌아오겠다!!",
+      "new_translation": "【에이타로】\\n그 시간을 만들려고 수술하는\\n거잖아!\\n그녀를 위해서라도 수술을 꼭\\n성공시키고\\n돌아오게!!",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2858,
+      "source_index": "0x0008b004",
+      "source_ja_raw": "【真了】\\n……そうですね。",
+      "source_ja_applied": "【真了】\\n……そうですね。",
+      "source_ja_reviewed": "【真了】\\n……そうですね。",
+      "old_translation": "【신지】\\n… … 그렇네요.",
+      "new_translation": "【사토루】\\n……그렇군요.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2859,
+      "source_index": "0x0008b040",
+      "source_ja_raw": "【栄太郎】\\nよし、埜みに行こう！\\n中年２人がこれ以上素飯《しらふ》で\\n恋愛《れんあい》の話をするのはキツイ！",
+      "source_ja_applied": "【栄太郎】\\nよし、埜みに行こう！\\n中年２人がこれ以上素飯《しらふ》で\\n恋愛《れんあい》の話をするのはキツイ！",
+      "source_ja_reviewed": "【栄太郎】\\nよし、埜みに行こう！\\n中年２人がこれ以上素飯《しらふ》で\\n恋愛《れんあい》の話をするのはキツイ！",
+      "old_translation": "【신타로】\\n좋아, 떠들썩하게 가자! \\n중년 2명이 더 이상 소면에서\\n연애의 이야기를 하는 것은 딱!",
+      "new_translation": "【에이타로】\\n좋아, 술 마시러 가자!\\n중년 남자 둘이 더 이상 맨정신으로\\n연애 이야기를 하는 건 힘들어!",
+      "speaker": "에이타로",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2860,
+      "source_index": "0x0008b0c2",
+      "source_ja_raw": "【真了】\\nハハ、そうですね。",
+      "source_ja_applied": "【真了】\\nハハ、そうですね。",
+      "source_ja_reviewed": "【真了】\\nハハ、そうですね。",
+      "old_translation": "【신지】\\n하하, 그렇네요.",
+      "new_translation": "【사토루】\\n하하, 그렇군요.",
+      "speaker": "사토루",
+      "scene": "사토루의 첫사랑과 시라카와 형제의 과거",
+      "relationship_context": "사토루는 사이토 가쓰요에 대한 첫사랑과 형의 범행을 고백하고, 에이타로는 그의 이식 수술과 마지막 대화를 회상한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2861,
+      "source_index": "0x0008b15f",
+      "source_ja_raw": "【法子】\\n……そのとき名前が出ていたのが\\n斉藤勝代さんだったんですね。",
+      "source_ja_applied": "【法子】\\n……そのとき名前が出ていたのが\\n斉藤勝代さんだったんですね。",
+      "source_ja_reviewed": "【法子】\\n……そのとき名前が出ていたのが\\n斉藤勝代さんだったんですね。",
+      "old_translation": "【노리코】\\n… … 그 때 이름이 나온 것이\\n사이토 카츠요 씨였습니다.",
+      "new_translation": "【노리코】\\n……그때 이름이 나온 분이\\n사이토 가쓰요 씨였군요.",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2862,
+      "source_index": "0x0008b1c5",
+      "source_ja_raw": "【栄太郎】\\nああ、そうだ。",
+      "source_ja_applied": "【栄太郎】\\nああ、そうだ。",
+      "source_ja_reviewed": "【栄太郎】\\nああ、そうだ。",
+      "old_translation": "【신타로】\\n 아, 맞다.",
+      "new_translation": "【에이타로】\\n그래, 맞아.",
+      "speaker": "에이타로",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2863,
+      "source_index": "0x0008b227",
+      "source_ja_raw": "【栄太郎】\\n結腸、渡欧《とおう》した真了順は帰らぬ人と\\nなってしまった……",
+      "source_ja_applied": "【栄太郎】\\n結局、渡欧《とおう》した真了順は帰らぬ人と\\nなってしまった……",
+      "source_ja_reviewed": "結局、渡欧した真了君は帰らぬ人となってしまった……",
+      "old_translation": "【신타로】\\n결막, 격유한 신지강은 돌아가지\\n않는\\n사람과\\n이 되어 버렸다…",
+      "new_translation": "【에이타로】\\n결국 유럽으로 떠난 사토루 군은\\n돌아오지 못하고 세상을 떠났지……",
+      "speaker": "에이타로",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2864,
+      "source_index": "0x0008b2ac",
+      "source_ja_raw": "【栄太郎】\\n原《ふ》り換《かえ》って気がついたが……",
+      "source_ja_applied": "【栄太郎】\\n原《ふ》り返《かえ》って気がついたが……",
+      "source_ja_reviewed": "【栄太郎】\\n原《ふ》り返《かえ》って気がついたが……",
+      "old_translation": "【신타로】\\n 물러나서 깨달았지만…",
+      "new_translation": "【에이타로】\\n돌이켜 생각해 보니 알겠더군……",
+      "speaker": "에이타로",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2865,
+      "source_index": "0x0008b307",
+      "source_ja_raw": "【栄太郎】\\nあのときの口ぶりを考えると、\\nもしかしたら真了順は自分の儲が長くないことを\\n朗《さと》っていたのかもしれないな……",
+      "source_ja_applied": "【栄太郎】\\nあのときの口ぶりを考えると、\\nもしかしたら真了順は自分の儲が長くないことを\\n朗《さと》っていたのかもしれないな……",
+      "source_ja_reviewed": "あのときの口ぶりを考えると、もしかしたら真了君は自分の命が長くないことを悟っていたのかもしれないな……",
+      "old_translation": "【신타로】\\n그 때의 입만을 생각하면,\\n어쩌면 신지강은 자신의 생명이 길지\\n않다는 것을\\n깨달고 있었을지도 모르겠다…",
+      "new_translation": "【에이타로】\\n그때 말투를 생각하면\\n어쩌면 사토루 군은 자신의 목숨이\\n얼마 남지 않았다는 걸 알고\\n있었는지도 모르겠어……",
+      "speaker": "에이타로",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2866,
+      "source_index": "0x0008b389",
+      "source_ja_raw": "【法子】\\n……それって。",
+      "source_ja_applied": "【法子】\\n……それって。",
+      "source_ja_reviewed": "【法子】\\n……それって。",
+      "old_translation": "【노리코】\\n…",
+      "new_translation": "【노리코】\\n……그 말은.",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2867,
+      "source_index": "0x0008b3ea",
+      "source_ja_raw": "【栄太郎】\\n……キミが想像している通りだ。\\nもしそうだとしたら、\\n白川順を許せないな……",
+      "source_ja_applied": "【栄太郎】\\n……キミが想像している通りだ。\\nもしそうだとしたら、\\n白川順を許せないな……",
+      "source_ja_reviewed": "……キミが想像している通りだ。もしそうだとしたら、白川一利を許せないな……",
+      "old_translation": "【신타로】\\n......너가 총휘하고 있는\\n대로다. \\n 만약 그렇다고 하면,\\n시라카와가와를 용서할 수 없구나…",
+      "new_translation": "【에이타로】\\n……자네가 상상하는 그대로야.\\n그렇다면 시라카와 이치리를\\n용서할 수 없군……",
+      "speaker": "에이타로",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2868,
+      "source_index": "0x0008b450",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2869,
+      "source_index": "0x0008b4c2",
+      "source_ja_raw": "【法子】\\n真了さんはなぜ、\\n所長に自分の想いを話したんでしょうか？",
+      "source_ja_applied": "【法子】\\n真了さんはなぜ、\\n所長に自分の想いを話したんでしょうか？",
+      "source_ja_reviewed": "【法子】\\n真了さんはなぜ、\\n所長に自分の想いを話したんでしょうか？",
+      "old_translation": "【노리코】\\n신지씨는 왜,\\n소장에게 자신의 총을\\n이야기했습니까?",
+      "new_translation": "【노리코】\\n사토루 씨는 왜\\n소장님께 자신의 마음을\\n이야기했을까요?",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2870,
+      "source_index": "0x0008b53f",
+      "source_ja_raw": "【栄太郎】\\n……きっと私が都合のいい\\n第退者だったからだろう。\\n弁護士という商売柄《しょうばいがら》もあるのかもしれないな。",
+      "source_ja_applied": "【栄太郎】\\n……きっと私が都合のいい\\n第三者だったからだろう。\\n弁護士という商売柄《しょうばいがら》もあるのかもしれないな。",
+      "source_ja_reviewed": "【栄太郎】\\n……きっと私が都合のいい\\n第三者だったからだろう。\\n弁護士という商売柄《しょうばいがら》もあるのかもしれないな。",
+      "old_translation": "【신타로】\\n......분명 내가 편리한\\n무례자였기 때문일 것이다. \\n변호사라는 장사 무늬도 있을지도\\n모르겠네.",
+      "new_translation": "【에이타로】\\n……아마 내가 사정에 휘말리지 않는\\n제삼자였기 때문이겠지.\\n변호사라는 직업 때문일 수도 있고.",
+      "speaker": "에이타로",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2871,
+      "source_index": "0x0008b5c8",
+      "source_ja_raw": "【栄太郎】\\nだとすれば、私は本当に弁護士になって\\n良かったと思うよ。",
+      "source_ja_applied": "【栄太郎】\\nだとすれば、私は本当に弁護士になって\\n良かったと思うよ。",
+      "source_ja_reviewed": "【栄太郎】\\nだとすれば、私は本当に弁護士になって\\n良かったと思うよ。",
+      "old_translation": "【신타로】\\n라고 하면, 나는 정말로 변호사가\\n되어\\n좋았다고 무거워.",
+      "new_translation": "【에이타로】\\n그렇다면 나는 정말 변호사가 되길\\n잘했다고 생각해.",
+      "speaker": "에이타로",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2872,
+      "source_index": "0x0008b621",
+      "source_ja_raw": "【法子】\\n……真了さんは所長を弁護士だからってことだけで\\n信用していたわけではないと思いますよ。",
+      "source_ja_applied": "【法子】\\n……真了さんは所長を弁護士だからってことだけで\\n信用していたわけではないと思いますよ。",
+      "source_ja_reviewed": "【法子】\\n……真了さんは所長を弁護士だからってことだけで\\n信用していたわけではないと思いますよ。",
+      "old_translation": "【노리코】\\n……신지씨는 소장을 변호사이니까라는\\n것만으로\\n신용하고 있던 것은 아니라고\\n생각해요.",
+      "new_translation": "【노리코】\\n……사토루 씨는 소장님을 변호사라는\\n이유만으로 믿었던 건 아니라고\\n생각해요.",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2873,
+      "source_index": "0x0008b6b0",
+      "source_ja_raw": "【栄太郎】\\nまいったな……\\n私を担ぎ上げても、なにも出ないぞ。",
+      "source_ja_applied": "【栄太郎】\\nまいったな……\\n私を担ぎ上げても、なにも出ないぞ。",
+      "source_ja_reviewed": "【栄太郎】\\nまいったな……\\n私を担ぎ上げても、なにも出ないぞ。",
+      "old_translation": "【신타로】\\n괜찮아…\\n나를 상상해도 아무것도 나오지\\n않아.",
+      "new_translation": "【에이타로】\\n난처하군……\\n나를 치켜세워도 아무것도 안\\n나온다네.",
+      "speaker": "에이타로",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2874,
+      "source_index": "0x0008b704",
+      "source_ja_raw": "【法子】\\n担いでいるつもりはありません。",
+      "source_ja_applied": "【法子】\\n担いでいるつもりはありません。",
+      "source_ja_reviewed": "【法子】\\n担いでいるつもりはありません。",
+      "old_translation": "【노리코】\\n상거래 생각은 없습니다.",
+      "new_translation": "【노리코】\\n치켜세울 생각은 없습니다.",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2875,
+      "source_index": "0x0008b76c",
+      "source_ja_raw": "【栄太郎】\\nそうか……",
+      "source_ja_applied": "【栄太郎】\\nそうか……",
+      "source_ja_reviewed": "【栄太郎】\\nそうか……",
+      "old_translation": "【신타로】\\n그런가…",
+      "new_translation": "【에이타로】\\n그런가……",
+      "speaker": "에이타로",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2876,
+      "source_index": "0x0008b7b3",
+      "source_ja_raw": "【栄太郎】\\n私を信用してくれた人のためにも、\\n私自身もケジメをつける恋期なのかもしれないな。",
+      "source_ja_applied": "【栄太郎】\\n私を信用してくれた人のためにも、\\n私自身もケジメをつける恋期なのかもしれないな。",
+      "source_ja_reviewed": "私を信用してくれた人のためにも、私自身もケジメをつける時期なのかもしれないな。",
+      "old_translation": "【신타로】\\n나를 신용해 준 사람을 위해서도,\\n나 자신도 케지메를 붙일 때\\n마을일지도\\n모른다.",
+      "new_translation": "【에이타로】\\n나를 믿어 준 사람을 위해서라도\\n나 자신도 매듭을 지어야 할 때인지\\n모르겠군.",
+      "speaker": "에이타로",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2877,
+      "source_index": "0x0008b81a",
+      "source_ja_raw": "【法子】\\nえっ……？\\nどういうことですか？",
+      "source_ja_applied": "【法子】\\nえっ……？\\nどういうことですか？",
+      "source_ja_reviewed": "【法子】\\nえっ……？\\nどういうことですか？",
+      "old_translation": "【노리코】\\n엣… \\n무슨 일이죠?",
+      "new_translation": "【노리코】\\n네……?\\n무슨 뜻인가요?",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2878,
+      "source_index": "0x0008b885",
+      "source_ja_raw": "【栄太郎】\\nいや、なんでもない。\\n触れてくれ……",
+      "source_ja_applied": "【栄太郎】\\nいや、なんでもない。\\n触れてくれ……",
+      "source_ja_reviewed": "いや、なんでもない。忘れてくれ……",
+      "old_translation": "【신타로】\\n아니, 아무것도 아니다. \\n만져줘......",
+      "new_translation": "【에이타로】\\n아니, 아무것도 아니야.\\n잊어주게……",
+      "speaker": "에이타로",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2879,
+      "source_index": "0x0008b8cf",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2880,
+      "source_index": "0x0008b9a5",
+      "source_ja_raw": "【法子】\\n所長から聞いた情報はこんな感じだったわ。",
+      "source_ja_applied": "【法子】\\n所長から聞いた情報はこんな感じだったわ。",
+      "source_ja_reviewed": "【法子】\\n所長から聞いた情報はこんな感じだったわ。",
+      "old_translation": "【노리코】\\n소장님에게서 들은 정보는 이런 내용이었어.",
+      "new_translation": "【노리코】\\n소장님에게 들은 정보는 이런\\n내용이었어.",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2881,
+      "source_index": "0x0008b9fe",
+      "source_ja_raw": "【光志】\\n……ありがとう、法子。\\nおぼろげながら今関の事件が見えてきたよ。\\n犯人の係機もね……",
+      "source_ja_applied": "【光志】\\n……ありがとう、法子。\\nおぼろげながら今回の事件が見えてきたよ。\\n犯人の係機もね……",
+      "source_ja_reviewed": "……ありがとう、法子。おぼろげながら今回の事件が見えてきたよ。犯人の動機もね……",
+      "old_translation": "【코우지】\\n… … 고마워, 노리코. \\n 어쩌면서 이마바야시의 사건이\\n보였다. \\n범인의 동기도...",
+      "new_translation": "【코우지】\\n……고마워, 노리코.\\n희미하게나마 이번 사건의 모습이\\n보이기 시작했어.\\n범인의 동기도 말이야……",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2882,
+      "source_index": "0x0008ba78",
+      "source_ja_raw": "【法子】\\n……私もなんとなくわかってきたわ。\\nでも……",
+      "source_ja_applied": "【法子】\\n……私もなんとなくわかってきたわ。\\nでも……",
+      "source_ja_reviewed": "【法子】\\n……私もなんとなくわかってきたわ。\\nでも……",
+      "old_translation": "【노리코】\\n......나도 어쩐지 알아왔어 \\n하지만......",
+      "new_translation": "【노리코】\\n……나도 왠지 알 것 같아졌어.\\n하지만……",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2883,
+      "source_index": "0x0008baeb",
+      "source_ja_raw": "【法子】\\n余りにも悲しいね……",
+      "source_ja_applied": "【法子】\\n余りにも悲しいね……",
+      "source_ja_reviewed": "【法子】\\n余りにも悲しいね……",
+      "old_translation": "【노리코】\\n 너무 슬프네…",
+      "new_translation": "【노리코】\\n너무나도 슬프네……",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2884,
+      "source_index": "0x0008bb50",
+      "source_ja_raw": "【光志】\\nああ、そうだな……",
+      "source_ja_applied": "【光志】\\nああ、そうだな……",
+      "source_ja_reviewed": "【光志】\\nああ、そうだな……",
+      "old_translation": "【코우지】\\n아, 맞아…",
+      "new_translation": "【코우지】\\n그래, 그렇지……",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2885,
+      "source_index": "0x0008bbc5",
+      "source_ja_raw": "【光志】\\n……さっきの話で\\n気になることが一つあるな。",
+      "source_ja_applied": "【光志】\\n……さっきの話で\\n気になることが一つあるな。",
+      "source_ja_reviewed": "【光志】\\n……さっきの話で\\n気になることが一つあるな。",
+      "old_translation": "【코우지】\\n… … 아까 이야기로\\n신경이 쓰이는 것이 하나 있구나.",
+      "new_translation": "【코우지】\\n……아까 이야기에서\\n마음에 걸리는 게 하나 있어.",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2886,
+      "source_index": "0x0008bc58",
+      "source_ja_raw": "【光志】\\n沼崎弁護士が体調を屑《くず》してトイレに箍《こ》もってた。\\nその付、特に何かあったわけではないと言っていた。\\nこれと矛盾《むじゅん》する情報がある……それは……？",
+      "source_ja_applied": "【光志】\\n沼崎弁護士が体調を屑《くず》してトイレに籠《こ》もってた。\\nその付、特に何かあったわけではないと言っていた。\\nこれと矛盾《むじゅん》する情報がある……それは……？",
+      "source_ja_reviewed": "沼崎弁護士が体調を崩してトイレに籠もってた。その間、特に何かあったわけではないと言っていた。これと矛盾する情報がある……それは……？",
+      "old_translation": "【코우지】\\n누마사키 변호사가 컨디션을\\n쓰러뜨리고\\n화장실에 들고 있었다. \\n그동안, 특히 뭔가 있었던 것은\\n아니다고\\n말했다. \\n이것과 모순되는 정보가\\n있다......그것은......?",
+      "new_translation": "【코우지】\\n누마사키 변호사는 몸이 안 좋아져서\\n화장실에 틀어박혀 있었고\\n그동안 특별한 일은 없었다고 했지.\\n그런데 이 말과 모순되는 정보가\\n있어…… 그건……?",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2887,
+      "source_index": "0x0008bdb9",
+      "source_ja_raw": "【光志】\\n（違《ちが》う、それじゃない！）",
+      "source_ja_applied": "【光志】\\n（違《ちが》う、それじゃない！）",
+      "source_ja_reviewed": "【光志】\\n（違《ちが》う、それじゃない！）",
+      "old_translation": "【코우지】\\n(아니야, 그게 아니야!)",
+      "new_translation": "【코우지】\\n(아니야, 그게 아니야!)",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2888,
+      "source_index": "0x0008be19",
+      "source_ja_raw": "【光志】\\n（事件当日、トイレでトラブルが\\nあっただろう？\\nそれは……）",
+      "source_ja_applied": "【光志】\\n（事件当日、トイレでトラブルが\\nあっただろう？\\nそれは……）",
+      "source_ja_reviewed": "【光志】\\n（事件当日、トイレでトラブルが\\nあっただろう？\\nそれは……）",
+      "old_translation": "【코우지】\\n(사건 당일, 화장실에서 트러블이\\n 있었겠지?\\n그것은…",
+      "new_translation": "【코우지】\\n(사건 당일, 화장실에서 문제가\\n있었잖아?\\n그건……)",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2889,
+      "source_index": "0x0008beeb",
+      "source_ja_raw": "【光志】\\n沼崎弁護士がトイレに入ってた恋付と、\\nオレがトイレで刑こしたトラブルの恋付が一幸《いっち》してる……",
+      "source_ja_applied": "【光志】\\n沼崎弁護士がトイレに入ってた恋付と、\\nオレがトイレで刑こしたトラブルの恋付が一幸《いっち》してる……",
+      "source_ja_reviewed": "沼崎弁護士がトイレに入ってた時間と、オレがトイレで起こしたトラブルの時間が一致してる……",
+      "old_translation": "【코우지】\\n누마사키 변호사가 화장실에 들어간\\n시간과,\\n나가 화장실에서 붐비는 트러블의\\n시간이\\n일치하고 있다…",
+      "new_translation": "【코우지】\\n누마사키 변호사가 화장실에 있던\\n시간과\\n내가 화장실에서 일으킨 소동의\\n시간이\\n일치하고 있어……",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2890,
+      "source_index": "0x0008bf6d",
+      "source_ja_raw": "【光志】\\nなのに、それに気がついてない……\\nこれっておかしくないか？",
+      "source_ja_applied": "【光志】\\nなのに、それに気がついてない……\\nこれっておかしくないか？",
+      "source_ja_reviewed": "【光志】\\nなのに、それに気がついてない……\\nこれっておかしくないか？",
+      "old_translation": "【코우지】\\n그런데 그걸 깨닫지 못해…\\n이것이 이상하지 않습니까?",
+      "new_translation": "【코우지】\\n그런데도 그걸 눈치채지 못했다……\\n이상하지 않아?",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2891,
+      "source_index": "0x0008bfff",
+      "source_ja_raw": "【法子】\\nたしかに、口論って程ではなかったけど、\\nコウジは『肩《かた》がぶつかった、謝れ！』って\\n大きな声を出してたみたいだしね。",
+      "source_ja_applied": "【法子】\\nたしかに、口論って程ではなかったけど、\\nコウジは『肩《かた》がぶつかった、謝れ！』って\\n大きな声を出してたみたいだしね。",
+      "source_ja_reviewed": "【法子】\\nたしかに、口論って程ではなかったけど、\\nコウジは『肩《かた》がぶつかった、謝れ！』って\\n大きな声を出してたみたいだしね。",
+      "old_translation": "【노리코】\\n확실히, 논쟁은 적은 아니었지만,\\n코우지는 '형태가 부딪쳤다,\\n사과해!\\n』라고\\n큰 소리를 내고 있었던 것 같네요.",
+      "new_translation": "【노리코】\\n확실히 말다툼이라고 할 정도는\\n아니었지만,\\n코우지가 『어깨를 부딪쳤으면\\n사과해!』라고\\n큰 소리로 외쳤던 것 같고 말이야.",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2892,
+      "source_index": "0x0008c0a3",
+      "source_ja_raw": "【光志】\\nそれに、オレが絡《から》んでたのは\\n他ならぬ白川一利だったんだ。\\n気づかないはずがない。",
+      "source_ja_applied": "【光志】\\nそれに、オレが絡《から》んでたのは\\n他ならぬ白川一利だったんだ。\\n気づかないはずがない。",
+      "source_ja_reviewed": "それに、オレが絡んでたのは他ならぬ白川一利だったんだ。気づかないはずがない。",
+      "old_translation": "【코우지】\\n게다가, 내가 얽혀 있던 것은\\n다름 아닌 시라카와 이치로였어. \\n 눈치채지 못할 거야.",
+      "new_translation": "【코우지】\\n게다가 내가 시비를 건 상대는\\n다름 아닌 시라카와 이치리였어.\\n눈치채지 못할 리가 없어.",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2893,
+      "source_index": "0x0008c118",
+      "source_ja_raw": "【法子】\\n所長に聞いてみようか？",
+      "source_ja_applied": "【法子】\\n所長に聞いてみようか？",
+      "source_ja_reviewed": "【法子】\\n所長に聞いてみようか？",
+      "old_translation": "【노리코】\\n소장에게 물어보자?",
+      "new_translation": "【노리코】\\n소장님께 물어볼까?",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2894,
+      "source_index": "0x0008c17e",
+      "source_ja_raw": "【光志】\\nいや、聞きたいのはやまやまだけど、\\nどうせ上手くごまかされるだけさ。",
+      "source_ja_applied": "【光志】\\nいや、聞きたいのはやまやまだけど、\\nどうせ上手くごまかされるだけさ。",
+      "source_ja_reviewed": "【光志】\\nいや、聞きたいのはやまやまだけど、\\nどうせ上手くごまかされるだけさ。",
+      "old_translation": "【코우지】\\n아니, 놓고 싶은 것은\\n야마야마이지만,\\n어차피 잘 속여질 뿐이야.",
+      "new_translation": "【코우지】\\n아니, 묻고 싶은 마음은 굴뚝같지만\\n어차피 교묘하게 얼버무릴 뿐이야.",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2895,
+      "source_index": "0x0008c1e4",
+      "source_ja_raw": "【光志】\\n下手に枚《つ》っ沽《こ》んで、\\nオレたちが綾《あや》しんでるって警因《けいかい》されるのもイヤだしな。\\nもう少し様子を見よう。",
+      "source_ja_applied": "【光志】\\n下手に枚《つ》っ込《こ》んで、\\nオレたちが綾《あや》しんでるって警因《けいかい》されるのもイヤだしな。\\nもう少し様子を見よう。",
+      "source_ja_reviewed": "【光志】\\n下手に枚《つ》っ込《こ》んで、\\nオレたちが綾《あや》しんでるって警因《けいかい》されるのもイヤだしな。\\nもう少し様子を見よう。",
+      "old_translation": "【코우지】\\n 서서히 쌓아서,\\n저들이 능숙하다고 경회되는 것도\\n싫고. \\n조금 더 보자.",
+      "new_translation": "【코우지】\\n괜히 캐물었다가\\n우리가 의심하고 있다는 걸 들키는\\n것도 싫고.\\n조금 더 지켜보자.",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2896,
+      "source_index": "0x0008c273",
+      "source_ja_raw": "【法子】\\nあと、被害者《ひがいしゃ》と近藤刑事の関係を\\n聞いた恋の反応だけど……",
+      "source_ja_applied": "【法子】\\nあと、被害者《ひがいしゃ》と近藤刑事の関係を\\n聞いた恋の反応だけど……",
+      "source_ja_reviewed": "【法子】\\nあと、被害者《ひがいしゃ》と近藤刑事の関係を\\n聞いた恋の反応だけど……",
+      "old_translation": "【노리코】\\n다음에, 피해자와 콘도 형사의\\n관계를\\n두었을 때의 반응이지만…",
+      "new_translation": "【노리코】\\n그리고 피해자와 콘도 형사의 관계를\\n물었을 때의 반응인데……",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2897,
+      "source_index": "0x0008c2e5",
+      "source_ja_raw": "【光志】\\nこの件については朝等さんに\\n聞いた方がいいと言っていたんだろ？",
+      "source_ja_applied": "【光志】\\nこの件については朝等さんに\\n聞いた方がいいと言っていたんだろ？",
+      "source_ja_reviewed": "【光志】\\nこの件については朝等さんに\\n聞いた方がいいと言っていたんだろ？",
+      "old_translation": "【코우지】\\n이 건에 대해서는 아사츠유씨에게\\n두는 것이 좋다고 말하고 있었겠지?",
+      "new_translation": "【코우지】\\n이 일은 아사츠유 씨에게\\n묻는 게 좋다고 했지?",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2898,
+      "source_index": "0x0008c349",
+      "source_ja_raw": "【光志】\\n……ってことは、\\n裏を換せば朝等さんは近藤刑事とも因縁《いんねん》が\\nありそうだってことがわかる。",
+      "source_ja_applied": "【光志】\\n……ってことは、\\n裏を返せば朝等さんは近藤刑事とも因縁《いんねん》が\\nありそうだってことがわかる。",
+      "source_ja_reviewed": "【光志】\\n……ってことは、\\n裏を返せば朝等さんは近藤刑事とも因縁《いんねん》が\\nありそうだってことがわかる。",
+      "old_translation": "【코우지】\\n......라는 것은,\\n용을 바꾸면 아사츠유 씨는 콘도\\n형사와도\\n인연이\\n있을 것 같다는 것을 알 수 있다.",
+      "new_translation": "【코우지】\\n……그 말은 반대로 생각하면\\n아사츠유 씨는 콘도 형사와도 악연이\\n있을 것 같다는 뜻이야.",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2899,
+      "source_index": "0x0008c3c7",
+      "source_ja_raw": "【光志】\\nこの件についても、\\n朝等さんに枚《つ》っ沽《こ》んでみてくれないか？",
+      "source_ja_applied": "【光志】\\nこの件についても、\\n朝等さんに枚《つ》っ込《こ》んでみてくれないか？",
+      "source_ja_reviewed": "【光志】\\nこの件についても、\\n朝等さんに枚《つ》っ込《こ》んでみてくれないか？",
+      "old_translation": "【코우지】\\n이 건에 대해서도,\\n아사츠유씨에게 쌓아 보아 주지\\n않을까?",
+      "new_translation": "【코우지】\\n이 일도 아사츠유 씨에게\\n캐물어 봐 주겠어?",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2900,
+      "source_index": "0x0008c449",
+      "source_ja_raw": "【法子】\\nうん、了婚《りょうかい》。",
+      "source_ja_applied": "【法子】\\nうん、了婚《りょうかい》。",
+      "source_ja_reviewed": "【法子】\\nうん、了婚《りょうかい》。",
+      "old_translation": "【노리코】\\n응, 알겠어.",
+      "new_translation": "【노리코】\\n응, 알겠어.",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2901,
+      "source_index": "0x0008c4d2",
+      "source_ja_raw": "【光志】\\nあと、もう一つ気になるのが、\\n沼崎弁護士と被害者《ひがいしゃ》の関係……",
+      "source_ja_applied": "【光志】\\nあと、もう一つ気になるのが、\\n沼崎弁護士と被害者《ひがいしゃ》の関係……",
+      "source_ja_reviewed": "【光志】\\nあと、もう一つ気になるのが、\\n沼崎弁護士と被害者《ひがいしゃ》の関係……",
+      "old_translation": "【코우지】\\n다음에, 또 하나 신경이 쓰이는\\n것이,\\n누마사키 변호사와 피해자의 관계…",
+      "new_translation": "【코우지】\\n그리고 하나 더 마음에 걸리는 게\\n누마사키 변호사와 피해자의\\n관계야……",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2902,
+      "source_index": "0x0008c545",
+      "source_ja_raw": "【光志】\\n仕事とプライベートをわけていたのに、\\n今では白川グループの顧問弁護士《こもんべんごし》になったこと\\n……何か裏がありそうだな。",
+      "source_ja_applied": "【光志】\\n仕事とプライベートをわけていたのに、\\n今では白川グループの顧問弁護士《こもんべんごし》になったこと\\n……何か裏がありそうだな。",
+      "source_ja_reviewed": "【光志】\\n仕事とプライベートをわけていたのに、\\n今では白川グループの顧問弁護士《こもんべんごし》になったこと\\n……何か裏がありそうだな。",
+      "old_translation": "【코우지】\\n일과 프라이빗을 나누고 있었는데,\\n지금은 시라카와 그룹의 고문\\n변호사가 된\\n것\\n……뭔가 용이 있을 것 같다.",
+      "new_translation": "【코우지】\\n일과 사생활을 나누고 있었는데\\n지금은 시라카와 그룹의 고문\\n변호사가 됐다는 것……\\n뭔가 뒤가 있을 것 같아.",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2903,
+      "source_index": "0x0008c5f0",
+      "source_ja_raw": "【法子】\\n枚《つ》っ沽《こ》んで聞いてみようかなって思ったんだけど、\\n多分、所長の口からは理由を聞き出せないと思って……",
+      "source_ja_applied": "【法子】\\n枚《つ》っ込《こ》んで聞いてみようかなって思ったんだけど、\\n多分、所長の口からは理由を聞き出せないと思って……",
+      "source_ja_reviewed": "【法子】\\n枚《つ》っ込《こ》んで聞いてみようかなって思ったんだけど、\\n多分、所長の口からは理由を聞き出せないと思って……",
+      "old_translation": "【노리코】\\n쌓아서 물어볼까 생각했지만,\\n아마, 소장의 입에서는 이유를 들을\\n수\\n없다고 생각해…",
+      "new_translation": "【노리코】\\n좀 더 캐물어 볼까 했는데,\\n아마 소장님 입으로는 이유를\\n듣기 어려울 것 같아서……",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2904,
+      "source_index": "0x0008c679",
+      "source_ja_raw": "【光志】\\nあぁ、正しい判断だと思う。\\nただ、これがどれだけ声要な情報なのか判断しずらい。\\n少し寢《ね》かせてみよう。",
+      "source_ja_applied": "【光志】\\nあぁ、正しい判断だと思う。\\nただ、これがどれだけ声要な情報なのか判断しずらい。\\n少し寢《ね》かせてみよう。",
+      "source_ja_reviewed": "【光志】\\nあぁ、正しい判断だと思う。\\nただ、これがどれだけ声要な情報なのか判断しずらい。\\n少し寢《ね》かせてみよう。",
+      "old_translation": "【코우지】\\n아아, 험한 판검이라고 무겁다. \\n단지, 이것이 얼마나 중양인\\n정보인지\\n판검하지 못한다. \\n 조금 뿌리를 내려보자.",
+      "new_translation": "【코우지】\\n아, 현명한 판단이라고 생각해.\\n다만 이게 얼마나 중요한 정보인지\\n판단하기가 어렵네.\\n조금 묵혀 두자.",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2905,
+      "source_index": "0x0008c711",
+      "source_ja_raw": "【光志】\\nそれと、沼崎弁護士の行係恋付がわかったことで、\\n水無副月曜のおおよその行係恋付も判間した。",
+      "source_ja_applied": "【光志】\\nそれと、沼崎弁護士の行係恋付がわかったことで、\\n水無副月曜のおおよその行係恋付も判間した。",
+      "source_ja_reviewed": "それと、沼崎弁護士の行動時間がわかったことで、水無月幸司のおおよその行動時間も判明した。",
+      "old_translation": "【코우지】\\n그리고, 누마사키 변호사의 행동\\n시간을\\n알게 된 것으로,\\n미나즈키 코우지의 대략의 행동\\n시간도\\n판명되었다.",
+      "new_translation": "【코우지】\\n그리고 누마사키 변호사의 행동\\n시간이 밝혀지면서\\n미나즈키 코우지의 대략적인 행동\\n시간도 드러났어.",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2906,
+      "source_index": "0x0008c7ac",
+      "source_ja_raw": "【光志】\\n沼崎弁護士は２３恋過ぎくらいに現場に着いて、\\nＶＩＰルームで目く紆ち合わせをした……",
+      "source_ja_applied": "【光志】\\n沼崎弁護士は２３恋過ぎくらいに現場に着いて、\\nＶＩＰルームで目く打ち合わせをした……",
+      "source_ja_reviewed": "【光志】\\n沼崎弁護士は２３恋過ぎくらいに現場に着いて、\\nＶＩＰルームで目く打ち合わせをした……",
+      "old_translation": "【코우지】\\n누마사키 변호사는 23시 지나면서\\n현장에\\n도착해,\\nVIP 룸에서 가볍게 가교를 했다…",
+      "new_translation": "【코우지】\\n누마사키 변호사는 23시가 조금\\n지나 현장에 도착해\\nVIP룸에서 잠시 사전 협의를\\n했지……",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2907,
+      "source_index": "0x0008c829",
+      "source_ja_raw": "【光志】\\nつまり、ざっくりと考えて、\\n堂に入りＶＩＰルームへ入る手続きをして、\\n沼崎弁護士が出て行くまで御１０分としよう。",
+      "source_ja_applied": "【光志】\\nつまり、ざっくりと考えて、\\n堂に入りＶＩＰルームへ入る手続きをして、\\n沼崎弁護士が出て行くまで約１０分としよう。",
+      "source_ja_reviewed": "【光志】\\nつまり、ざっくりと考えて、\\n堂に入りＶＩＰルームへ入る手続きをして、\\n沼崎弁護士が出て行くまで約１０分としよう。",
+      "old_translation": "【코우지】\\n즉, 묵묵히 생각해,\\n교에 들어가 VIP룸에 들어가는\\n수제를\\n해,\\n누마사키 변호사가 나갈 때까지 은\\n10분으로 하자.",
+      "new_translation": "【코우지】\\n대략적으로 생각하면\\n가게에 들어가 VIP룸으로 향하고\\n누마사키 변호사가 나갈 때까지 약\\n10분이라고 하자.",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2908,
+      "source_index": "0x0008c8d0",
+      "source_ja_raw": "【法子】\\nそう考えれば、所長とすれ違《ちが》った水無副さんは\\n２３恋１０分頃《ごろ》にＶＩＰルームに入り、\\n０恋頃《ごろ》に出たってことね。",
+      "source_ja_applied": "【法子】\\nそう考えれば、所長とすれ違《ちが》った水無副さんは\\n２３恋１０分頃《ごろ》にＶＩＰルームに入り、\\n０恋頃《ごろ》に出たってことね。",
+      "source_ja_reviewed": "そう考えれば、所長とすれ違った水無月さんは23時10分頃にVIPルームに入り、０時頃に出たってことね。",
+      "old_translation": "【노리코】\\n그렇게 생각하면, 소장으로 엇갈린\\n미나즈키씨는\\n23시 10분경에 VIP 룸에\\n들어가,\\n0시경에 나왔다는 것.",
+      "new_translation": "【노리코】\\n그렇다면 소장님과 스쳐 지나간\\n미나즈키 씨는\\n23시 10분쯤 VIP룸에 들어가\\n0시쯤 나왔다는 거네.",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2909,
+      "source_index": "0x0008c973",
+      "source_ja_raw": "【光志】\\nそして水無副の言何を信用すれば、\\nそのあとはゲームセンターに行った……ってことか。\\nなるほど……",
+      "source_ja_applied": "【光志】\\nそして水無副の言何を信用すれば、\\nそのあとはゲームセンターに行った……ってことか。\\nなるほど……",
+      "source_ja_reviewed": "【光志】\\nそして水無副の言何を信用すれば、\\nそのあとはゲームセンターに行った……ってことか。\\nなるほど……",
+      "old_translation": "【코우지】\\n그리고 미나즈키의 언선을 신용하면,\\n그 후에는 게임 센터에 갔다… \\n과연......",
+      "new_translation": "【코우지】\\n그리고 미나즈키의 말을 믿는다면\\n그 뒤에는 게임센터에 갔다는 거군.\\n과연……",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2910,
+      "source_index": "0x0008ca02",
+      "source_ja_raw": "【光志】\\nそれじゃ、\\nゲームセンターに行って水無副を押撃《もくげき》した人がいないか\\n裏付けを蠧ってきてくれないか？",
+      "source_ja_applied": "【光志】\\nそれじゃ、\\nゲームセンターに行って水無副を押撃《もくげき》した人がいないか\\n裏付けを取ってきてくれないか？",
+      "source_ja_reviewed": "【光志】\\nそれじゃ、\\nゲームセンターに行って水無副を押撃《もくげき》した人がいないか\\n裏付けを取ってきてくれないか？",
+      "old_translation": "【코우지】\\n그럼,\\n게임센터에 가서 미나즈키를 목격한\\n사람이\\n없는가\\n용부를 모아 와 주지 않을까?",
+      "new_translation": "【코우지】\\n그럼 게임센터에 가서 미나즈키를\\n목격한 사람이\\n없는지 확인해 줄래?\\n뒷받침할 증언을 찾아와 줘.",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2911,
+      "source_index": "0x0008ca83",
+      "source_ja_raw": "【法子】\\nえぇ、了婚《りょうかい》。",
+      "source_ja_applied": "【法子】\\nえぇ、了婚《りょうかい》。",
+      "source_ja_reviewed": "【法子】\\nえぇ、了婚《りょうかい》。",
+      "old_translation": "【노리코】\\n에에, 표해.",
+      "new_translation": "【노리코】\\n네, 알겠어요.",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2912,
+      "source_index": "0x0008caf9",
+      "source_ja_raw": "【光志】\\n被害者《ひがいしゃ》が一押《ひとめ》模《ぼ》れ、か……",
+      "source_ja_applied": "【光志】\\n被害者《ひがいしゃ》が一押《ひとめ》惚《ぼ》れ、か……",
+      "source_ja_reviewed": "【光志】\\n被害者《ひがいしゃ》が一押《ひとめ》惚《ぼ》れ、か……",
+      "old_translation": "【코우지】\\n피해자가 한눈에 무덤인가…",
+      "new_translation": "【코우지】\\n피해자가 첫눈에 반했다라……",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2913,
+      "source_index": "0x0008cb77",
+      "source_ja_raw": "【法子】\\nたしかに最近の被害者《ひがいしゃ》は、\\n以前ほどの強引さがなくなったって話は\\nチラホラと聞くけど……",
+      "source_ja_applied": "【法子】\\nたしかに最近の被害者《ひがいしゃ》は、\\n以前ほどの強引さがなくなったって話は\\nチラホラと聞くけど……",
+      "source_ja_reviewed": "【法子】\\nたしかに最近の被害者《ひがいしゃ》は、\\n以前ほどの強引さがなくなったって話は\\nチラホラと聞くけど……",
+      "old_translation": "【노리코】\\n확실히 최근의 피해자는,\\n이전 정도의 강인함이 없어졌다고\\n이야기는\\n치라호라라고 넣지만...",
+      "new_translation": "【노리코】\\n확실히 요즘 피해자는\\n예전만큼 강압적이지 않게 됐다는\\n이야기를\\n가끔 듣긴 했지만……",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2914,
+      "source_index": "0x0008cbf6",
+      "source_ja_raw": "【法子】\\nもしかしたら、\\nこの示婚《さいこん》がキッカケになってたのかも\\nしれないね。",
+      "source_ja_applied": "【法子】\\nもしかしたら、\\nこの示婚《さいこん》がキッカケになってたのかも\\nしれないね。",
+      "source_ja_reviewed": "【法子】\\nもしかしたら、\\nこの示婚《さいこん》がキッカケになってたのかも\\nしれないね。",
+      "old_translation": "【노리코】\\n어쩌면,\\n이 재혼이 계기가 되었을지도\\n지도 모르겠네요.",
+      "new_translation": "【노리코】\\n어쩌면 그 재혼이\\n계기가 됐을지도 모르겠네.",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2915,
+      "source_index": "0x0008cc78",
+      "source_ja_raw": "【光志】\\nそれと、白川真了の話だけど……",
+      "source_ja_applied": "【光志】\\nそれと、白川真了の話だけど……",
+      "source_ja_reviewed": "それと、白川真了の話だけど……",
+      "old_translation": "【코우지】\\n그리고, 시라카와 신지의\\n이야기이지만…",
+      "new_translation": "【코우지】\\n그리고 시라카와 사토루\\n이야기인데……",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2916,
+      "source_index": "0x0008cce6",
+      "source_ja_raw": "【法子】\\n腎臓移度手搬《じんぞういしょくしゅじゅつ》が失敗して亡くなったって話ね。",
+      "source_ja_applied": "【法子】\\n腎臓移度手術《じんぞういしょくしゅじゅつ》が失敗して亡くなったって話ね。",
+      "source_ja_reviewed": "腎臓移植手術《じんぞういしょくしゅじゅつ》が失敗して亡くなったって話ね。",
+      "old_translation": "【노리코】\\n신장 이식 수술이 실패해 죽었다고\\n말해.",
+      "new_translation": "【노리코】\\n신장 이식 수술이 실패해서\\n돌아가셨다는 이야기 말이지.",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2917,
+      "source_index": "0x0008cd6d",
+      "source_ja_raw": "【光志】\\n被害者《ひがいしゃ》が一緒《いっしょ》に渡欧《とおう》したって話が\\nどうも気になるんだ。",
+      "source_ja_applied": "【光志】\\n被害者《ひがいしゃ》が一緒《いっしょ》に渡欧《とおう》したって話が\\nどうも気になるんだ。",
+      "source_ja_reviewed": "被害者が一緒に渡欧したって話がどうも気になるんだ。",
+      "old_translation": "【코우지】\\n피해자가 함께 격유했다고 이야기가\\n아무래도 신경이 쓰인다.",
+      "new_translation": "【코우지】\\n피해자가 함께 유럽에 갔다는\\n이야기가\\n아무래도 마음에 걸려.",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2918,
+      "source_index": "0x0008cdfd",
+      "source_ja_raw": "【法子】\\n私もそこはちょっと気になったんだけど、\\n２人は信頼《しんらい》し合ってたって所長から聞いて、\\nそれ以上は道穴《ついきゅう》できなかったのよね……",
+      "source_ja_applied": "【法子】\\n私もそこはちょっと気になったんだけど、\\n２人は信頼《しんらい》し合ってたって所長から聞いて、\\nそれ以上は道穴《ついきゅう》できなかったのよね……",
+      "source_ja_reviewed": "【法子】\\n私もそこはちょっと気になったんだけど、\\n２人は信頼《しんらい》し合ってたって所長から聞いて、\\nそれ以上は道穴《ついきゅう》できなかったのよね……",
+      "old_translation": "【노리코】\\n나도 거기는 조금 신경이 쓰였지만,\\n2명은 서로 신뢰하고 있었다고\\n소장으로부터 듣고,\\n그 이상은 추급할 수 없었던\\n것이군요…",
+      "new_translation": "【노리코】\\n나도 그 부분은 조금 신경\\n쓰였는데,\\n두 사람이 서로 믿고 있었다고\\n소장님께 들어서\\n더는 캐물을 수 없었어……",
+      "speaker": "노리코",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2919,
+      "source_index": "0x0008ce97",
+      "source_ja_raw": "【光志】\\nうーん……\\n信頼《しんらい》し合ってた、か……",
+      "source_ja_applied": "【光志】\\nうーん……\\n信頼《しんらい》し合ってた、か……",
+      "source_ja_reviewed": "【光志】\\nうーん……\\n信頼《しんらい》し合ってた、か……",
+      "old_translation": "【코우지】\\n흠……\\n신뢰하고 있었나,…",
+      "new_translation": "【코우지】\\n음……\\n서로 믿고 있었다라……",
+      "speaker": "코우지",
+      "scene": "BGM 추리와 알리바이 재검토",
+      "relationship_context": "코우지와 노리코는 에이타로의 진술에서 화장실 소동, 콘도와 아사츠유의 악연, 미나즈키의 행동 시간을 연결해 추가 조사를 계획한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2920,
+      "source_index": "0x0008cf1a",
+      "source_ja_raw": "管理人室",
+      "source_ja_applied": "管理人室",
+      "source_ja_reviewed": "管理人室",
+      "old_translation": "관리인실",
+      "new_translation": "관리인실",
+      "speaker": "장면 대사",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2921,
+      "source_index": "0x0008cf23",
+      "source_ja_raw": "管理人室",
+      "source_ja_applied": "管理人室",
+      "source_ja_reviewed": "管理人室",
+      "old_translation": "관리인실",
+      "new_translation": "관리인실",
+      "speaker": "장면 대사",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2922,
+      "source_index": "0x0008cf30",
+      "source_ja_raw": "光志の部屋",
+      "source_ja_applied": "光志の部屋",
+      "source_ja_reviewed": "光志の部屋",
+      "old_translation": "코우지의 방",
+      "new_translation": "코우지의 방",
+      "speaker": "장면 대사",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2923,
+      "source_index": "0x0008cf3a",
+      "source_ja_raw": "光志の部屋",
+      "source_ja_applied": "光志の部屋",
+      "source_ja_reviewed": "光志の部屋",
+      "old_translation": "코우지의 방",
+      "new_translation": "코우지의 방",
+      "speaker": "장면 대사",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2924,
+      "source_index": "0x0008cf48",
+      "source_ja_raw": "アパート２算",
+      "source_ja_applied": "アパート２算",
+      "source_ja_reviewed": "アパート２階",
+      "old_translation": "아파트 2층",
+      "new_translation": "아파트 2층",
+      "speaker": "장면 대사",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2925,
+      "source_index": "0x0008cf52",
+      "source_ja_raw": "アパート２算",
+      "source_ja_applied": "アパート２算",
+      "source_ja_reviewed": "アパート２算",
+      "old_translation": "아파트 2층",
+      "new_translation": "아파트 2층",
+      "speaker": "장면 대사",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2926,
+      "source_index": "0x0008cf60",
+      "source_ja_raw": "アパート１算",
+      "source_ja_applied": "アパート１算",
+      "source_ja_reviewed": "アパート１算",
+      "old_translation": "아파트 1층",
+      "new_translation": "아파트 1층",
+      "speaker": "장면 대사",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2927,
+      "source_index": "0x0008cf6a",
+      "source_ja_raw": "アパート１算",
+      "source_ja_applied": "アパート１算",
+      "source_ja_reviewed": "アパート１算",
+      "old_translation": "아파트 1층",
+      "new_translation": "아파트 1층",
+      "speaker": "장면 대사",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2928,
+      "source_index": "0x0008d0de",
+      "source_ja_raw": "【法子】\\n（これが、コウジが今住んでるアパートか……）",
+      "source_ja_applied": "【法子】\\n（これが、コウジが今住んでるアパートか……）",
+      "source_ja_reviewed": "【法子】\\n（これが、コウジが今住んでるアパートか……）",
+      "old_translation": "【노리코】\\n(이것이, 코우지가 지금 와 있는\\n아파트인가…",
+      "new_translation": "【노리코】\\n(이곳이 코우지가 지금 사는\\n아파트인가……)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2929,
+      "source_index": "0x0008d147",
+      "source_ja_raw": "【法子】\\n（ちょっと樹れくさいかも……）",
+      "source_ja_applied": "【法子】\\n（ちょっと樹れくさいかも……）",
+      "source_ja_reviewed": "【法子】\\n（ちょっと樹れくさいかも……）",
+      "old_translation": "【노리코】\\n(잠깐 어리석은지도……)",
+      "new_translation": "【노리코】\\n(조금 오래된 느낌일지도……)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2930,
+      "source_index": "0x0008d18c",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2931,
+      "source_index": "0x0008d1c5",
+      "source_ja_raw": "【法子】\\n（そんなこと言ってる場合じゃないわね。\\nきちんと調査しないと）",
+      "source_ja_applied": "【法子】\\n（そんなこと言ってる場合じゃないわね。\\nきちんと調査しないと）",
+      "source_ja_reviewed": "【法子】\\n（そんなこと言ってる場合じゃないわね。\\nきちんと調査しないと）",
+      "old_translation": "【노리코】\\n(그런 말을 하고 있는 경우가\\n아니네.\\n제대로 조사하지 않으면)",
+      "new_translation": "【노리코】\\n(그런 말을 하고 있을 때가\\n아니네.\\n제대로 조사해야지.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2932,
+      "source_index": "0x0008d230",
+      "source_ja_raw": "【法子】\\n（コウジのアパート前ね）",
+      "source_ja_applied": "【法子】\\n（コウジのアパート前ね）",
+      "source_ja_reviewed": "【法子】\\n（コウジのアパート前ね）",
+      "old_translation": "【노리코】\\n(코우지의 아파트 앞)",
+      "new_translation": "【노리코】\\n(코우지의 아파트 앞이네.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2933,
+      "source_index": "0x0008d354",
+      "source_ja_raw": "【法子】\\n（このアパートにはどんな人たちが\\n住んでるのかな……？）",
+      "source_ja_applied": "【法子】\\n（このアパートにはどんな人たちが\\n住んでるのかな……？）",
+      "source_ja_reviewed": "【法子】\\n（このアパートにはどんな人たちが\\n住んでるのかな……？）",
+      "old_translation": "【노리코】\\n(이 아파트에는 어떤 사람들이\\n오고 있을까......?)",
+      "new_translation": "【노리코】\\n(이 아파트에는 어떤 사람들이\\n살고 있을까……?)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2934,
+      "source_index": "0x0008d3a9",
+      "source_ja_raw": "【法子】\\n（都内では近所付き合いがあまりないから、\\n顔さえ知らないこともあるのよね）",
+      "source_ja_applied": "【法子】\\n（都内では近所付き合いがあまりないから、\\n顔さえ知らないこともあるのよね）",
+      "source_ja_reviewed": "【法子】\\n（都内では近所付き合いがあまりないから、\\n顔さえ知らないこともあるのよね）",
+      "old_translation": "【노리코】\\n(도내에서는 이웃 사귀가 별로\\n없으니까,\\n보지도 모르는 일도 있겠지)",
+      "new_translation": "【노리코】\\n(도쿄에서는 이웃끼리 잘 지내지\\n않으니\\n얼굴조차 모르는 경우도 있지.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2935,
+      "source_index": "0x0008d40a",
+      "source_ja_raw": "【法子】\\n（特にコウジなんかは恋付が不安定な仕事だから、\\nなおさらかも……）",
+      "source_ja_applied": "【法子】\\n（特にコウジなんかは恋付が不安定な仕事だから、\\nなおさらかも……）",
+      "source_ja_reviewed": "【法子】\\n（特にコウジなんかは恋付が不安定な仕事だから、\\nなおさらかも……）",
+      "old_translation": "【노리코】\\n(특히 코우지 따위는 시간이\\n불안정한\\n일이니까,\\n한층 더…",
+      "new_translation": "【노리코】\\n(특히 코우지는 일하는 시간이\\n불규칙한 직업이라\\n더 그럴지도……)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2936,
+      "source_index": "0x0008d46a",
+      "source_ja_raw": "【法子】\\n（って、私が気にすることじゃないけど）",
+      "source_ja_applied": "【法子】\\n（って、私が気にすることじゃないけど）",
+      "source_ja_reviewed": "【法子】\\n（って、私が気にすることじゃないけど）",
+      "old_translation": "【노리코】\\n(라고, 제가 신경쓰는 일은\\n아니지만)",
+      "new_translation": "【노리코】\\n(……내가 신경 쓸 일은\\n아니지만.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2937,
+      "source_index": "0x0008d4ea",
+      "source_ja_raw": "【ドアフォン】\\nはい……\\nどちら様ですか？",
+      "source_ja_applied": "【ドアフォン】\\nはい……\\nどちら様ですか？",
+      "source_ja_reviewed": "【ドアフォン】\\nはい……\\nどちら様ですか？",
+      "old_translation": "【도어폰】\\n 네......\\n 어느 쪽입니까?",
+      "new_translation": "【도어폰】\\n네……\\n누구세요?",
+      "speaker": "도어폰",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2938,
+      "source_index": "0x0008d52e",
+      "source_ja_raw": "【法子】\\n私、斉藤光志さんの代理人をしております\\n弁護士の新城法子と申します。",
+      "source_ja_applied": "【法子】\\n私、斉藤光志さんの代理人をしております\\n弁護士の新城法子と申します。",
+      "source_ja_reviewed": "【法子】\\n私、斉藤光志さんの代理人をしております\\n弁護士の新城法子と申します。",
+      "old_translation": "【노리코】\\n나, 사이토 코우지씨의 대리인을\\n하고\\n있습니다\\n변호사의 신조 노리코라고 합니다.",
+      "new_translation": "【노리코】\\n저는 사이토 코우지 씨의 대리인인\\n변호사 신조 노리코라고 합니다.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2939,
+      "source_index": "0x0008d593",
+      "source_ja_raw": "【法子】\\n彼の依頼《いらい》で\\n部屋の中を調べに来たのですが、\\n鍵《かぎ》をお借りできないでしょうか……？",
+      "source_ja_applied": "【法子】\\n彼の依頼《いらい》で\\n部屋の中を調べに来たのですが、\\n鍵《かぎ》をお借りできないでしょうか……？",
+      "source_ja_reviewed": "【法子】\\n彼の依頼《いらい》で\\n部屋の中を調べに来たのですが、\\n鍵《かぎ》をお借りできないでしょうか……？",
+      "old_translation": "【노리코】\\n아야의 의뢰로\\n방안을 조사하러 챙겼습니다만,\\n열쇠를 빌릴 수 없을까요…",
+      "new_translation": "【노리코】\\n본인의 의뢰로\\n방 안을 조사하러 왔는데,\\n열쇠를 빌릴 수 있을까요……?",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2940,
+      "source_index": "0x0008d604",
+      "source_ja_raw": "【ドアフォン】\\n少々お待ちください。",
+      "source_ja_applied": "【ドアフォン】\\n少々お待ちください。",
+      "source_ja_reviewed": "【ドアフォン】\\n少々お待ちください。",
+      "old_translation": "【도어폰】\\n 조금 기다려 주세요.",
+      "new_translation": "【도어폰】\\n잠시만 기다려 주세요.",
+      "speaker": "도어폰",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2941,
+      "source_index": "0x0008d675",
+      "source_ja_raw": "【管理人】\\nお待たせしました。",
+      "source_ja_applied": "【管理人】\\nお待たせしました。",
+      "source_ja_reviewed": "【管理人】\\nお待たせしました。",
+      "old_translation": "【관리인】\\n기다리게 해서 죄송합니다.",
+      "new_translation": "【관리인】\\n기다리게 했습니다.",
+      "speaker": "관리인",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2942,
+      "source_index": "0x0008d6c0",
+      "source_ja_raw": "【管理人】\\nはぁ、お貸しする前に、\\nあなたの身分証間書かなにかを\\n見せてもらいたいんですが……？",
+      "source_ja_applied": "【管理人】\\nはぁ、お貸しする前に、\\nあなたの身分証間書かなにかを\\n見せてもらいたいんですが……？",
+      "source_ja_reviewed": "【管理人】\\nはぁ、お貸しする前に、\\nあなたの身分証間書かなにかを\\n見せてもらいたいんですが……？",
+      "old_translation": "【관리인】\\n네, 열쇠를 빌려드리기 전에\\n신분증 같은 것을\\n보여 주시겠어요……?",
+      "new_translation": "【관리인】\\n아, 빌려 드리기 전에\\n신분증명서 같은 걸\\n보여 주셨으면 하는데요……?",
+      "speaker": "관리인",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2943,
+      "source_index": "0x0008d72a",
+      "source_ja_raw": "【法子】\\nはい。\\nこちらでよろしいですか？",
+      "source_ja_applied": "【法子】\\nはい。\\nこちらでよろしいですか？",
+      "source_ja_reviewed": "【法子】\\nはい。\\nこちらでよろしいですか？",
+      "old_translation": "【노리코】\\n네. \\n여기서 괜찮으세요?",
+      "new_translation": "【노리코】\\n네.\\n이걸로 괜찮을까요?",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2944,
+      "source_index": "0x0008d77a",
+      "source_ja_raw": "【管理人】\\n弁護士さんの身分証間書？\\n……こんなのあるんですね。",
+      "source_ja_applied": "【管理人】\\n弁護士さんの身分証間書？\\n……こんなのあるんですね。",
+      "source_ja_reviewed": "【管理人】\\n弁護士さんの身分証間書？\\n……こんなのあるんですね。",
+      "old_translation": "【관리인】\\n변호사님의 신분증?\\n……이런 것도 있군요.",
+      "new_translation": "【관리인】\\n변호사 신분증명서요?\\n……이런 것도 있군요.",
+      "speaker": "관리인",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2945,
+      "source_index": "0x0008d7e0",
+      "source_ja_raw": "【管理人】\\n……弁護士バッジも付けてらっしゃるし、\\nどうやらきちんとした弁護士さんらしいですね。",
+      "source_ja_applied": "【管理人】\\n……弁護士バッジも付けてらっしゃるし、\\nどうやらきちんとした弁護士さんらしいですね。",
+      "source_ja_reviewed": "【管理人】\\n……弁護士バッジも付けてらっしゃるし、\\nどうやらきちんとした弁護士さんらしいですね。",
+      "old_translation": "【관리인】\\n……변호사 배지도 달고 계시고,\\n아무래도 제대로 된 변호사님인 모양이네요.",
+      "new_translation": "【관리인】\\n……변호사 배지도 달고 계시고,\\n아무래도 제대로 된 변호사님인가\\n보네요.",
+      "speaker": "관리인",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2946,
+      "source_index": "0x0008d857",
+      "source_ja_raw": "【管理人】\\nいいでしょう。\\nそれでは鍵《かぎ》をお貸しします。\\n帰るときに換しに来てくださいね。",
+      "source_ja_applied": "【管理人】\\nいいでしょう。\\nそれでは鍵《かぎ》をお貸しします。\\n帰るときに返しに来てくださいね。",
+      "source_ja_reviewed": "【管理人】\\nいいでしょう。\\nそれでは鍵《かぎ》をお貸しします。\\n帰るときに返しに来てくださいね。",
+      "old_translation": "【관리인】\\n좋습니다.\\n그럼 열쇠를 빌려드리겠습니다.\\n돌아가실 때 반납하러 와 주세요.",
+      "new_translation": "【관리인】\\n좋습니다.\\n그럼 열쇠를 빌려 드리죠.\\n돌아가실 때 돌려주러 오세요.",
+      "speaker": "관리인",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2947,
+      "source_index": "0x0008d8bd",
+      "source_ja_raw": "【法子】\\nはい、わかりました。\\nそれでは少しお借りします。",
+      "source_ja_applied": "【法子】\\nはい、わかりました。\\nそれでは少しお借りします。",
+      "source_ja_reviewed": "【法子】\\nはい、わかりました。\\nそれでは少しお借りします。",
+      "old_translation": "【노리코】\\n네, 알겠습니다.\\n그럼 몇 가지 여쭤볼게요.",
+      "new_translation": "【노리코】\\n네, 알겠습니다.\\n그럼 잠시 빌리겠습니다.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2948,
+      "source_index": "0x0008d951",
+      "source_ja_raw": "【法子】\\n（管理人さんの部屋ね）",
+      "source_ja_applied": "【法子】\\n（管理人さんの部屋ね）",
+      "source_ja_reviewed": "【法子】\\n（管理人さんの部屋ね）",
+      "old_translation": "【노리코】\\n(관리인 씨의 방이네.)",
+      "new_translation": "【노리코】\\n(관리인 아저씨의 방이네.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2949,
+      "source_index": "0x0008d994",
+      "source_ja_raw": "【法子】\\n（コウジの部屋の鍵《かぎ》は借りたし、\\n今は用事がないわ）",
+      "source_ja_applied": "【法子】\\n（コウジの部屋の鍵《かぎ》は借りたし、\\n今は用事がないわ）",
+      "source_ja_reviewed": "【法子】\\n（コウジの部屋の鍵《かぎ》は借りたし、\\n今は用事がないわ）",
+      "old_translation": "【노리코】\\n(코우지 방 열쇠는 빌렸고,\\n지금은 볼일이 없어.)",
+      "new_translation": "【노리코】\\n(코우지 방 열쇠는 빌렸고,\\n지금은 볼일이 없어.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2950,
+      "source_index": "0x0008da1b",
+      "source_ja_raw": "【法子】\\n（コウジの部屋は一番手前よ）",
+      "source_ja_applied": "【法子】\\n（コウジの部屋は一番手前よ）",
+      "source_ja_reviewed": "【法子】\\n（コウジの部屋は一番手前よ）",
+      "old_translation": "【노리코】\\n(코우지의 방은 맨 앞쪽이야.)",
+      "new_translation": "【노리코】\\n(코우지 방은 가장 앞쪽이야.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2951,
+      "source_index": "0x0008daa6",
+      "source_ja_raw": "【法子】\\n（……鍵《かぎ》が掛《か》かってて入れないわ）",
+      "source_ja_applied": "【法子】\\n（……鍵《かぎ》が掛《か》かってて入れないわ）",
+      "source_ja_reviewed": "【法子】\\n（……鍵《かぎ》が掛《か》かってて入れないわ）",
+      "old_translation": "【노리코】\\n(……문이 잠겨 있어서 들어갈 수 없어.)",
+      "new_translation": "【노리코】\\n(……열쇠가 잠겨 있어서 들어갈 수\\n없어.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2952,
+      "source_index": "0x0008db9c",
+      "source_ja_raw": "引き出し",
+      "source_ja_applied": "引き出し",
+      "source_ja_reviewed": "引き出し",
+      "old_translation": "서랍",
+      "new_translation": "서랍",
+      "speaker": "장면 대사",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2953,
+      "source_index": "0x0008dba3",
+      "source_ja_raw": "引き出し",
+      "source_ja_applied": "引き出し",
+      "source_ja_reviewed": "引き出し",
+      "old_translation": "서랍",
+      "new_translation": "서랍",
+      "speaker": "장면 대사",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2954,
+      "source_index": "0x0008dbae",
+      "source_ja_raw": "株し入れ",
+      "source_ja_applied": "株し入れ",
+      "source_ja_reviewed": "押し入れ",
+      "old_translation": "벽장",
+      "new_translation": "붙박이장",
+      "speaker": "장면 대사",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2955,
+      "source_index": "0x0008dbb5",
+      "source_ja_raw": "株し入れ",
+      "source_ja_applied": "株し入れ",
+      "source_ja_reviewed": "株し入れ",
+      "old_translation": "벽장",
+      "new_translation": "붙박이장",
+      "speaker": "장면 대사",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2956,
+      "source_index": "0x0008dd57",
+      "source_ja_raw": "【法子】\\n（想像してたよりも片付いてるわ……）",
+      "source_ja_applied": "【法子】\\n（想像してたよりも片付いてるわ……）",
+      "source_ja_reviewed": "【法子】\\n（想像してたよりも片付いてるわ……）",
+      "old_translation": "【노리코】\\n(생각했던 것보다 깨끗하게 정리되어 있네……)",
+      "new_translation": "【노리코】\\n(생각했던 것보다 정리되어\\n있네……)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2957,
+      "source_index": "0x0008dda2",
+      "source_ja_raw": "【法子】\\n（前の家は部屋の中、\\nスゴかったからなぁ……）",
+      "source_ja_applied": "【法子】\\n（前の家は部屋の中、\\nスゴかったからなぁ……）",
+      "source_ja_reviewed": "【法子】\\n（前の家は部屋の中、\\nスゴかったからなぁ……）",
+      "old_translation": "【노리코】\\n(그 집은 방 안이\\n정말 대단했으니까……)",
+      "new_translation": "【노리코】\\n(전에 살던 집은 방 안이\\n정말 엉망이었는데……)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2958,
+      "source_index": "0x0008de0d",
+      "source_ja_raw": "【法子】\\n（あ……そうか。\\n警察が株収《おうしゅう》して行ったからだ……\\nだからこんなにスッキリしてるわけね）",
+      "source_ja_applied": "【法子】\\n（あ……そうか。\\n警察が株収《おうしゅう》して行ったからだ……\\nだからこんなにスッキリしてるわけね）",
+      "source_ja_reviewed": "あ……そうか。警察が押収《おうしゅう》して行ったからだ……だからこんなにスッキリしてるわけね",
+      "old_translation": "【노리코】\\n(아…… 그렇구나.\\n경찰이 압수해 갔기 때문이야……\\n그래서 이렇게 말끔한 거구나.)",
+      "new_translation": "【노리코】\\n(아…… 그렇구나.\\n경찰이 증거품을 압수해 갔으니까……\\n그래서 이렇게 깔끔한 거네.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2959,
+      "source_index": "0x0008de81",
+      "source_ja_raw": "【法子】\\n（うん、満得）",
+      "source_ja_applied": "【法子】\\n（うん、満得）",
+      "source_ja_reviewed": "【法子】\\n（うん、満得）",
+      "old_translation": "【노리코】\\n(응, 납득.)",
+      "new_translation": "【노리코】\\n(응, 알겠어.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2960,
+      "source_index": "0x0008df8b",
+      "source_ja_raw": "【法子】\\n（光志が使ってる署ね）",
+      "source_ja_applied": "【法子】\\n（光志が使ってる署ね）",
+      "source_ja_reviewed": "【法子】\\n（光志が使ってる署ね）",
+      "old_translation": "【노리코】\\n(코우지가 쓰는 책상이네.)",
+      "new_translation": "【노리코】\\n(코우지가 쓰던 책상이네.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2961,
+      "source_index": "0x0008dfcd",
+      "source_ja_raw": "【法子】\\n（それじゃ、失礼します……）",
+      "source_ja_applied": "【法子】\\n（それじゃ、失礼します……）",
+      "source_ja_reviewed": "【法子】\\n（それじゃ、失礼します……）",
+      "old_translation": "【노리코】\\n(그럼, 실례할게……)",
+      "new_translation": "【노리코】\\n(그럼, 실례하겠습니다……)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2962,
+      "source_index": "0x0008e01d",
+      "source_ja_raw": "【法子】\\n（……うーん。\\nこれといって気になるものはないわね……）",
+      "source_ja_applied": "【法子】\\n（……うーん。\\nこれといって気になるものはないわね……）",
+      "source_ja_reviewed": "【法子】\\n（……うーん。\\nこれといって気になるものはないわね……）",
+      "old_translation": "【노리코】\\n(……음.\\n특별히 신경 쓰이는 건 없네……)",
+      "new_translation": "【노리코】\\n(……음.\\n딱히 신경 쓰이는 건 없네……)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2963,
+      "source_index": "0x0008e072",
+      "source_ja_raw": "【法子】\\n（一応、落部の引き出しを確認しておこうかな）",
+      "source_ja_applied": "【法子】\\n（一応、落部の引き出しを確認しておこうかな）",
+      "source_ja_reviewed": "【法子】\\n（一応、落部の引き出しを確認しておこうかな）",
+      "old_translation": "【노리코】\\n(일단 안쪽 서랍을 조사해 볼까.)",
+      "new_translation": "【노리코】\\n(일단 서랍을 확인해 볼까.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2964,
+      "source_index": "0x0008e0ec",
+      "source_ja_raw": "【法子】\\n（特に押ぼしいものはないわね）",
+      "source_ja_applied": "【法子】\\n（特に押ぼしいものはないわね）",
+      "source_ja_reviewed": "【法子】\\n（特に押ぼしいものはないわね）",
+      "old_translation": "【노리코】\\n(특별히 눈에 띄는 건 없네.)",
+      "new_translation": "【노리코】\\n(특별히 눈에 띄는 건 없네.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2965,
+      "source_index": "0x0008e130",
+      "source_ja_raw": "【法子】\\n（警察が株収《おうしゅう》してしまって、\\n引き出しの中がスカスカなんだもん……）",
+      "source_ja_applied": "【法子】\\n（警察が株収《おうしゅう》してしまって、\\n引き出しの中がスカスカなんだもん……）",
+      "source_ja_reviewed": "警察が押収《おうしゅう》してしまって、引き出しの中がスカスカなんだもん……",
+      "old_translation": "【노리코】\\n(경찰이 압수해 가서\\n서랍 안이 텅 비었네……)",
+      "new_translation": "【노리코】\\n(경찰이 증거품을 압수해 가서\\n서랍 안이 텅 비었어……)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2966,
+      "source_index": "0x0008e19b",
+      "source_ja_raw": "【法子】\\n（特に気になるものはなかったわ）",
+      "source_ja_applied": "【法子】\\n（特に気になるものはなかったわ）",
+      "source_ja_reviewed": "【法子】\\n（特に気になるものはなかったわ）",
+      "old_translation": "【노리코】\\n(특별히 신경 쓰이는 건 없었어.)",
+      "new_translation": "【노리코】\\n(특별히 신경 쓰이는 건 없었어.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2967,
+      "source_index": "0x0008e219",
+      "source_ja_raw": "【法子】\\n（株《お》し入《い》れの中のものを調べてみましょう）",
+      "source_ja_applied": "【法子】\\n（株《お》し入《い》れの中のものを調べてみましょう）",
+      "source_ja_reviewed": "【法子】\\n（株《お》し入《い》れの中のものを調べてみましょう）",
+      "old_translation": "【노리코】\\n(벽장 안에 있는 물건을 조사해 보자.)",
+      "new_translation": "【노리코】\\n(붙박이장 안의 물건도 조사해\\n보자.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2968,
+      "source_index": "0x0008e276",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2969,
+      "source_index": "0x0008e2af",
+      "source_ja_raw": "【法子】\\n（布眼以外、なにもないわね……）",
+      "source_ja_applied": "【法子】\\n（布眼以外、なにもないわね……）",
+      "source_ja_reviewed": "布団以外、なにもないわね……",
+      "old_translation": "【노리코】\\n(포선 이외, 아무것도 없네…",
+      "new_translation": "【노리코】\\n(이불 말고는 아무것도 없네……)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2970,
+      "source_index": "0x0008e312",
+      "source_ja_raw": "【法子】\\n（布眼以外、なにもないわ……）",
+      "source_ja_applied": "【法子】\\n（布眼以外、なにもないわ……）",
+      "source_ja_reviewed": "【法子】\\n（布眼以外、なにもないわ……）",
+      "old_translation": "【노리코】\\n(포선 이외, 아무것도 없어…",
+      "new_translation": "【노리코】\\n(이불 말고는 아무것도 없어……)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2971,
+      "source_index": "0x0008e3a3",
+      "source_ja_raw": "【法子】\\n（これで調査を終わりにしようかしら？）",
+      "source_ja_applied": "【法子】\\n（これで調査を終わりにしようかしら？）",
+      "source_ja_reviewed": "【法子】\\n（これで調査を終わりにしようかしら？）",
+      "old_translation": "【노리코】\\n(이제 조사를 끝낼까?)",
+      "new_translation": "【노리코】\\n(이제 조사를 끝낼까?)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2972,
+      "source_index": "0x0008e453",
+      "source_ja_raw": "【法子】\\n（今日はこれくらいにしておきましょう）",
+      "source_ja_applied": "【法子】\\n（今日はこれくらいにしておきましょう）",
+      "source_ja_reviewed": "【法子】\\n（今日はこれくらいにしておきましょう）",
+      "old_translation": "【노리코】\\n(오늘은 이 정도로 해 두자)",
+      "new_translation": "【노리코】\\n(오늘은 이 정도로 해 두자.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2973,
+      "source_index": "0x0008e4b1",
+      "source_ja_raw": "【法子】\\n（もう少しここにいましょう）",
+      "source_ja_applied": "【法子】\\n（もう少しここにいましょう）",
+      "source_ja_reviewed": "【法子】\\n（もう少しここにいましょう）",
+      "old_translation": "【노리코】\\n(조금 더 여기 있자)",
+      "new_translation": "【노리코】\\n(조금 더 여기 있자.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2974,
+      "source_index": "0x0008e53e",
+      "source_ja_raw": "【法子】\\n光志のアパートを調べてきた結果は\\nこんな感じ……",
+      "source_ja_applied": "【法子】\\n光志のアパートを調べてきた結果は\\nこんな感じ……",
+      "source_ja_reviewed": "【法子】\\n光志のアパートを調べてきた結果は\\nこんな感じ……",
+      "old_translation": "【노리코】\\n코우지의 아파트를 조사해 온 결과는\\n이런 느낌…",
+      "new_translation": "【노리코】\\n코우지의 아파트를 조사한 결과는\\n이런 내용이었어……",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2975,
+      "source_index": "0x0008e5b6",
+      "source_ja_raw": "【法子】\\n……って言っても、\\n警察がほとんど株収《おうしゅう》してしまったらしくて、\\nなにも出てこなかったんだけど……",
+      "source_ja_applied": "【法子】\\n……って言っても、\\n警察がほとんど株収《おうしゅう》してしまったらしくて、\\nなにも出てこなかったんだけど……",
+      "source_ja_reviewed": "【法子】\\n……って言っても、\\n警察がほとんど株収《おうしゅう》してしまったらしくて、\\nなにも出てこなかったんだけど……",
+      "old_translation": "【노리코】\\n……라고 해도,\\n경찰이 거의 밀어 버린 것 같고,\\n아무것도 나오지 않았지만\\n......",
+      "new_translation": "【노리코】\\n……라고 해도,\\n경찰이 거의 전부 압수해 간\\n모양이라\\n아무것도 나오지 않았지만……",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2976,
+      "source_index": "0x0008e650",
+      "source_ja_raw": "【光志】\\nそうか……ある程度予想はできたけど、\\nそこまでなんにもないなら\\nもうアパートに行って調査するのはムダかもな。",
+      "source_ja_applied": "【光志】\\nそうか……ある程度予想はできたけど、\\nそこまでなんにもないなら\\nもうアパートに行って調査するのはムダかもな。",
+      "source_ja_reviewed": "【光志】\\nそうか……ある程度予想はできたけど、\\nそこまでなんにもないなら\\nもうアパートに行って調査するのはムダかもな。",
+      "old_translation": "【코우지】\\n그런가… … 어느 정도 예총은\\n생겼지만,\\n거기까지 아무것도 없다면\\n이제 아파트에 가서 조사하는 것은\\n낭비일지도.",
+      "new_translation": "【코우지】\\n그렇구나…… 어느 정도 예상은\\n했지만,\\n그렇게 아무것도 없다면\\n이제 아파트에 가서 조사하는 건\\n소용없겠네.",
+      "speaker": "코우지",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2977,
+      "source_index": "0x0008e6f6",
+      "source_ja_raw": "【光志】\\n仕方ない。\\n気持ちを切《き》り馨《か》えて\\n次のことを考えよう。",
+      "source_ja_applied": "【光志】\\n仕方ない。\\n気持ちを切《き》り馨《か》えて\\n次のことを考えよう。",
+      "source_ja_reviewed": "【光志】\\n仕方ない。\\n気持ちを切《き》り馨《か》えて\\n次のことを考えよう。",
+      "old_translation": "【코우지】\\n어쩔 수 없다. \\n기간을 잘라서\\n실을 생각하자.",
+      "new_translation": "【코우지】\\n어쩔 수 없지.\\n마음을 다잡고\\n다음 일을 생각하자.",
+      "speaker": "코우지",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2978,
+      "source_index": "0x0008e76a",
+      "source_ja_raw": "【法子】\\n（まだ調べないといけないものがあるわ）",
+      "source_ja_applied": "【法子】\\n（まだ調べないといけないものがあるわ）",
+      "source_ja_reviewed": "【法子】\\n（まだ調べないといけないものがあるわ）",
+      "old_translation": "【노리코】\\n(아직 조사해야 할 게 있어)",
+      "new_translation": "【노리코】\\n(아직 조사해야 할 게 남아\\n있어.)",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2979,
+      "source_index": "0x0008e8a9",
+      "source_ja_raw": "【法子】\\nコウジのアパート前よ。",
+      "source_ja_applied": "【法子】\\nコウジのアパート前よ。",
+      "source_ja_reviewed": "【法子】\\nコウジのアパート前よ。",
+      "old_translation": "【노리코】\\n코우지의 아파트 앞이야.",
+      "new_translation": "【노리코】\\n코우지의 아파트 앞이야.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2980,
+      "source_index": "0x0008e9cd",
+      "source_ja_raw": "【法子】\\nこのアパートにはどんな人たちが\\n住んでいるのかな…？",
+      "source_ja_applied": "【法子】\\nこのアパートにはどんな人たちが\\n住んでいるのかな…？",
+      "source_ja_reviewed": "【法子】\\nこのアパートにはどんな人たちが\\n住んでいるのかな…？",
+      "old_translation": "【노리코】\\n이 아파트에는 어떤 사람들이\\n오고 있는 것일까…",
+      "new_translation": "【노리코】\\n이 아파트에는 어떤 사람들이\\n살고 있을까……?",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2981,
+      "source_index": "0x0008ea07",
+      "source_ja_raw": "【法子】\\n都内だとあまり近隣同士の付き合いがないから、\\n意外と顔さえ知らない場合があるのよね。",
+      "source_ja_applied": "【法子】\\n都内だとあまり近隣同士の付き合いがないから、\\n意外と顔さえ知らない場合があるのよね。",
+      "source_ja_reviewed": "【法子】\\n都内だとあまり近隣同士の付き合いがないから、\\n意外と顔さえ知らない場合があるのよね。",
+      "old_translation": "【노리코】\\n도내라면 별로 근린끼리의 교제가\\n없으니까,\\n의외로조차 모르는 경우가 있겠지.",
+      "new_translation": "【노리코】\\n도쿄에서는 이웃끼리 잘 지내지\\n않으니\\n의외로 얼굴조차 모르는 경우가\\n있지.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2982,
+      "source_index": "0x0008ea5c",
+      "source_ja_raw": "【法子】\\n特に光志なんか恋付に不安定な仕事だから、\\nなおさらかも…",
+      "source_ja_applied": "【法子】\\n特に光志なんか恋付に不安定な仕事だから、\\nなおさらかも…",
+      "source_ja_reviewed": "【法子】\\n特に光志なんか恋付に不安定な仕事だから、\\nなおさらかも…",
+      "old_translation": "【노리코】\\n특히 코우지 어쩐지 시간에 불안정한\\n일이니까,\\n더군다나…",
+      "new_translation": "【노리코】\\n특히 코우지는 일하는 시간이\\n불규칙한 직업이라\\n더 그럴지도……",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2983,
+      "source_index": "0x0008eaac",
+      "source_ja_raw": "【法子】\\nどうやらここにこのアパートの管理人さんが\\n住んでいるみたい。",
+      "source_ja_applied": "【法子】\\nどうやらここにこのアパートの管理人さんが\\n住んでいるみたい。",
+      "source_ja_reviewed": "【法子】\\nどうやらここにこのアパートの管理人さんが\\n住んでいるみたい。",
+      "old_translation": "【노리코】\\n아무래도 여기에 이 아파트의\\n관리인씨가\\n오고 있는 것 같다.",
+      "new_translation": "【노리코】\\n아무래도 이 아파트 관리인 아저씨가\\n여기 사시는 모양이네.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2984,
+      "source_index": "0x0008eaf0",
+      "source_ja_raw": "【法子】\\n承び妝を株してみる？",
+      "source_ja_applied": "【法子】\\n承び妝を株してみる？",
+      "source_ja_reviewed": "【法子】\\n承び妝を株してみる？",
+      "old_translation": "【노리코】\\n초인종을 눌러 볼까?",
+      "new_translation": "【노리코】\\n초인종을 눌러 볼까?",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2985,
+      "source_index": "0x0008eb33",
+      "source_ja_raw": "【法子】\\nそれじゃ、株してみましょう。",
+      "source_ja_applied": "【法子】\\nそれじゃ、株してみましょう。",
+      "source_ja_reviewed": "【法子】\\nそれじゃ、株してみましょう。",
+      "old_translation": "【노리코】\\n 그럼, 밀어 봅시다.",
+      "new_translation": "【노리코】\\n그럼, 눌러 보자.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2986,
+      "source_index": "0x0008eb69",
+      "source_ja_raw": "【法子】\\n………",
+      "source_ja_applied": "【法子】\\n………",
+      "source_ja_reviewed": "【法子】\\n………",
+      "old_translation": "【노리코】\\n………",
+      "new_translation": "【노리코】\\n………",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2987,
+      "source_index": "0x0008eb8a",
+      "source_ja_raw": "【ドアフォン】\\nはい…\\nどちら様ですか？",
+      "source_ja_applied": "【ドアフォン】\\nはい…\\nどちら様ですか？",
+      "source_ja_reviewed": "【ドアフォン】\\nはい…\\nどちら様ですか？",
+      "old_translation": "【도어폰】\\n예…\\n어떻습니까?",
+      "new_translation": "【도어폰】\\n네……\\n누구세요?",
+      "speaker": "도어폰",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2988,
+      "source_index": "0x0008ebb6",
+      "source_ja_raw": "【法子】\\nあっ、私、斉藤光志さんの代理人をしてます\\n弁護士の新城法子と申します。",
+      "source_ja_applied": "【法子】\\nあっ、私、斉藤光志さんの代理人をしてます\\n弁護士の新城法子と申します。",
+      "source_ja_reviewed": "【法子】\\nあっ、私、斉藤光志さんの代理人をしてます\\n弁護士の新城法子と申します。",
+      "old_translation": "【노리코】\\n아, 나, 사이토 코우지씨의\\n대리인을\\n하고 있습니다\\n변호사의 신조 노리코라고 합니다.",
+      "new_translation": "【노리코】\\n아, 저는 사이토 코우지 씨의\\n대리인인\\n변호사 신조 노리코라고 합니다.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2989,
+      "source_index": "0x0008ec07",
+      "source_ja_raw": "【法子】\\n斉藤光志さんに頼まれて、\\n部屋の中をちょっと調べたいので、\\n鍵をお借りしたいのですが…？",
+      "source_ja_applied": "【法子】\\n斉藤光志さんに頼まれて、\\n部屋の中をちょっと調べたいので、\\n鍵をお借りしたいのですが…？",
+      "source_ja_reviewed": "【法子】\\n斉藤光志さんに頼まれて、\\n部屋の中をちょっと調べたいので、\\n鍵をお借りしたいのですが…？",
+      "old_translation": "【노리코】\\n사이토 코우지씨에게 부탁해,\\n방안을 조금 조사하고 싶기 때문에,\\n열쇠를 빌리고 싶습니다만…?",
+      "new_translation": "【노리코】\\n사이토 코우지 씨의 부탁으로\\n방 안을 좀 조사하고 싶어서\\n열쇠를 빌리고 싶은데요……?",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2990,
+      "source_index": "0x0008ec5d",
+      "source_ja_raw": "【ドアフォン】\\nあぁ、この前の弁護士さんね。\\n少々お待ち下さい。",
+      "source_ja_applied": "【ドアフォン】\\nあぁ、この前の弁護士さんね。\\n少々お待ち下さい。",
+      "source_ja_reviewed": "【ドアフォン】\\nあぁ、この前の弁護士さんね。\\n少々お待ち下さい。",
+      "old_translation": "【도어폰】\\n아아, 앞의 변호사 씨. \\n조금 기다려 주세요.",
+      "new_translation": "【도어폰】\\n아, 전에 오셨던 변호사님이군요.\\n잠시만 기다려 주세요.",
+      "speaker": "도어폰",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2991,
+      "source_index": "0x0008ec9d",
+      "source_ja_raw": "【法子】\\n………",
+      "source_ja_applied": "【法子】\\n………",
+      "source_ja_reviewed": "【法子】\\n………",
+      "old_translation": "【노리코】\\n………",
+      "new_translation": "【노리코】\\n………",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2992,
+      "source_index": "0x0008ecbe",
+      "source_ja_raw": "【法子】\\nふぅ…\\n初めてじゃないのに、金張するわ…",
+      "source_ja_applied": "【法子】\\nふぅ…\\n初めてじゃないのに、金張するわ…",
+      "source_ja_reviewed": "【法子】\\nふぅ…\\n初めてじゃないのに、金張するわ…",
+      "old_translation": "【노리코】\\n흠…\\n처음이 아닌데 금장할게...",
+      "new_translation": "【노리코】\\n후우……\\n처음 오는 것도 아닌데 긴장되네……",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2993,
+      "source_index": "0x0008ecf3",
+      "source_ja_raw": "【法子】\\n………",
+      "source_ja_applied": "【法子】\\n………",
+      "source_ja_reviewed": "【法子】\\n………",
+      "old_translation": "【노리코】\\n………",
+      "new_translation": "【노리코】\\n………",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2994,
+      "source_index": "0x0008ed1e",
+      "source_ja_raw": "【管理人】\\nお待たせしました。\\nこちらが鍵になります。",
+      "source_ja_applied": "【管理人】\\nお待たせしました。\\nこちらが鍵になります。",
+      "source_ja_reviewed": "【管理人】\\nお待たせしました。\\nこちらが鍵になります。",
+      "old_translation": "【관리인】\\n기다리게 했습니다. \\n여기가 열쇠입니다.",
+      "new_translation": "【관리인】\\n기다리게 했습니다.\\n여기 열쇠입니다.",
+      "speaker": "관리인",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2995,
+      "source_index": "0x0008ed54",
+      "source_ja_raw": "【法子】\\nあっ、ありがとうございます。\\n身分証間書を見せるんでしたね…",
+      "source_ja_applied": "【法子】\\nあっ、ありがとうございます。\\n身分証間書を見せるんでしたね…",
+      "source_ja_reviewed": "【法子】\\nあっ、ありがとうございます。\\n身分証間書を見せるんでしたね…",
+      "old_translation": "【노리코】\\n아, 고마워.\\n신분증을 보여주었어요...",
+      "new_translation": "【노리코】\\n아, 감사합니다.\\n신분증명서를 보여 드려야 했죠……",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2996,
+      "source_index": "0x0008ed96",
+      "source_ja_raw": "【管理人】\\nあぁ、いいですよ。\\nあなたの顔、覚えていますから。\\nそれでは帰るときに換しに来てくださいね。",
+      "source_ja_applied": "【管理人】\\nあぁ、いいですよ。\\nあなたの顔、覚えていますから。\\nそれでは帰るときに返しに来てくださいね。",
+      "source_ja_reviewed": "【管理人】\\nあぁ、いいですよ。\\nあなたの顔、覚えていますから。\\nそれでは帰るときに返しに来てくださいね。",
+      "old_translation": "【관리인】\\n아아, 좋아요. \\n당신의 봐, 기억하니까. \\n그럼 돌아갈 때 바꾸러 오세요.",
+      "new_translation": "【관리인】\\n아, 괜찮습니다.\\n얼굴을 기억하고 있으니까요.\\n그럼 돌아가실 때 돌려주러 오세요.",
+      "speaker": "관리인",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2997,
+      "source_index": "0x0008edeb",
+      "source_ja_raw": "【法子】\\nはい、わかりました。\\nそれでは少しお借りします。",
+      "source_ja_applied": "【法子】\\nはい、わかりました。\\nそれでは少しお借りします。",
+      "source_ja_reviewed": "【法子】\\nはい、わかりました。\\nそれでは少しお借りします。",
+      "old_translation": "【노리코】\\n네, 알겠습니다.\\n그럼 몇 가지 여쭤볼게요.",
+      "new_translation": "【노리코】\\n네, 알겠습니다.\\n그럼 잠시 빌리겠습니다.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2998,
+      "source_index": "0x0008ee39",
+      "source_ja_raw": "【法子】\\nもう少しここにいましょう。",
+      "source_ja_applied": "【法子】\\nもう少しここにいましょう。",
+      "source_ja_reviewed": "【法子】\\nもう少しここにいましょう。",
+      "old_translation": "【노리코】\\n 좀 더 여기 가자.",
+      "new_translation": "【노리코】\\n조금 더 여기 있자.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 2999,
+      "source_index": "0x0008ee74",
+      "source_ja_raw": "【法子】\\n管理人さんの部屋ね。",
+      "source_ja_applied": "【法子】\\n管理人さんの部屋ね。",
+      "source_ja_reviewed": "【法子】\\n管理人さんの部屋ね。",
+      "old_translation": "【노리코】\\n관리인씨의 방이군요.",
+      "new_translation": "【노리코】\\n관리인 아저씨의 방이네.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3000,
+      "source_index": "0x0008ee9f",
+      "source_ja_raw": "【法子】\\nコウジの部屋の鍵は借りたし、\\n今は用事がないわ。",
+      "source_ja_applied": "【法子】\\nコウジの部屋の鍵は借りたし、\\n今は用事がないわ。",
+      "source_ja_reviewed": "【法子】\\nコウジの部屋の鍵は借りたし、\\n今は用事がないわ。",
+      "old_translation": "【노리코】\\n코우지의 방의 열쇠는 빌렸고,\\n지금은 용사가 없어.",
+      "new_translation": "【노리코】\\n코우지 방 열쇠는 빌렸고,\\n지금은 볼일이 없어.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3001,
+      "source_index": "0x0008eedd",
+      "source_ja_raw": "【法子】\\n光志の部屋は一番奥よ。",
+      "source_ja_applied": "【法子】\\n光志の部屋は一番奥よ。",
+      "source_ja_reviewed": "【法子】\\n光志の部屋は一番奥よ。",
+      "old_translation": "【노리코】\\n코우지의 방은 제일 안쪽이야.",
+      "new_translation": "【노리코】\\n코우지 방은 가장 안쪽이야.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3002,
+      "source_index": "0x0008ef18",
+      "source_ja_raw": "【法子】\\n…鍵が掛かっていて入れないわ。",
+      "source_ja_applied": "【法子】\\n…鍵が掛かっていて入れないわ。",
+      "source_ja_reviewed": "【法子】\\n…鍵が掛かっていて入れないわ。",
+      "old_translation": "【노리코】\\n...열쇠가 걸려 있어 넣지 않아.",
+      "new_translation": "【노리코】\\n……열쇠가 잠겨 있어서 들어갈 수\\n없어.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3003,
+      "source_index": "0x0008ef59",
+      "source_ja_raw": "【法子】\\n管理人さんから借りた鍵を使いましょう。",
+      "source_ja_applied": "【法子】\\n管理人さんから借りた鍵を使いましょう。",
+      "source_ja_reviewed": "【法子】\\n管理人さんから借りた鍵を使いましょう。",
+      "old_translation": "【노리코】\\n관리인으로부터 빌린 열쇠를\\n고용합시다.",
+      "new_translation": "【노리코】\\n관리인 아저씨에게 빌린 열쇠를\\n쓰자.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3004,
+      "source_index": "0x0008ef98",
+      "source_ja_raw": "【法子】\\nそれじゃ入りましょう。",
+      "source_ja_applied": "【法子】\\nそれじゃ入りましょう。",
+      "source_ja_reviewed": "【法子】\\nそれじゃ入りましょう。",
+      "old_translation": "【노리코】\\n그럼 들어가자.",
+      "new_translation": "【노리코】\\n그럼 들어가 보자.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3005,
+      "source_index": "0x0008f095",
+      "source_ja_raw": "【法子】\\nコウジの部屋よ。\\n片付いていてビックリ。",
+      "source_ja_applied": "【法子】\\nコウジの部屋よ。\\n片付いていてビックリ。",
+      "source_ja_reviewed": "【法子】\\nコウジの部屋よ。\\n片付いていてビックリ。",
+      "old_translation": "【노리코】\\n코우지의 방이야. \\n독립하고 깜짝.",
+      "new_translation": "【노리코】\\n코우지 방이네.\\n정리되어 있어서 놀랐어.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3006,
+      "source_index": "0x0008f177",
+      "source_ja_raw": "【法子】\\n特に気になるものはなかったわ。",
+      "source_ja_applied": "【法子】\\n特に気になるものはなかったわ。",
+      "source_ja_reviewed": "【法子】\\n特に気になるものはなかったわ。",
+      "old_translation": "【노리코】\\n특히 신경이 쓰이는 것은 없었어.",
+      "new_translation": "【노리코】\\n특별히 신경 쓰이는 건 없었어.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3007,
+      "source_index": "0x0008f1a5",
+      "source_ja_raw": "【法子】\\n布眼以外、何もないわ…",
+      "source_ja_applied": "【法子】\\n布眼以外、何もないわ…",
+      "source_ja_reviewed": "【法子】\\n布眼以外、何もないわ…",
+      "old_translation": "【노리코】\\n포선 이외, 아무것도 없어…",
+      "new_translation": "【노리코】\\n이불 말고는 아무것도 없네……",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3008,
+      "source_index": "0x0008f1d3",
+      "source_ja_raw": "【法子】\\n慎所も片付いているわね。\\nもしかして証拠品を株収する恋に、\\n警察の方で片付けてくれたのかな？",
+      "source_ja_applied": "【法子】\\n慎所も片付いているわね。\\nもしかして証拠品を株収する恋に、\\n警察の方で片付けてくれたのかな？",
+      "source_ja_reviewed": "台所も片付いているわね。もしかして証拠品を押収する際に、警察の方で片付けてくれたのかな？",
+      "old_translation": "【노리코】\\n보소도 독부하고 있군요. \\n 혹시 증거품을 압주할 때, \\n경찰 쪽으로 독립해 준 것일까?",
+      "new_translation": "【노리코】\\n주방도 정리되어 있네.\\n혹시 경찰이 증거품을 압수할 때\\n정리해 준 걸까?",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3009,
+      "source_index": "0x0008f234",
+      "source_ja_raw": "【法子】\\nもう調査を終えて、外に出る？",
+      "source_ja_applied": "【法子】\\nもう調査を終えて、外に出る？",
+      "source_ja_reviewed": "【法子】\\nもう調査を終えて、外に出る？",
+      "old_translation": "【노리코】\\n이제 조사를 마치고, 밖에 나간다?",
+      "new_translation": "【노리코】\\n이제 조사를 끝내고 밖으로 나갈까?",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3010,
+      "source_index": "0x0008f279",
+      "source_ja_raw": "【法子】\\nそうね。",
+      "source_ja_applied": "【法子】\\nそうね。",
+      "source_ja_reviewed": "【法子】\\nそうね。",
+      "old_translation": "【노리코】\\n그래.",
+      "new_translation": "【노리코】\\n그렇네.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3011,
+      "source_index": "0x0008f299",
+      "source_ja_raw": "【法子】\\nこれ以上調べても何もでないだろうし、\\n今日は帰りましょう。",
+      "source_ja_applied": "【法子】\\nこれ以上調べても何もでないだろうし、\\n今日は帰りましょう。",
+      "source_ja_reviewed": "【法子】\\nこれ以上調べても何もでないだろうし、\\n今日は帰りましょう。",
+      "old_translation": "【노리코】\\n더 이상 조사해도 아무것도 아니고,\\n오늘은 돌아가자.",
+      "new_translation": "【노리코】\\n더 조사해도 아무것도 나오지 않을\\n테니\\n오늘은 돌아가자.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3012,
+      "source_index": "0x0008f2df",
+      "source_ja_raw": "【法子】\\nううん、まだ調査するところが残ってるわ。\\nもう少しここにいましょう。",
+      "source_ja_applied": "【法子】\\nううん、まだ調査するところが残ってるわ。\\nもう少しここにいましょう。",
+      "source_ja_reviewed": "【法子】\\nううん、まだ調査するところが残ってるわ。\\nもう少しここにいましょう。",
+      "old_translation": "【노리코】\\n응, 아직 조사하는 곳이 타고\\n있어. \\n조금 더 가자.",
+      "new_translation": "【노리코】\\n아니, 아직 조사할 곳이 남아\\n있어.\\n조금 더 여기 있자.",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3013,
+      "source_index": "0x0008f386",
+      "source_ja_raw": "【法子】\\n光志のアパートを調べてきた結果は\\nこんな感じ…",
+      "source_ja_applied": "【法子】\\n光志のアパートを調べてきた結果は\\nこんな感じ…",
+      "source_ja_reviewed": "【法子】\\n光志のアパートを調べてきた結果は\\nこんな感じ…",
+      "old_translation": "【노리코】\\n코우지의 아파트를 조사해 온 결과는\\n이런 느낌…",
+      "new_translation": "【노리코】\\n코우지의 아파트를 조사한 결과는\\n이런 내용이었어……",
+      "speaker": "노리코",
+      "scene": "코우지 아파트 조사",
+      "relationship_context": "노리코는 관리인에게 열쇠를 빌려 코우지의 아파트를 조사하지만 경찰이 증거품을 압수해 남은 단서는 거의 없다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3014,
+      "source_index": "0x0008f517",
+      "source_ja_raw": "【法子】\\n（ここが都内のタクシー会各を管理してる\\n註都タクシーセンターね）",
+      "source_ja_applied": "【法子】\\n（ここが都内のタクシー会各を管理してる\\n首都タクシーセンターね）",
+      "source_ja_reviewed": "（ここが都内のタクシー会社を管理してる首都タクシーセンターね）",
+      "old_translation": "【노리코】\\n(여기가 도내의 택시 회사를\\n관리하고\\n있는\\n중도 택시 센터네)",
+      "new_translation": "【노리코】\\n(여기가 도내 택시 회사를\\n관리하는 수도 택시 센터네.)",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [
+        "택시"
+      ],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3015,
+      "source_index": "0x0008f58b",
+      "source_ja_raw": "【法子】\\n（コウジの濃車記録が残ってればいいけど……）",
+      "source_ja_applied": "【法子】\\n（コウジの乗車記録が残ってればいいけど……）",
+      "source_ja_reviewed": "【法子】\\n（コウジの乗車記録が残ってればいいけど……）",
+      "old_translation": "【노리코】\\n(코우지의 농차 기록이 타면\\n좋지만…",
+      "new_translation": "【노리코】\\n(코우지의 승차 기록이 남아 있으면\\n좋겠지만……)",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3016,
+      "source_index": "0x0008f5ef",
+      "source_ja_raw": "【法子】\\n（註都タクシーセンターよ）",
+      "source_ja_applied": "【法子】\\n（首都タクシーセンターよ）",
+      "source_ja_reviewed": "【法子】\\n（首都タクシーセンターよ）",
+      "old_translation": "【노리코】\\n(중도 택시 센터여)",
+      "new_translation": "【노리코】\\n(수도 택시 센터네.)",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [
+        "택시"
+      ],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3017,
+      "source_index": "0x0008f6d9",
+      "source_ja_raw": "【法子】\\n（１算が窓口になってるわ）",
+      "source_ja_applied": "【法子】\\n（１算が窓口になってるわ）",
+      "source_ja_reviewed": "（１階が窓口になってるわ）",
+      "old_translation": "【노리코】\\n(1격이 창구가 되어 있어)",
+      "new_translation": "【노리코】\\n(1층이 창구로 되어 있어.)",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3018,
+      "source_index": "0x0008f7e0",
+      "source_ja_raw": "［濃車記録について］",
+      "source_ja_applied": "［乗車記録について］",
+      "source_ja_reviewed": "［乗車記録について］",
+      "old_translation": "[농차 기록에 대해서]",
+      "new_translation": "[승차 기록에 대해]",
+      "speaker": "장면 대사",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3019,
+      "source_index": "0x0008f7f5",
+      "source_ja_raw": "［定料日について］",
+      "source_ja_applied": "［定料日について］",
+      "source_ja_reviewed": "［定休日について］",
+      "old_translation": "［정기휴일에 대해］",
+      "new_translation": "[정기 휴일에 대해]",
+      "speaker": "장면 대사",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3020,
+      "source_index": "0x0008fb21",
+      "source_ja_raw": "【法子】\\n（受付ね。\\nとりあえず話を聞いてみましょう）",
+      "source_ja_applied": "【法子】\\n（受付ね。\\nとりあえず話を聞いてみましょう）",
+      "source_ja_reviewed": "（受付ね。とりあえず話を聞いてみましょう）",
+      "old_translation": "【노리코】\\n(나카가와네.\\n일단 이야기를 들어보자)",
+      "new_translation": "【노리코】\\n(접수처네.\\n일단 이야기를 들어 보자.)",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3021,
+      "source_index": "0x0008fb88",
+      "source_ja_raw": "【法子】\\nちょっと\\nお聞きしたいことがあるのですが、\\nよろしいですか？",
+      "source_ja_applied": "【法子】\\nちょっと\\nお聞きしたいことがあるのですが、\\nよろしいですか？",
+      "source_ja_reviewed": "【法子】\\nちょっと\\nお聞きしたいことがあるのですが、\\nよろしいですか？",
+      "old_translation": "【노리코】\\n조금\\n두고 싶은 일이 있습니다만,\\n좋아요?",
+      "new_translation": "【노리코】\\n잠깐\\n여쭤보고 싶은 게 있는데요,\\n괜찮을까요?",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3022,
+      "source_index": "0x0008fbe7",
+      "source_ja_raw": "【受付】\\nはい、なんでしょうか？",
+      "source_ja_applied": "【受付】\\nはい、なんでしょうか？",
+      "source_ja_reviewed": "【受付】\\nはい、なんでしょうか？",
+      "old_translation": "【나카가와】\\n 네, 무엇입니까?",
+      "new_translation": "【접수처】\\n네, 무슨 일이신가요?",
+      "speaker": "접수처",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3023,
+      "source_index": "0x0008fc25",
+      "source_ja_raw": "【法子】\\n私、弁護士の新城法子と申します。",
+      "source_ja_applied": "【法子】\\n私、弁護士の新城法子と申します。",
+      "source_ja_reviewed": "【法子】\\n私、弁護士の新城法子と申します。",
+      "old_translation": "【노리코】\\n나, 변호사의 신조 노리코라고\\n합니다.",
+      "new_translation": "【노리코】\\n저는 변호사 신조 노리코라고\\n합니다.",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3024,
+      "source_index": "0x0008fc71",
+      "source_ja_raw": "【法子】\\nある事件について調査しているのですが、\\n被疑者《ひぎしゃ》の方が事件発生恋、\\nタクシーに濃っていたと言っています。",
+      "source_ja_applied": "【法子】\\nある事件について調査しているのですが、\\n被疑者《ひぎしゃ》の方が事件発生恋、\\nタクシーに乗っていたと言っています。",
+      "source_ja_reviewed": "ある事件について調査しているのですが、被疑者の方が事件発生時、タクシーに乗っていたと言っています。",
+      "old_translation": "【노리코】\\n어떤 사건에 대해서 조사하고\\n있습니다만,\\n피의자 쪽이 사건 발생시,\\n택시에 진해졌다고 말하고 있습니다.",
+      "new_translation": "【노리코】\\n어떤 사건을 조사하고 있는데요,\\n피의자가 사건 발생 당시\\n택시를 타고 있었다고 합니다.",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [
+        "택시"
+      ],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3025,
+      "source_index": "0x0008fcee",
+      "source_ja_raw": "【法子】\\nそれで……",
+      "source_ja_applied": "【法子】\\nそれで……",
+      "source_ja_reviewed": "【法子】\\nそれで……",
+      "old_translation": "【노리코】\\n그래서…",
+      "new_translation": "【노리코】\\n그래서……",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3026,
+      "source_index": "0x0008fd33",
+      "source_ja_raw": "【受付】\\nああ、斉藤光志さんの件ですね。",
+      "source_ja_applied": "【受付】\\nああ、斉藤光志さんの件ですね。",
+      "source_ja_reviewed": "【受付】\\nああ、斉藤光志さんの件ですね。",
+      "old_translation": "【나카가와】\\n아, 사이토 코우지씨의 건이군요.",
+      "new_translation": "【접수처】\\n아, 사이토 코우지 씨 건이군요.",
+      "speaker": "접수처",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3027,
+      "source_index": "0x0008fd7a",
+      "source_ja_raw": "【法子】\\nあ……ご存じでしたか？",
+      "source_ja_applied": "【法子】\\nあ……ご存じでしたか？",
+      "source_ja_reviewed": "【法子】\\nあ……ご存じでしたか？",
+      "old_translation": "【노리코】\\n아… … 알고 계셨나요?",
+      "new_translation": "【노리코】\\n아…… 알고 계셨나요?",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3028,
+      "source_index": "0x0008fdc7",
+      "source_ja_raw": "【受付】\\nええ、警察の方からも\\nつい先日、同じ質問をされましたから。",
+      "source_ja_applied": "【受付】\\nええ、警察の方からも\\nつい先日、同じ質問をされましたから。",
+      "source_ja_reviewed": "【受付】\\nええ、警察の方からも\\nつい先日、同じ質問をされましたから。",
+      "old_translation": "【나카가와】\\n그래, 경찰 쪽으로부터도\\n그전에, 같은 전문을 했으니까.",
+      "new_translation": "【접수처】\\n네, 경찰에서도\\n며칠 전에 같은 질문을 받았거든요.",
+      "speaker": "접수처",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3029,
+      "source_index": "0x0008fe2d",
+      "source_ja_raw": "【受付】\\n今副１１日の０恋から１恋にかけて、\\n路上観挙《みやかみぎんざ》から藤代町《ふじしろちょう》までの濃車記録があるかと\\n聞かれました。",
+      "source_ja_applied": "【受付】\\n今副１１日の０恋から１恋にかけて、\\n宮上銀挙《みやかみぎんざ》から藤代町《ふじしろちょう》までの乗車記録があるかと\\n聞かれました。",
+      "source_ja_reviewed": "今月１１日の０時から１時にかけて、宮上銀座から藤代町までの乗車記録があるかと聞かれました。",
+      "old_translation": "【접수원】\\n이번 달 11일 0시부터 1시 사이에\\n미야카미 긴자에서 후지시로초까지\\n승차 기록이 있느냐고\\n물으셨습니다.",
+      "new_translation": "【접수처】\\n11일 0시부터 1시 사이에\\n미야카미 긴자에서 후지시로초까지의\\n승차 기록이 있는지 물어보셨습니다.",
+      "speaker": "접수처",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3030,
+      "source_index": "0x0008feb8",
+      "source_ja_raw": "【法子】\\nそうだったんですね……\\n私もまったく同じことを\\n聞こうと思っていました。",
+      "source_ja_applied": "【法子】\\nそうだったんですね……\\n私もまったく同じことを\\n聞こうと思っていました。",
+      "source_ja_reviewed": "【法子】\\nそうだったんですね……\\n私もまったく同じことを\\n聞こうと思っていました。",
+      "old_translation": "【노리코】\\n그랬어요…\\n나도 똑같은 일을\\n놓으려고 무거웠습니다.",
+      "new_translation": "【노리코】\\n그랬군요……\\n저도 완전히 같은 것을\\n물어보려고 했어요.",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3031,
+      "source_index": "0x0008ff1a",
+      "source_ja_raw": "【法子】\\n（受付ね）",
+      "source_ja_applied": "【法子】\\n（受付ね）",
+      "source_ja_reviewed": "【法子】\\n（受付ね）",
+      "old_translation": "【노리코】\\n(나카가와네)",
+      "new_translation": "【노리코】\\n(접수처네.)",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3032,
+      "source_index": "0x0008ff54",
+      "source_ja_raw": "【法子】\\n（今のところ、特に用事はないわ）",
+      "source_ja_applied": "【法子】\\n（今のところ、特に用事はないわ）",
+      "source_ja_reviewed": "【法子】\\n（今のところ、特に用事はないわ）",
+      "old_translation": "【노리코】\\n(현재, 특히 용사는 없어)",
+      "new_translation": "【노리코】\\n(지금은 딱히 볼일이 없어.)",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3033,
+      "source_index": "0x00090066",
+      "source_ja_raw": "【法子】\\n（もう調査を終えて、外に出ようかしら？）",
+      "source_ja_applied": "【法子】\\n（もう調査を終えて、外に出ようかしら？）",
+      "source_ja_reviewed": "【法子】\\n（もう調査を終えて、外に出ようかしら？）",
+      "old_translation": "【노리코】\\n(이제 조사를 마치고 밖에\\n나갈까?)",
+      "new_translation": "【노리코】\\n(이제 조사를 끝내고 밖으로\\n나갈까?)",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3034,
+      "source_index": "0x0009011a",
+      "source_ja_raw": "【法子】\\nお礒《いそが》しい中、ありがとうございました。",
+      "source_ja_applied": "【法子】\\nお礒《いそが》しい中、ありがとうございました。",
+      "source_ja_reviewed": "【法子】\\nお礒《いそが》しい中、ありがとうございました。",
+      "old_translation": "【노리코】\\n칭찬하는 동안 감사합니다.",
+      "new_translation": "【노리코】\\n바쁘신 중에 감사합니다.",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3035,
+      "source_index": "0x00090174",
+      "source_ja_raw": "【受付】\\nいえ、どういたしまして。",
+      "source_ja_applied": "【受付】\\nいえ、どういたしまして。",
+      "source_ja_reviewed": "【受付】\\nいえ、どういたしまして。",
+      "old_translation": "【나카가와】\\n아니, 어쩐지.",
+      "new_translation": "【접수처】\\n아닙니다, 별말씀을요.",
+      "speaker": "접수처",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3036,
+      "source_index": "0x000901cc",
+      "source_ja_raw": "【法子】\\n（今日はこれくらいにしておきましょう）",
+      "source_ja_applied": "【法子】\\n（今日はこれくらいにしておきましょう）",
+      "source_ja_reviewed": "【法子】\\n（今日はこれくらいにしておきましょう）",
+      "old_translation": "【노리코】\\n(오늘은 이 정도로 해 두자)",
+      "new_translation": "【노리코】\\n(오늘은 이 정도로 해 두자.)",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3037,
+      "source_index": "0x0009022a",
+      "source_ja_raw": "【法子】\\n（もう少しここにいましょう）",
+      "source_ja_applied": "【法子】\\n（もう少しここにいましょう）",
+      "source_ja_reviewed": "【法子】\\n（もう少しここにいましょう）",
+      "old_translation": "【노리코】\\n(조금 더 여기 있자)",
+      "new_translation": "【노리코】\\n(조금 더 여기 있자.)",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3038,
+      "source_index": "0x0009027f",
+      "source_ja_raw": "【法子】\\n（まだ話を聞いてないわ）",
+      "source_ja_applied": "【法子】\\n（まだ話を聞いてないわ）",
+      "source_ja_reviewed": "【法子】\\n（まだ話を聞いてないわ）",
+      "old_translation": "【노리코】\\n(아직 이야기를 두지 않았어)",
+      "new_translation": "【노리코】\\n(아직 이야기를 듣지 못했어.)",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3039,
+      "source_index": "0x00090313",
+      "source_ja_raw": "【法子】\\n註都タクシーセンターで聞いてきた話は、\\nこんな感じだったわ……",
+      "source_ja_applied": "【法子】\\n首都タクシーセンターで聞いてきた話は、\\nこんな感じだったわ……",
+      "source_ja_reviewed": "【法子】\\n首都タクシーセンターで聞いてきた話は、\\nこんな感じだったわ……",
+      "old_translation": "【노리코】\\n중도택시센터에서 두고 온 이야기는,\\n이런 느낌이었어…",
+      "new_translation": "【노리코】\\n수도 택시 센터에서 들은 이야기는\\n이런 내용이었어……",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [
+        "택시"
+      ],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3040,
+      "source_index": "0x000903a3",
+      "source_ja_raw": "【光志】\\nあちゃー\\nよりによって、白タクかよ……",
+      "source_ja_applied": "【光志】\\nあちゃー\\nよりによって、白タクかよ……",
+      "source_ja_reviewed": "あちゃー。よりによって、白タクかよ……",
+      "old_translation": "【코우지】\\n아챠-\\n보다에 의해, 흰색 탁인가…",
+      "new_translation": "【코우지】\\n아차,\\n하필이면 불법 택시라니……",
+      "speaker": "코우지",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3041,
+      "source_index": "0x00090411",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3042,
+      "source_index": "0x00090470",
+      "source_ja_raw": "【光志】\\nこれは都《つ》み、かもな。\\nオレのアリバイを証間する方法は\\nもうないかもしれない。",
+      "source_ja_applied": "【光志】\\nこれは詰《つ》み、かもな。\\nオレのアリバイを証間する方法は\\nもうないかもしれない。",
+      "source_ja_reviewed": "これは詰み、かもな。オレのアリバイを証明する方法はもうないかもしれない。",
+      "old_translation": "【코우지】\\n이것은 쓰미, 지도. \\n나의 알리바이를 증명하는 방법은\\n더 이상 없을지도 모른다.",
+      "new_translation": "【코우지】\\n이건 끝난 걸지도 모르겠네.\\n내 알리바이를 증명할 방법이\\n이제 없을지도 몰라.",
+      "speaker": "코우지",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3043,
+      "source_index": "0x000904e1",
+      "source_ja_raw": "【法子】\\nあまり考えたくはないけど、\\nそうかもしれないね……",
+      "source_ja_applied": "【法子】\\nあまり考えたくはないけど、\\nそうかもしれないね……",
+      "source_ja_reviewed": "【法子】\\nあまり考えたくはないけど、\\nそうかもしれないね……",
+      "old_translation": "【노리코】\\n별로 생각하고 싶지는 않지만,\\n그럴지도 모르겠네…",
+      "new_translation": "【노리코】\\n생각하고 싶지는 않지만,\\n그럴지도 모르겠네……",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3044,
+      "source_index": "0x00090555",
+      "source_ja_raw": "【光志】\\nまあ、仕方ない。\\n違《ちが》う方向から攻《せ》めてみるか！",
+      "source_ja_applied": "【光志】\\nまあ、仕方ない。\\n違《ちが》う方向から攻《せ》めてみるか！",
+      "source_ja_reviewed": "【光志】\\nまあ、仕方ない。\\n違《ちが》う方向から攻《せ》めてみるか！",
+      "old_translation": "【코우지】\\n음, 어쩔 수 없다. \\n다른 방향에서 압박해 볼까!",
+      "new_translation": "【코우지】\\n뭐, 어쩔 수 없지.\\n다른 방향에서 공략해 볼까!",
+      "speaker": "코우지",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3045,
+      "source_index": "0x000905d4",
+      "source_ja_raw": "【法子】\\n……コウジがあきらめない限り、\\n私もあきらめないわ。",
+      "source_ja_applied": "【法子】\\n……コウジがあきらめない限り、\\n私もあきらめないわ。",
+      "source_ja_reviewed": "【法子】\\n……コウジがあきらめない限り、\\n私もあきらめないわ。",
+      "old_translation": "【노리코】\\n……코우지가 포기하지 않는 급료,\\n나도 포기하지 않아.",
+      "new_translation": "【노리코】\\n……코우지가 포기하지 않는 한\\n나도 포기하지 않을 거야.",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3046,
+      "source_index": "0x00090633",
+      "source_ja_raw": "【法子】\\nきっと別の枚破口《とっぱこう》が見つかるはず……\\n調査を活めましょう。",
+      "source_ja_applied": "【法子】\\nきっと別の枚破口《とっぱこう》が見つかるはず……\\n調査を活めましょう。",
+      "source_ja_reviewed": "きっと別の突破口《とっぱこう》が見つかるはず……調査を進めましょう。",
+      "old_translation": "【노리코】\\n확실히 다른 적파구가 발견될\\n것입니다......\\n조사를 진행합시다.",
+      "new_translation": "【노리코】\\n분명 다른 돌파구를 찾을 수 있을\\n거야……\\n조사를 계속하자.",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3047,
+      "source_index": "0x000906a0",
+      "source_ja_raw": "【光志】\\nあぁ。\\nやってやる！",
+      "source_ja_applied": "【光志】\\nあぁ。\\nやってやる！",
+      "source_ja_reviewed": "【光志】\\nあぁ。\\nやってやる！",
+      "old_translation": "【코우지】\\n아아. \\n 하겠습니다!",
+      "new_translation": "【코우지】\\n그래.\\n해내고 말겠어!",
+      "speaker": "코우지",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3048,
+      "source_index": "0x00090739",
+      "source_ja_raw": "【法子】\\nそれで実際にはどうなんでしょうか？\\n濃車記録、ありますか？",
+      "source_ja_applied": "【法子】\\nそれで実際にはどうなんでしょうか？\\n乗車記録、ありますか？",
+      "source_ja_reviewed": "【法子】\\nそれで実際にはどうなんでしょうか？\\n乗車記録、ありますか？",
+      "old_translation": "【노리코】\\n그래서 실제로는 어떻습니까? \\n 농차 기록, 있나요?",
+      "new_translation": "【노리코】\\n그래서 실제로는 어떤가요?\\n승차 기록이 있나요?",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3049,
+      "source_index": "0x0009079d",
+      "source_ja_raw": "【受付】\\nいえ、ありません。",
+      "source_ja_applied": "【受付】\\nいえ、ありません。",
+      "source_ja_reviewed": "【受付】\\nいえ、ありません。",
+      "old_translation": "【나카가와】\\n아니, 없습니다.",
+      "new_translation": "【접수처】\\n아니요, 없습니다.",
+      "speaker": "접수처",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 3050,
+      "source_index": "0x000907d9",
+      "source_ja_raw": "【法子】\\nえっ……？\\nそ、そんな……\\n第退者の証言もあるんですよ！？",
+      "source_ja_applied": "【法子】\\nえっ……？\\nそ、そんな……\\n第三者の証言もあるんですよ！？",
+      "source_ja_reviewed": "【法子】\\nえっ……？\\nそ、そんな……\\n第三者の証言もあるんですよ！？",
+      "old_translation": "【노리코】\\n엣… \\n그, 그런......\\n무례자의 증언도 있어요! ?",
+      "new_translation": "【노리코】\\n네……?\\n그, 그럴 수가……\\n제삼자의 증언도 있는데요!?",
+      "speaker": "노리코",
+      "scene": "수도 택시 센터 조사",
+      "relationship_context": "노리코는 코우지의 승차 기록을 확인하러 수도 택시 센터에 가지만, 기록이 불법 택시와 관련되어 알리바이 입증이 어려워진다.",
+      "terms": [
+        "증언"
+      ],
+      "uncertainty": [
+        "원문 조각의 한자와 후리가나가 일부 훼손되어 문맥·프로젝트 확정표를 이용해 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    }
+  ]
+}

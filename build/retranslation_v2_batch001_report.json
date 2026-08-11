@@ -1,0 +1,15 @@
+{
+  "schema": "enkaku_retranslation_batch_v2_report",
+  "emulator_launched": false,
+  "source_rows": 9626,
+  "merged_rows": 9626,
+  "unique_offsets": 9626,
+  "alignment_ok": true,
+  "batch_entries": 250,
+  "changed": 220,
+  "rechecked_same_text": 30,
+  "outputs": [
+    "build\\retranslation_v2_batch001.json",
+    "build\\translation_ko_retranslated_v2.tsv"
+  ]
+}

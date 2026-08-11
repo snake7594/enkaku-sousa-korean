@@ -1,0 +1,195 @@
+{
+  "schema": "enkaku_translation_glossary_v2",
+  "policy": "전역 치환 금지. source_ja와 장면·화자를 함께 확인해 적용.",
+  "entries": [
+    {
+      "japanese": "被疑者",
+      "korean": "피의자",
+      "domain": "법률",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "被害者",
+      "korean": "피해자",
+      "domain": "법률",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "真犯人",
+      "korean": "진범",
+      "domain": "수사",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "犯人",
+      "korean": "범인",
+      "domain": "수사",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "人殺し",
+      "korean": "살인자/사람을 죽인 자",
+      "domain": "수사",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "取調べ",
+      "korean": "취조",
+      "domain": "법률",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "勾留",
+      "korean": "구류",
+      "domain": "법률",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "刑訴手続き",
+      "korean": "형사소송 절차",
+      "domain": "법률",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "司法取引",
+      "korean": "사법 거래",
+      "domain": "법률",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "アリバイ",
+      "korean": "알리바이",
+      "domain": "수사",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "現場保存",
+      "korean": "현장 보존",
+      "domain": "수사",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "防犯カメラ",
+      "korean": "방범 카메라",
+      "domain": "수사",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "指紋を拭き取る",
+      "korean": "지문을 닦아내다",
+      "domain": "수사",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "隠滅",
+      "korean": "인멸",
+      "domain": "수사",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "移植手術",
+      "korean": "이식 수술",
+      "domain": "의학",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "心臓移植",
+      "korean": "심장 이식",
+      "domain": "의학",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "腎臓移植手術",
+      "korean": "신장 이식 수술",
+      "domain": "의학",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "宮上銀座",
+      "korean": "미야카미 긴자",
+      "domain": "지명",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "藤代町",
+      "korean": "후지시로초",
+      "domain": "지명",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "播磨直正",
+      "korean": "하리마 나오마사",
+      "domain": "인명",
+      "confidence": "medium",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "新都タクシーセンター",
+      "korean": "신토 택시 센터",
+      "domain": "시설",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "水谷探偵事務所",
+      "korean": "미즈타니 탐정사무소",
+      "domain": "시설",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "桜蔭高校",
+      "korean": "오인 고등학교",
+      "domain": "시설",
+      "confidence": "medium",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "受け取り方",
+      "korean": "받아들이는 방식",
+      "domain": "일반",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "精力を吸い取る",
+      "korean": "기력을 빨아먹다",
+      "domain": "일반",
+      "confidence": "medium",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "彼",
+      "korean": "그/선행사 이름",
+      "domain": "대명사",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    },
+    {
+      "japanese": "彼女",
+      "korean": "그녀/선행사 이름",
+      "domain": "대명사",
+      "confidence": "high",
+      "conditions": "원문 복원 결과가 해당 표기일 때만 적용"
+    }
+  ]
+}

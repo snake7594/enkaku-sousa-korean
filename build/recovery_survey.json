@@ -1,0 +1,580 @@
+{
+  "overrides_meta": {
+    "version": 1,
+    "notes": "Model-assisted hand translation overrides; legacy and confirmation-updated Japanese keys are both retained.",
+    "by_order_len": 9626,
+    "by_japanese_applied_len": 10481,
+    "order_min": 0,
+    "order_max": 9625,
+    "sample_entry": {
+      "korean": "새로운 정보를 입수",
+      "japanese_reviewed": "新たな情報を入手",
+      "notes": "椋→報, 為→入으로 문맥 보정."
+    }
+  },
+  "notes_distribution": {
+    "empty_notes": 996,
+    "has_japanese_reviewed": 208,
+    "distinct_note_count": 27,
+    "top_notes": [
+      [
+        "대량 번역 초안. 화자명·주요 고유명사는 보호 후 복원했으며, kanji_review 항목은 문맥 재검토 필요.",
+        6660
+      ],
+      [
+        "행 순서 키로 materialize한 기존 Claude 번역; 원문·문맥 장부에서 복원.",
+        1785
+      ],
+      [
+        "",
+        996
+      ],
+      [
+        "추가 확정 한자·후리가나·반복 문맥을 반영한 번역.",
+        161
+      ],
+      [
+        "확장 글리프 [1381]=肢를 반영한 테스트 문자열 번역.",
+        2
+      ],
+      [
+        "椋→報, 為→入으로 문맥 보정.",
+        1
+      ],
+      [
+        "東廩→東京.",
+        1
+      ],
+      [
+        "홍보 문구의 문맥으로 着ち杜れる→勝ち取れる, 実無→次第를 보정.",
+        1
+      ],
+      [
+        "교수→누마, 授→崎로 문맥 및 ruby를 반영.",
+        1
+      ],
+      [
+        "重都→新都로 보정.",
+        1
+      ],
+      [
+        "氣半→前半, 終諒→終了, 童→物語로 문맥 보정.",
+        1
+      ],
+      [
+        "[202]는 他로 재확정되었으며, 이 문장은 真の他人(완전히 타인)으로 문맥 번역함.",
+        1
+      ],
+      [
+        "非紕口→非常口.",
+        1
+      ],
+      [
+        "[1057]는 人に七癖에서는 七지만 이 행에서는 문맥상 歴로 복원하는 충돌 글리프. [280]=付, [16]=次도 문맥 복원.",
+        1
+      ],
+      [
+        "[1221][481]ぎ의 정확한 문맥은 昼過ぎ로 확정. [1221] 단독 용례는 여전히 昼·晩·夜 후보로 보류.",
+        1
+      ],
+      [
+        "추가 확정 한자 [250]=母와 반복 문맥을 반영한 번역.",
+        1
+      ],
+      [
+        "확장 글리프 [1368]=猶와 [1164]=開를 반영한 문맥 번역.",
+        1
+      ],
+      [
+        "확장 글리프 [1369]=丁와 행별 충돌 보정 [732][1039]=褒美를 반영한 문맥 번역.",
+        1
+      ],
+      [
+        "확장 글리프 [1370]=須를 반영한 必須 문맥 번역.",
+        1
+      ],
+      [
+        "확장 글리프 [1371]=悶과 一悶着 후리가나를 반영한 문맥 번역.",
+        1
+      ],
+      [
+        "확장 글리프 [1372]=璧, 추가 확정 [610]=互·[227]=顔·[756]=雇를 반영한 문맥 번역.",
+        1
+      ],
+      [
+        "확장 글리프 [1373]=挫와 추가 확정 [162]=止를 반영한 문맥 번역.",
+        1
+      ],
+      [
+        "확장 글리프 [1374]=択와 추가 확정 [718]=悔·[84]=持를 반영한 문맥 번역.",
+        1
+      ],
+      [
+        "추가 확정 [243]=勝과 一目惚れした 행별 보정을 반영한 문맥 번역.",
+        1
+      ],
+      [
+        "확장 글리프 [1375]=嫉·[1376]=妬와 추가 확정 [243]=勝·[885]=好를 반영한 문맥 번역.",
+        1
+      ],
+      [
+        "확장 글리프 [1377]=血와 행별 충돌 보정 [281]=吐를 반영한 문맥 번역.",
+        1
+      ],
+      [
+        "확장 글리프 [1382]=師를 반영한 UI 문구.",
+        1
+      ]
+    ]
+  },
+  "ko_tsv": {
+    "translation_ko_clean.tsv": {
+      "rows": 9627,
+      "first3": [
+        [
+          "offset",
+          "lines",
+          "text"
+        ],
+        [
+          "0x0002ac87",
+          "1",
+          "새로운 정보를 입수"
+        ],
+        [
+          "0x0002b065",
+          "2",
+          "도쿄 게임쇼 버전은 여기까지입니다。\\n"
+        ]
+      ],
+      "offset_sorted": true,
+      "unique_offsets": 9627
+    },
+    "translation_ko_semantic_checked.tsv": {
+      "rows": 9654,
+      "first3": [
+        [
+          "offset",
+          "lines",
+          "text"
+        ],
+        [
+          "0x0002ac87",
+          "1",
+          "새로운 정보를 입수"
+        ],
+        [
+          "0x0002b065",
+          "2",
+          "도쿄 게임쇼 버전은 여기까지입니다。\\n"
+        ]
+      ],
+      "offset_sorted": true,
+      "unique_offsets": 9652
+    },
+    "translation_ko_quality_checked.tsv": {
+      "rows": 9627,
+      "first3": [
+        [
+          "offset",
+          "lines",
+          "text"
+        ],
+        [
+          "0x0002ac87",
+          "1",
+          "새로운 정보를 입수"
+        ],
+        [
+          "0x0002b065",
+          "2",
+          "도쿄 게임쇼 버전은 여기까지입니다。\\n"
+        ]
+      ],
+      "offset_sorted": true,
+      "unique_offsets": 9627
+    },
+    "translation_ko_runtime_final.tsv": {
+      "rows": 9627,
+      "first3": [
+        [
+          "offset",
+          "lines",
+          "text"
+        ],
+        [
+          "0x0002ac87",
+          "1",
+          "새로운 정보를 입수"
+        ],
+        [
+          "0x0002b065",
+          "2",
+          "도쿄 게임쇼 버전은 여기까지입니다。\\n"
+        ]
+      ],
+      "offset_sorted": true,
+      "unique_offsets": 9627
+    },
+    "translation_ko_ellipsis.tsv": {
+      "rows": 9627,
+      "first3": [
+        [
+          "offset",
+          "lines",
+          "text"
+        ],
+        [
+          "0x0002ac87",
+          "1",
+          "새로운 정보를 입수"
+        ],
+        [
+          "0x0002b065",
+          "2",
+          "도쿄 게임쇼 버전은 여기까지입니다。\\n"
+        ]
+      ],
+      "offset_sorted": true,
+      "unique_offsets": 9627
+    },
+    "translation_ko_pronoun.tsv": {
+      "rows": 9627,
+      "first3": [
+        [
+          "offset",
+          "lines",
+          "text"
+        ],
+        [
+          "0x0002ac87",
+          "1",
+          "새로운 정보를 입수"
+        ],
+        [
+          "0x0002b065",
+          "2",
+          "도쿄 게임쇼 버전은 여기까지입니다。\\n"
+        ]
+      ],
+      "offset_sorted": true,
+      "unique_offsets": 9627
+    },
+    "translation_ko_retranslated.tsv": {
+      "rows": 9627,
+      "first3": [
+        [
+          "offset",
+          "lines",
+          "text"
+        ],
+        [
+          "0x0002ac87",
+          "1",
+          "새로운 정보를 입수"
+        ],
+        [
+          "0x0002b065",
+          "2",
+          "도쿄 게임쇼 버전은 여기까지입니다。\\n"
+        ]
+      ],
+      "offset_sorted": true,
+      "unique_offsets": 9627
+    }
+  },
+  "source_tsv": {
+    "script_full_raw.tsv": {
+      "rows": 9627,
+      "first3": [
+        [
+          "offset",
+          "lines",
+          "text"
+        ],
+        [
+          "0x0002ac87",
+          "1",
+          "[0]たな[1][2]を[3][4]"
+        ],
+        [
+          "0x0002b065",
+          "2",
+          "[5][6]ゲームショウバージョンはここまでです。\\n"
+        ]
+      ],
+      "unique_offsets": 9627
+    },
+    "script_full_ja_corrected.tsv": {
+      "rows": 9627,
+      "first3": [
+        [
+          "offset",
+          "lines",
+          "text"
+        ],
+        [
+          "0x0002ac87",
+          "1",
+          "新たな情報を入手"
+        ],
+        [
+          "0x0002b065",
+          "2",
+          "東京ゲームショウバージョンはここまでです。\\n"
+        ]
+      ],
+      "unique_offsets": 9627
+    },
+    "script_full_ja.tsv": {
+      "rows": 9627,
+      "first3": [
+        [
+          "offset",
+          "lines",
+          "text"
+        ],
+        [
+          "0x0002ac87",
+          "1",
+          "新たな情報を入手"
+        ],
+        [
+          "0x0002b065",
+          "2",
+          "東京ゲームショウバージョンはここまでです。\\n"
+        ]
+      ],
+      "unique_offsets": 9627
+    }
+  },
+  "alignment_raw_vs_clean": {
+    "raw_rows": 9627,
+    "clean_rows": 9627,
+    "offsets_equal": true,
+    "raw_only": 0,
+    "clean_only": 0
+  },
+  "batches": {
+    "1": {
+      "type": "dict",
+      "top_keys": [
+        "schema",
+        "queue",
+        "batch",
+        "note",
+        "translations"
+      ],
+      "len": 5,
+      "sample": [
+        "schema",
+        "enkaku_retranslation_batch_v1"
+      ]
+    },
+    "2": {
+      "type": "dict",
+      "top_keys": [
+        "schema",
+        "queue",
+        "batch",
+        "note",
+        "translations"
+      ],
+      "len": 5,
+      "sample": [
+        "schema",
+        "enkaku_retranslation_batch_v1"
+      ]
+    },
+    "3": {
+      "type": "dict",
+      "top_keys": [
+        "schema",
+        "queue",
+        "batch",
+        "note",
+        "translations"
+      ],
+      "len": 5,
+      "sample": [
+        "schema",
+        "enkaku_retranslation_batch_v1"
+      ]
+    },
+    "4": {
+      "type": "dict",
+      "top_keys": [
+        "schema",
+        "queue",
+        "batch",
+        "note",
+        "translations"
+      ],
+      "len": 5,
+      "sample": [
+        "schema",
+        "enkaku_retranslation_batch_v1"
+      ]
+    }
+  },
+  "override_files": {
+    "translation_semantic_overrides.json": {
+      "top_keys": [
+        "schema",
+        "generated_from",
+        "policy",
+        "count",
+        "overrides"
+      ],
+      "generated_from_len": 3,
+      "generated_from_sample": "build\\translation_ko_clean.tsv",
+      "overrides_len": 424,
+      "overrides_sample": {
+        "offset": "0x00047b38",
+        "source": "【光志】\\n自分の不訪になるようなことまですべて話してくれたけど、\\n客観的な証言、証拠《しょうこ》が出ない限り、\\n信用はできない……",
+        "old_korean": "【코우지】\\n자신에게 불리할 만한 일까지\\n모두 말해 줬지만,\\n객관적인 증거가 나오지 않는 한\\n믿을\\n수는 없어……",
+        "korean": "【코우지】\n자신에게 불리할 만한 일까지\n모두 말해 줬지만,\n객관적인 증언이나 증거가 나오지 않는 한\n믿을 수는 없어……",
+        "reason": "source-conditioned semantic correction",
+        "confidence": "high"
+      }
+    },
+    "translation_quality_overrides.json": {
+      "top_keys": [
+        "schema",
+        "note",
+        "overrides"
+      ],
+      "overrides_len": 44,
+      "overrides_sample": {
+        "source_index": "0x0006bd1a",
+        "source_ja": "【マスター】\\n先の事件の担当……と申しますと、\\n被疑者《ひぎしゃ》となった斉藤光志さんの\\n担当弁護士の方ですか？",
+        "old_translation": "[주인]\\n앞의 사건의 상당 ......라고\\n말하면,\\n피의자가 된 사이토 코우지의\\n상당 변호사입니까?",
+        "new_translation": "【마스터】\\n지난 사건의 담당이라고 하시면,\\n피의자가 된 사이토 코우지 씨의\\n담당 변호사이신가요?",
+        "reason": "担当 rendered as 상당; speaker bracket was ASCII. マスター in a bar setting is 마스터.",
+        "confidence": 0.95
+      }
+    }
+  },
+  "reports": {
+    "dialogue_defects.json": {
+      "top_keys": [
+        "schema",
+        "pairs",
+        "counts",
+        "found"
+      ],
+      "counts_keys": [
+        "truncation",
+        "spacing",
+        "punctuation",
+        "artefact"
+      ],
+      "found_keys": [
+        "truncation",
+        "spacing",
+        "punctuation",
+        "artefact"
+      ]
+    },
+    "pronoun_fix_report.json": {
+      "top_keys": [
+        "schema",
+        "changed",
+        "skipped_no_source_pronoun",
+        "changes",
+        "skipped"
+      ],
+      "changes_len": 135,
+      "changes_sample": {
+        "index": "0x0005b545",
+        "before": "【노리코】\\n(아야 씨에게 묻고 싶은 건……)",
+        "after": "【노리코】\\n(그녀 씨에게 묻고 싶은 건……)",
+        "source_has": "彼女"
+      },
+      "skipped_len": 19,
+      "skipped_sample": {
+        "index": "0x00064f07",
+        "ja": "【朝等】\\n免疫若連欺《めんえきよくせいざい》を埜まなきゃいけないことと、\\n半年に１回検査を受けなくちゃいけないこと以",
+        "ko": "【아사츠유】\\n면역억제제를 먹어야 한다는 것과\\n반년에 한 번 검사를 받아야 한다는\\n것\\n외에는\\n그야말로"
+      }
+    },
+    "retranslation_queue.json": {
+      "top_keys": [
+        "schema",
+        "source_diff",
+        "rows_changed",
+        "already_correct",
+        "needs_retranslation",
+        "queue",
+        "already_correct_sample",
+        "emulator_launched"
+      ],
+      "queue_len": 878,
+      "queue_sample": {
+        "index": "0x0009ca48",
+        "before": "【光志】\\n今関事件を担当してる退職刑事の上曜で、\\n近藤刑事ってのがいるんだけど、\\nコイツが曜法蠧引してきたんだ。",
+        "after": "【光志】\\n今回事件を担当してる三浦刑事の上曜で、\\n近藤刑事ってのがいるんだけど、\\nコイツが曜法取引してきたんだ。",
+        "current_ko": "【코우지】\\n이마바야시 사건을 담당하는 미우라\\n형사의\\n부하 중에\\n콘도 형사라는 사람이 있는데,\\n그 녀석이 가택 수색을 해 왔어.",
+        "introduced": [
+          "三",
+          "取",
+          "回",
+          "浦"
+        ],
+        "changed_chars": 4
+      },
+      "already_correct_sample_len": 30,
+      "already_correct_sample_sample": {
+        "index": "0x0002b098",
+        "before": "無罪を勝ち蠧れるかはあなた次第．．．．",
+        "after": "無罪を勝ち取れるかはあなた次第．．．．",
+        "current_ko": "무죄를 쟁취할 수 있을지는 당신에게 달렸습니다....",
+        "resolved_by": [
+          "取"
+        ]
+      }
+    },
+    "translation_quality_review.json": {
+      "top_keys": [
+        "schema",
+        "source_files",
+        "summary",
+        "method",
+        "issues",
+        "emulator_launched"
+      ],
+      "source_files_keys": [
+        "japanese",
+        "raw",
+        "korean_in",
+        "korean_out",
+        "overrides",
+        "candidates"
+      ],
+      "summary_keys": [
+        "total_rows",
+        "reviewed_rows",
+        "issue_count",
+        "major_or_blocker_count",
+        "uncertain_count",
+        "unresolved_kanji_count",
+        "applied_count"
+      ],
+      "issues_len": 398,
+      "issues_sample": {
+        "index": "0x0003a58b",
+        "source_raw": "【[39][66]】\\nこちらこそ、\\n[171][172]《はいりょ》が[173]りませんでした。",
+        "source_ja": "【法子】\\nこちらこそ、\\n配慮《はいりょ》が足りませんでした。",
+        "current_ko": "【노리코】\\n저야말로,\\n배려가 부족했습니다.",
+        "proposed_ko": "",
+        "category": "semantic",
+        "severity": "uncertain",
+        "confidence": 0.0,
+        "reason": "source is negated; translation shows no negation",
+        "evidence_indices": [],
+        "applied": false,
+        "needs_human_review": true
+      }
+    }
+  }
+}

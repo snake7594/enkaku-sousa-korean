@@ -1,0 +1,4565 @@
+{
+  "schema": "enkaku_retranslation_batch_v2",
+  "batch": 15,
+  "source_range": {
+    "order_start": 4051,
+    "order_end": 4300,
+    "count": 250
+  },
+  "purpose": "구류 연장 후 조사 방향 전환, 노리코가 숨긴 야스요의 자살, 누마사키 에이타로의 시라카와 과거 고백을 재번역한다.",
+  "emulator_launched": false,
+  "display_width": 19,
+  "translation_policy": [
+    "코우지의 조사 목표를 살해 방법에서 피해자 중심의 인물 관계·동기·알리바이로 확장한다.",
+    "미사에와 야스요를 구분하고, 노조미의 친어머니는 야스요, 계모는 미사에로 고정한다.",
+    "누마사키 에이타로는 야스요의 외가 쪽 친척이자 불륜 상대이며, 시라카와 이치리의 범죄와 사이토 시리의 죽음을 알고 있었던 인물로 번역한다.",
+    "사이토 시리는 코우지의 아버지 이름으로 유지하되 독음은 프로젝트의 잠정 표기를 따른다."
+  ],
+  "counts": {
+    "entries": 250,
+    "changed": 227,
+    "wrapped_rows": 32
+  },
+  "translations": [
+    {
+      "order": 4051,
+      "source_index": "0x000afc92",
+      "source_ja_raw": "【七芝】\\nう～ん……\\nボクは安しいからいいんだけどさ……",
+      "source_ja_applied": "【七芝】\\nう～ん……\\nボクは安しいからいいんだけどさ……",
+      "source_ja_reviewed": "【七芝】\\nう～ん……\\nボクは安しいからいいんだけどさ……",
+      "old_translation": "【나나시바】\\n으음……\\n나는 기쁘니까 괜찮지만……",
+      "new_translation": "【나나시바】\\n으음……\\n나는 편해서 좋긴 한데……",
+      "speaker": "나나시바",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4052,
+      "source_index": "0x000afceb",
+      "source_ja_raw": "【留置係】\\n斉藤、帰ってきたばかりだが、\\n弁護士が接見に来てるぞ。",
+      "source_ja_applied": "【留置係】\\n斉藤、帰ってきたばかりだが、\\n弁護士が接見に来てるぞ。",
+      "source_ja_reviewed": "斉藤、帰ってきたばかりだが、弁護士が接見に来てるぞ。",
+      "old_translation": "【유치계】\\n사이토, 돌아왔을 뿐이지만,\\n변호사가 접견에 붐비고 있어.",
+      "new_translation": "【구치소 직원】\\n사이토, 막 돌아왔는데\\n변호사가 접견하러 왔다.",
+      "speaker": "구치소 직원",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4053,
+      "source_index": "0x000afd45",
+      "source_ja_raw": "【光志】\\n法子か……\\n報浦しなくっちゃな……",
+      "source_ja_applied": "【光志】\\n法子か……\\n報浦しなくっちゃな……",
+      "source_ja_reviewed": "【光志】\\n法子か……\\n報浦しなくっちゃな……",
+      "old_translation": "【코우지】\\n노리코인가…\\n보고하지 않으면 안돼…",
+      "new_translation": "【코우지】\\n노리코인가……\\n보고해야겠네……",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4054,
+      "source_index": "0x000afd9c",
+      "source_ja_raw": "【七芝】\\n法子さん、悲しむだろうね……\\n倶《なぐさ》めてあげるんだよ、光志順。",
+      "source_ja_applied": "【七芝】\\n法子さん、悲しむだろうね……\\n倶《なぐさ》めてあげるんだよ、光志順。",
+      "source_ja_reviewed": "【七芝】\\n法子さん、悲しむだろうね……\\n倶《なぐさ》めてあげるんだよ、光志順。",
+      "old_translation": "【나나시바】\\n노리코 씨, 슬퍼하겠지……\\n네가 위로해 줘, 코우지.",
+      "new_translation": "【나나시바】\\n노리코 씨, 슬퍼하겠네……\\n코우지, 잘 위로해 줘.",
+      "speaker": "나나시바",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4055,
+      "source_index": "0x000afdfc",
+      "source_ja_raw": "【光志】\\n……倶《なぐさ》めてもらいたいのは、\\nオレのほうなんだが。",
+      "source_ja_applied": "【光志】\\n……倶《なぐさ》めてもらいたいのは、\\nオレのほうなんだが。",
+      "source_ja_reviewed": "【光志】\\n……倶《なぐさ》めてもらいたいのは、\\nオレのほうなんだが。",
+      "old_translation": "【코우지】\\n…… 위로해 주었으면 하는 것은,\\n나의 편이지만.",
+      "new_translation": "【코우지】\\n……위로받고 싶은 건\\n나인데 말이야.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4056,
+      "source_index": "0x000afe93",
+      "source_ja_raw": "【法子】\\n今日は検事の蠧調べに\\n行ってきたんだよね？\\nどうだった……？\\n……って聞くまでもないか……",
+      "source_ja_applied": "【法子】\\n今日は検事の取調べに\\n行ってきたんだよね？\\nどうだった……？\\n……って聞くまでもないか……",
+      "source_ja_reviewed": "今日は検事の取調べに行ってきたんだよね？どうだった……？……って聞くまでもないか……",
+      "old_translation": "【노리코】\\n오늘은 검사의 취조에\\n 다녀 왔지? \\n어땠어......? \\n…",
+      "new_translation": "【노리코】\\n오늘 검사 취조를 받고 왔지?\\n어땠어……?\\n……물어볼 필요도 없겠네……",
+      "speaker": "노리코",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4057,
+      "source_index": "0x000aff01",
+      "source_ja_raw": "【光志】\\nああ、結腸、\\n釈放《しゃくほう》されることなく終わったからな。",
+      "source_ja_applied": "【光志】\\nああ、結局、\\n釈放《しゃくほう》されることなく終わったからな。",
+      "source_ja_reviewed": "【光志】\\nああ、結局、\\n釈放《しゃくほう》されることなく終わったからな。",
+      "old_translation": "【코우지】\\n아, 결막,\\n석방되지 않고 끝났으니까.",
+      "new_translation": "【코우지】\\n그래, 결국\\n석방되지 않은 채 끝났어.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4058,
+      "source_index": "0x000aff5a",
+      "source_ja_raw": "【光志】\\nでもまあ、別にいいさ。\\n調査する恋付が\\n１０日付増えたと思えばな。\\nただ……",
+      "source_ja_applied": "【光志】\\nでもまあ、別にいいさ。\\n調査する恋付が\\n１０日付増えたと思えばな。\\nただ……",
+      "source_ja_reviewed": "【光志】\\nでもまあ、別にいいさ。\\n調査する恋付が\\n１０日付増えたと思えばな。\\nただ……",
+      "old_translation": "【코우지】\\n이라도 뭐, 별로 좋다. \\n조사할 시간이\\n10일간 늘었다고 거듭하면 된다. \\n그냥......",
+      "new_translation": "【코우지】\\n뭐, 괜찮아.\\n조사할 시간이\\n10일 더 늘었다고 생각하면\\n되니까.\\n다만……",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4059,
+      "source_index": "0x000affce",
+      "source_ja_raw": "【法子】\\nただ……？",
+      "source_ja_applied": "【法子】\\nただ……？",
+      "source_ja_reviewed": "【法子】\\nただ……？",
+      "old_translation": "【노리코】\\n단지…",
+      "new_translation": "【노리코】\\n다만……?",
+      "speaker": "노리코",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4060,
+      "source_index": "0x000b0007",
+      "source_ja_raw": "【光志】\\nえっと、それについて法子に\\n確認したいことがあったんだ。",
+      "source_ja_applied": "【光志】\\nえっと、それについて法子に\\n確認したいことがあったんだ。",
+      "source_ja_reviewed": "【光志】\\nえっと、それについて法子に\\n確認したいことがあったんだ。",
+      "old_translation": "【코우지】\\n 음, 그것에 대해 노리코에게\\n확인하고 싶은 것이 있었다.",
+      "new_translation": "【코우지】\\n그 일에 대해 노리코에게\\n확인하고 싶은 게 있었어.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4061,
+      "source_index": "0x000b005a",
+      "source_ja_raw": "【光志】\\n『ライトブルー』の駆犯カメラのビデオ、\\n警察に提出したんだよな？",
+      "source_ja_applied": "【光志】\\n『ライトブルー』の駆犯カメラのビデオ、\\n警察に提出したんだよな？",
+      "source_ja_reviewed": "『ライトブルー』の防犯カメラのビデオ、警察に提出したんだよな？",
+      "old_translation": "【코우지】\\n『라이트 블루』의 발잔 카메라의\\n비디오,\\n\\n경찰에 제출했지?",
+      "new_translation": "【코우지】\\n『라이트 블루』 방범 카메라 영상을\\n경찰에 제출한 거 맞지?",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4062,
+      "source_index": "0x000b00de",
+      "source_ja_raw": "【法子】\\nええ、もちろん。",
+      "source_ja_applied": "【法子】\\nええ、もちろん。",
+      "source_ja_reviewed": "【法子】\\nええ、もちろん。",
+      "old_translation": "【노리코】\\n그래, 물론.",
+      "new_translation": "【노리코】\\n응, 물론이지.",
+      "speaker": "노리코",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4063,
+      "source_index": "0x000b0119",
+      "source_ja_raw": "【光志】\\nそうか……\\nたしか、退職も蠧調べのときに見たって\\n言ってたもんな。",
+      "source_ja_applied": "【光志】\\nそうか……\\nたしか、三浦も取調べのときに見たって\\n言ってたもんな。",
+      "source_ja_reviewed": "【光志】\\nそうか……\\nたしか、三浦も取調べのときに見たって\\n言ってたもんな。",
+      "old_translation": "【코우지】\\n그런가…\\n분명히, 미우라도 취조을 조사 할\\n때\\n보았습니다.\\n말했던 것.",
+      "new_translation": "【코우지】\\n그렇구나……\\n미우라도 취조 때 봤다고\\n말했던 것 같고.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4064,
+      "source_index": "0x000b019b",
+      "source_ja_raw": "【法子】\\nねえ、なんのこと？",
+      "source_ja_applied": "【法子】\\nねえ、なんのこと？",
+      "source_ja_reviewed": "【法子】\\nねえ、なんのこと？",
+      "old_translation": "【노리코】\\n이봐, 뭐야?",
+      "new_translation": "【노리코】\\n저기, 무슨 말이야?",
+      "speaker": "노리코",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4065,
+      "source_index": "0x000b01d7",
+      "source_ja_raw": "【光志】\\nいや……検事の手元に\\nそれが饑いてなかったらしいんだ。",
+      "source_ja_applied": "【光志】\\nいや……検事の手元に\\nそれが饑いてなかったらしいんだ。",
+      "source_ja_reviewed": "いや……検事の手元にそれが届いてなかったらしいんだ。",
+      "old_translation": "【코우지】\\n아니......검사 수중에\\n그것이 빠지지 않았던 것 같다.",
+      "new_translation": "【코우지】\\n아니…… 그게 검사 손에\\n도착하지 않았다는 모양이야.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4066,
+      "source_index": "0x000b0251",
+      "source_ja_raw": "【法子】\\nえっ……！",
+      "source_ja_applied": "【法子】\\nえっ……！",
+      "source_ja_reviewed": "【法子】\\nえっ……！",
+      "old_translation": "【노리코】\\n엣…",
+      "new_translation": "【노리코】\\n뭐……!?",
+      "speaker": "노리코",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4067,
+      "source_index": "0x000b02b0",
+      "source_ja_raw": "【法子】\\nそれはおかしいわよ！\\n少なくとも光志が検察庁に行ったときに、\\n一緒《いっしょ》に送検されたはずよ。",
+      "source_ja_applied": "【法子】\\nそれはおかしいわよ！\\n少なくとも光志が検察庁に行ったときに、\\n一緒《いっしょ》に送検されたはずよ。",
+      "source_ja_reviewed": "それはおかしいわよ！少なくとも光志が検察庁に行ったときに、一緒《いっしょ》に送検されたはずよ。",
+      "old_translation": "【노리코】\\n그건 재미있어! \\n 적어도 코우지가 검찰청에 갔을\\n때,\\n함께 송검되었을 것이다.",
+      "new_translation": "【노리코】\\n그건 이상하잖아!\\n적어도 코우지가 검찰청에 갔을 때\\n함께 송치됐어야 해.",
+      "speaker": "노리코",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4068,
+      "source_index": "0x000b0321",
+      "source_ja_raw": "【光志】\\nオレもそう思ってた。\\nだけど、検事に言われたんだ。\\nそんなものは私の手元にない、ってね。",
+      "source_ja_applied": "【光志】\\nオレもそう思ってた。\\nだけど、検事に言われたんだ。\\nそんなものは私の手元にない、ってね。",
+      "source_ja_reviewed": "【光志】\\nオレもそう思ってた。\\nだけど、検事に言われたんだ。\\nそんなものは私の手元にない、ってね。",
+      "old_translation": "【코우지】\\n나도 그렇게 생각했다. \\n이지만 검사를 받았다. \\n그런 것은 내 수중에 없어, 라고.",
+      "new_translation": "【코우지】\\n나도 그렇게 생각했어.\\n그런데 검사가 그러더라.\\n그런 건 자기 손에 없다고.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4069,
+      "source_index": "0x000b03b0",
+      "source_ja_raw": "【法子】\\n……ってことは、警察署《ココ》に\\n残ったまま……ってこと？",
+      "source_ja_applied": "【法子】\\n……ってことは、警察署《ココ》に\\n残ったまま……ってこと？",
+      "source_ja_reviewed": "【法子】\\n……ってことは、警察署《ココ》に\\n残ったまま……ってこと？",
+      "old_translation": "【노리코】\\n……그렇다면 경찰서에 탄 채로\\n그대로……라는 건가?",
+      "new_translation": "【노리코】\\n……그렇다면 아직\\n경찰서에 남아 있다는 뜻이야……?",
+      "speaker": "노리코",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4070,
+      "source_index": "0x000b0409",
+      "source_ja_raw": "【光志】\\nそうかもしれないな。",
+      "source_ja_applied": "【光志】\\nそうかもしれないな。",
+      "source_ja_reviewed": "【光志】\\nそうかもしれないな。",
+      "old_translation": "【코우지】\\n그럴지도 모르겠네.",
+      "new_translation": "【코우지】\\n그럴지도 모르지.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4071,
+      "source_index": "0x000b046b",
+      "source_ja_raw": "【法子】\\nそんなこと、ありえない……\\nあんな声要な証拠《しょうこ》を……",
+      "source_ja_applied": "【法子】\\nそんなこと、ありえない……\\nあんな声要な証拠《しょうこ》を……",
+      "source_ja_reviewed": "【法子】\\nそんなこと、ありえない……\\nあんな声要な証拠《しょうこ》を……",
+      "old_translation": "【노리코】\\n그런 것, 있을 수 없다……\\n그런 중양인 증거를…",
+      "new_translation": "【노리코】\\n그럴 수가……\\n그렇게 중요한 증거를……",
+      "speaker": "노리코",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4072,
+      "source_index": "0x000b04c5",
+      "source_ja_raw": "【光志】\\nだけど事実なんだ。\\nもうこんな恋付だから、\\n蠧調べは間日になると思うけど、\\nそのとき退職に聞いてみるよ。",
+      "source_ja_applied": "【光志】\\nだけど事実なんだ。\\nもうこんな恋付だから、\\n取調べは間日になると思うけど、\\nそのとき三浦に聞いてみるよ。",
+      "source_ja_reviewed": "【光志】\\nだけど事実なんだ。\\nもうこんな恋付だから、\\n取調べは間日になると思うけど、\\nそのとき三浦に聞いてみるよ。",
+      "old_translation": "【코우지】\\n이지만 사실이야. \\n이제 이런 시간이니까,\\n취조는 내일이 된다고\\n생각하지만,\\n그때 미우라에게 물어볼게.",
+      "new_translation": "【코우지】\\n하지만 사실이야.\\n이제 취조는 내일이 될 것 같으니\\n그때 미우라에게 물어볼게.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4073,
+      "source_index": "0x000b0547",
+      "source_ja_raw": "【法子】\\nう、うん……\\nだけど……",
+      "source_ja_applied": "【法子】\\nう、うん……\\nだけど……",
+      "source_ja_reviewed": "【法子】\\nう、うん……\\nだけど……",
+      "old_translation": "【노리코】\\n우, 응......\\n이지만......",
+      "new_translation": "【노리코】\\n으, 응……\\n하지만……",
+      "speaker": "노리코",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4074,
+      "source_index": "0x000b0589",
+      "source_ja_raw": "【光志】\\nまあ、今あれこれ考えても\\n仕方ないさ。\\n間日になればわかることだ。",
+      "source_ja_applied": "【光志】\\nまあ、今あれこれ考えても\\n仕方ないさ。\\n間日になればわかることだ。",
+      "source_ja_reviewed": "【光志】\\nまあ、今あれこれ考えても\\n仕方ないさ。\\n間日になればわかることだ。",
+      "old_translation": "【코우지】\\n음, 지금 저것 이것 생각해도\\n어쩔 수 없어. \\n내일이 되면 알겠다.",
+      "new_translation": "【코우지】\\n뭐, 지금 이래저래 생각해도\\n소용없어.\\n내일이면 알게 될 일이야.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4075,
+      "source_index": "0x000b05e4",
+      "source_ja_raw": "【光志】\\nそれより、これからのことだ。\\n１０日付廼びた勾留《こうりゅう》だけど、\\n今までやってきたこととは\\n別の切り口で活めていこうと思うんだ。",
+      "source_ja_applied": "【光志】\\nそれより、これからのことだ。\\n１０日付廼びた勾留《こうりゅう》だけど、\\n今までやってきたこととは\\n別の切り口で活めていこうと思うんだ。",
+      "source_ja_reviewed": "それより、これからのことだ。１０日間延びた勾留《こうりゅう》だけど、今までやってきたこととは別の切り口で進《すす》めていこうと思うんだ。",
+      "old_translation": "【코우지】\\n그것보다, 지금부터가 문제야.\\n10일간 연장된 구류지만,\\n지금까지 해 온 것과는\\n다른 방식으로 움직여 보려고 해.",
+      "new_translation": "【코우지】\\n그보다 앞으로의 일이야.\\n10일 연장된 구류 기간 동안\\n지금까지와는 다른 관점으로\\n진행해 보려고 해.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4076,
+      "source_index": "0x000b0690",
+      "source_ja_raw": "【法子】\\n別の切り口？",
+      "source_ja_applied": "【法子】\\n別の切り口？",
+      "source_ja_reviewed": "【法子】\\n別の切り口？",
+      "old_translation": "【노리코】\\n다른 커팅?",
+      "new_translation": "【노리코】\\n다른 관점?",
+      "speaker": "노리코",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4077,
+      "source_index": "0x000b06cb",
+      "source_ja_raw": "【光志】\\n今まではどちらかと言うと、\\n関係者の洗い出しとか、アリバイとか、\\n殺害方法やトリックを中心に、\\n事件が刑きたときのことを\\n調べてきただろ？",
+      "source_ja_applied": "【光志】\\n今まではどちらかと言うと、\\n関係者の洗い出しとか、アリバイとか、\\n殺害方法やトリックを中心に、\\n事件が刑きたときのことを\\n調べてきただろ？",
+      "source_ja_reviewed": "今まではどちらかと言うと、関係者の洗い出しとか、アリバイとか、殺害方法やトリックを中心に、事件が起《お》きたときのことを調べてきただろ？",
+      "old_translation": "【코우지】\\n지금까지는 어느 쪽인가 하면,\\n관계자의 행적이라든가\\n알리바이라든가,\\n살해 방법이나 트릭을 중심으로,\\n사건이 일어난 당시의 일을\\n조사해 왔던 거지?",
+      "new_translation": "【코우지】\\n지금까지는 어느 쪽이냐 하면\\n관계자를 찾아내고 알리바이를\\n확인하고\\n살해 방법이나 트릭을 중심으로\\n사건 당시 무슨 일이 있었는지\\n조사해 왔잖아?",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4078,
+      "source_index": "0x000b0758",
+      "source_ja_raw": "【光志】\\nこれからは、もっと深く切《き》り沽《こ》んで、\\n事件の會後関係について\\n調べようと思ってるんだ。",
+      "source_ja_applied": "【光志】\\nこれからは、もっと深く切《き》り込《こ》んで、\\n事件の背後関係について\\n調べようと思ってるんだ。",
+      "source_ja_reviewed": "【光志】\\nこれからは、もっと深く切《き》り込《こ》んで、\\n事件の背後関係について\\n調べようと思ってるんだ。",
+      "old_translation": "【코우지】\\n지금부터는, 더 깊게 자르고,\\n사건의 혼후 관계에 대해\\n조사하려고 무거워 있어.",
+      "new_translation": "【코우지】\\n이제부터는 더 깊이 파고들어서\\n사건의 배후 관계를\\n조사하려고 해.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4079,
+      "source_index": "0x000b07c9",
+      "source_ja_raw": "【光志】\\nそして真犯人を枚《つ》き止《と》めるのと同恋に、\\n殺害係機まで枚《つ》き止《と》めたいと思う。",
+      "source_ja_applied": "【光志】\\nそして真犯人を枚《つ》き止《と》めるのと同恋に、\\n殺害係機まで枚《つ》き止《と》めたいと思う。",
+      "source_ja_reviewed": "そして真犯人を突《つ》き止《と》めるのと同時に、殺害動機まで突《つ》き止《と》めたいと思う。",
+      "old_translation": "【코우지】\\n그리고 진범을 밝혀내는 것과\\n동시에,\\n살해 동기까지 밝혀내고 싶어.",
+      "new_translation": "【코우지】\\n그리고 진범을 밝혀내는 동시에\\n살해 동기까지\\n밝혀내고 싶어.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [
+        "진범"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4080,
+      "source_index": "0x000b084a",
+      "source_ja_raw": "【法子】\\n……どうしてそんなところまで？\\nそれに、１０日付で\\nそんなに深く調査すること、\\nできるかしら……？",
+      "source_ja_applied": "【法子】\\n……どうしてそんなところまで？\\nそれに、１０日付で\\nそんなに深く調査すること、\\nできるかしら……？",
+      "source_ja_reviewed": "【法子】\\n……どうしてそんなところまで？\\nそれに、１０日付で\\nそんなに深く調査すること、\\nできるかしら……？",
+      "old_translation": "【노리코】\\n… … 왜 그런 곳까지? \\n게다가, 10일간에\\n그렇게 깊게 조사하는 것,\\n할 수 있을까......?",
+      "new_translation": "【노리코】\\n……왜 거기까지 하려는 거야?\\n게다가 10일 동안\\n그렇게 깊이 조사할 수 있을까……?",
+      "speaker": "노리코",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4081,
+      "source_index": "0x000b08bb",
+      "source_ja_raw": "【光志】\\nいや、逆だよ。\\nここまで調べなきゃ、事件の真相も、\\n真犯人もわからないと思ったんだ。",
+      "source_ja_applied": "【光志】\\nいや、逆だよ。\\nここまで調べなきゃ、事件の真相も、\\n真犯人もわからないと思ったんだ。",
+      "source_ja_reviewed": "【光志】\\nいや、逆だよ。\\nここまで調べなきゃ、事件の真相も、\\n真犯人もわからないと思ったんだ。",
+      "old_translation": "【코우지】\\n아니, 반대다. \\n여기까지 조사하지 않으면, 사건의\\n진상도,\\n진범도 모르겠다고 무거웠다.",
+      "new_translation": "【코우지】\\n아니, 반대야.\\n여기까지 조사하지 않으면\\n사건의 진상도 진범도\\n알 수 없을 것 같아.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [
+        "진범"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4082,
+      "source_index": "0x000b0925",
+      "source_ja_raw": "【光志】\\n事実、殺害方法がわかった今でも、\\n真犯人を絞《しぼ》り切《き》れてない。",
+      "source_ja_applied": "【光志】\\n事実、殺害方法がわかった今でも、\\n真犯人を絞《しぼ》り切《き》れてない。",
+      "source_ja_reviewed": "【光志】\\n事実、殺害方法がわかった今でも、\\n真犯人を絞《しぼ》り切《き》れてない。",
+      "old_translation": "【코우지】\\n사실, 살해 방법을 알게 된\\n지금도,\\n진범을 특정하지 못했어.",
+      "new_translation": "【코우지】\\n실제로 살해 방법을 알아낸 지금도\\n진범을 완전히 좁히지 못했어.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [
+        "진범"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4083,
+      "source_index": "0x000b098b",
+      "source_ja_raw": "【光志】\\nこの事件を生んだ文《やみ》……\\nそれと向かい合わなきゃいけない。",
+      "source_ja_applied": "【光志】\\nこの事件を生んだ文《やみ》……\\nそれと向かい合わなきゃいけない。",
+      "source_ja_reviewed": "この事件を生んだ闇《やみ》……それと向かい合わなきゃいけない。",
+      "old_translation": "【코우지】\\n이 사건을 낳은 어둠… …\\n그것과 마주해야 한다.",
+      "new_translation": "【코우지】\\n이 사건을 낳은 어둠……\\n그것과 마주해야 해.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4084,
+      "source_index": "0x000b09ff",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4085,
+      "source_index": "0x000b0a45",
+      "source_ja_raw": "【法子】\\n……わかったわ。\\nそうなると、\\n私も覚朗《かくご》を倚めないといけないわね。",
+      "source_ja_applied": "【法子】\\n……わかったわ。\\nそうなると、\\n私も覚朗《かくご》を倚めないといけないわね。",
+      "source_ja_reviewed": "……わかったわ。そうなると、私も覚悟《かくご》を決めないといけないわね。",
+      "old_translation": "【노리코】\\n......알았어. \\n그렇게 되면,\\n나도 각오를 쪼개지 않으면 안\\n되겠지.",
+      "new_translation": "【노리코】\\n……알겠어.\\n그렇다면 나도\\n각오를 다져야겠네.",
+      "speaker": "노리코",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4086,
+      "source_index": "0x000b0aa6",
+      "source_ja_raw": "【光志】\\nそれじゃあ、今日はもう遅《おそ》いし、\\n今から調査を頼《たの》むのは注しいだろう。",
+      "source_ja_applied": "【光志】\\nそれじゃあ、今日はもう遅《おそ》いし、\\n今から調査を頼《たの》むのは注しいだろう。",
+      "source_ja_reviewed": "【光志】\\nそれじゃあ、今日はもう遅《おそ》いし、\\n今から調査を頼《たの》むのは注しいだろう。",
+      "old_translation": "【코우지】\\n그럼, 오늘은 이미 늦고,\\n지금부터 조사를 부탁하는 것은\\n어려울\\n것이다.",
+      "new_translation": "【코우지】\\n그럼 오늘은 너무 늦었으니\\n지금부터 조사를 부탁하기는\\n어렵겠지.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4087,
+      "source_index": "0x000b0b0d",
+      "source_ja_raw": "【光志】\\n間日までに具体的《ぐたいてき》な調査方功について\\n考えておくよ。",
+      "source_ja_applied": "【光志】\\n間日までに具体的《ぐたいてき》な調査方功について\\n考えておくよ。",
+      "source_ja_reviewed": "【光志】\\n間日までに具体的《ぐたいてき》な調査方功について\\n考えておくよ。",
+      "old_translation": "【코우지】\\n내일까지 구체적인 조사 방식에 대해\\n생각해 두자.",
+      "new_translation": "【코우지】\\n내일까지 구체적인\\n조사 방법을 생각해 둘게.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4088,
+      "source_index": "0x000b0b77",
+      "source_ja_raw": "【法子】\\nええ、がんばりましょう、光志。\\nじゃあ、間日の午前に来るわ。",
+      "source_ja_applied": "【法子】\\nええ、がんばりましょう、光志。\\nじゃあ、間日の午前に来るわ。",
+      "source_ja_reviewed": "【法子】\\nええ、がんばりましょう、光志。\\nじゃあ、間日の午前に来るわ。",
+      "old_translation": "【노리코】\\n그래, 최선을 다합시다, 코우지. \\n 그럼 내일 오전에 올 거예요.",
+      "new_translation": "【노리코】\\n응, 힘내자, 코우지.\\n그럼 내일 오전에 올게.",
+      "speaker": "노리코",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4089,
+      "source_index": "0x000b0bd2",
+      "source_ja_raw": "【光志】\\nありがとう、法子……\\n残り１０日付、よろしくな。",
+      "source_ja_applied": "【光志】\\nありがとう、法子……\\n残り１０日付、よろしくな。",
+      "source_ja_reviewed": "【光志】\\nありがとう、法子……\\n残り１０日付、よろしくな。",
+      "old_translation": "【코우지】\\n고마워, 노리코…\\n승차 10일간, 잘 부탁해.",
+      "new_translation": "【코우지】\\n고마워, 노리코……\\n남은 10일 동안 잘 부탁해.",
+      "speaker": "코우지",
+      "scene": "구류 연장과 조사 방향 전환",
+      "relationship_context": "코우지는 방범 카메라 미송치 문제를 확인하고, 살해 방법뿐 아니라 사건의 배후와 동기까지 조사하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4090,
+      "source_index": "0x000b0ec7",
+      "source_ja_raw": "【法子】\\nおはよう、コウジ。\\n今日から気持ちを入《い》れ馨《か》えて\\nがんばろうね。",
+      "source_ja_applied": "【法子】\\nおはよう、コウジ。\\n今日から気持ちを入《い》れ馨《か》えて\\nがんばろうね。",
+      "source_ja_reviewed": "【法子】\\nおはよう、コウジ。\\n今日から気持ちを入《い》れ馨《か》えて\\nがんばろうね。",
+      "old_translation": "【노리코】\\n안녕, 코우지. \\n오늘부터 질투를 품고\\n최선을 다하자.",
+      "new_translation": "【노리코】\\n좋은 아침, 코우지.\\n오늘부터 마음을 새로 다잡고\\n힘내자.",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4091,
+      "source_index": "0x000b0f29",
+      "source_ja_raw": "【光志】\\nおう。\\nもう失敗は許されないからな。",
+      "source_ja_applied": "【光志】\\nおう。\\nもう失敗は許されないからな。",
+      "source_ja_reviewed": "【光志】\\nおう。\\nもう失敗は許されないからな。",
+      "old_translation": "【코우지】\\n하자. \\n이상 실패는 용서되지 않으니까.",
+      "new_translation": "【코우지】\\n그래.\\n이제 실패는 용납되지 않으니까.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4092,
+      "source_index": "0x000b0f97",
+      "source_ja_raw": "【法子】\\nうん、そうだね……\\n皎いても言っても、\\n残りあと１０日……実質９日付だもんね。",
+      "source_ja_applied": "【法子】\\nうん、そうだね……\\n皎いても笑っても、\\n残りあと１０日……実質９日付だもんね。",
+      "source_ja_reviewed": "うん、そうだね……泣《な》いても笑《わら》っても、残りあと１０日……実質９日間だもんね。",
+      "old_translation": "【노리코】\\n그래, 맞아…\\n향해도 사용해도,\\n타고 10일… …실전 9일간이군요.",
+      "new_translation": "【노리코】\\n응, 그렇지……\\n울어도 웃어도\\n남은 건 10일…… 실질적으로는\\n9일이네.",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4093,
+      "source_index": "0x000b1001",
+      "source_ja_raw": "【光志】\\n昨日言った通り、\\nこれからの調査方功を考えてみたんだ。",
+      "source_ja_applied": "【光志】\\n昨日言った通り、\\nこれからの調査方功を考えてみたんだ。",
+      "source_ja_reviewed": "【光志】\\n昨日言った通り、\\nこれからの調査方功を考えてみたんだ。",
+      "old_translation": "【코우지】\\n어제 말했듯이,\\n앞으로의 조사 방식을 생각해\\n보았다.",
+      "new_translation": "【코우지】\\n어제 말한 대로\\n앞으로의 조사 방법을 생각해 봤어.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4094,
+      "source_index": "0x000b1058",
+      "source_ja_raw": "【光志】\\n事件の會後関係まで\\n切《き》り沽《こ》む足がかりとして、\\n被害者《ひがいしゃ》である白川一利を中心に、\\n人付関係を調べていこうと思うんだ。",
+      "source_ja_applied": "【光志】\\n事件の背後関係まで\\n切《き》り込《こ》む足がかりとして、\\n被害者《ひがいしゃ》である白川一利を中心に、\\n人付関係を調べていこうと思うんだ。",
+      "source_ja_reviewed": "事件の背後関係まで切《き》り込《こ》む足がかりとして、被害者《ひがいしゃ》である白川一利を中心に、人間関係を調べていこうと思うんだ。",
+      "old_translation": "【코우지】\\n사건의 혼후관계까지\\n자르는 아카리로서,\\n피해자인 시라카와 이치로를\\n중심으로,\\n인간관계를 조사해 나가려고 한다.",
+      "new_translation": "【코우지】\\n사건의 배후 관계까지 파고들\\n발판으로\\n피해자인 시라카와 이치리를 중심으로\\n인물 관계를 조사해 나가려고 해.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4095,
+      "source_index": "0x000b10ec",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4096,
+      "source_index": "0x000b1125",
+      "source_ja_raw": "【光志】\\n…………？\\nどうした、法子？",
+      "source_ja_applied": "【光志】\\n…………？\\nどうした、法子？",
+      "source_ja_reviewed": "【光志】\\n…………？\\nどうした、法子？",
+      "old_translation": "【코우지】\\n…………? \\n무슨 일이야, 노리코?",
+      "new_translation": "【코우지】\\n…………?\\n왜 그래, 노리코?",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4097,
+      "source_index": "0x000b117a",
+      "source_ja_raw": "【法子】\\nう、うん……\\nこれからますます、私の行係が\\n大きく影清《えいきょう》するなって思ったから……",
+      "source_ja_applied": "【法子】\\nう、うん……\\nこれからますます、私の行係が\\n大きく影清《えいきょう》するなって思ったから……",
+      "source_ja_reviewed": "【法子】\\nう、うん……\\nこれからますます、私の行係が\\n大きく影清《えいきょう》するなって思ったから……",
+      "old_translation": "【노리코】\\n으, 응…\\n앞으로 점점 더 나의 행동이\\n크게 영향을 받고 무거웠으니까…",
+      "new_translation": "【노리코】\\n으, 응……\\n앞으로는 내 행동이\\n점점 더 크게 영향을 미치겠구나\\n싶어서……",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4098,
+      "source_index": "0x000b120d",
+      "source_ja_raw": "【法子】\\n今までの調査は、\\n割と具体的《ぐたいてき》だったじゃない？",
+      "source_ja_applied": "【法子】\\n今までの調査は、\\n割と具体的《ぐたいてき》だったじゃない？",
+      "source_ja_reviewed": "【法子】\\n今までの調査は、\\n割と具体的《ぐたいてき》だったじゃない？",
+      "old_translation": "【노리코】\\n지금까지의 조사는,\\n축과 구체적이었잖아?",
+      "new_translation": "【노리코】\\n지금까지의 조사는\\n비교적 구체적이었잖아?",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4099,
+      "source_index": "0x000b1272",
+      "source_ja_raw": "【法子】\\n『殺害現場について調べる』だったら、\\nライトブルー内を調べてくれば\\n良かったわけだし……",
+      "source_ja_applied": "【法子】\\n『殺害現場について調べる』だったら、\\nライトブルー内を調べてくれば\\n良かったわけだし……",
+      "source_ja_reviewed": "【法子】\\n『殺害現場について調べる』だったら、\\nライトブルー内を調べてくれば\\n良かったわけだし……",
+      "old_translation": "【노리코】\\n‘살해 현장에 대해 조사한다’는\\n거였다면,\\n라이트 블루 안을 조사해 달라고\\n했으면 됐을 텐데……",
+      "new_translation": "【노리코】\\n『살해 현장을 조사한다』면\\n라이트 블루 안을 조사하고 오면\\n됐으니까……",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4100,
+      "source_index": "0x000b1303",
+      "source_ja_raw": "【法子】\\n事件の會後を探るとなると、\\n私も考えて行係しなくちゃと思って……",
+      "source_ja_applied": "【法子】\\n事件の背後を探るとなると、\\n私も考えて行係しなくちゃと思って……",
+      "source_ja_reviewed": "【法子】\\n事件の背後を探るとなると、\\n私も考えて行係しなくちゃと思って……",
+      "old_translation": "【노리코】\\n사건의 혼후를 찾는다면,\\n나도 생각하고 행동하지 않으면서\\n무거워…",
+      "new_translation": "【노리코】\\n사건의 배후를 찾으려면\\n나도 생각하면서 행동해야겠다고\\n생각해서……",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4101,
+      "source_index": "0x000b1361",
+      "source_ja_raw": "【光志】\\nオレは法子になんの不安もないけどな。\\nむしろ、調査のセンスがあると思ってる。",
+      "source_ja_applied": "【光志】\\nオレは法子になんの不安もないけどな。\\nむしろ、調査のセンスがあると思ってる。",
+      "source_ja_reviewed": "【光志】\\nオレは法子になんの不安もないけどな。\\nむしろ、調査のセンスがあると思ってる。",
+      "old_translation": "【코우지】\\n나는 노리코에게 아무런 불안도\\n없지만.\\n오히려 조사의 센스가 있다고\\n무겁다.",
+      "new_translation": "【코우지】\\n나는 노리코를 전혀 걱정하지 않아.\\n오히려 조사 감각이 있다고 생각해.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4102,
+      "source_index": "0x000b13c2",
+      "source_ja_raw": "【光志】\\n事務所内にあったプレイヤーを\\n係かした跡《あと》なんて、\\nなかなか気がつかないぞ？",
+      "source_ja_applied": "【光志】\\n事務所内にあったプレイヤーを\\n係かした跡《あと》なんて、\\nなかなか気がつかないぞ？",
+      "source_ja_reviewed": "事務所内にあったプレイヤーを動《うご》かした跡《あと》なんて、なかなか気がつかないぞ？",
+      "old_translation": "【코우지】\\n사무소내에 있던 플레이어를\\n이동한 호랑이는,\\n꽤 몰라?",
+      "new_translation": "【코우지】\\n사무소 안에 있던 플레이어를\\n옮긴 흔적 같은 건\\n좀처럼 알아채기 어렵잖아?",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4103,
+      "source_index": "0x000b1427",
+      "source_ja_raw": "【光志】\\nだから警察を出《だ》し抜《ぬ》けたんだし、\\nあの写真を屠《と》ってきた恋点で、\\n法子の勝ちだよ。",
+      "source_ja_applied": "【光志】\\nだから警察を出《だ》し抜《ぬ》けたんだし、\\nあの写真を屠《と》ってきた恋点で、\\n法子の勝ちだよ。",
+      "source_ja_reviewed": "だから警察を出《だ》し抜《ぬ》けたんだし、あの写真を撮《と》ってきた時点で、法子の勝ちだよ。",
+      "old_translation": "【코우지】\\n그래서 경찰을 빠져나갔고,\\n저 사진을 찍어 온 시점에서,\\n노리코의 승리야.",
+      "new_translation": "【코우지】\\n그래서 경찰을 따돌릴 수 있었고\\n그 사진을 찍어 온 시점에서\\n노리코의 승리야.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4104,
+      "source_index": "0x000b14c0",
+      "source_ja_raw": "【法子】\\nそ、そう言ってくれると、\\nちょっとうれしいけど……",
+      "source_ja_applied": "【法子】\\nそ、そう言ってくれると、\\nちょっとうれしいけど……",
+      "source_ja_reviewed": "【法子】\\nそ、そう言ってくれると、\\nちょっとうれしいけど……",
+      "old_translation": "【노리코】\\n그, 그렇게 말해 주면,\\n조금 기쁘지만…",
+      "new_translation": "【노리코】\\n그, 그렇게 말해 주면\\n조금 기쁘지만……",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4105,
+      "source_index": "0x000b150f",
+      "source_ja_raw": "【光志】\\n大丈夫《だいじょうぶ》。\\n自信を持て、法子。",
+      "source_ja_applied": "【光志】\\n大丈夫《だいじょうぶ》。\\n自信を持て、法子。",
+      "source_ja_reviewed": "【光志】\\n大丈夫《だいじょうぶ》。\\n自信を持て、法子。",
+      "old_translation": "【코우지】\\n괜찮아. \\n 자신감을 농담, 노리코.",
+      "new_translation": "【코우지】\\n괜찮아.\\n자신감을 가져, 노리코.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4106,
+      "source_index": "0x000b1562",
+      "source_ja_raw": "【光志】\\nむしろ法子に足りないのは自信だ。\\n法子のポテンシャルは\\n朝等さんにも店けてないと\\nオレは思ってる。",
+      "source_ja_applied": "【光志】\\nむしろ法子に足りないのは自信だ。\\n法子のポテンシャルは\\n朝等さんにも店けてないと\\nオレは思ってる。",
+      "source_ja_reviewed": "むしろ法子に足りないのは自信だ。法子のポテンシャルは朝等さんにも引《ひ》けを取《と》ってないとオレは思ってる。",
+      "old_translation": "【코우지】\\n오히려 노리코에 아지 않는 것은\\n자신이다. \\n노리코의 잠재력은 \\n아사츠유씨에게도 실수하지 않으면\\n나는 무거워.",
+      "new_translation": "【코우지】\\n오히려 노리코에게 부족한 건\\n자신감이야.\\n노리코의 잠재력은\\n아사츠유 씨에게도 뒤지지 않는다고\\n나는 생각해.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4107,
+      "source_index": "0x000b15f8",
+      "source_ja_raw": "【法子】\\nそ、そんな……\\nあの水谷さんに、私なんかが……",
+      "source_ja_applied": "【法子】\\nそ、そんな……\\nあの水谷さんに、私なんかが……",
+      "source_ja_reviewed": "【法子】\\nそ、そんな……\\nあの水谷さんに、私なんかが……",
+      "old_translation": "【노리코】\\n그, 그런…\\n그 미즈타니씨에게, 나 뭔가가…",
+      "new_translation": "【노리코】\\n그, 그런……\\n그 미즈타니 씨에게\\n내가 어떻게……",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4108,
+      "source_index": "0x000b1649",
+      "source_ja_raw": "【光志】\\nそう、そこで自信だ。\\n法子に経験と自信が策われば、\\n朝等さんに句常《ひってき》……いや、\\n朝等さん以上の存在になれる！",
+      "source_ja_applied": "【光志】\\nそう、そこで自信だ。\\n法子に経験と自信が備われば、\\n朝等さんに句常《ひってき》……いや、\\n朝等さん以上の存在になれる！",
+      "source_ja_reviewed": "そう、そこで自信だ。法子に経験と自信が備われば、朝等さんに匹敵《ひってき》……いや、朝等さん以上の存在になれる！",
+      "old_translation": "【코우지】\\n그래, 거기서 자신이다. \\n노리코에 경험과 자신감이 있으시면,\\n아사츠유씨에 필적......아니,\\n아사츠유씨 이상의 존재가 될 수\\n있다!",
+      "new_translation": "【코우지】\\n그래, 바로 자신감이야.\\n노리코에게 경험과 자신감이 갖춰지면\\n아사츠유 씨와 맞먹는…… 아니,\\n아사츠유 씨를 뛰어넘는 사람이 될\\n수 있어!",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4109,
+      "source_index": "0x000b16d0",
+      "source_ja_raw": "【光志】\\nけど、\\nあそこまで強烈《きょうれつ》なキャラになると、\\nさすがのオレも引くけどな……",
+      "source_ja_applied": "【光志】\\nけど、\\nあそこまで強烈《きょうれつ》なキャラになると、\\nさすがのオレも引くけどな……",
+      "source_ja_reviewed": "【光志】\\nけど、\\nあそこまで強烈《きょうれつ》なキャラになると、\\nさすがのオレも引くけどな……",
+      "old_translation": "【코우지】\\n그러나,\\n저기까지 강렬한 캐릭터가 되면,\\n역시 나도 당기는데…",
+      "new_translation": "【코우지】\\n하지만 저렇게 강렬한 캐릭터가 되면\\n나도 아무래도 물러서겠지만……",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4110,
+      "source_index": "0x000b1759",
+      "source_ja_raw": "【法子】\\n……ふふ。\\nそんな言い方したら、\\n水谷さんに義いわよ。",
+      "source_ja_applied": "【法子】\\n……ふふ。\\nそんな言い方したら、\\n水谷さんに義いわよ。",
+      "source_ja_reviewed": "【法子】\\n……ふふ。\\nそんな言い方したら、\\n水谷さんに義いわよ。",
+      "old_translation": "【노리코】\\n… … 후후. \\n그렇게 말하자면,\\n미즈타니씨에게 아쉬워.",
+      "new_translation": "【노리코】\\n……후후.\\n그렇게 말하면\\n미즈타니 씨가 섭섭해하겠어.",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4111,
+      "source_index": "0x000b17af",
+      "source_ja_raw": "【光志】\\n……ゴホン。\\n話を戻《もど》すぞ。",
+      "source_ja_applied": "【光志】\\n……ゴホン。\\n話を戻《もど》すぞ。",
+      "source_ja_reviewed": "【光志】\\n……ゴホン。\\n話を戻《もど》すぞ。",
+      "old_translation": "【코우지】\\n… … 고혼. \\n 이야기를 되돌릴 것입니다.",
+      "new_translation": "【코우지】\\n……흠.\\n이야기로 돌아가자.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4112,
+      "source_index": "0x000b17f9",
+      "source_ja_raw": "【光志】\\n事件の會後関係を調べる上で、\\nまずは『白川一利』を中心とした\\n人物関係を探ってもらおうと\\n思ってるんだ。",
+      "source_ja_applied": "【光志】\\n事件の背後関係を調べる上で、\\nまずは『白川一利』を中心とした\\n人物関係を探ってもらおうと\\n思ってるんだ。",
+      "source_ja_reviewed": "【光志】\\n事件の背後関係を調べる上で、\\nまずは『白川一利』を中心とした\\n人物関係を探ってもらおうと\\n思ってるんだ。",
+      "old_translation": "【코우지】\\n사건의 혼후관계를 조사하는데\\n있어서,\\n우선은 『시라카와 이치로』를\\n중심으로 한\\n인물관계를 찾아보자고\\n무거워 있는 거야.",
+      "new_translation": "【코우지】\\n사건의 배후 관계를 조사하려면\\n우선 『시라카와 이치리』를 중심으로\\n한\\n인물 관계를 알아봐 줬으면 해.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4113,
+      "source_index": "0x000b1876",
+      "source_ja_raw": "【光志】\\n白川一利と近藤克美の関係……\\n白川一利と沼崎栄太郎の関係……\\n水谷朝等……水無副月曜……",
+      "source_ja_applied": "【光志】\\n白川一利と近藤克美の関係……\\n白川一利と沼崎栄太郎の関係……\\n水谷朝等……水無副月曜……",
+      "source_ja_reviewed": "白川一利と近藤克美の関係……白川一利と沼崎栄太郎の関係……水谷朝等……水無月幸司……",
+      "old_translation": "【코우지】\\n시라카와 이치로와 콘도 레이미의\\n관계\\n......\\n시라카와 이치로와 누마사키 신타로의\\n관계\\n......\\n미즈타니 아사츠유……미나즈키\\n코우지……",
+      "new_translation": "【코우지】\\n시라카와 이치리와 콘도 가쓰미의\\n관계……\\n시라카와 이치리와 누마사키\\n에이타로의 관계……\\n아사츠유…… 미나즈키 코우지……",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4114,
+      "source_index": "0x000b18f9",
+      "source_ja_raw": "【光志】\\nまずはこの綴りを中心に。",
+      "source_ja_applied": "【光志】\\nまずはこの綴りを中心に。",
+      "source_ja_reviewed": "【光志】\\nまずはこの綴りを中心に。",
+      "old_translation": "【코우지】\\n우선은 이 것을 중심으로.",
+      "new_translation": "【코우지】\\n우선은 이 목록을 중심으로.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4115,
+      "source_index": "0x000b1960",
+      "source_ja_raw": "【法子】\\nわかったわ。",
+      "source_ja_applied": "【法子】\\nわかったわ。",
+      "source_ja_reviewed": "【法子】\\nわかったわ。",
+      "old_translation": "【노리코】\\n알겠어.",
+      "new_translation": "【노리코】\\n알겠어.",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4116,
+      "source_index": "0x000b1998",
+      "source_ja_raw": "【光志】\\nあと、\\n動関係者と話す機会があったら、\\nあらためてアリバイを\\n聞いて疚しいんだ。",
+      "source_ja_applied": "【光志】\\nあと、\\n動関係者と話す機会があったら、\\nあらためてアリバイを\\n聞いて欲しいんだ。",
+      "source_ja_reviewed": "【光志】\\nあと、\\n動関係者と話す機会があったら、\\nあらためてアリバイを\\n聞いて欲しいんだ。",
+      "old_translation": "【코우지】\\n나중에,\\n각 관계자와 이야기할 생각이\\n있으면,\\n다시 알리바이를\\n듣고 귀찮다.",
+      "new_translation": "【코우지】\\n그리고 각 관계자와 이야기할 기회가\\n있으면\\n다시 알리바이를 물어봐 줘.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4117,
+      "source_index": "0x000b19fe",
+      "source_ja_raw": "【光志】\\n沼崎弁護士、水無副月曜\\nそれから朝等さん……",
+      "source_ja_applied": "【光志】\\n沼崎弁護士、水無副月曜\\nそれから朝等さん……",
+      "source_ja_reviewed": "【光志】\\n沼崎弁護士、水無副月曜\\nそれから朝等さん……",
+      "old_translation": "【코우지】\\n누마사키 변호사, 미나즈키 코우지\\n그리고 아사츠유씨…",
+      "new_translation": "【코우지】\\n누마사키 변호사, 미나즈키 코우지\\n그리고 아사츠유 씨……",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4118,
+      "source_index": "0x000b1a54",
+      "source_ja_raw": "【光志】\\n本当はこの３人に加えて\\n近藤のアリバイを\\n調査したいところなんだけど……",
+      "source_ja_applied": "【光志】\\n本当はこの３人に加えて\\n近藤のアリバイを\\n調査したいところなんだけど……",
+      "source_ja_reviewed": "【光志】\\n本当はこの３人に加えて\\n近藤のアリバイを\\n調査したいところなんだけど……",
+      "old_translation": "【코우지】\\n정말은 이 3명에게 순결해\\n콘도의 알리바이를\\n조사하고 싶은 곳이지만…",
+      "new_translation": "【코우지】\\n사실은 이 세 사람에 더해\\n콘도의 알리바이도\\n조사하고 싶지만……",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4119,
+      "source_index": "0x000b1adb",
+      "source_ja_raw": "【法子】\\n下手に本人にアリバイを聞くと、\\n私たちがこうして調査してることが\\nバレてしまうかもしれない……",
+      "source_ja_applied": "【法子】\\n下手に本人にアリバイを聞くと、\\n私たちがこうして調査してることが\\nバレてしまうかもしれない……",
+      "source_ja_reviewed": "【法子】\\n下手に本人にアリバイを聞くと、\\n私たちがこうして調査してることが\\nバレてしまうかもしれない……",
+      "old_translation": "【노리코】\\n잘못해 본인에게 알리바이를 두면,\\n우리가 이렇게 조사하고 있는 것이\\n바레 버릴지도 모른다…",
+      "new_translation": "【노리코】\\n괜히 본인에게 알리바이를 물었다가\\n우리가 이렇게 조사하고 있다는 걸\\n들킬 수도 있겠네……",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4120,
+      "source_index": "0x000b1b48",
+      "source_ja_raw": "【光志】\\nそうなんだよ。\\nだから、とりあえず近藤については\\n画留にしよう。",
+      "source_ja_applied": "【光志】\\nそうなんだよ。\\nだから、とりあえず近藤については\\n画留にしよう。",
+      "source_ja_reviewed": "【光志】\\nそうなんだよ。\\nだから、とりあえず近藤については\\n画留にしよう。",
+      "old_translation": "【코우지】\\n그렇구나. \\n그래서, 우선 콘도에 대해서는\\n보류로 하자.",
+      "new_translation": "【코우지】\\n그렇지.\\n그러니까 일단 콘도에 대해서는\\n보류하자.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4121,
+      "source_index": "0x000b1ba0",
+      "source_ja_raw": "【光志】\\nまずはさっき言った３人だ。\\n０恋４４分だと思っていた殺害恋刻が、\\nそれ以前に変わったわけだから……",
+      "source_ja_applied": "【光志】\\nまずはさっき言った３人だ。\\n０恋４４分だと思っていた殺害恋刻が、\\nそれ以前に変わったわけだから……",
+      "source_ja_reviewed": "まずはさっき言った３人だ。０時４４分だと思っていた殺害時刻が、それ以前に変わったわけだから……",
+      "old_translation": "【코우지】\\n우선은 아까 말한 3명이다.\\n0시 44분이라고 생각했던 살해\\n시각이,\\n그보다 이전으로 바뀐 셈이니까……",
+      "new_translation": "【코우지】\\n우선은 아까 말한 세 사람이야.\\n0시 44분이라고 생각했던 살해\\n시각이\\n그보다 전으로 바뀐 셈이니까……",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4122,
+      "source_index": "0x000b1c16",
+      "source_ja_raw": "【光志】\\nそうだな……\\nできれば２３恋３０分頃《ごろ》から\\n０恋４４分までのアリバイを\\n聞いてほしい。",
+      "source_ja_applied": "【光志】\\nそうだな……\\nできれば２３恋３０分頃《ごろ》から\\n０恋４４分までのアリバイを\\n聞いてほしい。",
+      "source_ja_reviewed": "【光志】\\nそうだな……\\nできれば２３恋３０分頃《ごろ》から\\n０恋４４分までのアリバイを\\n聞いてほしい。",
+      "old_translation": "【코우지】\\n맞아…\\n가능하면 23시 30 분경부터\\n0시 44 분까지의 알리바이\\n두고 싶다.",
+      "new_translation": "【코우지】\\n그래……\\n가능하면 23시 30분쯤부터\\n0시 44분까지의 알리바이를\\n물어봐 줘.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4123,
+      "source_index": "0x000b1cad",
+      "source_ja_raw": "【法子】\\nうん、了婚《りょうかい》。",
+      "source_ja_applied": "【法子】\\nうん、了婚《りょうかい》。",
+      "source_ja_reviewed": "【法子】\\nうん、了婚《りょうかい》。",
+      "old_translation": "【노리코】\\n응, 알겠어.",
+      "new_translation": "【노리코】\\n응, 알겠어.",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4124,
+      "source_index": "0x000b1cf0",
+      "source_ja_raw": "【光志】\\nあとは、被害者《ひがいしゃ》が最後に\\n押撃《もくげき》された恋付が\\n知りたいところだけど……",
+      "source_ja_applied": "【光志】\\nあとは、被害者《ひがいしゃ》が最後に\\n押撃《もくげき》された恋付が\\n知りたいところだけど……",
+      "source_ja_reviewed": "あとは、被害者《ひがいしゃ》が最後に目撃《もくげき》された時間が知りたいところだけど……",
+      "old_translation": "【코우지】\\n다음은, 피해자가 마지막으로\\n목격된 시간이\\n알고 싶은 곳이지만…",
+      "new_translation": "【코우지】\\n그리고 피해자가 마지막으로\\n목격된 시간도 알고 싶지만……",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4125,
+      "source_index": "0x000b1d5e",
+      "source_ja_raw": "【光志】\\nこれはオレのほうでなんとかしよう。\\n退職から話の穢れで\\nうまく聞き出してみようと思う。",
+      "source_ja_applied": "【光志】\\nこれはオレのほうでなんとかしよう。\\n三浦から話の穢れで\\nうまく聞き出してみようと思う。",
+      "source_ja_reviewed": "【光志】\\nこれはオレのほうでなんとかしよう。\\n三浦から話の穢れで\\nうまく聞き出してみようと思う。",
+      "old_translation": "【코우지】\\n이것은 내 쪽에서 어떻게든 하자. \\n미우라에서 이야기를 보내고\\n잘 꺼내 보려고 무겁다.",
+      "new_translation": "【코우지】\\n그건 내가 어떻게든 해 볼게.\\n미우라에게 이야기 흐름을 타서\\n잘 물어내 보려고.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4126,
+      "source_index": "0x000b1dc3",
+      "source_ja_raw": "【光志】\\nこうして関係者のアリバイを\\n特定することによって、逆に\\nアリバイを確定できなかった人物が\\n真犯人となるわけだ。",
+      "source_ja_applied": "【光志】\\nこうして関係者のアリバイを\\n特定することによって、逆に\\nアリバイを確定できなかった人物が\\n真犯人となるわけだ。",
+      "source_ja_reviewed": "【光志】\\nこうして関係者のアリバイを\\n特定することによって、逆に\\nアリバイを確定できなかった人物が\\n真犯人となるわけだ。",
+      "old_translation": "【코우지】\\n 이렇게 관계자의 알리바이를\\n특정하는 것에 의해서, 반대로\\n알리바이를 확정할 수 없었던 인물이\\n진범이 되는 것이다.",
+      "new_translation": "【코우지】\\n이렇게 관계자들의 알리바이를\\n확인해 나가면\\n반대로 알리바이를 확정하지 못한\\n사람이\\n진범이 되는 셈이야.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [
+        "진범",
+        "알리바이"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4127,
+      "source_index": "0x000b1e3c",
+      "source_ja_raw": "【光志】\\nただ、アリバイばかりに\\nこだわっているのも心許《こころもと》ない。",
+      "source_ja_applied": "【光志】\\nただ、アリバイばかりに\\nこだわっているのも心許《こころもと》ない。",
+      "source_ja_reviewed": "ただ、アリバイばかりにこだわっているのも心許《こころもと》ない。",
+      "old_translation": "【코우지】\\n단지, 알리바이만\\n 고집하고 있는 것도 마음 허락\\n없다.",
+      "new_translation": "【코우지】\\n다만 알리바이에만 매달리는 것도\\n불안해.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4128,
+      "source_index": "0x000b1e94",
+      "source_ja_raw": "【光志】\\nだから同恋に被害者《ひがいしゃ》を蠧り卷く\\n人物の関係をより深く探って、\\n殺害係機まで辿《たど》り着《つ》ければと思う。",
+      "source_ja_applied": "【光志】\\nだから同恋に被害者《ひがいしゃ》を取り卷く\\n人物の関係をより深く探って、\\n殺害係機まで辿《たど》り着《つ》ければと思う。",
+      "source_ja_reviewed": "【光志】\\nだから同恋に被害者《ひがいしゃ》を取り卷く\\n人物の関係をより深く探って、\\n殺害係機まで辿《たど》り着《つ》ければと思う。",
+      "old_translation": "【코우지】\\n그러므로 피해자와 관련된 인물들의\\n관계를 더 깊이 파고들어,\\n살해 동기까지 도달해야 한다고\\n생각해.",
+      "new_translation": "【코우지】\\n그러니까 동시에 피해자를 둘러싼\\n인물들의 관계를 더 깊이 파고들어서\\n살해 동기까지 도달하고 싶어.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4129,
+      "source_index": "0x000b1f27",
+      "source_ja_raw": "【法子】\\nつまりアリバイと殺害係機の\\n阿飯から事件を探っていくわけね。",
+      "source_ja_applied": "【法子】\\nつまりアリバイと殺害係機の\\n阿飯から事件を探っていくわけね。",
+      "source_ja_reviewed": "【法子】\\nつまりアリバイと殺害係機の\\n阿飯から事件を探っていくわけね。",
+      "old_translation": "【노리코】\\n즉 알리바이와 살해 동기의\\n양면에서 사건을 파헤쳐 가는\\n거군요.",
+      "new_translation": "【노리코】\\n즉 알리바이와 살해 동기\\n양쪽에서 사건을 파헤치는 거네.",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4130,
+      "source_index": "0x000b1f81",
+      "source_ja_raw": "【光志】\\nあぁ、そういうことだ。",
+      "source_ja_applied": "【光志】\\nあぁ、そういうことだ。",
+      "source_ja_reviewed": "【光志】\\nあぁ、そういうことだ。",
+      "old_translation": "【코우지】\\n아아, 그런 일이다.",
+      "new_translation": "【코우지】\\n그래, 그런 거야.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4131,
+      "source_index": "0x000b1fbf",
+      "source_ja_raw": "【光志】\\nそれともう一つ。\\nライトブルーに行って、\\n例の駆犯カメラの映像《ビ　デ　オ》の\\nダビングがあるか\\n確認してもらいたい。",
+      "source_ja_applied": "【光志】\\nそれともう一つ。\\nライトブルーに行って、\\n例の駆犯カメラの映像《ビ　デ　オ》の\\nダビングがあるか\\n確認してもらいたい。",
+      "source_ja_reviewed": "それともう一つ。ライトブルーに行って、例の防犯カメラの映像《ビデオ》のダビングがあるか確認してもらいたい。",
+      "old_translation": "【코우지】\\n그리고 또 하나. \\n라이트 블루에 가서,\\n령의 발범 카메라의 발휘의\\n더빙이 있는지\\n확인해 주었으면 한다.",
+      "new_translation": "【코우지】\\n그리고 하나 더.\\n라이트 블루에 가서\\n그 방범 카메라 영상의\\n복사본이 있는지 확인해 줘.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4132,
+      "source_index": "0x000b2040",
+      "source_ja_raw": "【光志】\\n一度でダメならもう一度枚《つ》きつけて、\\n今度こそ声要な証拠《しょうこ》として\\n採用してもらうためにな。",
+      "source_ja_applied": "【光志】\\n一度でダメならもう一度枚《つ》きつけて、\\n今度こそ声要な証拠《しょうこ》として\\n採用してもらうためにな。",
+      "source_ja_reviewed": "一度でダメならもう一度突《つ》きつけて、今度こそ重要な証拠《しょうこ》として採用してもらうためにな。",
+      "old_translation": "【코우지】\\n한 번에 안 된다면 다시 한번\\n쌓아,\\n이번이야말로 중요한 증거로서\\n시용받기 위해서.",
+      "new_translation": "【코우지】\\n한 번 안 된다고 물러서지 말고\\n다시 요구해서\\n이번에는 중요한 증거로\\n채택해 달라고 해야지.",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4133,
+      "source_index": "0x000b20dd",
+      "source_ja_raw": "【法子】\\nそうね。\\nそれじゃ、\\nまずはどこから調査していこうか……？",
+      "source_ja_applied": "【法子】\\nそうね。\\nそれじゃ、\\nまずはどこから調査していこうか……？",
+      "source_ja_reviewed": "【法子】\\nそうね。\\nそれじゃ、\\nまずはどこから調査していこうか……？",
+      "old_translation": "【노리코】\\n그래. \\n그럼,\\n우선 어디서 조사해\\n갈까......?",
+      "new_translation": "【노리코】\\n그렇네.\\n그럼 어디부터 조사해 볼까……?",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4134,
+      "source_index": "0x000b2179",
+      "source_ja_raw": "【法子】\\nわかったわ。\\nそれじゃ、間日までに調べてくるね。",
+      "source_ja_applied": "【法子】\\nわかったわ。\\nそれじゃ、間日までに調べてくるね。",
+      "source_ja_reviewed": "【法子】\\nわかったわ。\\nそれじゃ、間日までに調べてくるね。",
+      "old_translation": "【노리코】\\n알았어. \\n 그럼, 내일까지 알아볼게요.",
+      "new_translation": "【노리코】\\n알겠어.\\n그럼 내일까지 알아볼게.",
+      "speaker": "노리코",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4135,
+      "source_index": "0x000b21c8",
+      "source_ja_raw": "【光志】\\nああ。\\n頼《たの》んだぞ、法子！",
+      "source_ja_applied": "【光志】\\nああ。\\n頼《たの》んだぞ、法子！",
+      "source_ja_reviewed": "【光志】\\nああ。\\n頼《たの》んだぞ、法子！",
+      "old_translation": "【코우지】\\n아. \\n 부탁해, 노리코!",
+      "new_translation": "【코우지】\\n그래.\\n부탁할게, 노리코!",
+      "speaker": "코우지",
+      "scene": "시라카와 이치리 중심의 인물 관계 조사",
+      "relationship_context": "코우지와 노리코는 피해자 주변 인물의 관계와 알리바이를 다시 정리하고, 라이트 블루 방범 카메라 복사본을 확보하려 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4136,
+      "source_index": "0x000b2668",
+      "source_ja_raw": "【法子】\\nおはよう、コウジ。\\n今日からまたがんばろうね。",
+      "source_ja_applied": "【法子】\\nおはよう、コウジ。\\n今日からまたがんばろうね。",
+      "source_ja_reviewed": "【法子】\\nおはよう、コウジ。\\n今日からまたがんばろうね。",
+      "old_translation": "【노리코】\\n안녕, 코우지. \\n오늘부터 다시 노력하겠습니다.",
+      "new_translation": "【노리코】\\n좋은 아침, 코우지.\\n오늘부터 다시 힘내자.",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4137,
+      "source_index": "0x000b26b6",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4138,
+      "source_index": "0x000b2715",
+      "source_ja_raw": "【法子】\\n……どうしたの、コウジ？\\n八《こわ》い顔して。",
+      "source_ja_applied": "【法子】\\n……どうしたの、コウジ？\\n八《こわ》い顔して。",
+      "source_ja_reviewed": "【法子】\\n……どうしたの、コウジ？\\n八《こわ》い顔して。",
+      "old_translation": "【노리코】\\n… … 무슨 일이야, 코우지? \\n요시 봐.",
+      "new_translation": "【노리코】\\n……왜 그래, 코우지?\\n무서운 얼굴을 하고.",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4139,
+      "source_index": "0x000b2766",
+      "source_ja_raw": "【光志】\\n昨日の調査の結果を聞く前に、\\n確認しておきたいことがある。",
+      "source_ja_applied": "【光志】\\n昨日の調査の結果を聞く前に、\\n確認しておきたいことがある。",
+      "source_ja_reviewed": "【光志】\\n昨日の調査の結果を聞く前に、\\n確認しておきたいことがある。",
+      "old_translation": "【코우지】\\n어제의 조사 결과를 듣기 전에,\\n확인해 두고 싶은 것이 있다.",
+      "new_translation": "【코우지】\\n어제 조사 결과를 듣기 전에\\n확인해 두고 싶은 게 있어.",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4140,
+      "source_index": "0x000b27e6",
+      "source_ja_raw": "【法子】\\nえ……なに？",
+      "source_ja_applied": "【法子】\\nえ……なに？",
+      "source_ja_reviewed": "【法子】\\nえ……なに？",
+      "old_translation": "【노리코】\\n에… … 뭐야?",
+      "new_translation": "【노리코】\\n어…… 뭐?",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4141,
+      "source_index": "0x000b2820",
+      "source_ja_raw": "【光志】\\n昨日、被害者《ひがいしゃ》の確《むすめ》、\\n白川のぞみが接見にやってきた。",
+      "source_ja_applied": "【光志】\\n昨日、被害者《ひがいしゃ》の確《むすめ》、\\n白川のぞみが接見にやってきた。",
+      "source_ja_reviewed": "昨日、被害者《ひがいしゃ》の娘《むすめ》、白川のぞみが接見にやってきた。",
+      "old_translation": "【코우지】\\n어제, 피해자의 딸,\\n시라카와 노조미가 접견에 왔다.",
+      "new_translation": "【코우지】\\n어제 피해자의 딸\\n시라카와 노조미가 접견하러 왔어.",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4142,
+      "source_index": "0x000b28ab",
+      "source_ja_raw": "【法子】\\nのぞみさんが……？\\nそ、それで、なにか言ってたの……？",
+      "source_ja_applied": "【法子】\\nのぞみさんが……？\\nそ、それで、なにか言ってたの……？",
+      "source_ja_reviewed": "【法子】\\nのぞみさんが……？\\nそ、それで、なにか言ってたの……？",
+      "old_translation": "【노리코】\\n노조미씨가… \\n그래, 그래서, 뭔가 말하고\\n있었던…",
+      "new_translation": "【노리코】\\n노조미 씨가……?\\n그, 그래서 뭐라고 했어……?",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4143,
+      "source_index": "0x000b2900",
+      "source_ja_raw": "【光志】\\n……法子、\\nオレに閣《かく》してることないか？",
+      "source_ja_applied": "【光志】\\n……法子、\\nオレに閣《かく》してることないか？",
+      "source_ja_reviewed": "【光志】\\n……法子、\\nオレに閣《かく》してることないか？",
+      "old_translation": "【코우지】\\n……노리코,\\n내가 깨어나지 않을까?",
+      "new_translation": "【코우지】\\n……노리코,\\n나한테 숨기는 거 없어?",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4144,
+      "source_index": "0x000b2976",
+      "source_ja_raw": "【法子】\\nえっ……な、なんのこと？",
+      "source_ja_applied": "【法子】\\nえっ……な、なんのこと？",
+      "source_ja_reviewed": "【法子】\\nえっ……な、なんのこと？",
+      "old_translation": "【노리코】\\n엣… … 뭐, 무슨 일?",
+      "new_translation": "【노리코】\\n뭐…… 무, 무슨 말이야?",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4145,
+      "source_index": "0x000b29b7",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4146,
+      "source_index": "0x000b29f0",
+      "source_ja_raw": "【光志】\\nのぞみの母親のことだ。",
+      "source_ja_applied": "【光志】\\nのぞみの母親のことだ。",
+      "source_ja_reviewed": "【光志】\\nのぞみの母親のことだ。",
+      "old_translation": "【코우지】\\n노조미의 어머니의 일이다.",
+      "new_translation": "【코우지】\\n노조미 어머니에 관한 일이야.",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4147,
+      "source_index": "0x000b2a55",
+      "source_ja_raw": "【法子】\\nみ、美佐恵さんのこと？\\nなにも閣《かく》してないけど……",
+      "source_ja_applied": "【法子】\\nみ、美佐恵さんのこと？\\nなにも閣《かく》してないけど……",
+      "source_ja_reviewed": "み、美佐恵さんのこと？なにも隠《かく》してないけど……",
+      "old_translation": "【노리코】\\n미, 미사에씨? \\n 아무것도 깨우지 않지만...",
+      "new_translation": "【노리코】\\n미, 미사에 씨 말이야?\\n아무것도 숨기지 않았는데……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4148,
+      "source_index": "0x000b2aab",
+      "source_ja_raw": "【光志】\\n……美佐恵じゃないだろ、\\nのぞみの本当の母親は。",
+      "source_ja_applied": "【光志】\\n……美佐恵じゃないだろ、\\nのぞみの本当の母親は。",
+      "source_ja_reviewed": "【光志】\\n……美佐恵じゃないだろ、\\nのぞみの本当の母親は。",
+      "old_translation": "【코우지】\\n… … 미사에가 아니잖아,\\n노조미의 진짜 어머니는.",
+      "new_translation": "【코우지】\\n……미사에 씨가 아니잖아.\\n노조미의 진짜 어머니는.",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4149,
+      "source_index": "0x000b2b18",
+      "source_ja_raw": "【法子】\\n…………！？",
+      "source_ja_applied": "【法子】\\n…………！？",
+      "source_ja_reviewed": "【法子】\\n…………！？",
+      "old_translation": "【노리코】\\n…………!?",
+      "new_translation": "【노리코】\\n…………!?",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4150,
+      "source_index": "0x000b2b7b",
+      "source_ja_raw": "【法子】\\nご、ごめんなさい……",
+      "source_ja_applied": "【法子】\\nご、ごめんなさい……",
+      "source_ja_reviewed": "【法子】\\nご、ごめんなさい……",
+      "old_translation": "【노리코】\\n미안해요......",
+      "new_translation": "【노리코】\\n미, 미안해……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4151,
+      "source_index": "0x000b2bb9",
+      "source_ja_raw": "【光志】\\n謝るってことは、\\n意図的《いとてき》に閣《かく》してたことを\\n認めるってことだな……？",
+      "source_ja_applied": "【光志】\\n謝るってことは、\\n意図的《いとてき》に閣《かく》してたことを\\n認めるってことだな……？",
+      "source_ja_reviewed": "謝るってことは、意図的《いとてき》に隠《かく》してたことを認めるってことだな……？",
+      "old_translation": "【코우지】\\n사과한다는 것은,\\n의도적으로 깨웠던 것을\\n인정한다는 것이구나…",
+      "new_translation": "【코우지】\\n사과한다는 건\\n일부러 숨겼다는 걸\\n인정하는 거지……?",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4152,
+      "source_index": "0x000b2c21",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4153,
+      "source_index": "0x000b2c67",
+      "source_ja_raw": "【法子】\\nええ……\\n閣《かく》してたわ……",
+      "source_ja_applied": "【法子】\\nええ……\\n閣《かく》してたわ……",
+      "source_ja_reviewed": "【法子】\\nええ……\\n閣《かく》してたわ……",
+      "old_translation": "【노리코】\\n네......\\n각각했어......",
+      "new_translation": "【노리코】\\n응……\\n숨겼어……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4154,
+      "source_index": "0x000b2ce7",
+      "source_ja_raw": "【光志】\\nなんでだよ！？\\n思いっきり声要なことだろ！！",
+      "source_ja_applied": "【光志】\\nなんでだよ！？\\n思いっきり声要なことだろ！！",
+      "source_ja_reviewed": "【光志】\\nなんでだよ！？\\n思いっきり声要なことだろ！！",
+      "old_translation": "【코우지】\\n어째서야! ? \\n 무거운 확실히 무거운 것입니다!\\n!",
+      "new_translation": "【코우지】\\n왜 그랬어!?\\n너무나 중요한 일이잖아!!",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4155,
+      "source_index": "0x000b2d35",
+      "source_ja_raw": "【光志】\\n美佐恵が示婚相手《さいこんあいて》だって知ってたら、\\n酔理する内容が変わってくる！",
+      "source_ja_applied": "【光志】\\n美佐恵が示婚相手《さいこんあいて》だって知ってたら、\\n酔理する内容が変わってくる！",
+      "source_ja_reviewed": "美佐恵が再婚相手《さいこんあいて》だって知ってたら、推理する内容が変わってくる！",
+      "old_translation": "【코우지】\\n미사에가 재혼 상대라고 알고\\n있으면,\\n역리하는 내용이 바뀌어 온다!",
+      "new_translation": "【코우지】\\n미사에 씨가 재혼 상대라는 걸\\n알았다면\\n추리할 내용이 달라져! ",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4156,
+      "source_index": "0x000b2d9f",
+      "source_ja_raw": "【光志】\\n２人が示婚《さいこん》したのだって、\\n美佐恵の策七《さくりゃく》である可能性が\\n出てくるじゃないか！",
+      "source_ja_applied": "【光志】\\n２人が示婚《さいこん》したのだって、\\n美佐恵の策七《さくりゃく》である可能性が\\n出てくるじゃないか！",
+      "source_ja_reviewed": "２人が再婚《さいこん》したのだって、美佐恵の策略《さくりゃく》である可能性が出てくるじゃないか！",
+      "old_translation": "【코우지】\\n2명이 재혼한 것이라도,\\n미사에의 책략일 가능성이\\n나오는 것이 아닌가!",
+      "new_translation": "【코우지】\\n두 사람이 재혼한 것도\\n미사에 씨의 책략이었을\\n가능성이 생기잖아!",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4157,
+      "source_index": "0x000b2e20",
+      "source_ja_raw": "【法子】\\n…………\\nコウジの言う通りだね……",
+      "source_ja_applied": "【法子】\\n…………\\nコウジの言う通りだね……",
+      "source_ja_reviewed": "【法子】\\n…………\\nコウジの言う通りだね……",
+      "old_translation": "【노리코】\\n…………\\n코우지가 말하는 대로구나…",
+      "new_translation": "【노리코】\\n…………\\n코우지 말이 맞아……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4158,
+      "source_index": "0x000b2e6b",
+      "source_ja_raw": "【光志】\\nわかってたなら、\\nどうして閣《かく》したんだ！",
+      "source_ja_applied": "【光志】\\nわかってたなら、\\nどうして閣《かく》したんだ！",
+      "source_ja_reviewed": "【光志】\\nわかってたなら、\\nどうして閣《かく》したんだ！",
+      "old_translation": "【코우지】\\n알고 있었다면,\\n어째서 깨웠어!",
+      "new_translation": "【코우지】\\n알고 있었다면\\n왜 숨겼어!",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4159,
+      "source_index": "0x000b2eb7",
+      "source_ja_raw": "【光志】\\nこれはオレたちの信頼関係《しんらいかんけい》に\\n関わってくる話だぞ！",
+      "source_ja_applied": "【光志】\\nこれはオレたちの信頼関係《しんらいかんけい》に\\n関わってくる話だぞ！",
+      "source_ja_reviewed": "【光志】\\nこれはオレたちの信頼関係《しんらいかんけい》に\\n関わってくる話だぞ！",
+      "old_translation": "【코우지】\\n이것은 우리들의 신뢰 관계에\\n관련되어 오는 이야기야!",
+      "new_translation": "【코우지】\\n이건 우리 신뢰 관계와\\n관련된 일이야!",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4160,
+      "source_index": "0x000b2f1f",
+      "source_ja_raw": "【法子】\\n…………\\nごめんなさい……",
+      "source_ja_applied": "【法子】\\n…………\\nごめんなさい……",
+      "source_ja_reviewed": "【法子】\\n…………\\nごめんなさい……",
+      "old_translation": "【노리코】\\n…………\\n미안해…",
+      "new_translation": "【노리코】\\n…………\\n미안해……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4161,
+      "source_index": "0x000b2f63",
+      "source_ja_raw": "【光志】\\n……クソッ！",
+      "source_ja_applied": "【光志】\\n……クソッ！",
+      "source_ja_reviewed": "【光志】\\n……クソッ！",
+      "old_translation": "【코우지】\\n……젠장!",
+      "new_translation": "【코우지】\\n……젠장!",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4162,
+      "source_index": "0x000b2f9d",
+      "source_ja_raw": "【光志】\\nひとつ閣《かく》しごとがあると、\\n他にもあるんじゃないかって\\n勘《かん》ぐっちまうだろう！？",
+      "source_ja_applied": "【光志】\\nひとつ閣《かく》しごとがあると、\\n他にもあるんじゃないかって\\n勘《かん》ぐっちまうだろう！？",
+      "source_ja_reviewed": "ひとつ隠《かく》しごとがあると、他にもあるんじゃないかって勘《かん》ぐっちまうだろう！？",
+      "old_translation": "【코우지】\\n하나 각성이 있으면,\\n범에도 있잖아?\\n감구치마겠지! ?",
+      "new_translation": "【코우지】\\n하나 숨기는 일이 있으면\\n다른 것도 있는 게 아닌가\\n의심하게 되잖아!?",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4163,
+      "source_index": "0x000b3004",
+      "source_ja_raw": "【光志】\\nこれがオレたちのあいだにある\\n５年のブランクってヤツなのか！？",
+      "source_ja_applied": "【光志】\\nこれがオレたちのあいだにある\\n５年のブランクってヤツなのか！？",
+      "source_ja_reviewed": "【光志】\\nこれがオレたちのあいだにある\\n５年のブランクってヤツなのか！？",
+      "old_translation": "【코우지】\\n이것이 우리들 사이에 있는\\n5년의 블랭크는 녀석인가! ?",
+      "new_translation": "【코우지】\\n이게 우리 사이에 있는\\n5년의 공백이라는 건가!?",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4164,
+      "source_index": "0x000b3059",
+      "source_ja_raw": "【光志】\\nこんなんじゃ、\\nもう法子を信用することなんか\\nできない！！",
+      "source_ja_applied": "【光志】\\nこんなんじゃ、\\nもう法子を信用することなんか\\nできない！！",
+      "source_ja_reviewed": "【光志】\\nこんなんじゃ、\\nもう法子を信用することなんか\\nできない！！",
+      "old_translation": "【코우지】\\n이렇게,\\n이제 노리코를 신용하는 것 같다\\n할 수 없다! !",
+      "new_translation": "【코우지】\\n이래서는 더 이상\\n노리코를 믿을 수 없어!!",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4165,
+      "source_index": "0x000b30ae",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4166,
+      "source_index": "0x000b30f4",
+      "source_ja_raw": "【法子】\\nごめんなさい……\\n本当のことを話します……",
+      "source_ja_applied": "【法子】\\nごめんなさい……\\n本当のことを話します……",
+      "source_ja_reviewed": "【法子】\\nごめんなさい……\\n本当のことを話します……",
+      "old_translation": "【노리코】\\n미안해......\\n진짜 말씀해요......",
+      "new_translation": "【노리코】\\n미안해……\\n사실을 말할게……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4167,
+      "source_index": "0x000b314d",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4168,
+      "source_index": "0x000b3193",
+      "source_ja_raw": "【法子】\\n実は……\\n所長に止められていたの……",
+      "source_ja_applied": "【法子】\\n実は……\\n所長に止められていたの……",
+      "source_ja_reviewed": "実は……所長に止められていたの……",
+      "old_translation": "【노리코】\\n실은…\\n소장에게 뿌려져 있었던 것…",
+      "new_translation": "【노리코】\\n실은……\\n소장님에게 말하지 말라는\\n지시를 받았어……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4169,
+      "source_index": "0x000b31e2",
+      "source_ja_raw": "【光志】\\n沼崎弁護士に……？",
+      "source_ja_applied": "【光志】\\n沼崎弁護士に……？",
+      "source_ja_reviewed": "【光志】\\n沼崎弁護士に……？",
+      "old_translation": "【코우지】\\n누마사키 변호사에게…",
+      "new_translation": "【코우지】\\n누마사키 변호사에게……?",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4170,
+      "source_index": "0x000b3231",
+      "source_ja_raw": "【法子】\\nええ。\\nこの件に関しては、\\n今関の殺人事件とは関係ない……",
+      "source_ja_applied": "【法子】\\nええ。\\nこの件に関しては、\\n今回の殺人事件とは関係ない……",
+      "source_ja_reviewed": "【法子】\\nええ。\\nこの件に関しては、\\n今回の殺人事件とは関係ない……",
+      "old_translation": "【노리코】\\n그래.\\n이 건에 관해서는,\\n이마바야시의 살인 사건과는\\n관계없어……",
+      "new_translation": "【노리코】\\n응.\\n이 일은 이번 살인 사건과는\\n관계없는\\n피해자의 사생활에 관한 문제니까……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4171,
+      "source_index": "0x000b329a",
+      "source_ja_raw": "【法子】\\n被害者《ひがいしゃ》のプライバシーに\\n関わる問題だから、\\nコウジには話すな……って。",
+      "source_ja_applied": "【法子】\\n被害者《ひがいしゃ》のプライバシーに\\n関わる問題だから、\\nコウジには話すな……って。",
+      "source_ja_reviewed": "【法子】\\n被害者《ひがいしゃ》のプライバシーに\\n関わる問題だから、\\nコウジには話すな……って。",
+      "old_translation": "【노리코】\\n피해자의 프라이버시에\\n관련되는 문제이니까,\\n코우지에게는 말하지 말아…",
+      "new_translation": "【노리코】\\n피해자의 사생활에 관련된 일이니\\n코우지에게는 말하지 말라고 했어……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4172,
+      "source_index": "0x000b3304",
+      "source_ja_raw": "【光志】\\nなっ……バカなっ！",
+      "source_ja_applied": "【光志】\\nなっ……バカなっ！",
+      "source_ja_reviewed": "【光志】\\nなっ……バカなっ！",
+      "old_translation": "【코우지】\\n뭐...... 바보야!",
+      "new_translation": "【코우지】\\n뭐…… 바보 같은 소리!",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4173,
+      "source_index": "0x000b3342",
+      "source_ja_raw": "【光志】\\n沼崎弁護士は、\\nオレたちのやり方に\\n芝成してくれたんじゃないのか！？",
+      "source_ja_applied": "【光志】\\n沼崎弁護士は、\\nオレたちのやり方に\\n芝成してくれたんじゃないのか！？",
+      "source_ja_reviewed": "沼崎弁護士は、オレたちのやり方に賛成《さんせい》してくれたんじゃないのか！？",
+      "old_translation": "【코우지】\\n누마사키 변호사는,\\n저희들의 방식에\\n찬성해 주었잖아! ?",
+      "new_translation": "【코우지】\\n누마사키 변호사는\\n우리 방식에 찬성해 준 게\\n아니었어!?",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4174,
+      "source_index": "0x000b33b8",
+      "source_ja_raw": "【光志】\\nなのになんで、\\nそれを根底から屑《くず》すような\\n情報操作をするんだっ！？",
+      "source_ja_applied": "【光志】\\nなのになんで、\\nそれを根底から屑《くず》すような\\n情報操作をするんだっ！？",
+      "source_ja_reviewed": "なのになんで、それを根底から崩《くず》すような情報操作をするんだっ！？",
+      "old_translation": "【코우지】\\n인데 어째서,\\n그것을 근저로부터 쓰레기 같은\\n정보 조작을 하는 거야! ?",
+      "new_translation": "【코우지】\\n그런데 왜 그걸 근본부터 무너뜨리는\\n정보 조작을 하는 거야!?",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4175,
+      "source_index": "0x000b342a",
+      "source_ja_raw": "【法子】\\nごめんなさい……\\nでも私にも所長の考えは\\nわからないの……",
+      "source_ja_applied": "【法子】\\nごめんなさい……\\nでも私にも所長の考えは\\nわからないの……",
+      "source_ja_reviewed": "【法子】\\nごめんなさい……\\nでも私にも所長の考えは\\nわからないの……",
+      "old_translation": "【노리코】\\n미안해…\\n하지만 나에게도 소장의 생각은\\n모르겠어…",
+      "new_translation": "【노리코】\\n미안해……\\n하지만 나도 소장님의 생각은\\n모르겠어……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4176,
+      "source_index": "0x000b3480",
+      "source_ja_raw": "【光志】\\n法子も法子だ！\\n話してくれればいいじゃないか！",
+      "source_ja_applied": "【光志】\\n法子も法子だ！\\n話してくれればいいじゃないか！",
+      "source_ja_reviewed": "【光志】\\n法子も法子だ！\\n話してくれればいいじゃないか！",
+      "old_translation": "【코우지】\\n노리코도 노리코다! \\n말해주면 좋을까!",
+      "new_translation": "【코우지】\\n노리코도 노리코야!\\n말해 줬으면 됐잖아!",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4177,
+      "source_index": "0x000b34cf",
+      "source_ja_raw": "【光志】\\nここで話したことなんか、\\n沼崎弁護士にわかるわけないだろ！",
+      "source_ja_applied": "【光志】\\nここで話したことなんか、\\n沼崎弁護士にわかるわけないだろ！",
+      "source_ja_reviewed": "【光志】\\nここで話したことなんか、\\n沼崎弁護士にわかるわけないだろ！",
+      "old_translation": "【코우지】\\n여기서 말한 것 같은가,\\n누마사키 변호사에게 알 수 없겠지!",
+      "new_translation": "【코우지】\\n여기서 한 말을\\n누마사키 변호사가 알 리 없잖아!",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4178,
+      "source_index": "0x000b354b",
+      "source_ja_raw": "【法子】\\nそれが条件だったの！",
+      "source_ja_applied": "【法子】\\nそれが条件だったの！",
+      "source_ja_reviewed": "【法子】\\nそれが条件だったの！",
+      "old_translation": "【노리코】\\n그것이 조건이었어!",
+      "new_translation": "【노리코】\\n그게 조건이었어!",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4179,
+      "source_index": "0x000b35af",
+      "source_ja_raw": "【法子】\\n私が計《かか》えていたいくつかの事件を\\n先輩《せんぱい》に引《ひ》き全《つ》がせて、\\nコウジの事件に能中させてもらえる\\n条件だったの…",
+      "source_ja_applied": "【法子】\\n私が計《かか》えていたいくつかの事件を\\n先輩《せんぱい》に引《ひ》き全《つ》がせて、\\nコウジの事件に集中させてもらえる\\n条件だったの…",
+      "source_ja_reviewed": "私が抱《かか》えていたいくつかの事件を先輩《せんぱい》に引《ひ》き継《つ》がせて、コウジの事件に集中させてもらえる条件だったの……",
+      "old_translation": "【노리코】\\n내가 기쁘게 하고 있던 몇개의\\n사건을\\n선배에게 끌려가게 하고,\\n코우지의 사건에 집중시켜 줄 수\\n있는\\n조건이었어…",
+      "new_translation": "【노리코】\\n내가 맡고 있던 몇 가지 사건을\\n선배에게 넘기고\\n코우지 사건에 집중하게 해 준다는\\n조건이었어……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4180,
+      "source_index": "0x000b3638",
+      "source_ja_raw": "【光志】\\n条件……？",
+      "source_ja_applied": "【光志】\\n条件……？",
+      "source_ja_reviewed": "【光志】\\n条件……？",
+      "old_translation": "【코우지】\\n조건…",
+      "new_translation": "【코우지】\\n조건……?",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4181,
+      "source_index": "0x000b368e",
+      "source_ja_raw": "【法子】\\nコウジの事件に\\n能中させてもらえる条件……",
+      "source_ja_applied": "【法子】\\nコウジの事件に\\n集中させてもらえる条件……",
+      "source_ja_reviewed": "【法子】\\nコウジの事件に\\n集中させてもらえる条件……",
+      "old_translation": "【노리코】\\n코우지의 사건에\\n집중시켜 주는 조건…",
+      "new_translation": "【노리코】\\n코우지 사건에\\n집중하게 해 준다는 조건……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4182,
+      "source_index": "0x000b36ea",
+      "source_ja_raw": "【法子】\\nのぞみさんのお母さんが自殺したことを\\nコウジに黙《だま》っておくことが……ね。",
+      "source_ja_applied": "【法子】\\nのぞみさんのお母さんが自殺したことを\\nコウジに黙《だま》っておくことが……ね。",
+      "source_ja_reviewed": "のぞみさんのお母さんが自殺したことをコウジに黙《だま》っておくことが……ね。",
+      "old_translation": "【노리코】\\n노조미 씨의 어머니가 자살한 것을\\n코우지에게 숨겨 두는 것이……\\n그렇군요.",
+      "new_translation": "【노리코】\\n노조미 씨 어머니가 자살했다는\\n사실을\\n코우지에게 숨기는 게……\\n그 조건이었어.",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4183,
+      "source_index": "0x000b374b",
+      "source_ja_raw": "【光志】\\nどうして……？\\nなんでそんな条件を沼崎弁護士は\\n出したんだ……？",
+      "source_ja_applied": "【光志】\\nどうして……？\\nなんでそんな条件を沼崎弁護士は\\n出したんだ……？",
+      "source_ja_reviewed": "【光志】\\nどうして……？\\nなんでそんな条件を沼崎弁護士は\\n出したんだ……？",
+      "old_translation": "【코우지】\\n어째서… \\n어째서 그런 조건을 누마사키\\n변호사는\\n출한거야…",
+      "new_translation": "【코우지】\\n왜……?\\n왜 그런 조건을 누마사키 변호사가\\n내건 거야……?",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4184,
+      "source_index": "0x000b37b7",
+      "source_ja_raw": "【法子】\\nわからない……\\nわからないけど……\\n実は私、この件を調べてみたの……",
+      "source_ja_applied": "【法子】\\nわからない……\\nわからないけど……\\n実は私、この件を調べてみたの……",
+      "source_ja_reviewed": "【法子】\\nわからない……\\nわからないけど……\\n実は私、この件を調べてみたの……",
+      "old_translation": "【노리코】\\n몰라…\\n모르겠지만…\\n실은 나, 이 건을 조사해\\n보았는데…",
+      "new_translation": "【노리코】\\n몰라……\\n모르겠지만……\\n실은 나도 이 일을 조사해 봤어……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4185,
+      "source_index": "0x000b3815",
+      "source_ja_raw": "【光志】\\n調べた……って、\\nのぞみの母親が自殺した件か？",
+      "source_ja_applied": "【光志】\\n調べた……って、\\nのぞみの母親が自殺した件か？",
+      "source_ja_reviewed": "【光志】\\n調べた……って、\\nのぞみの母親が自殺した件か？",
+      "old_translation": "【코우지】\\n조사했다……고?\\n노조미의 어머니가 자살한 사건\\n말이야?",
+      "new_translation": "【코우지】\\n조사했다고……?\\n노조미 어머니가 자살한 일 말이야?",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4186,
+      "source_index": "0x000b3874",
+      "source_ja_raw": "【法子】\\nそう。\\n所長に言われたのは\\nコウジに話すなって\\nことだけだったから……",
+      "source_ja_applied": "【法子】\\nそう。\\n所長に言われたのは\\nコウジに話すなって\\nことだけだったから……",
+      "source_ja_reviewed": "【法子】\\nそう。\\n所長に言われたのは\\nコウジに話すなって\\nことだけだったから……",
+      "old_translation": "【노리코】\\n그래. \\n소장에게 말한 것은\\n코우지에게 말하게 되어\\n일 뿐이었으니까…",
+      "new_translation": "【노리코】\\n응.\\n소장님이 말한 건\\n코우지에게 말하지 말라는\\n것뿐이었으니까……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4187,
+      "source_index": "0x000b38dd",
+      "source_ja_raw": "【法子】\\n私はのぞみさんのお母さん……\\n安代さんが自殺した理由を\\n密かに調べていたの……",
+      "source_ja_applied": "【法子】\\n私はのぞみさんのお母さん……\\n安代さんが自殺した理由を\\n密かに調べていたの……",
+      "source_ja_reviewed": "私はのぞみさんのお母さん……安代さんが自殺した理由を密《ひそ》かに調べていたの……",
+      "old_translation": "【노리코】\\n나는 노조미 씨의 어머니……\\n아시로 씨가 자살한 이유를\\n몰래 조사하고 있었어……",
+      "new_translation": "【노리코】\\n나는 노조미 씨 어머니……\\n야스요 씨가 자살한 이유를\\n몰래 조사하고 있었어……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4188,
+      "source_index": "0x000b3950",
+      "source_ja_raw": "【法子】\\nもし、ここで新たな事実がわかったら、\\nそのときはコウジに\\n話すつもりだった……\\n信じてもらえないかもしれないけど……",
+      "source_ja_applied": "【法子】\\nもし、ここで新たな事実がわかったら、\\nそのときはコウジに\\n話すつもりだった……\\n信じてもらえないかもしれないけど……",
+      "source_ja_reviewed": "【法子】\\nもし、ここで新たな事実がわかったら、\\nそのときはコウジに\\n話すつもりだった……\\n信じてもらえないかもしれないけど……",
+      "old_translation": "【노리코】\\n여기에서 새로운 사실을 알면,\\n그때는 코우지에\\n말할 생각이었다…\\n믿을 수 없을지도 모르지만\\n......",
+      "new_translation": "【노리코】\\n여기서 새로운 사실을 알게 되면\\n그때 코우지에게 말할 생각이었어……\\n믿지 못할지도 모르지만……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4189,
+      "source_index": "0x000b39c7",
+      "source_ja_raw": "【光志】\\n……オレにその情報を\\n話してないってことは、\\nまだ具体的《ぐたいてき》なことは\\nわかってないってことか？",
+      "source_ja_applied": "【光志】\\n……オレにその情報を\\n話してないってことは、\\nまだ具体的《ぐたいてき》なことは\\nわかってないってことか？",
+      "source_ja_reviewed": "【光志】\\n……オレにその情報を\\n話してないってことは、\\nまだ具体的《ぐたいてき》なことは\\nわかってないってことか？",
+      "old_translation": "【코우지】\\n… … 나에게 그 정보를\\n말하지 않는다는 것은\\n아직 구체적인 것은\\n모르겠다는거야?",
+      "new_translation": "【코우지】\\n……나에게 그 정보를\\n말하지 않았다는 건\\n아직 구체적인 건\\n모른다는 뜻이야?",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4190,
+      "source_index": "0x000b3a37",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4191,
+      "source_index": "0x000b3a70",
+      "source_ja_raw": "【光志】\\n沼崎弁護士本人には聞いたのか？",
+      "source_ja_applied": "【光志】\\n沼崎弁護士本人には聞いたのか？",
+      "source_ja_reviewed": "【光志】\\n沼崎弁護士本人には聞いたのか？",
+      "old_translation": "【코우지】\\n누마사키 변호사 본인에게 둔\\n것인가?",
+      "new_translation": "【코우지】\\n누마사키 변호사 본인에게는\\n물어봤어?",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4192,
+      "source_index": "0x000b3ac6",
+      "source_ja_raw": "【法子】\\n所長には聞けないでしょう、\\nこのことは……",
+      "source_ja_applied": "【法子】\\n所長には聞けないでしょう、\\nこのことは……",
+      "source_ja_reviewed": "【法子】\\n所長には聞けないでしょう、\\nこのことは……",
+      "old_translation": "【노리코】\\n소장에게는 들을 수 없겠지요,\\n이것은…",
+      "new_translation": "【노리코】\\n소장님에게는 물을 수 없잖아.\\n이 일은……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4193,
+      "source_index": "0x000b3b12",
+      "source_ja_raw": "【光志】\\n…………\\nたしかにそうだな。",
+      "source_ja_applied": "【光志】\\n…………\\nたしかにそうだな。",
+      "source_ja_reviewed": "【光志】\\n…………\\nたしかにそうだな。",
+      "old_translation": "【코우지】\\n…………\\n확실히 그렇구나.",
+      "new_translation": "【코우지】\\n…………\\n확실히 그렇네.",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4194,
+      "source_index": "0x000b3b63",
+      "source_ja_raw": "【法子】\\n……ごめんなさい、\\nコウジ……",
+      "source_ja_applied": "【法子】\\n……ごめんなさい、\\nコウジ……",
+      "source_ja_reviewed": "【法子】\\n……ごめんなさい、\\nコウジ……",
+      "old_translation": "【노리코】\\n......미안해요,\\n코우지......",
+      "new_translation": "【노리코】\\n……미안해,\\n코우지……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4195,
+      "source_index": "0x000b3ba9",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4196,
+      "source_index": "0x000b3be2",
+      "source_ja_raw": "【光志】\\n……いや、謝らなくていいよ。\\n謝らなくちゃならないのはオレだ……",
+      "source_ja_applied": "【光志】\\n……いや、謝らなくていいよ。\\n謝らなくちゃならないのはオレだ……",
+      "source_ja_reviewed": "【光志】\\n……いや、謝らなくていいよ。\\n謝らなくちゃならないのはオレだ……",
+      "old_translation": "【코우지】\\n......아니, 사과하지 않아도\\n돼. \\n사과하지 않으면 안 되는 것은\\n나야......",
+      "new_translation": "【코우지】\\n……아니, 사과하지 않아도 돼.\\n사과해야 하는 건 나야……",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4197,
+      "source_index": "0x000b3c3b",
+      "source_ja_raw": "【光志】\\n法子の気持ちも知らずに\\n怒《ど》率《な》っちまった……\\n最増だ、オレは……",
+      "source_ja_applied": "【光志】\\n法子の気持ちも知らずに\\n怒《ど》率《な》っちまった……\\n最増だ、オレは……",
+      "source_ja_reviewed": "法子の気持ちも知らずに怒《ど》鳴《な》っちまった……最低《さいてい》だ、オレは……",
+      "old_translation": "【코우지】\\n노리코의 기분도 모른 채\\n괜히 들이대 버렸어……\\n최악이야, 나는……",
+      "new_translation": "【코우지】\\n노리코 마음도 모르고\\n소리를 질러 버렸어……\\n최악이야, 나는……",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4198,
+      "source_index": "0x000b3cae",
+      "source_ja_raw": "【法子】\\nううん……\\nコウジは義くない……",
+      "source_ja_applied": "【法子】\\nううん……\\nコウジは義くない……",
+      "source_ja_reviewed": "【法子】\\nううん……\\nコウジは義くない……",
+      "old_translation": "【노리코】\\n응......\\n코우지는 아쉽지 않다…",
+      "new_translation": "【노리코】\\n아니야……\\n코우지는 나쁘지 않아……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4199,
+      "source_index": "0x000b3d02",
+      "source_ja_raw": "【法子】\\n私がいけなかったの……\\nどうしてコウジに閣《かく》し通《とお》せるって\\n思ったんだろ……",
+      "source_ja_applied": "【法子】\\n私がいけなかったの……\\nどうしてコウジに閣《かく》し通《とお》せるって\\n思ったんだろ……",
+      "source_ja_reviewed": "【法子】\\n私がいけなかったの……\\nどうしてコウジに閣《かく》し通《とお》せるって\\n思ったんだろ……",
+      "old_translation": "【노리코】\\n내가 갈 수 없었어…\\n왜 코우지에 깨울 수 있다고\\n무거운 거겠지…",
+      "new_translation": "【노리코】\\n내가 잘못한 거야……\\n왜 코우지에게 계속 숨길 수 있다고\\n생각했을까……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4200,
+      "source_index": "0x000b3d6a",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4201,
+      "source_index": "0x000b3da3",
+      "source_ja_raw": "【光志】\\nとりあえず、安代のことは\\n画留にしておくよ。",
+      "source_ja_applied": "【光志】\\nとりあえず、安代のことは\\n画留にしておくよ。",
+      "source_ja_reviewed": "【光志】\\nとりあえず、安代のことは\\n画留にしておくよ。",
+      "old_translation": "【코우지】\\n일단, 아시로의 일은\\n보류로 해 둘게.",
+      "new_translation": "【코우지】\\n일단 야스요 씨 일은\\n보류해 둘게.",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4202,
+      "source_index": "0x000b3e22",
+      "source_ja_raw": "【光志】\\nなにか情報が入ったら、\\n法子の判断でオレに報浦してくれれば\\nいいからさ。",
+      "source_ja_applied": "【光志】\\nなにか情報が入ったら、\\n法子の判断でオレに報浦してくれれば\\nいいからさ。",
+      "source_ja_reviewed": "【光志】\\nなにか情報が入ったら、\\n法子の判断でオレに報浦してくれれば\\nいいからさ。",
+      "old_translation": "【코우지】\\n뭔가 정보가 들어가면,\\n노리코의 판검으로 나에게 보고해\\n주면\\n좋다.",
+      "new_translation": "【코우지】\\n뭔가 정보가 들어오면\\n노리코 판단으로\\n나에게 알려 주면 돼.",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4203,
+      "source_index": "0x000b3e8f",
+      "source_ja_raw": "【法子】\\nう、うん……\\nわかった……\\nグズ……",
+      "source_ja_applied": "【法子】\\nう、うん……\\nわかった……\\nグズ……",
+      "source_ja_reviewed": "【法子】\\nう、うん……\\nわかった……\\nグズ……",
+      "old_translation": "【노리코】\\n우, 응......\\n알았다......\\n구즈......",
+      "new_translation": "【노리코】\\n으, 응……\\n알겠어……\\n울먹……",
+      "speaker": "노리코",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4204,
+      "source_index": "0x000b3ee5",
+      "source_ja_raw": "【光志】\\nお、おう……",
+      "source_ja_applied": "【光志】\\nお、おう……",
+      "source_ja_reviewed": "【光志】\\nお、おう……",
+      "old_translation": "【코우지】\\n어, 어……",
+      "new_translation": "【코우지】\\n어, 어……",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4205,
+      "source_index": "0x000b3f1f",
+      "source_ja_raw": "【光志】\\n（皎き盜なとこは、\\n５年前と変わってない、か……）",
+      "source_ja_applied": "【光志】\\n（皎き盜なとこは、\\n５年前と変わってない、か……）",
+      "source_ja_reviewed": "（泣《な》き虫《むし》なとこは、５年前と変わってない、か……）",
+      "old_translation": "【코우지】\\n(향도적인 사촌은,\\n5년 전과 다르지 않은,인가……)",
+      "new_translation": "【코우지】\\n(울보인 건\\n5년 전과 변함없나……)",
+      "speaker": "코우지",
+      "scene": "노리코가 숨긴 야스요의 자살",
+      "relationship_context": "코우지는 노리코가 소장 지시로 야스요의 자살을 숨긴 사실을 알고 분노하지만, 노리코가 비밀리에 조사해 왔음을 듣고 보류하기로 한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4206,
+      "source_index": "0x000b3fa8",
+      "source_ja_raw": "【光志】\\nそれじゃあ気を蠧り直して\\n昨日の報浦を聞こうかな。",
+      "source_ja_applied": "【光志】\\nそれじゃあ気を取り直して\\n昨日の報浦を聞こうかな。",
+      "source_ja_reviewed": "【光志】\\nそれじゃあ気を取り直して\\n昨日の報浦を聞こうかな。",
+      "old_translation": "【코우지】\\n그럼 마음을 다시 잡고\\n어제의 보고를 둘까.",
+      "new_translation": "【코우지】\\n그럼 마음을 다잡고\\n어제 보고를 들어 볼까.",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4207,
+      "source_index": "0x000b40aa",
+      "source_ja_raw": "【法子】\\nあっ、そうだ。\\n言い触れてたんだけど、\\n昨日、ちょっと意外なものを\\n見ちゃったんだ。",
+      "source_ja_applied": "【法子】\\nあっ、そうだ。\\n言い触れてたんだけど、\\n昨日、ちょっと意外なものを\\n見ちゃったんだ。",
+      "source_ja_reviewed": "【法子】\\nあっ、そうだ。\\n言い触れてたんだけど、\\n昨日、ちょっと意外なものを\\n見ちゃったんだ。",
+      "old_translation": "【노리코】\\n아, 그렇다. \\n말을 건드렸지만,\\n어제, 조금 의외의 것을\\n보고 버렸어.",
+      "new_translation": "【노리코】\\n아, 맞다.\\n말하는 걸 잊었는데\\n어제 조금 뜻밖의 걸\\n봤어.",
+      "speaker": "노리코",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4208,
+      "source_index": "0x000b4111",
+      "source_ja_raw": "【光志】\\n意外なもの？",
+      "source_ja_applied": "【光志】\\n意外なもの？",
+      "source_ja_reviewed": "【光志】\\n意外なもの？",
+      "old_translation": "【코우지】\\n의외의 것?",
+      "new_translation": "【코우지】\\n뜻밖의 것?",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4209,
+      "source_index": "0x000b4171",
+      "source_ja_raw": "【法子】\\nそうなの。\\n昨日、光志との接見が終わって\\n調査に出ようとしたとき\\nなんだけどね……",
+      "source_ja_applied": "【法子】\\nそうなの。\\n昨日、光志との接見が終わって\\n調査に出ようとしたとき\\nなんだけどね……",
+      "source_ja_reviewed": "【法子】\\nそうなの。\\n昨日、光志との接見が終わって\\n調査に出ようとしたとき\\nなんだけどね……",
+      "old_translation": "【노리코】\\n그렇구나. \\n어제, 코우지와의 접견이 끝나고\\n조사에 나오려고 했을 때\\n이지만...",
+      "new_translation": "【노리코】\\n응.\\n어제 코우지와 접견을 마치고\\n조사하러 나가려던 참이었는데……",
+      "speaker": "노리코",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4210,
+      "source_index": "0x000b420a",
+      "source_ja_raw": "【法子】\\n署の駐車場《ちゅうしゃじょう》の隅《すみ》で、\\n水谷さんと吉本刑事が、\\nなにか言い争いをしてたのよ。",
+      "source_ja_applied": "【法子】\\n署の駐車場《ちゅうしゃじょう》の隅《すみ》で、\\n水谷さんと吉本刑事が、\\nなにか言い争いをしてたのよ。",
+      "source_ja_reviewed": "署の駐車場《ちゅうしゃじょう》の隅《すみ》で、水谷さんと吉本刑事が、なにか言い争《あらそ》いをしてたのよ。",
+      "old_translation": "【노리코】\\n서의 주차장의 순으로,\\n미즈타니씨와 요시모토 형사가,\\n무엇인가 말 그리기를 하고 있었어.",
+      "new_translation": "【노리코】\\n경찰서 주차장 한구석에서\\n미즈타니 씨와 요시모토 형사가\\n뭔가 말다툼을 하고 있더라.",
+      "speaker": "노리코",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4211,
+      "source_index": "0x000b4287",
+      "source_ja_raw": "【光志】\\n朝等さんと吉本刑事が？",
+      "source_ja_applied": "【光志】\\n朝等さんと吉本刑事が？",
+      "source_ja_reviewed": "【光志】\\n朝等さんと吉本刑事が？",
+      "old_translation": "【코우지】\\n아사츠유씨와 요시모토 형사가?",
+      "new_translation": "【코우지】\\n아사츠유 씨와 요시모토 형사가?",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4212,
+      "source_index": "0x000b42ca",
+      "source_ja_raw": "【光志】\\n朝等さん、また\\nなにか義さしたのかな？",
+      "source_ja_applied": "【光志】\\n朝等さん、また\\nなにか義さしたのかな？",
+      "source_ja_reviewed": "【光志】\\n朝等さん、また\\nなにか義さしたのかな？",
+      "old_translation": "【코우지】\\n아사츠유씨, 또\\n어쩐지 참담한 것일까?",
+      "new_translation": "【코우지】\\n아사츠유 씨가 또\\n무슨 짓이라도 했나?",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4213,
+      "source_index": "0x000b4313",
+      "source_ja_raw": "【法子】\\nううん、そんな感じじゃなかったわ。\\n特に吉本刑事が感情丸出しで、\\n水谷さんに街ってかかってた……",
+      "source_ja_applied": "【法子】\\nううん、そんな感じじゃなかったわ。\\n特に吉本刑事が感情丸出しで、\\n水谷さんに街ってかかってた……",
+      "source_ja_reviewed": "ううん、そんな感じじゃなかったわ。特に吉本刑事が感情丸出しで、水谷さんに食《く》ってかかってた……",
+      "old_translation": "【노리코】\\n아니, 그런 느낌은 아니었어.\\n특히 요시모토 형사가 감정을 그대로 드러내며\\n미즈타니 씨에게 달려들었어……",
+      "new_translation": "【노리코】\\n아니, 그런 느낌은 아니었어.\\n특히 요시모토 형사가 감정을 그대로\\n드러내며\\n미즈타니 씨에게 달려들고 있었어……",
+      "speaker": "노리코",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4214,
+      "source_index": "0x000b4386",
+      "source_ja_raw": "【光志】\\nあのクールな吉本刑事が？",
+      "source_ja_applied": "【光志】\\nあのクールな吉本刑事が？",
+      "source_ja_reviewed": "【光志】\\nあのクールな吉本刑事が？",
+      "old_translation": "【코우지】\\n그 멋진 요시모토 형사가?",
+      "new_translation": "【코우지】\\n그 냉정한 요시모토 형사가?",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4215,
+      "source_index": "0x000b43c8",
+      "source_ja_raw": "【法子】\\nそうなの。\\nうわさで聞いてた話と\\n印象が違《ちが》ったから\\nちょっと意外だったわ。",
+      "source_ja_applied": "【法子】\\nそうなの。\\nうわさで聞いてた話と\\n印象が違《ちが》ったから\\nちょっと意外だったわ。",
+      "source_ja_reviewed": "【法子】\\nそうなの。\\nうわさで聞いてた話と\\n印象が違《ちが》ったから\\nちょっと意外だったわ。",
+      "old_translation": "【노리코】\\n그렇구나. \\n 소문으로 뒀던 이야기와 \\n인상이 다르니까\\n조금 의외였어.",
+      "new_translation": "【노리코】\\n응.\\n소문으로 듣던 이야기와\\n인상이 달라서 조금 뜻밖이었어.",
+      "speaker": "노리코",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4216,
+      "source_index": "0x000b446b",
+      "source_ja_raw": "【光志】\\n……ふーん。\\nなにか因縁《いんねん》があるのかな。",
+      "source_ja_applied": "【光志】\\n……ふーん。\\nなにか因縁《いんねん》があるのかな。",
+      "source_ja_reviewed": "【光志】\\n……ふーん。\\nなにか因縁《いんねん》があるのかな。",
+      "old_translation": "【코우지】\\n… … 흠. \\n무엇인가 인연이 있을까.",
+      "new_translation": "【코우지】\\n……흠.\\n두 사람 사이에 악연이라도 있나.",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4217,
+      "source_index": "0x000b44e2",
+      "source_ja_raw": "【法子】\\n２人の関係、\\n調査してみる？",
+      "source_ja_applied": "【法子】\\n２人の関係、\\n調査してみる？",
+      "source_ja_reviewed": "【法子】\\n２人の関係、\\n調査してみる？",
+      "old_translation": "【노리코】\\n2명의 관계,\\n조사해 본다?",
+      "new_translation": "【노리코】\\n두 사람 관계를\\n조사해 볼까?",
+      "speaker": "노리코",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4218,
+      "source_index": "0x000b4529",
+      "source_ja_raw": "【光志】\\n……いや、今のところはいい。\\nプライベートなことかも\\nしれないしな。",
+      "source_ja_applied": "【光志】\\n……いや、今のところはいい。\\nプライベートなことかも\\nしれないしな。",
+      "source_ja_reviewed": "【光志】\\n……いや、今のところはいい。\\nプライベートなことかも\\nしれないしな。",
+      "old_translation": "【코우지】\\n… … 아니, 지금은 좋다. \\n비공개일지도\\n모르고.",
+      "new_translation": "【코우지】\\n……아니, 지금은 됐어.\\n사적인 일일지도 모르잖아.",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4219,
+      "source_index": "0x000b4584",
+      "source_ja_raw": "【光志】\\n事件と関係があるとわかったら\\n調べてもらうかもしれないけど、\\n気にしなくていいだろう。",
+      "source_ja_applied": "【光志】\\n事件と関係があるとわかったら\\n調べてもらうかもしれないけど、\\n気にしなくていいだろう。",
+      "source_ja_reviewed": "【光志】\\n事件と関係があるとわかったら\\n調べてもらうかもしれないけど、\\n気にしなくていいだろう。",
+      "old_translation": "【코우지】\\n사건과 관계가 있다고 알면\\n조사해 줄지도 모르지만,\\n신경쓰지 않아도 좋을 것이다.",
+      "new_translation": "【코우지】\\n사건과 관계있다는 걸 알게 되면\\n조사해 달라고 할 수도 있지만\\n지금은 신경 쓰지 않아도 돼.",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4220,
+      "source_index": "0x000b460e",
+      "source_ja_raw": "【法子】\\nわかったわ。\\nそれじゃ、行ってくるね。",
+      "source_ja_applied": "【法子】\\nわかったわ。\\nそれじゃ、行ってくるね。",
+      "source_ja_reviewed": "【法子】\\nわかったわ。\\nそれじゃ、行ってくるね。",
+      "old_translation": "【노리코】\\n알았어. \\n 그럼, 갈 거 야.",
+      "new_translation": "【노리코】\\n알겠어.\\n그럼 다녀올게.",
+      "speaker": "노리코",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4221,
+      "source_index": "0x000b4b23",
+      "source_ja_raw": "【光志】\\n…………？",
+      "source_ja_applied": "【光志】\\n…………？",
+      "source_ja_reviewed": "【光志】\\n…………？",
+      "old_translation": "【코우지】\\n…………?",
+      "new_translation": "【코우지】\\n…………?",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4222,
+      "source_index": "0x000b4b5e",
+      "source_ja_raw": "【光志】\\n（法子が誰《だれ》か連れてきた……）",
+      "source_ja_applied": "【光志】\\n（法子が誰《だれ》か連れてきた……）",
+      "source_ja_reviewed": "【光志】\\n（法子が誰《だれ》か連れてきた……）",
+      "old_translation": "【코우지】\\n(노리코가 누군가 데려왔다……)",
+      "new_translation": "【코우지】\\n(노리코가 누군가를 데려왔어……)",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4223,
+      "source_index": "0x000b4bc3",
+      "source_ja_raw": "【光志】\\n（どこかで見たことがあるような……）",
+      "source_ja_applied": "【光志】\\n（どこかで見たことがあるような……）",
+      "source_ja_reviewed": "【光志】\\n（どこかで見たことがあるような……）",
+      "old_translation": "【코우지】\\n(어딘가에서 본 적이 있는 것\\n같은……)",
+      "new_translation": "【코우지】\\n(어디선가 본 적이 있는 것\\n같은데……)",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4224,
+      "source_index": "0x000b4c31",
+      "source_ja_raw": "【法子】\\nえっと……\\n紹介《しょうかい》するね。",
+      "source_ja_applied": "【法子】\\nえっと……\\n紹介《しょうかい》するね。",
+      "source_ja_reviewed": "【法子】\\nえっと……\\n紹介《しょうかい》するね。",
+      "old_translation": "【노리코】\\n 음......\\n상회하네.",
+      "new_translation": "【노리코】\\n저기……\\n소개할게.",
+      "speaker": "노리코",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4225,
+      "source_index": "0x000b4c88",
+      "source_ja_raw": "【法子】\\n私が所献している\\n沼崎法律事務所の所長、\\n沼崎栄太郎弁護士です。",
+      "source_ja_applied": "【法子】\\n私が所献している\\n沼崎法律事務所の所長、\\n沼崎栄太郎弁護士です。",
+      "source_ja_reviewed": "私が所属《しょぞく》している沼崎法律事務所の所長、沼崎栄太郎弁護士です。",
+      "old_translation": "【노리코】\\n내가 소생하고 있는\\n누마사키법률 사무소의 소장,\\n누마사키 신타로 변호사입니다.",
+      "new_translation": "【노리코】\\n내가 소속된\\n누마사키 법률 사무소의 소장,\\n누마사키 에이타로 변호사님이야.",
+      "speaker": "노리코",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4226,
+      "source_index": "0x000b4d21",
+      "source_ja_raw": "【光志】\\n……ええっ！？\\n沼崎弁護士！？",
+      "source_ja_applied": "【光志】\\n……ええっ！？\\n沼崎弁護士！？",
+      "source_ja_reviewed": "【光志】\\n……ええっ！？\\n沼崎弁護士！？",
+      "old_translation": "【코우지】\\n… … 네! ? \\n누마사키 변호사! ?",
+      "new_translation": "【코우지】\\n……뭐!?\\n누마사키 변호사!?",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4227,
+      "source_index": "0x000b4d79",
+      "source_ja_raw": "【法子】\\nえ、ええ……\\n昨日、コウジに所長と安代さんの\\n関係について調べてほしいって\\n頼《たの》まれてたでしょ？",
+      "source_ja_applied": "【法子】\\nえ、ええ……\\n昨日、コウジに所長と安代さんの\\n関係について調べてほしいって\\n頼《たの》まれてたでしょ？",
+      "source_ja_reviewed": "【法子】\\nえ、ええ……\\n昨日、コウジに所長と安代さんの\\n関係について調べてほしいって\\n頼《たの》まれてたでしょ？",
+      "old_translation": "【노리코】\\n어, 그래…\\n어제 코우지에 소장과 아시로 씨\\n관계에 대해 알아보고 싶습니다.\\n부탁 받았습니까?",
+      "new_translation": "【노리코】\\n으, 응……\\n어제 코우지가 소장님과 야스요 씨의\\n관계를 조사해 달라고\\n부탁했잖아?",
+      "speaker": "노리코",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4228,
+      "source_index": "0x000b4dfb",
+      "source_ja_raw": "【法子】\\n所長から話を聞こうと思って、\\nその経緯《けいい》を話したら……",
+      "source_ja_applied": "【法子】\\n所長から話を聞こうと思って、\\nその経緯《けいい》を話したら……",
+      "source_ja_reviewed": "【法子】\\n所長から話を聞こうと思って、\\nその経緯《けいい》を話したら……",
+      "old_translation": "【노리코】\\n소장으로부터 이야기를 듣고 싶어,\\n그 경위를 이야기하면…",
+      "new_translation": "【노리코】\\n소장님께 직접 이야기를 듣고 싶어서\\n그 경위를 말씀드렸더니……",
+      "speaker": "노리코",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4229,
+      "source_index": "0x000b4e7d",
+      "source_ja_raw": "【栄太郎】\\nそのさきは私が話そう、新城順。",
+      "source_ja_applied": "【栄太郎】\\nそのさきは私が話そう、新城順。",
+      "source_ja_reviewed": "その先は私が話そう、新城君《しんじょうくん》。",
+      "old_translation": "【신타로】\\n그 사키는 내가 이야기하자,\\n신죠가와.",
+      "new_translation": "【에이타로】\\n그 뒷부분은 내가 말하지, 신조\\n양.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4230,
+      "source_index": "0x000b4ec6",
+      "source_ja_raw": "【法子】\\nは、はい……",
+      "source_ja_applied": "【法子】\\nは、はい……",
+      "source_ja_reviewed": "【法子】\\nは、はい……",
+      "old_translation": "【노리코】\\n네, 네……",
+      "new_translation": "【노리코】\\n네, 네……",
+      "speaker": "노리코",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4231,
+      "source_index": "0x000b4f14",
+      "source_ja_raw": "【栄太郎】\\nはじめまして。\\n順が斉藤順、だね？",
+      "source_ja_applied": "【栄太郎】\\nはじめまして。\\n順が斉藤順、だね？",
+      "source_ja_reviewed": "はじめまして。斉藤光志、だね？",
+      "old_translation": "【신타로】\\n만나서 반갑습니다. \\n강이 사이토가와, 그렇지?",
+      "new_translation": "【에이타로】\\n처음 뵙겠네.\\n자네가 사이토 코우지인가?",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4232,
+      "source_index": "0x000b4f5f",
+      "source_ja_raw": "【光志】\\nはじめまして。\\n新城さんにはいつもお新話に\\nなっています。",
+      "source_ja_applied": "【光志】\\nはじめまして。\\n新城さんにはいつもお新話に\\nなっています。",
+      "source_ja_reviewed": "はじめまして。新城さんにはいつもお世話《せわ》になっています。",
+      "old_translation": "【코우지】\\n만나서 반갑습니다.\\n신기 씨에게는 항상 빚을지고\\n되어 있습니다.",
+      "new_translation": "【코우지】\\n처음 뵙겠습니다.\\n신조 씨에게는 늘 신세를 지고\\n있습니다.",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4233,
+      "source_index": "0x000b4fc0",
+      "source_ja_raw": "【栄太郎】\\nそんなにかしこまらなくてもいいよ。\\nふだんの話し方でかまわない。",
+      "source_ja_applied": "【栄太郎】\\nそんなにかしこまらなくてもいいよ。\\nふだんの話し方でかまわない。",
+      "source_ja_reviewed": "【栄太郎】\\nそんなにかしこまらなくてもいいよ。\\nふだんの話し方でかまわない。",
+      "old_translation": "【신타로】\\n그렇게 괴롭히지 않아도 좋다. \\n 평소 말하는 법으로 상관없다.",
+      "new_translation": "【에이타로】\\n그렇게 격식을 차리지 않아도 돼.\\n평소 말투로 괜찮네.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4234,
+      "source_index": "0x000b5024",
+      "source_ja_raw": "【栄太郎】\\nそのほうが気《き》崋《が》ねなしに\\n話ができるからね。",
+      "source_ja_applied": "【栄太郎】\\nそのほうが気《き》崋《が》ねなしに\\n話ができるからね。",
+      "source_ja_reviewed": "【栄太郎】\\nそのほうが気《き》崋《が》ねなしに\\n話ができるからね。",
+      "old_translation": "【신타로】\\n그쪽이 기분 없이\\n화를 할 수 있으니까.",
+      "new_translation": "【에이타로】\\n그 편이 서로 거리낌 없이\\n이야기할 수 있을 테니까.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4235,
+      "source_index": "0x000b5078",
+      "source_ja_raw": "【光志】\\nは、はあ……",
+      "source_ja_applied": "【光志】\\nは、はあ……",
+      "source_ja_reviewed": "【光志】\\nは、はあ……",
+      "old_translation": "【코우지】\\n은, 하아…",
+      "new_translation": "【코우지】\\n아, 네……",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4236,
+      "source_index": "0x000b50bf",
+      "source_ja_raw": "【栄太郎】\\nまあ、自己紹介《じこしょうかい》はこのくらいにして\\n本題に入ろうか。",
+      "source_ja_applied": "【栄太郎】\\nまあ、自己紹介《じこしょうかい》はこのくらいにして\\n本題に入ろうか。",
+      "source_ja_reviewed": "【栄太郎】\\nまあ、自己紹介《じこしょうかい》はこのくらいにして\\n本題に入ろうか。",
+      "old_translation": "【신타로】\\n음, 자기상회는 이 정도로 해\\n본제에 들어가자.",
+      "new_translation": "【에이타로】\\n자기소개는 이쯤 하고\\n본론으로 들어가 볼까.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4237,
+      "source_index": "0x000b512b",
+      "source_ja_raw": "【栄太郎】\\n今日、私がここに来たのは、\\n安代さんと私の関係について\\n順に説間するためだ。",
+      "source_ja_applied": "【栄太郎】\\n今日、私がここに来たのは、\\n安代さんと私の関係について\\n順に説間するためだ。",
+      "source_ja_reviewed": "今日、私がここに来たのは、安代さんと私の関係について光志に説明するためだ。",
+      "old_translation": "【신타로】\\n오늘, 내가 여기에 온 것은,\\n아시요씨와 나의 관계에 대해\\n강에 설명하기 위해서다.",
+      "new_translation": "【에이타로】\\n오늘 내가 여기 온 건\\n야스요 씨와 나의 관계에 대해\\n코우지에게 설명하기 위해서야.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4238,
+      "source_index": "0x000b5193",
+      "source_ja_raw": "【光志】\\nそうでしたか……\\n直接お話ができてありがたいです。",
+      "source_ja_applied": "【光志】\\nそうでしたか……\\n直接お話ができてありがたいです。",
+      "source_ja_reviewed": "【光志】\\nそうでしたか……\\n直接お話ができてありがたいです。",
+      "old_translation": "【코우지】\\n그랬습니까…\\n직접 이야기 할 수있어서\\n고맙습니다.",
+      "new_translation": "【코우지】\\n그렇군요……\\n직접 이야기할 수 있어서\\n다행입니다.",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4239,
+      "source_index": "0x000b51f0",
+      "source_ja_raw": "【栄太郎】\\nまあ、こういったデリケートな話は\\n第退者を挟《はさ》むよりも\\n直接話したほうがいい。",
+      "source_ja_applied": "【栄太郎】\\nまあ、こういったデリケートな話は\\n第三者を挟《はさ》むよりも\\n直接話したほうがいい。",
+      "source_ja_reviewed": "【栄太郎】\\nまあ、こういったデリケートな話は\\n第三者を挟《はさ》むよりも\\n直接話したほうがいい。",
+      "old_translation": "【신타로】\\n음, 이런 섬세한 이야기는\\n무례자를 좁히는 것보다\\n직접 말하는 편이 좋다.",
+      "new_translation": "【에이타로】\\n이런 민감한 이야기는\\n제삼자를 통하는 것보다\\n직접 이야기하는 편이 좋지.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4240,
+      "source_index": "0x000b527e",
+      "source_ja_raw": "【栄太郎】\\n実は彼女……安代さんと私は\\n母方のはとこでね。",
+      "source_ja_applied": "【栄太郎】\\n実は彼女……安代さんと私は\\n母方のはとこでね。",
+      "source_ja_reviewed": "実は彼女……安代さんと私は母方のはとこでね。",
+      "old_translation": "【신타로】\\n실은 아야......아시로씨와 나는\\n모의 하토코네.",
+      "new_translation": "【에이타로】\\n실은 그녀…… 야스요 씨와 나는\\n외가 쪽 육촌 사이일세.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4241,
+      "source_index": "0x000b52d7",
+      "source_ja_raw": "【光志】\\nえ……そ、そうなんですか！？",
+      "source_ja_applied": "【光志】\\nえ……そ、そうなんですか！？",
+      "source_ja_reviewed": "【光志】\\nえ……そ、そうなんですか！？",
+      "old_translation": "【코우지】\\n에… … 그, 그렇습니까? ?",
+      "new_translation": "【코우지】\\n어…… 그, 그렇습니까!?",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4242,
+      "source_index": "0x000b5328",
+      "source_ja_raw": "【栄太郎】\\nああ。\\n新城順にも秘密にしていたけれどね。",
+      "source_ja_applied": "【栄太郎】\\nああ。\\n新城順にも秘密にしていたけれどね。",
+      "source_ja_reviewed": "【栄太郎】\\nああ。\\n新城順にも秘密にしていたけれどね。",
+      "old_translation": "【신타로】\\n아. \\n신죠가와에도 부밀하게 하고\\n있었지만.",
+      "new_translation": "【에이타로】\\n그래.\\n신조 양에게도 숨기고 있었지만\\n말이야.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4243,
+      "source_index": "0x000b5384",
+      "source_ja_raw": "【栄太郎】\\n実家が近かったこともあり、\\n子どもの頃《ころ》から仲が良かったんだ。",
+      "source_ja_applied": "【栄太郎】\\n実家が近かったこともあり、\\n子どもの頃《ころ》から仲が良かったんだ。",
+      "source_ja_reviewed": "【栄太郎】\\n実家が近かったこともあり、\\n子どもの頃《ころ》から仲が良かったんだ。",
+      "old_translation": "【신타로】\\n친가가 가까웠던 적도 있어,\\n어린 시절부터 풍요로웠다.",
+      "new_translation": "【에이타로】\\n본가가 가까웠던 것도 있어\\n어릴 때부터 사이가 좋았지.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4244,
+      "source_index": "0x000b5409",
+      "source_ja_raw": "【栄太郎】\\n彼女が白川順と出会って結婚《けっこん》したのは\\n決然《ぐうぜん》だったが、\\n阿方と知り合いだった私は、\\nよく彼女の相談に濃っていた。",
+      "source_ja_applied": "【栄太郎】\\n彼女が白川順と出会って結婚《けっこん》したのは\\n決然《ぐうぜん》だったが、\\n阿方と知り合いだった私は、\\nよく彼女の相談に乗っていた。",
+      "source_ja_reviewed": "彼女が白川一利と出会って結婚《けっこん》したのは偶然《ぐうぜん》だったが、両方と知り合いだった私は、よく彼女の相談に乗っていた。",
+      "old_translation": "【신타로】\\n아야메가 시라카와가와라고 생각하고\\n결혼한\\n것은\\n우연이었지만,\\n우가타카와 알고 있었던 나는,\\n잘 아야의 상담에 진하고 있었다.",
+      "new_translation": "【에이타로】\\n그녀가 시라카와 이치리를 만나\\n결혼한 건 우연이었지만\\n양쪽 모두와 아는 사이였던 나는\\n자주 그녀의 상담을 들어 줬어.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4245,
+      "source_index": "0x000b54be",
+      "source_ja_raw": "【栄太郎】\\n順ももう知っているとは思うが、\\n白川順はまさに仕事の鬼《おに》でね。",
+      "source_ja_applied": "【栄太郎】\\n順ももう知っているとは思うが、\\n白川順はまさに仕事の鬼《おに》でね。",
+      "source_ja_reviewed": "光志ももう知っているとは思うが、白川一利はまさに仕事の鬼《おに》でね。",
+      "old_translation": "【신타로】\\n강도 이미 알고 있다고는 무겁지만,\\n시라카와가와는 바로 일의 귀신으로.",
+      "new_translation": "【에이타로】\\n코우지도 이미 알고 있겠지만\\n시라카와 이치리는 말 그대로\\n일의 귀신이었어.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4246,
+      "source_index": "0x000b552c",
+      "source_ja_raw": "【栄太郎】\\n白川グループが大きくなったのは、\\nひとえに彼の実力だ。",
+      "source_ja_applied": "【栄太郎】\\n白川グループが大きくなったのは、\\nひとえに彼の実力だ。",
+      "source_ja_reviewed": "【栄太郎】\\n白川グループが大きくなったのは、\\nひとえに彼の実力だ。",
+      "old_translation": "【신타로】\\n시라카와 그룹이 커진 것은,\\n일단 아야의 실력이다.",
+      "new_translation": "【에이타로】\\n시라카와 그룹이 커진 건\\n오로지 그의 실력 덕분이지.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4247,
+      "source_index": "0x000b55aa",
+      "source_ja_raw": "【栄太郎】\\nだがそれだけに、\\n家庭を顧《かえり》みる余巻《よゆう》がない人でもあった。\\nだから安代さんは私によく寂《さび》しいと\\nこぼしていたよ。",
+      "source_ja_applied": "【栄太郎】\\nだがそれだけに、\\n家庭を顧《かえり》みる余巻《よゆう》がない人でもあった。\\nだから安代さんは私によく寂《さび》しいと\\nこぼしていたよ。",
+      "source_ja_reviewed": "だがそれだけに、家庭を顧《かえり》みる余裕《よゆう》がない人でもあった。だから安代さんは私によく寂《さび》しいとこぼしていたよ。",
+      "old_translation": "【신타로】\\n하지만 그만큼,\\n가모기를 돌보는 여웅이 없는\\n사람이기도\\n했다. \\n그러니까 아시요 씨는 나에게 잘\\n외롭다고\\n유출하고 있었어.",
+      "new_translation": "【에이타로】\\n하지만 그만큼\\n가정을 돌볼 여유가 없는 사람이기도\\n했어.\\n그래서 야스요 씨는 내게 자주\\n외롭다고 털어놓았지.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4248,
+      "source_index": "0x000b5630",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4249,
+      "source_index": "0x000b568f",
+      "source_ja_raw": "【栄太郎】\\nそんな彼女がある日、\\nとんでもないものを発見した。\\n白川順の手記だ。",
+      "source_ja_applied": "【栄太郎】\\nそんな彼女がある日、\\nとんでもないものを発見した。\\n白川順の手記だ。",
+      "source_ja_reviewed": "そんな彼女がある日、とんでもないものを発見した。白川一利の手記だ。",
+      "old_translation": "【신타로】\\n그런 아야 여자가 어느 날,\\n엉성한 것을 발견했다. \\n시라카와가와의 수기다.",
+      "new_translation": "【에이타로】\\n그런 그녀가 어느 날\\n엄청난 것을 발견했어.\\n시라카와 이치리의 수기였지.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4250,
+      "source_index": "0x000b5717",
+      "source_ja_raw": "【栄太郎】\\nその手記には、\\n１人の男を殺したことが\\nほのめかされていた。\\nその男とは……順ならわかるね？",
+      "source_ja_applied": "【栄太郎】\\nその手記には、\\n１人の男を殺したことが\\nほのめかされていた。\\nその男とは……順ならわかるね？",
+      "source_ja_reviewed": "その手記には、１人の男を殺したことがほのめかされていた。その男とは……光志ならわかるね？",
+      "old_translation": "【신타로】\\n그 수기에는,\\n남자 한 명을 죽였다는 내용이\\n암시되어 있었어.\\n그 남자는…… 준이라면 알겠지?",
+      "new_translation": "【에이타로】\\n그 수기에는\\n한 남자를 죽였다는 내용이\\n암시되어 있었어.\\n그 남자가 누구인지는…… 코우지라면\\n알겠지?",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4251,
+      "source_index": "0x000b582b",
+      "source_ja_raw": "【光志】\\n（それは違《ちが》うんじゃないか？）",
+      "source_ja_applied": "【光志】\\n（それは違《ちが》うんじゃないか？）",
+      "source_ja_reviewed": "【光志】\\n（それは違《ちが》うんじゃないか？）",
+      "old_translation": "【코우지】\\n(그건 다르지 않나?)",
+      "new_translation": "【코우지】\\n(그건 아니지 않나?)",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4252,
+      "source_index": "0x000b5873",
+      "source_ja_raw": "【光志】\\n（わざわざオレにこんな聞き方を\\nするくらいだ。\\nもっとオレに身近な人……\\nそう、白川一利が殺したのは……）",
+      "source_ja_applied": "【光志】\\n（わざわざオレにこんな聞き方を\\nするくらいだ。\\nもっとオレに身近な人……\\nそう、白川一利が殺したのは……）",
+      "source_ja_reviewed": "【光志】\\n（わざわざオレにこんな聞き方を\\nするくらいだ。\\nもっとオレに身近な人……\\nそう、白川一利が殺したのは……）",
+      "old_translation": "【코우지】\\n(일부러 나에게 이런 식으로\\n묻는 방법을 택할 정도다.\\n나와 더 가까운 사람……\\n그래, 시라카와 이치로가 죽인\\n사람은……)",
+      "new_translation": "【코우지】\\n(일부러 나에게 이런 식으로\\n묻는 걸 보면\\n나와 더 가까운 사람……\\n그래, 시라카와 이치리가 죽인\\n사람은……)",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4253,
+      "source_index": "0x000b5916",
+      "source_ja_raw": "【栄太郎】\\nそう、白川順が殺したのは\\n順の父親である斉藤志利灰だ。",
+      "source_ja_applied": "【栄太郎】\\nそう、白川順が殺したのは\\n順の父親である斉藤志利灰だ。",
+      "source_ja_reviewed": "そう、白川一利が殺したのは光志の父親である斉藤志利さんだ。",
+      "old_translation": "【신타로】\\n그렇지, 시라카와 준이 죽인 사람은\\n준의 아버지인 사이토 시로 씨야.",
+      "new_translation": "【에이타로】\\n그래, 시라카와 이치리가 죽인\\n사람은\\n그의 아버지인 사이토 시리 씨야.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4254,
+      "source_index": "0x000b5998",
+      "source_ja_raw": "【栄太郎】\\n斉藤さんのことは私も良く知っている。\\n私が蠧《と》り録《あつか》っていた事件で\\n何度か顔を合わせたことがあってね。",
+      "source_ja_applied": "【栄太郎】\\n斉藤さんのことは私も良く知っている。\\n私が取《と》り録《あつか》っていた事件で\\n何度か顔を合わせたことがあってね。",
+      "source_ja_reviewed": "【栄太郎】\\n斉藤さんのことは私も良く知っている。\\n私が取《と》り録《あつか》っていた事件で\\n何度か顔を合わせたことがあってね。",
+      "old_translation": "【신타로】\\n사이토씨는 나도 잘 알고 있다. \\n내가 닮았던 사건으로\\n여러 번 보았다.",
+      "new_translation": "【에이타로】\\n사이토 씨는 나도 잘 알고 있어.\\n내가 맡았던 사건에서\\n몇 번인가 만난 적이 있거든.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4255,
+      "source_index": "0x000b5a23",
+      "source_ja_raw": "【栄太郎】\\n彼がヒントをくれたおかげで、\\n寃罪《えんざい》を証間できたこともあった。",
+      "source_ja_applied": "【栄太郎】\\n彼がヒントをくれたおかげで、\\n寃罪《えんざい》を証間できたこともあった。",
+      "source_ja_reviewed": "彼がヒントをくれたおかげで、冤罪《えんざい》を証明できたこともあった。",
+      "old_translation": "【신타로】\\n아야가 힌트를 준 덕분에,\\n간죄를 증명할 수 있었던 적도\\n있었다.",
+      "new_translation": "【에이타로】\\n그분이 힌트를 준 덕분에\\n억울한 누명을 벗겨 준 적도\\n있었지.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4256,
+      "source_index": "0x000b5a82",
+      "source_ja_raw": "【光志】\\nスゴかったんですね、\\nうちの父親は……",
+      "source_ja_applied": "【光志】\\nスゴかったんですね、\\nうちの父親は……",
+      "source_ja_reviewed": "【光志】\\nスゴかったんですね、\\nうちの父親は……",
+      "old_translation": "【코우지】\\n굉장했어요,\\n우리의 아버지는…",
+      "new_translation": "【코우지】\\n대단한 분이셨군요.\\n우리 아버지는……",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4257,
+      "source_index": "0x000b5ad9",
+      "source_ja_raw": "【栄太郎】\\n彼の調査能力は本物だった。\\n白川順の不正についても余すことなく\\n調べ上げていたようだ。",
+      "source_ja_applied": "【栄太郎】\\n彼の調査能力は本物だった。\\n白川順の不正についても余すことなく\\n調べ上げていたようだ。",
+      "source_ja_reviewed": "彼の調査能力は本物だった。白川一利の不正についても余すことなく調べ上げていたようだ。",
+      "old_translation": "【신타로】\\n아야의 조사 능력은 진짜였다. \\n시라카와가와의 불험에 대해서도\\n남김없이\\n조사하고 있던 것 같다.",
+      "new_translation": "【에이타로】\\n그분의 조사 능력은 진짜였어.\\n시라카와 이치리의 부정에 대해서도\\n남김없이 조사했던 모양이야.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4258,
+      "source_index": "0x000b5b6e",
+      "source_ja_raw": "【栄太郎】\\nしかしその結果、\\n白川順の手によって……",
+      "source_ja_applied": "【栄太郎】\\nしかしその結果、\\n白川順の手によって……",
+      "source_ja_reviewed": "【栄太郎】\\nしかしその結果、\\n白川順の手によって……",
+      "old_translation": "【신타로】\\n 그러나 그 결과,\\n시라카와가와의 손에 의해…",
+      "new_translation": "【에이타로】\\n하지만 그 결과\\n시라카와 이치리의 손에 의해……",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4259,
+      "source_index": "0x000b5bbe",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4260,
+      "source_index": "0x000b5bf7",
+      "source_ja_raw": "【光志】\\n正直、オレには実感ないんですよ。\\n５久《さい》のときの出来事です。\\n物心がようやくついてきた頃《ころ》で、\\nあまり記憶《きおく》に残ってなくて……",
+      "source_ja_applied": "【光志】\\n正直、オレには実感ないんですよ。\\n５久《さい》のときの出来事です。\\n物心がようやくついてきた頃《ころ》で、\\nあまり記憶《きおく》に残ってなくて……",
+      "source_ja_reviewed": "【光志】\\n正直、オレには実感ないんですよ。\\n５久《さい》のときの出来事です。\\n物心がようやくついてきた頃《ころ》で、\\nあまり記憶《きおく》に残ってなくて……",
+      "old_translation": "【코우지】\\n험직, 나에게는 실감 없어요.\\n5개 때의 출배사입니다.\\n물심이 드디어 붙어 왔을 때,\\n별로 기억을 타지 않아서…",
+      "new_translation": "【코우지】\\n솔직히 저는 실감이 나지 않습니다.\\n제가 다섯 살 때의 일이에요.\\n겨우 세상 물정을 알기 시작할\\n무렵이라\\n기억에 거의 남아 있지 않아서……",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4261,
+      "source_index": "0x000b5c96",
+      "source_ja_raw": "【栄太郎】\\n……順にかける言何が見つからないよ。",
+      "source_ja_applied": "【栄太郎】\\n……順にかける言何が見つからないよ。",
+      "source_ja_reviewed": "【栄太郎】\\n……順にかける言何が見つからないよ。",
+      "old_translation": "【신타로】\\n……강에 걸리는 언선을 찾을 수\\n없어.",
+      "new_translation": "【에이타로】\\n……코우지에게 무슨 말을 해야 할지\\n모르겠군.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4262,
+      "source_index": "0x000b5cef",
+      "source_ja_raw": "【栄太郎】\\nこの事件は、\\n安代さんにもショックを咫《あた》えた。",
+      "source_ja_applied": "【栄太郎】\\nこの事件は、\\n安代さんにもショックを咫《あた》えた。",
+      "source_ja_reviewed": "【栄太郎】\\nこの事件は、\\n安代さんにもショックを咫《あた》えた。",
+      "old_translation": "【신타로】\\n이 사건은,\\n아시요 씨에게도 쇼크를 물렸다.",
+      "new_translation": "【에이타로】\\n이 사건은\\n야스요 씨에게도 큰 충격을 줬어.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4263,
+      "source_index": "0x000b5d6a",
+      "source_ja_raw": "【栄太郎】\\n彼女は賛《おび》えていたよ……\\nそれはそうだろう。\\n自分の夫が人殺しをしていた\\nわけだからね。",
+      "source_ja_applied": "【栄太郎】\\n彼女は賛《おび》えていたよ……\\nそれはそうだろう。\\n自分の夫が人殺しをしていた\\nわけだからね。",
+      "source_ja_reviewed": "彼女は怯《おび》えていたよ……それはそうだろう。自分の夫が人殺しをしていたわけだからね。",
+      "old_translation": "【신타로】\\n그녀는 겁에 질려 있었어……\\n그럴 만도 하지.\\n남편이 사람을 죽이고 있었던\\n거니까.",
+      "new_translation": "【에이타로】\\n그녀는 겁에 질려 있었지……\\n그럴 만도 해.\\n자기 남편이 사람을 죽였던\\n셈이니까.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4264,
+      "source_index": "0x000b5de6",
+      "source_ja_raw": "【栄太郎】\\n私も同じだ。\\n白川順とは高校恋代からの\\n付き合いだった……",
+      "source_ja_applied": "【栄太郎】\\n私も同じだ。\\n白川順とは高校恋代からの\\n付き合いだった……",
+      "source_ja_reviewed": "【栄太郎】\\n私も同じだ。\\n白川順とは高校恋代からの\\n付き合いだった……",
+      "old_translation": "【신타로】\\n나도 마찬가지다. \\n시라카와가와는 고등학교 시절부터의\\n교제였다…",
+      "new_translation": "【에이타로】\\n나도 마찬가지야.\\n시라카와 이치리와는\\n고등학교 때부터 알고 지냈거든……",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4265,
+      "source_index": "0x000b5e51",
+      "source_ja_raw": "【栄太郎】\\n順には申し切ないが、\\n私たち２人はその事件を\\n振表せずにおくことに倚めた。",
+      "source_ja_applied": "【栄太郎】\\n順には申し訳ないが、\\n私たち２人はその事件を\\n振表せずにおくことに倚めた。",
+      "source_ja_reviewed": "光志には申し訳ないが、私たち２人はその事件を公表せずにおくことに決めた。",
+      "old_translation": "【신타로】\\n강에는 죄송하지만,\\n우리 둘은 그 사건을\\n모양 나타내지 않고 두는 것에\\n주저했다.",
+      "new_translation": "【에이타로】\\n코우지에게는 미안하지만\\n우리 둘은 그 사건을\\n세상에 드러내지 않기로 했어.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4266,
+      "source_index": "0x000b5edc",
+      "source_ja_raw": "【栄太郎】\\nその……許してくれとは……\\n言えないが……",
+      "source_ja_applied": "【栄太郎】\\nその……許してくれとは……\\n言えないが……",
+      "source_ja_reviewed": "【栄太郎】\\nその……許してくれとは……\\n言えないが……",
+      "old_translation": "【신타로】\\n그…… 용서해 주는 것은…\\n말할 수 없지만…",
+      "new_translation": "【에이타로】\\n그…… 용서해 달라고는\\n말할 수 없지만……",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4267,
+      "source_index": "0x000b5f2c",
+      "source_ja_raw": "【光志】\\n……いいですよ。\\n続けてください。",
+      "source_ja_applied": "【光志】\\n……いいですよ。\\n続けてください。",
+      "source_ja_reviewed": "【光志】\\n……いいですよ。\\n続けてください。",
+      "old_translation": "【코우지】\\n......좋아요. \\n 제외하십시오.",
+      "new_translation": "【코우지】\\n……괜찮습니다.\\n계속 말씀해 주세요.",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4268,
+      "source_index": "0x000b5f99",
+      "source_ja_raw": "【栄太郎】\\nうむ……そんなこともあり、\\n私は安代さんを１人にしておくのが\\n篠《しの》びなくなったんだ。",
+      "source_ja_applied": "【栄太郎】\\nうむ……そんなこともあり、\\n私は安代さんを１人にしておくのが\\n篠《しの》びなくなったんだ。",
+      "source_ja_reviewed": "うむ……そんなこともあり、私は安代さんを１人にしておくのが忍《しの》びなくなったんだ。",
+      "old_translation": "【신타로】\\n우무… … 그런 일도 있어,\\n나는 야스시로 씨를 혼자 유지한다.\\n시노비 사라졌다.",
+      "new_translation": "【에이타로】\\n음…… 그런 일도 있었고\\n나는 야스요 씨를 혼자 두기가\\n견딜 수 없게 됐어.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4269,
+      "source_index": "0x000b602a",
+      "source_ja_raw": "【栄太郎】\\nだがある日、秘密で会っていたことが\\n彼にバレてしまった。",
+      "source_ja_applied": "【栄太郎】\\nだがある日、秘密で会っていたことが\\n彼にバレてしまった。",
+      "source_ja_reviewed": "【栄太郎】\\nだがある日、秘密で会っていたことが\\n彼にバレてしまった。",
+      "old_translation": "【신타로】\\n하지만 어느 날, 부밀로 생각하고\\n있던\\n것이 \\n아야에 들키고 말았다.",
+      "new_translation": "【에이타로】\\n하지만 어느 날\\n우리가 몰래 만나고 있다는 걸\\n그에게 들키고 말았지.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4270,
+      "source_index": "0x000b608e",
+      "source_ja_raw": "【栄太郎】\\n安代さんは\\n相当白川順から責められたようだ。\\n不倫《ふりん》していたんだろう、とね。",
+      "source_ja_applied": "【栄太郎】\\n安代さんは\\n相当白川順から責められたようだ。\\n不倫《ふりん》していたんだろう、とね。",
+      "source_ja_reviewed": "安代さんは相当白川一利から責められたようだ。不倫《ふりん》していたんだろう、とね。",
+      "old_translation": "【신타로】\\n아시요씨는\\n상당 시라카와가와에서 주석을 당한\\n것\\n같다. \\n 불륜하고 있었겠지, 토네.",
+      "new_translation": "【에이타로】\\n야스요 씨는\\n시라카와 이치리에게 상당히 추궁당한\\n모양이야.\\n불륜하고 있었던 거냐고 말이지.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4271,
+      "source_index": "0x000b60f9",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4272,
+      "source_index": "0x000b6132",
+      "source_ja_raw": "【光志】\\n一利さんはアナタと\\nなにも話さなかったんですか？",
+      "source_ja_applied": "【光志】\\n一利さんはアナタと\\nなにも話さなかったんですか？",
+      "source_ja_reviewed": "【光志】\\n一利さんはアナタと\\nなにも話さなかったんですか？",
+      "old_translation": "【코우지】\\n이치로씨는 당신과\\n아무것도 말하지 않았습니까?",
+      "new_translation": "【코우지】\\n이치리 씨는 당신에게\\n아무 말도 하지 않았습니까?",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4273,
+      "source_index": "0x000b61a5",
+      "source_ja_raw": "【栄太郎】\\n一度だけ、\\n本当なのかどうか確認されたよ。\\nでも私は否定した。",
+      "source_ja_applied": "【栄太郎】\\n一度だけ、\\n本当なのかどうか確認されたよ。\\nでも私は否定した。",
+      "source_ja_reviewed": "【栄太郎】\\n一度だけ、\\n本当なのかどうか確認されたよ。\\nでも私は否定した。",
+      "old_translation": "【신타로】\\n한 번만,\\n정말인지 확인됐어. \\n그래도 내가 자란다.",
+      "new_translation": "【에이타로】\\n한 번은 정말인지 확인하더군.\\n하지만 나는 부인했어.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4274,
+      "source_index": "0x000b6230",
+      "source_ja_raw": "【栄太郎】\\n彼はそのとき『わかった』と\\n言っていたが、\\n安代さんが自殺したことを考えると、\\n信じてくれなかったようだね……",
+      "source_ja_applied": "【栄太郎】\\n彼はそのとき『わかった』と\\n言っていたが、\\n安代さんが自殺したことを考えると、\\n信じてくれなかったようだね……",
+      "source_ja_reviewed": "【栄太郎】\\n彼はそのとき『わかった』と\\n言っていたが、\\n安代さんが自殺したことを考えると、\\n信じてくれなかったようだね……",
+      "old_translation": "【신타로】\\n아시로 씨가 그때 ‘알았다’고\\n말했지만,\\n아시로 씨가 자살한 것을 생각하면,\\n믿지 않았던 것 같네……",
+      "new_translation": "【에이타로】\\n그때 그는 『알겠다』고 말했지만\\n야스요 씨가 자살한 걸 생각하면\\n믿지는 않았던 모양이야……",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4275,
+      "source_index": "0x000b62a8",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4276,
+      "source_index": "0x000b62ee",
+      "source_ja_raw": "【栄太郎】\\n私と安代さんが\\n白川順を裏切っていたことには\\n弁婚の余地がない。",
+      "source_ja_applied": "【栄太郎】\\n私と安代さんが\\n白川順を裏切っていたことには\\n弁婚の余地がない。",
+      "source_ja_reviewed": "私と安代さんが白川一利を裏切っていたことには弁解《べんかい》の余地がない。",
+      "old_translation": "【신타로】\\n나와 아시요씨가\\n시라카와강을 용절하고 있던 것에는\\n변화의 여지가 없다.",
+      "new_translation": "【에이타로】\\n나와 야스요 씨가\\n시라카와 이치리를 배신했다는\\n사실에는\\n변명의 여지가 없어.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4277,
+      "source_index": "0x000b635b",
+      "source_ja_raw": "【栄太郎】\\n相談を受けていたとは言え、\\n白川順に内緒《ないしょ》で会っていた事は\\n事実だし……",
+      "source_ja_applied": "【栄太郎】\\n相談を受けていたとは言え、\\n白川順に内緒《ないしょ》で会っていた事は\\n事実だし……",
+      "source_ja_reviewed": "【栄太郎】\\n相談を受けていたとは言え、\\n白川順に内緒《ないしょ》で会っていた事は\\n事実だし……",
+      "old_translation": "【신타로】\\n상담을 하고 있었다고는 말할 수\\n있고,\\n시라카와가와에 비밀로 생각하고 있던\\n것은\\n사실이고…",
+      "new_translation": "【에이타로】\\n상담을 들어 줬다고는 해도\\n시라카와 이치리 몰래 만난 건\\n사실이니까……",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4278,
+      "source_index": "0x000b63e3",
+      "source_ja_raw": "【栄太郎】\\nそれが原因で\\n白川順が彼女を責め\\n自殺してしまった……",
+      "source_ja_applied": "【栄太郎】\\nそれが原因で\\n白川順が彼女を責め\\n自殺してしまった……",
+      "source_ja_reviewed": "それが原因で白川一利が彼女を責め、自殺してしまった……",
+      "old_translation": "【신타로】\\n그것이 원인이 되어\\n시라카와 이치로가 그녀를 책망하다\\n자살해 버렸어……",
+      "new_translation": "【에이타로】\\n그 일 때문에\\n시라카와 이치리가 그녀를 몰아붙였고\\n그녀는 자살하고 말았어……",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4279,
+      "source_index": "0x000b644a",
+      "source_ja_raw": "【栄太郎】\\n彼女の自殺は、\\nすべて私の責明だよ……",
+      "source_ja_applied": "【栄太郎】\\n彼女の自殺は、\\nすべて私の責明だよ……",
+      "source_ja_reviewed": "彼女の自殺は、すべて私の責任《せきにん》だよ……",
+      "old_translation": "【신타로】\\n그녀의 자살은,\\n전부 내 책임이야……",
+      "new_translation": "【에이타로】\\n그녀의 자살은\\n전부 내 책임이야……",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4280,
+      "source_index": "0x000b649a",
+      "source_ja_raw": "【光志】\\nなぜ、法子に\\n安代さんが自殺したことを\\n口止めさせていたんですか？",
+      "source_ja_applied": "【光志】\\nなぜ、法子に\\n安代さんが自殺したことを\\n口止めさせていたんですか？",
+      "source_ja_reviewed": "【光志】\\nなぜ、法子に\\n安代さんが自殺したことを\\n口止めさせていたんですか？",
+      "old_translation": "【코우지】\\n왜 노리코에게\\n아시로 씨가 자살한 것을\\n입 다물게 한 겁니까?",
+      "new_translation": "【코우지】\\n왜 노리코에게\\n야스요 씨가 자살했다는 사실을\\n입 다물게 한 겁니까?",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4281,
+      "source_index": "0x000b6503",
+      "source_ja_raw": "【栄太郎】\\n……八《こわ》かったんだ。\\nあのとき心に深い傷を店った私は、\\n彼女のあとを道おうと思った……",
+      "source_ja_applied": "【栄太郎】\\n……八《こわ》かったんだ。\\nあのとき心に深い傷を店った私は、\\n彼女のあとを道おうと思った……",
+      "source_ja_reviewed": "……怖《こわ》かったんだ。あのとき心に深い傷を負《お》った私は、彼女のあとを追《お》おうと思った……",
+      "old_translation": "【신타로】\\n… \\n그때 마음에 깊은 상처를 입은\\n나는,\\n아야녀의 뒤를 쫓으려고 무거웠다…",
+      "new_translation": "【에이타로】\\n……무서웠어.\\n그때 마음에 깊은 상처를 입고\\n그녀의 뒤를 따라가려 했지……",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4282,
+      "source_index": "0x000b6582",
+      "source_ja_raw": "【栄太郎】\\nしかし私には家族がいた。\\n彼らを残して死ぬわけには\\nいかなかった……",
+      "source_ja_applied": "【栄太郎】\\nしかし私には家族がいた。\\n彼らを残して死ぬわけには\\nいかなかった……",
+      "source_ja_reviewed": "【栄太郎】\\nしかし私には家族がいた。\\n彼らを残して死ぬわけには\\nいかなかった……",
+      "old_translation": "【신타로】\\n 그러나 나에게는 가문이 있었다. \\n아야등을 타고 치아를 치는 데는\\n 가지 않았다…",
+      "new_translation": "【에이타로】\\n하지만 내게는 가족이 있었어.\\n가족을 남겨 두고 죽을 수는\\n없었지……",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4283,
+      "source_index": "0x000b6606",
+      "source_ja_raw": "【栄太郎】\\nいや、それはただの言い切だな。\\n彼女のあとを道うほどの瘡気が\\nなかったんだ……",
+      "source_ja_applied": "【栄太郎】\\nいや、それはただの言い訳だな。\\n彼女のあとを道うほどの瘡気が\\nなかったんだ……",
+      "source_ja_reviewed": "【栄太郎】\\nいや、それはただの言い訳だな。\\n彼女のあとを道うほどの瘡気が\\nなかったんだ……",
+      "old_translation": "【신타로】\\n아니, 그건 그냥 단정일 뿐이야.\\n그녀의 뒤를 쫓아갈 만큼의 용기도\\n내게는 없었어……",
+      "new_translation": "【에이타로】\\n아니, 그건 그저 변명일 뿐이야.\\n그녀의 뒤를 따라갈 용기가\\n내게 없었던 거지……",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4284,
+      "source_index": "0x000b6699",
+      "source_ja_raw": "【栄太郎】\\n死ぬのが八《こわ》かった……\\nただ、それだけだ。",
+      "source_ja_applied": "【栄太郎】\\n死ぬのが八《こわ》かった……\\nただ、それだけだ。",
+      "source_ja_reviewed": "【栄太郎】\\n死ぬのが八《こわ》かった……\\nただ、それだけだ。",
+      "old_translation": "【신타로】\\n씹는 것이 컸다…\\n단지, 그것뿐이다.",
+      "new_translation": "【에이타로】\\n죽는 게 무서웠어……\\n그저 그것뿐이야.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4285,
+      "source_index": "0x000b66f8",
+      "source_ja_raw": "【栄太郎】\\n自分ではそれがわかっていた。\\nしかしそれを知られたく\\nなかったんだ……",
+      "source_ja_applied": "【栄太郎】\\n自分ではそれがわかっていた。\\nしかしそれを知られたく\\nなかったんだ……",
+      "source_ja_reviewed": "【栄太郎】\\n自分ではそれがわかっていた。\\nしかしそれを知られたく\\nなかったんだ……",
+      "old_translation": "【신타로】\\n스스로는 그것을 알고 있었다. \\n그러나 그것을 알고 싶다\\n없었다...",
+      "new_translation": "【에이타로】\\n나 자신은 그걸 알고 있었어.\\n하지만 그 사실을\\n들키고 싶지는 않았지……",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4286,
+      "source_index": "0x000b6761",
+      "source_ja_raw": "【栄太郎】\\n私が卒敬していた、\\n斉藤志利さんの豊子である\\n順だけには……",
+      "source_ja_applied": "【栄太郎】\\n私が卒敬していた、\\n斉藤志利さんの豊子である\\n順だけには……",
+      "source_ja_reviewed": "私が尊敬《そんけい》していた、斉藤志利さんの息子《むすこ》である光志にだけは……",
+      "old_translation": "【신타로】\\n내가 존경하고 있던,\\n사이토 시에토씨의 니코인\\n강에만는…",
+      "new_translation": "【에이타로】\\n내가 존경하던\\n사이토 시리 씨의 아들인\\n코우지에게만은……",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4287,
+      "source_index": "0x000b67bf",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4288,
+      "source_index": "0x000b67f8",
+      "source_ja_raw": "【法子】\\n…………",
+      "source_ja_applied": "【法子】\\n…………",
+      "source_ja_reviewed": "【法子】\\n…………",
+      "old_translation": "【노리코】\\n…………",
+      "new_translation": "【노리코】\\n…………",
+      "speaker": "노리코",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4289,
+      "source_index": "0x000b6831",
+      "source_ja_raw": "【光志】\\n……オレはアナタを\\nつまらない男だとは\\n思いませんよ。",
+      "source_ja_applied": "【光志】\\n……オレはアナタを\\nつまらない男だとは\\n思いませんよ。",
+      "source_ja_reviewed": "【光志】\\n……オレはアナタを\\nつまらない男だとは\\n思いませんよ。",
+      "old_translation": "【코우지】\\n...... 나는 당신을\\n지루한 사람이라고\\n생각하지 않아.",
+      "new_translation": "【코우지】\\n……저는 당신을\\n시시한 사람이라고\\n생각하지 않습니다.",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4290,
+      "source_index": "0x000b6882",
+      "source_ja_raw": "【光志】\\nオレ、家族を失うツラさは、\\nよく知ってますから……",
+      "source_ja_applied": "【光志】\\nオレ、家族を失うツラさは、\\nよく知ってますから……",
+      "source_ja_reviewed": "【光志】\\nオレ、家族を失うツラさは、\\nよく知ってますから……",
+      "old_translation": "【코우지】\\n나, 가문을 잃는 광택은,\\n잘 알고 있으니까…",
+      "new_translation": "【코우지】\\n저는 가족을 잃는 괴로움을\\n잘 알고 있으니까요……",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4291,
+      "source_index": "0x000b68d4",
+      "source_ja_raw": "【栄太郎】\\n…………",
+      "source_ja_applied": "【栄太郎】\\n…………",
+      "source_ja_reviewed": "【栄太郎】\\n…………",
+      "old_translation": "【신타로】\\n…………",
+      "new_translation": "【에이타로】\\n…………",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4292,
+      "source_index": "0x000b690f",
+      "source_ja_raw": "【光志】\\nアナタは生きてるだけで、\\n家族にとって価値があるんです。\\nそれだけは触れないでください。",
+      "source_ja_applied": "【光志】\\nアナタは生きてるだけで、\\n家族にとって価値があるんです。\\nそれだけは触れないでください。",
+      "source_ja_reviewed": "アナタは生きてるだけで、家族にとって価値《かち》があるんです。それだけは忘《わす》れないでください。",
+      "old_translation": "【코우지】\\n당신은 살아 있는 것만으로,\\n가문에 있어서 민완이 있습니다. \\n 그냥 만지지 마세요.",
+      "new_translation": "【코우지】\\n당신은 살아 있는 것만으로도\\n가족에게 가치가 있는 사람입니다.\\n그 사실만은 잊지 마세요.",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4293,
+      "source_index": "0x000b699b",
+      "source_ja_raw": "【栄太郎】\\n…………",
+      "source_ja_applied": "【栄太郎】\\n…………",
+      "source_ja_reviewed": "【栄太郎】\\n…………",
+      "old_translation": "【신타로】\\n…………",
+      "new_translation": "【에이타로】\\n…………",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4294,
+      "source_index": "0x000b6a15",
+      "source_ja_raw": "【栄太郎】\\n順は立派な男だな……\\n斉藤さんの豊子なだけある。",
+      "source_ja_applied": "【栄太郎】\\n順は立派な男だな……\\n斉藤さんの豊子なだけある。",
+      "source_ja_reviewed": "光志は立派な男だな……斉藤さんの息子《むすこ》なだけある。",
+      "old_translation": "【신타로】\\n강은 훌륭한 사람이구나…\\n사이토 씨의 학자인 만큼 있다.",
+      "new_translation": "【에이타로】\\n코우지는 훌륭한 사람이구나……\\n사이토 씨의 아들다운 면이 있어.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4295,
+      "source_index": "0x000b6a6b",
+      "source_ja_raw": "【光志】\\n……了つほど質問があります。\\n答えてもらえますか？",
+      "source_ja_applied": "【光志】\\n……了つほど質問があります。\\n答えてもらえますか？",
+      "source_ja_reviewed": "【光志】\\n……了つほど質問があります。\\n答えてもらえますか？",
+      "old_translation": "【코우지】\\n… … 2개 정도 전문이 있습니다.\\n\\n 대답해 주시겠습니까?",
+      "new_translation": "【코우지】\\n……두 가지 정도 질문이 있습니다.\\n대답해 주시겠습니까?",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4296,
+      "source_index": "0x000b6aca",
+      "source_ja_raw": "【栄太郎】\\nもちろん。",
+      "source_ja_applied": "【栄太郎】\\nもちろん。",
+      "source_ja_reviewed": "【栄太郎】\\nもちろん。",
+      "old_translation": "【신타로】\\n물론.",
+      "new_translation": "【에이타로】\\n물론이지.",
+      "speaker": "에이타로",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4297,
+      "source_index": "0x000b6b03",
+      "source_ja_raw": "【光志】\\nまず一つは、\\nアナタのアリバイについてです。",
+      "source_ja_applied": "【光志】\\nまず一つは、\\nアナタのアリバイについてです。",
+      "source_ja_reviewed": "【光志】\\nまず一つは、\\nアナタのアリバイについてです。",
+      "old_translation": "【코우지】\\n우선 하나는,\\n너의 알리바이에 대해입니다.",
+      "new_translation": "【코우지】\\n우선 하나는\\n당신의 알리바이에 관한 겁니다.",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4298,
+      "source_index": "0x000b6b53",
+      "source_ja_raw": "【光志】\\nアナタのアリバイには\\n矛盾《むじゅん》があります。\\nそれは、アナタがあそこにいたと\\n証言したことです。",
+      "source_ja_applied": "【光志】\\nアナタのアリバイには\\n矛盾《むじゅん》があります。\\nそれは、アナタがあそこにいたと\\n証言したことです。",
+      "source_ja_reviewed": "アナタのアリバイには矛盾《むじゅん》があります。それはアナタがあそこにいたと証言したことです。",
+      "old_translation": "【코우지】\\n당신의 알리바이에는\\n모순이 있습니다. \\n그것은 당신이 거기에 있었다고\\n증언한 것입니다.",
+      "new_translation": "【코우지】\\n당신의 알리바이에는\\n모순이 있습니다.\\n당신이 그곳에 있었다고\\n증언한 부분입니다.",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [
+        "알리바이",
+        "증언"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4299,
+      "source_index": "0x000b6c6d",
+      "source_ja_raw": "【光志】\\n（違《ちが》う！\\nそこじゃない！）",
+      "source_ja_applied": "【光志】\\n（違《ちが》う！\\nそこじゃない！）",
+      "source_ja_reviewed": "【光志】\\n（違《ちが》う！\\nそこじゃない！）",
+      "old_translation": "【코우지】\\n(다르다!\\n거기가 아니야!)",
+      "new_translation": "【코우지】\\n(아니야!\\n거기가 아니야!)",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4300,
+      "source_index": "0x000b6cb5",
+      "source_ja_raw": "【光志】\\n（沼崎弁護士が話したアリバイを\\nよく思い出すんだ！）",
+      "source_ja_applied": "【光志】\\n（沼崎弁護士が話したアリバイを\\nよく思い出すんだ！）",
+      "source_ja_reviewed": "【光志】\\n（沼崎弁護士が話したアリバイを\\nよく思い出すんだ！）",
+      "old_translation": "【코우지】\\n(누마사키 변호사가 말한 알리바이를\\n잘 무겁게 낸다!)",
+      "new_translation": "【코우지】\\n(누마사키 변호사가 말한 알리바이를\\n잘 떠올려 봐!)",
+      "speaker": "코우지",
+      "scene": "누마사키 에이타로의 고백",
+      "relationship_context": "에이타로는 야스요와의 친족·불륜 관계, 시라카와 이치리의 과거 범죄와 코우지 아버지 사이토 시리의 죽음을 고백한다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "원문 조각과 한자·후리가나가 훼손되어 관계·고백 내용·알리바이 문맥으로 복원"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    }
+  ]
+}

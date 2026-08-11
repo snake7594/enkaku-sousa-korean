@@ -1,0 +1,4576 @@
+{
+  "schema": "enkaku_retranslation_batch_v2",
+  "batch": 18,
+  "source_range": {
+    "order_start": 4801,
+    "order_end": 5050,
+    "count": 250
+  },
+  "purpose": "미우라의 수첩 물증 제시, 자백 유도 심문, 심장 이식 단서, 묵비권 심문과 무허가 택시 알리바이 번역",
+  "emulator_launched": false,
+  "display_width": 19,
+  "translation_policy": [
+    "시라카와 이치리와 시라카와 사토루를 서로 다른 인물로 유지하고, 아버지 수첩의 기록은 코우지의 현재 심리와 연결해 번역",
+    "미우라의 유죄율 설명은 법률 용어를 과장하지 않고 심문 압박의 기능이 드러나도록 번역",
+    "미야카미 긴자, 무허가 택시, 아사츠유의 증언을 하나의 알리바이 논리로 유지"
+  ],
+  "counts": {
+    "entries": 250,
+    "changed": 213,
+    "wrapped_rows": 29
+  },
+  "translations": [
+    {
+      "order": 4801,
+      "source_index": "0x000c881b",
+      "source_ja_raw": "【光志】\\n……あの話？",
+      "source_ja_applied": "【光志】\\n……あの話？",
+      "source_ja_reviewed": "【光志】\\n……あの話？",
+      "old_translation": "【코우지】\\n… … 그 이야기?",
+      "new_translation": "【코우지】\\n……그 얘기?",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4802,
+      "source_index": "0x000c887c",
+      "source_ja_raw": "【退職】\\n聞《き》き沽《こ》みの結果……事件当日、\\nＶＩＰルームに入った人付が、\\n少なくとも４人いることがわかった。",
+      "source_ja_applied": "【三浦】\\n聞《き》き込《こ》みの結果……事件当日、\\nＶＩＰルームに入った人付が、\\n少なくとも４人いることがわかった。",
+      "source_ja_reviewed": "【三浦】\n聞き込みの結果……事件当日、\nＶＩＰルームに入った人物が、\n少なくとも４人いることがわかった。",
+      "old_translation": "【미우라】\\n두고 새겨진 결과… … 사건 당일,\\nVIP 룸에 들어간 인간이,\\n적어도 4명 있는 것으로 나타났다.",
+      "new_translation": "【미우라】\\n탐문 수사 결과…… 사건 당일,\\nVIP룸에 들어간 사람이\\n적어도 네 명 있었던 것으로\\n밝혀졌다.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4803,
+      "source_index": "0x000c8907",
+      "source_ja_raw": "【退職】\\nまずは弁護士の沼崎栄太郎だ。\\n彼は白川グループの\\n顧問弁護士《こもんべんごし》だから、\\n被害者《ひがいしゃ》と一緒《いっしょ》にＶＩＰルームに\\n入っても不思議ではない。",
+      "source_ja_applied": "【三浦】\\nまずは弁護士の沼崎栄太郎だ。\\n彼は白川グループの\\n顧問弁護士《こもんべんごし》だから、\\n被害者《ひがいしゃ》と一緒《いっしょ》にＶＩＰルームに\\n入っても不思議ではない。",
+      "source_ja_reviewed": "【三浦】\nまずは弁護士の沼崎栄太郎だ。\n彼は白川グループの\n顧問弁護士だから、\n被害者と一緒にＶＩＰルームに\n入っても不思議ではない。",
+      "old_translation": "【미우라】\\n우선 변호사의 누마사키 신타로다.\\n아야는 시라카와 그룹\\n고문 변호사이기 때문에,\\n피해자와 함께 VIP방에\\n들어가도 부의의가 아니다.",
+      "new_translation": "【미우라】\\n우선 변호사 누마사키 에이타로다.\\n그는 시라카와 그룹의\\n고문 변호사이니,\\n피해자와 함께 VIP룸에 들어갔어도\\n이상할 건 없다.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4804,
+      "source_index": "0x000c89bd",
+      "source_ja_raw": "【退職】\\nそして銃声《じゅうせい》が堂内に清《ひび》いたとき、\\n私の上曜である近藤が入っている。",
+      "source_ja_applied": "【三浦】\\nそして銃声《じゅうせい》が堂内に清《ひび》いたとき、\\n私の上曜である近藤が入っている。",
+      "source_ja_reviewed": "【三浦】\nそして銃声が堂内に響いたとき、\n私の上司である近藤が入っている。",
+      "old_translation": "【미우라】\\n그리고 총성이 교내에 울렸을 때,\\n내의 상사인 콘도가 들어가 있다.",
+      "new_translation": "【미우라】\\n그리고 총성이 홀 안에 울려 퍼졌을\\n때,\\n내 상관인 콘도도 들어갔다.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [
+        "총성"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4805,
+      "source_index": "0x000c8a35",
+      "source_ja_raw": "【退職】\\n拳銃《けんじゅう》を持った犯人がいることを想定し、\\n当初は１人でＶＩＰルームに\\n入ったようだ。",
+      "source_ja_applied": "【三浦】\\n拳銃《けんじゅう》を持った犯人がいることを想定し、\\n当初は１人でＶＩＰルームに\\n入ったようだ。",
+      "source_ja_reviewed": "【三浦】\\n拳銃《けんじゅう》を持った犯人がいることを想定し、\\n当初は１人でＶＩＰルームに\\n入ったようだ。",
+      "old_translation": "【미우라】\\n권총을 탄 범인이 있는 것을\\n총정해,\\n당초는 혼자서 VIP룸에\\n 들어간 것 같다.",
+      "new_translation": "【미우라】\\n권총을 든 범인이 있을 가능성을\\n생각해\\n처음에는 혼자 VIP룸에\\n들어간 모양이다.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4806,
+      "source_index": "0x000c8ab4",
+      "source_ja_raw": "【退職】\\nつづいて、水谷朝等も\\nＶＩＰルームに入ったらしい。",
+      "source_ja_applied": "【三浦】\\nつづいて、水谷朝等も\\nＶＩＰルームに入ったらしい。",
+      "source_ja_reviewed": "【三浦】\\nつづいて、水谷朝等も\\nＶＩＰルームに入ったらしい。",
+      "old_translation": "【미우라】\\n이어서, 미즈타니 아사츠유도\\nVIP룸에 들어간 것 같다.",
+      "new_translation": "【미우라】\\n그 뒤에 미즈타니 아사츠유도\\nVIP룸에 들어간 것으로 보인다.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4807,
+      "source_index": "0x000c8b08",
+      "source_ja_raw": "【光志】\\n（ここまでは沼崎弁護士が\\n言ったとおりだな……）",
+      "source_ja_applied": "【光志】\\n（ここまでは沼崎弁護士が\\n言ったとおりだな……）",
+      "source_ja_reviewed": "【光志】\\n（ここまでは沼崎弁護士が\\n言ったとおりだな……）",
+      "old_translation": "【코우지】\\n(여기까지는 누마사키 변호사가\\n 말한 대로구나…",
+      "new_translation": "【코우지】\\n(여기까지는 누마사키 변호사가\\n말한 그대로군……)",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4808,
+      "source_index": "0x000c8b68",
+      "source_ja_raw": "【退職】\\nそして、最後の１人……\\n客の証言によると『短い男』が\\nＶＩＰルームのほうへ歩いていったのが\\n押撃《もくげき》されている。",
+      "source_ja_applied": "【三浦】\\nそして、最後の１人……\\n客の証言によると『若い男』が\\nＶＩＰルームのほうへ歩いていったのが\\n押撃《もくげき》されている。",
+      "source_ja_reviewed": "【三浦】\\nそして、最後の１人……\\n客の証言によると『若い男』が\\nＶＩＰルームのほうへ歩いていったのが\\n押撃《もくげき》されている。",
+      "old_translation": "【미우라】\\n그리고 마지막 1명…\\n고객의 증언에 따르면 \"젊은 남자\"\\nVIP 룸쪽으로 느슨해진 것이\\n목격되고 있다.",
+      "new_translation": "【미우라】\\n그리고 마지막 한 사람……\\n손님의 증언에 따르면 『젊은\\n남자』가\\nVIP룸 쪽으로 걸어가는 모습이\\n목격됐다.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [
+        "증언"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4809,
+      "source_index": "0x000c8beb",
+      "source_ja_raw": "【光志】\\n短い男……？",
+      "source_ja_applied": "【光志】\\n若い男……？",
+      "source_ja_reviewed": "【光志】\\n若い男……？",
+      "old_translation": "【코우지】\\n젊은 남자…",
+      "new_translation": "【코우지】\\n젊은 남자……?",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4810,
+      "source_index": "0x000c8c34",
+      "source_ja_raw": "【退職】\\nそう、短い男だ。\\n当日現場に入ったのは、\\n沼崎栄太郎、水谷朝等、\\nそして近藤克美……",
+      "source_ja_applied": "【三浦】\\nそう、若い男だ。\\n当日現場に入ったのは、\\n沼崎栄太郎、水谷朝等、\\nそして近藤克美……",
+      "source_ja_reviewed": "【三浦】\\nそう、若い男だ。\\n当日現場に入ったのは、\\n沼崎栄太郎、水谷朝等、\\nそして近藤克美……",
+      "old_translation": "【미우라】\\n그래, 젊은 남자다. \\n당일 현장에 들어간 것은,\\n누마사키 신타로, 미즈타니\\n아사츠유,\\n그리고 콘도 히미…",
+      "new_translation": "【미우라】\\n그래, 젊은 남자다.\\n당일 현장에 들어간 사람은\\n누마사키 에이타로, 미즈타니\\n아사츠유,\\n그리고 콘도 가쓰미……",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4811,
+      "source_index": "0x000c8cda",
+      "source_ja_raw": "【退職】\\nいずれも『短い男』ではない。\\nつまり、この『短い男』こそが犯人……\\nお前ということだ！",
+      "source_ja_applied": "【三浦】\\nいずれも『若い男』ではない。\\nつまり、この『若い男』こそが犯人……\\nお前ということだ！",
+      "source_ja_reviewed": "【三浦】\\nいずれも『若い男』ではない。\\nつまり、この『若い男』こそが犯人……\\nお前ということだ！",
+      "old_translation": "【미우라】\\n모두 '젊은 남자'가 아니다.\\n즉, 이 『젊은 남자』야말로 범인…\\n너라는 거다!",
+      "new_translation": "【미우라】\\n누구도 『젊은 남자』는 아니다.\\n그렇다면 그 『젊은 남자』가\\n범인……\\n바로 너라는 뜻이다!",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4812,
+      "source_index": "0x000c8d89",
+      "source_ja_raw": "【光志】\\nちょ、ちょっと待て！\\n『短い男』だからって\\nオレとは限らないだろう！！",
+      "source_ja_applied": "【光志】\\nちょ、ちょっと待て！\\n『若い男』だからって\\nオレとは限らないだろう！！",
+      "source_ja_reviewed": "【光志】\\nちょ、ちょっと待て！\\n『若い男』だからって\\nオレとは限らないだろう！！",
+      "old_translation": "【코우지】\\n이봐, 잠깐만! \\n『젊은 남자』라니까\\n나와는 급하지 않을 것이다! !",
+      "new_translation": "【코우지】\\n자, 잠깐 기다려!\\n『젊은 남자』라고 해서\\n꼭 나라는 법은 없잖아!!",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4813,
+      "source_index": "0x000c8e17",
+      "source_ja_raw": "【退職】\\nでは、誰《だれ》だと言うんだ！",
+      "source_ja_applied": "【三浦】\\nでは、誰《だれ》だと言うんだ！",
+      "source_ja_reviewed": "【三浦】\\nでは、誰《だれ》だと言うんだ！",
+      "old_translation": "【미우라】\\n에서는, 누구라고 말하는 거야!",
+      "new_translation": "【미우라】\\n그럼 누구라는 거지!",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4814,
+      "source_index": "0x000c8e5c",
+      "source_ja_raw": "【光志】\\nそ、そんなの……\\nオレにわかるわけないだろう！",
+      "source_ja_applied": "【光志】\\nそ、そんなの……\\nオレにわかるわけないだろう！",
+      "source_ja_reviewed": "【光志】\\nそ、そんなの……\\nオレにわかるわけないだろう！",
+      "old_translation": "【코우지】\\n그, 그런거야…\\n나에게 알 수 없을 것이다!",
+      "new_translation": "【코우지】\\n그, 그런 걸……\\n내가 알 리 없잖아!",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4815,
+      "source_index": "0x000c8ebf",
+      "source_ja_raw": "【退職】\\n現場に指紋《しもん》という痕跡《こんせき》を残している\\nお前だと考えるのが自然だろう！\\n違《ちが》うか！？",
+      "source_ja_applied": "【三浦】\\n現場に指紋《しもん》という痕跡《こんせき》を残している\\nお前だと考えるのが自然だろう！\\n違《ちが》うか！？",
+      "source_ja_reviewed": "【三浦】\\n現場に指紋《しもん》という痕跡《こんせき》を残している\\nお前だと考えるのが自然だろう！\\n違《ちが》うか！？",
+      "old_translation": "【미우라】\\n현장에 지문이라는 흔적을 타고 있는\\n너라고 생각하는 것이 자연일\\n것이다! \\n 다르다! ?",
+      "new_translation": "【미우라】\\n현장에 지문이라는 흔적을 남긴\\n네가 범인이라고 보는 게\\n자연스럽지!\\n아닌가!?",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4816,
+      "source_index": "0x000c8f37",
+      "source_ja_raw": "【光志】\\nク……ッ！",
+      "source_ja_applied": "【光志】\\nク……ッ！",
+      "source_ja_reviewed": "【光志】\\nク……ッ！",
+      "old_translation": "【코우지】\\n큭……!",
+      "new_translation": "【코우지】\\n큭……!",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4817,
+      "source_index": "0x000c8f96",
+      "source_ja_raw": "【退職】\\nだんだんと証拠《しょうこ》が揃《そろ》ってきたな。\\nこの件についても論理的な反論を\\n期待しているぞ。",
+      "source_ja_applied": "【三浦】\\nだんだんと証拠《しょうこ》が揃《そろ》ってきたな。\\nこの件についても論理的な反論を\\n期待しているぞ。",
+      "source_ja_reviewed": "【三浦】\\nだんだんと証拠《しょうこ》が揃《そろ》ってきたな。\\nこの件についても論理的な反論を\\n期待しているぞ。",
+      "old_translation": "【미우라】\\n 점점 증거가 갖추어져 왔구나. \\n이 건에 대해서도 논리적인 반론을\\n연대하고 있다.",
+      "new_translation": "【미우라】\\n점점 증거가 모이고 있군.\\n이 일에 대해서도 논리적인 반론을\\n기대하고 있겠다.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4818,
+      "source_index": "0x000c902e",
+      "source_ja_raw": "【退職】\\nでは、怖問《じんもん》に入る。",
+      "source_ja_applied": "【三浦】\\nでは、怖問《じんもん》に入る。",
+      "source_ja_reviewed": "【三浦】\\nでは、怖問《じんもん》に入る。",
+      "old_translation": "【미우라】\\n에서는 심문에 들어간다.",
+      "new_translation": "【미우라】\\n그럼 심문을 시작하지.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4819,
+      "source_index": "0x000c94c9",
+      "source_ja_raw": "【退職】\\n昨日はよく眠《ねむ》れたか？",
+      "source_ja_applied": "【三浦】\\n昨日はよく眠《ねむ》れたか？",
+      "source_ja_reviewed": "【三浦】\\n昨日はよく眠《ねむ》れたか？",
+      "old_translation": "【미우라】\\n어제는 잘 잠들었나?",
+      "new_translation": "【미우라】\\n어제는 잘 잤나?",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4820,
+      "source_index": "0x000c950d",
+      "source_ja_raw": "【光志】\\n大きなお新話だ。",
+      "source_ja_applied": "【光志】\\n大きなお新話だ。",
+      "source_ja_reviewed": "【光志】\\n大きなお新話だ。",
+      "old_translation": "【코우지】\\n큰 신세다.",
+      "new_translation": "【코우지】\\n참견도 정도껏 하시지.",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4821,
+      "source_index": "0x000c9570",
+      "source_ja_raw": "【退職】\\nフッ……そうか。",
+      "source_ja_applied": "【三浦】\\nフッ……そうか。",
+      "source_ja_reviewed": "【三浦】\\nフッ……そうか。",
+      "old_translation": "【미우라】\\n훗… … 그래.",
+      "new_translation": "【미우라】\\n훗…… 그런가.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4822,
+      "source_index": "0x000c95ac",
+      "source_ja_raw": "【光志】\\n（な、なんだ、この余巻《よゆう》の表情……？\\n……イヤな予感がするな……）",
+      "source_ja_applied": "【光志】\\n（な、なんだ、この余巻《よゆう》の表情……？\\n……イヤな予感がするな……）",
+      "source_ja_reviewed": "【光志】\\n（な、なんだ、この余巻《よゆう》の表情……？\\n……イヤな予感がするな……）",
+      "old_translation": "【코우지】\\n(뭐, 뭐야, 이 여웅의 표정……?\\n…",
+      "new_translation": "【코우지】\\n(뭐야, 저 여유로운 표정은……?\\n……불길한 예감이 드는데……)",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4823,
+      "source_index": "0x000c963a",
+      "source_ja_raw": "【退職】\\nさっそくだが……\\n被害者《ひがいしゃ》とお前のつながりを間らかにする\\n倚定的な物証《ぶっしょう》が見つかった。",
+      "source_ja_applied": "【三浦】\\nさっそくだが……\\n被害者《ひがいしゃ》とお前のつながりを間らかにする\\n倚定的な物証《ぶっしょう》が見つかった。",
+      "source_ja_reviewed": "【三浦】\nさっそくだが……\n被害者とお前のつながりを明らかにする\n決定的な物証が見つかった。",
+      "old_translation": "【미우라】\\n빨리지만…\\n피해자와 너의 연결을 밝히기\\n결정적인 물증이 발견되었다.",
+      "new_translation": "【미우라】\\n곧장 본론으로 들어가자……\\n피해자와 네 연결 고리를 밝혀 줄\\n확실한 물증을 찾았다.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4824,
+      "source_index": "0x000c96bf",
+      "source_ja_raw": "【退職】\\n吉本順。",
+      "source_ja_applied": "【三浦】\\n吉本順。",
+      "source_ja_reviewed": "【三浦】\\n吉本順。",
+      "old_translation": "【미우라】\\n요시모토 형사.",
+      "new_translation": "【미우라】\\n요시모토 형사.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4825,
+      "source_index": "0x000c971e",
+      "source_ja_raw": "【吉本】\\nはい。",
+      "source_ja_applied": "【吉本】\\nはい。",
+      "source_ja_reviewed": "【吉本】\\nはい。",
+      "old_translation": "【요시모토】\\n네.",
+      "new_translation": "【요시모토】\\n네.",
+      "speaker": "요시모토",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4826,
+      "source_index": "0x000c9784",
+      "source_ja_raw": "【退職】\\nお前の部屋から出てきたものだ。",
+      "source_ja_applied": "【三浦】\\nお前の部屋から出てきたものだ。",
+      "source_ja_reviewed": "【三浦】\\nお前の部屋から出てきたものだ。",
+      "old_translation": "【미우라】\\n너의 방에서 나온 것이다.",
+      "new_translation": "【미우라】\\n네 방에서 나온 물건이다.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4827,
+      "source_index": "0x000c97c9",
+      "source_ja_raw": "【光志】\\nオレの部屋から……？",
+      "source_ja_applied": "【光志】\\nオレの部屋から……？",
+      "source_ja_reviewed": "【光志】\\nオレの部屋から……？",
+      "old_translation": "【코우지】\\n나의 방에서…",
+      "new_translation": "【코우지】\\n내 방에서……?",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4828,
+      "source_index": "0x000c9847",
+      "source_ja_raw": "【吉本】\\nはい。\\n株《お》し入《い》れの奥にあった\\n望ボールの中から見つかったと\\n伺《うかが》っています。",
+      "source_ja_applied": "【吉本】\\nはい。\\n株《お》し入《い》れの奥にあった\\n望ボールの中から見つかったと\\n伺《うかが》っています。",
+      "source_ja_reviewed": "【吉本】\\nはい。\\n株《お》し入《い》れの奥にあった\\n望ボールの中から見つかったと\\n伺《うかが》っています。",
+      "old_translation": "【요시모토】\\n네. \\n 밀어넣기 안쪽에 있던 \\n 골판지 안에서 발견되었다고 \\n 묻고 있습니다.",
+      "new_translation": "【요시모토】\\n네.\\n옷장 안쪽에 있던 공 안에서\\n발견됐다고 들었습니다.",
+      "speaker": "요시모토",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4829,
+      "source_index": "0x000c98b5",
+      "source_ja_raw": "【光志】\\n株《お》し入《い》れ？\\nああ、引《ひ》っ皷《こ》ししてから開けてない\\nあの望ボールか……",
+      "source_ja_applied": "【光志】\\n株《お》し入《い》れ？\\nああ、引《ひ》っ皷《こ》ししてから開けてない\\nあの望ボールか……",
+      "source_ja_reviewed": "【光志】\\n株《お》し入《い》れ？\\nああ、引《ひ》っ皷《こ》ししてから開けてない\\nあの望ボールか……",
+      "old_translation": "【코우지】\\n압입? \\n아, 끌어당기고 나서 제게 하지\\n않았다\\n저 골판지인가…",
+      "new_translation": "【코우지】\\n옷장?\\n아, 이사한 뒤 한 번도 열지 않은\\n그 공인가……",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4830,
+      "source_index": "0x000c9925",
+      "source_ja_raw": "【光志】\\nそれならオレのじゃなくて\\nおふくろのものだよ。",
+      "source_ja_applied": "【光志】\\nそれならオレのじゃなくて\\nおふくろのものだよ。",
+      "source_ja_reviewed": "【光志】\\nそれならオレのじゃなくて\\nおふくろのものだよ。",
+      "old_translation": "【코우지】\\n그렇다면 내가 아니라\\n오후쿠로의 것이야.",
+      "new_translation": "【코우지】\\n그렇다면 내 것이 아니라\\n어머니 것이야.",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4831,
+      "source_index": "0x000c9994",
+      "source_ja_raw": "【退職】\\nほう……\\nこの手帳はお前の母親のものだと？",
+      "source_ja_applied": "【三浦】\\nほう……\\nこの手帳はお前の母親のものだと？",
+      "source_ja_reviewed": "【三浦】\\nほう……\\nこの手帳はお前の母親のものだと？",
+      "old_translation": "【미우라】\\n어...\\n이 수첩은 너의 어머니의 것이라고?",
+      "new_translation": "【미우라】\\n호오……\\n이 수첩은 네 어머니 것이라고?",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4832,
+      "source_index": "0x000c99f0",
+      "source_ja_raw": "【光志】\\nそうだ。\\nおふくろが亡くなって、\\n自宅を引《ひ》き胎《はら》ったときの候物だ。",
+      "source_ja_applied": "【光志】\\nそうだ。\\nおふくろが亡くなって、\\n自宅を引《ひ》き胎《はら》ったときの候物だ。",
+      "source_ja_reviewed": "【光志】\\nそうだ。\\nおふくろが亡くなって、\\n自宅を引《ひ》き胎《はら》ったときの候物だ。",
+      "old_translation": "【코우지】\\n그렇다. \\n오후쿠로가 죽어,\\n자택을 태태했을 때의 정물이다.",
+      "new_translation": "【코우지】\\n맞아.\\n어머니가 돌아가시고 집을 정리했을\\n때\\n나온 유품이야.",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4833,
+      "source_index": "0x000c9a7a",
+      "source_ja_raw": "【退職】\\nなるほど……候物を耀かっているとは\\nなかなか母親思いじゃないか。",
+      "source_ja_applied": "【三浦】\\nなるほど……候物を耀かっているとは\\nなかなか母親思いじゃないか。",
+      "source_ja_reviewed": "【三浦】\\nなるほど……候物を耀かっているとは\\nなかなか母親思いじゃないか。",
+      "old_translation": "【미우라】\\n과연……정물을 받고 있다고는\\n좀처럼 어머니 생각이 아닌가.",
+      "new_translation": "【미우라】\\n그렇군…… 유품을 소중히 간직하다니\\n꽤 효자군 그래.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4834,
+      "source_index": "0x000c9afa",
+      "source_ja_raw": "【退職】\\nだが……正確に言えば\\nこの手帳はお前の母親のものではない。\\nもちろん、お前のものでもない。",
+      "source_ja_applied": "【三浦】\\nだが……正確に言えば\\nこの手帳はお前の母親のものではない。\\nもちろん、お前のものでもない。",
+      "source_ja_reviewed": "【三浦】\\nだが……正確に言えば\\nこの手帳はお前の母親のものではない。\\nもちろん、お前のものでもない。",
+      "old_translation": "【미우라】\\n하지만… … 정확히 말하면\\n이 수첩은 너의 어머니의 것이\\n아니다.\\n물론, 너의 것도 아니다.",
+      "new_translation": "【미우라】\\n하지만…… 정확히 말하면\\n이 수첩은 네 어머니 것도 아니다.\\n물론 네 것도 아니지.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4835,
+      "source_index": "0x000c9b66",
+      "source_ja_raw": "【光志】\\n……どういうことだ？",
+      "source_ja_applied": "【光志】\\n……どういうことだ？",
+      "source_ja_reviewed": "【光志】\\n……どういうことだ？",
+      "old_translation": "【코우지】\\n……무슨 소리야?",
+      "new_translation": "【코우지】\\n……무슨 뜻이지?",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4836,
+      "source_index": "0x000c9bb1",
+      "source_ja_raw": "【退職】\\n中を見たほうが陽いだろう。",
+      "source_ja_applied": "【三浦】\\n中を見たほうが陽いだろう。",
+      "source_ja_reviewed": "【三浦】\\n中を見たほうが陽いだろう。",
+      "old_translation": "【미우라】\\n안을 보는 편이 원일 것이다.",
+      "new_translation": "【미우라】\\n안쪽을 보는 게 빠르겠지.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4837,
+      "source_index": "0x000c9c67",
+      "source_ja_raw": "【光志】\\n…………！？\\nこ、これは……！？",
+      "source_ja_applied": "【光志】\\n…………！？\\nこ、これは……！？",
+      "source_ja_reviewed": "【光志】\\n…………！？\\nこ、これは……！？",
+      "old_translation": "【코우지】\\n…………! ? \\n이, 이건......! ?",
+      "new_translation": "【코우지】\\n…………!?\\n이, 이건……!?",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4838,
+      "source_index": "0x000c9cb3",
+      "source_ja_raw": "【光志】\\nこの手帳は、斉藤志利《おやじ》の……？",
+      "source_ja_applied": "【光志】\\nこの手帳は、斉藤志利《おやじ》の……？",
+      "source_ja_reviewed": "【光志】\\nこの手帳は、斉藤志利《おやじ》の……？",
+      "old_translation": "【코우지】\\n이 수첩은 사이토 시에의…",
+      "new_translation": "【코우지】\\n이 수첩은 사이토 시리\\n아버지의……?",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4839,
+      "source_index": "0x000c9d48",
+      "source_ja_raw": "【退職】\\nそうだ。\\n以前お前の父親が撮いていた\\n新聞各に問い合わせたら、\\n彼の手書きの原縞《げんこう》が残っていた。",
+      "source_ja_applied": "【三浦】\\nそうだ。\\n以前お前の父親が撮いていた\\n新聞各に問い合わせたら、\\n彼の手書きの原縞《げんこう》が残っていた。",
+      "source_ja_reviewed": "【三浦】\nそうだ。\n以前お前の父親が勤めていた\n新聞社に問い合わせたら、\n彼の手書きの原稿が残っていた。",
+      "old_translation": "【미우라】\\n그렇다.\\n예전에 네 아버지가 일하던 신문사에 문의했더니,\\n아야가 쓴 원고가 실려 있더군.",
+      "new_translation": "【미우라】\\n그래.\\n예전에 네 아버지가 일했던\\n신문사에 문의했더니,\\n그가 직접 쓴 원고가 남아 있더군.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4840,
+      "source_index": "0x000c9de8",
+      "source_ja_raw": "【退職】\\n筆跡鑑定《ひっせきかんてい》で一幸《いっち》したよ。",
+      "source_ja_applied": "【三浦】\\n筆跡鑑定《ひっせきかんてい》で一幸《いっち》したよ。",
+      "source_ja_reviewed": "【三浦】\\n筆跡鑑定《ひっせきかんてい》で一幸《いっち》したよ。",
+      "old_translation": "【미우라】\\n필정경정에서 일치했어.",
+      "new_translation": "【미우라】\\n필적 감정 결과, 일치했어.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4841,
+      "source_index": "0x000c9e4e",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4842,
+      "source_index": "0x000c9e87",
+      "source_ja_raw": "【光志】\\n（父親はフリーのジャーナリストで、\\n以前は大手新聞各の報訪部にいたって\\nおふくろに聞いたことがあったな……）",
+      "source_ja_applied": "【光志】\\n（父親はフリーのジャーナリストで、\\n以前は大手新聞各の報道部にいたって\\nおふくろに聞いたことがあったな……）",
+      "source_ja_reviewed": "【光志】\\n（父親はフリーのジャーナリストで、\\n以前は大手新聞各の報道部にいたって\\nおふくろに聞いたことがあったな……）",
+      "old_translation": "【코우지】\\n(아버지는 프리의 저널리스트로,\\n 이전에는 대기업 신문사의 보도부에\\n있었다고\\n오후쿠로에게 들어본 적이 있었구나…",
+      "new_translation": "【코우지】\\n(아버지는 프리랜서 기자였고,\\n예전에는 대형 신문사 보도부에\\n있었다고\\n어머니에게 들은 적이 있었지……)",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4843,
+      "source_index": "0x000c9f0f",
+      "source_ja_raw": "【光志】\\nん？\\nなんだこれ……？",
+      "source_ja_applied": "【光志】\\nん？\\nなんだこれ……？",
+      "source_ja_reviewed": "【光志】\\nん？\\nなんだこれ……？",
+      "old_translation": "【코우지】\\n응? \\n 뭐야 이거......?",
+      "new_translation": "【코우지】\\n응?\\n뭐야, 이건……?",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4844,
+      "source_index": "0x000c9f4f",
+      "source_ja_raw": "【光志】\\n…………\\n『白川』？",
+      "source_ja_applied": "【光志】\\n…………\\n『白川』？",
+      "source_ja_reviewed": "【光志】\\n…………\\n『白川』？",
+      "old_translation": "【코우지】\\n…………\\n『시라카와』?",
+      "new_translation": "【코우지】\\n…………\\n『시라카와』?",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4845,
+      "source_index": "0x000c9fb9",
+      "source_ja_raw": "【退職】\\nやはりそれが押に入ったか。\\nそうだ……その『白川』は\\n被害者《ひがいしゃ》である白川一利を\\n指していると思われる。",
+      "source_ja_applied": "【三浦】\\nやはりそれが押に入ったか。\\nそうだ……その『白川』は\\n被害者《ひがいしゃ》である白川一利を\\n指していると思われる。",
+      "source_ja_reviewed": "【三浦】\nやはりそれが目に入ったか。\nそうだ……その『白川』は\n被害者である白川一利を\n指していると思われる。",
+      "old_translation": "【미우라】\\n 역시 그것이 눈에 들어갔는가. \\n그렇다……그 『시라카와』는 \\n피해자인 시라카와 이치로를\\n가리키고 있다고 거듭된다.",
+      "new_translation": "【미우라】\\n역시 그 부분이 눈에 들어왔나\\n보군.\\n그래…… 그 『시라카와』는\\n피해자인 시라카와 이치리를\\n가리키는 것 같다.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4846,
+      "source_index": "0x000ca037",
+      "source_ja_raw": "【光志】\\n……そうか。",
+      "source_ja_applied": "【光志】\\n……そうか。",
+      "source_ja_reviewed": "【光志】\\n……そうか。",
+      "old_translation": "【코우지】\\n……그렇군.",
+      "new_translation": "【코우지】\\n……그렇군.",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4847,
+      "source_index": "0x000ca097",
+      "source_ja_raw": "【退職】\\nほう、あまり十《おどろ》かないんだな？",
+      "source_ja_applied": "【三浦】\\nほう、あまり十《おどろ》かないんだな？",
+      "source_ja_reviewed": "【三浦】\\nほう、あまり十《おどろ》かないんだな？",
+      "old_translation": "【미우라】\\n 쪽, 별로 가시가 없지?",
+      "new_translation": "【미우라】\\n호오, 별로 놀라지 않는군?",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4848,
+      "source_index": "0x000ca0df",
+      "source_ja_raw": "【光志】\\n手帳をわざわざオレに\\n見せるくらいだ。",
+      "source_ja_applied": "【光志】\\n手帳をわざわざオレに\\n見せるくらいだ。",
+      "source_ja_reviewed": "【光志】\\n手帳をわざわざオレに\\n見せるくらいだ。",
+      "old_translation": "【코우지】\\n수첩을 일부러 나에게\\n보이는 정도다.",
+      "new_translation": "【코우지】\\n굳이 나에게 수첩을\\n보여 줄 정도니까.",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4849,
+      "source_index": "0x000ca127",
+      "source_ja_raw": "【光志】\\n父親の手帳だとわかった瞬付《しゅんかん》に\\nこの中に白川一利のことが\\n書いてあることくらい\\n想像はつくさ。",
+      "source_ja_applied": "【光志】\\n父親の手帳だとわかった瞬付《しゅんかん》に\\nこの中に白川一利のことが\\n書いてあることくらい\\n想像はつくさ。",
+      "source_ja_reviewed": "【光志】\\n父親の手帳だとわかった瞬付《しゅんかん》に\\nこの中に白川一利のことが\\n書いてあることくらい\\n想像はつくさ。",
+      "old_translation": "【코우지】\\n아버지의 수첩이라고 알았던 순간에\\n이 안에 시라카와 이치로의 일이\\n쓰고 있는 것 정도\\n총휘는 붙어.",
+      "new_translation": "【코우지】\\n아버지의 수첩이라는 걸 안 순간\\n여기에 시라카와 이치리의 이야기가\\n적혀 있을 것쯤은\\n짐작했지.",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4850,
+      "source_index": "0x000ca19d",
+      "source_ja_raw": "【光志】\\nだからオレと被害者《ひがいしゃ》に\\nつながりがあるって言いたいんだろう？",
+      "source_ja_applied": "【光志】\\nだからオレと被害者《ひがいしゃ》に\\nつながりがあるって言いたいんだろう？",
+      "source_ja_reviewed": "【光志】\\nだからオレと被害者《ひがいしゃ》に\\nつながりがあるって言いたいんだろう？",
+      "old_translation": "【코우지】\\n그래서 나와 피해자에게\\n연결이 있다고 말하고 싶을까?",
+      "new_translation": "【코우지】\\n그러니까 나와 피해자 사이에\\n연결 고리가 있다고 말하고 싶은\\n거지?",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4851,
+      "source_index": "0x000ca1f8",
+      "source_ja_raw": "【光志】\\n残念だがな、オレはこの手帳の中身は\\n見たこともなかったんだ。\\nつながりなんてない。",
+      "source_ja_applied": "【光志】\\n残念だがな、オレはこの手帳の中身は\\n見たこともなかったんだ。\\nつながりなんてない。",
+      "source_ja_reviewed": "【光志】\\n残念だがな、オレはこの手帳の中身は\\n見たこともなかったんだ。\\nつながりなんてない。",
+      "old_translation": "【코우지】\\n승기이지만, 나는 이 수첩의 내용은\\n 본 적도 없었다. \\n연결이 없다.",
+      "new_translation": "【코우지】\\n유감이지만 난 이 수첩의 내용은\\n본 적도 없어.\\n우리 사이에 연결 고리는 없다고.",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4852,
+      "source_index": "0x000ca282",
+      "source_ja_raw": "【退職】\\nフッ。\\nまあ、いい。",
+      "source_ja_applied": "【三浦】\\nフッ。\\nまあ、いい。",
+      "source_ja_reviewed": "【三浦】\\nフッ。\\nまあ、いい。",
+      "old_translation": "【미우라】\\n훗. \\n 글쎄, 좋아.",
+      "new_translation": "【미우라】\\n훗.\\n뭐, 좋아.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4853,
+      "source_index": "0x000ca2e6",
+      "source_ja_raw": "【退職】\\nこの手帳を見る限り、\\nお前の父親は被害者《ひがいしゃ》のことをしつこく\\n嗅《か》ぎまわっていたようだな。",
+      "source_ja_applied": "【三浦】\\nこの手帳を見る限り、\\nお前の父親は被害者《ひがいしゃ》のことをしつこく\\n嗅《か》ぎまわっていたようだな。",
+      "source_ja_reviewed": "【三浦】\\nこの手帳を見る限り、\\nお前の父親は被害者《ひがいしゃ》のことをしつこく\\n嗅《か》ぎまわっていたようだな。",
+      "old_translation": "【미우라】\\n이 수첩을 보는 한,\\n네 아버지는 피해자를 집요하게\\n뒤쫓았던 모양이군.",
+      "new_translation": "【미우라】\\n이 수첩을 보면\\n네 아버지는 피해자를 집요하게\\n조사하고 다닌 모양이군.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4854,
+      "source_index": "0x000ca35a",
+      "source_ja_raw": "【光志】\\nだからなんだよ。",
+      "source_ja_applied": "【光志】\\nだからなんだよ。",
+      "source_ja_reviewed": "【光志】\\nだからなんだよ。",
+      "old_translation": "【코우지】\\n이니까 뭐야.",
+      "new_translation": "【코우지】\\n그래서 뭐.",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4855,
+      "source_index": "0x000ca394",
+      "source_ja_raw": "【光志】\\n父親が死んだのは\\nオレが５久《さい》になった頃《ころ》だ。\\nつまり、この手帳が書かれたのは\\n今から２０年以上前になる。",
+      "source_ja_applied": "【光志】\\n父親が死んだのは\\nオレが５久《さい》になった頃《ころ》だ。\\nつまり、この手帳が書かれたのは\\n今から２０年以上前になる。",
+      "source_ja_reviewed": "【光志】\\n父親が死んだのは\\nオレが５久《さい》になった頃《ころ》だ。\\nつまり、この手帳が書かれたのは\\n今から２０年以上前になる。",
+      "old_translation": "【코우지】\\n아버지가 칫솔질한 것은\\n내가 5개가 되었을 무렵이다.\\n즉,이 수첩이 작성된 것은\\n지금부터 20년 이상 전이 된다.",
+      "new_translation": "【코우지】\\n아버지가 죽은 건\\n내가 다섯 살쯤 됐을 때야.\\n즉 이 수첩이 쓰인 건\\n지금으로부터 20년도 더 전이지.",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4856,
+      "source_index": "0x000ca415",
+      "source_ja_raw": "【光志】\\n今さらこんなの見せられても、\\nオレにはまったく関係のない話だ。",
+      "source_ja_applied": "【光志】\\n今さらこんなの見せられても、\\nオレにはまったく関係のない話だ。",
+      "source_ja_reviewed": "【光志】\\n今さらこんなの見せられても、\\nオレにはまったく関係のない話だ。",
+      "old_translation": "【코우지】\\n지금 이런 것처럼 보여도,\\n나에게는 전혀 관계가 없는\\n이야기다.",
+      "new_translation": "【코우지】\\n이제 와서 이런 걸 보여 줘도\\n나와는 전혀 관계없는 이야기야.",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4857,
+      "source_index": "0x000ca479",
+      "source_ja_raw": "【退職】\\nここを読んでみろ。",
+      "source_ja_applied": "【三浦】\\nここを読んでみろ。",
+      "source_ja_reviewed": "【三浦】\\nここを読んでみろ。",
+      "old_translation": "【미우라】\\n여기를 마셔 보라.",
+      "new_translation": "【미우라】\\n여기를 읽어 봐라.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4858,
+      "source_index": "0x000ca4bc",
+      "source_ja_raw": "【光志】\\n…………？",
+      "source_ja_applied": "【光志】\\n…………？",
+      "source_ja_reviewed": "【光志】\\n…………？",
+      "old_translation": "【코우지】\\n…………?",
+      "new_translation": "【코우지】\\n…………?",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4859,
+      "source_index": "0x000ca539",
+      "source_ja_raw": "【光志】\\n……なっ！？",
+      "source_ja_applied": "【光志】\\n……なっ！？",
+      "source_ja_reviewed": "【光志】\\n……なっ！？",
+      "old_translation": "【코우지】\\n… ?",
+      "new_translation": "【코우지】\\n……뭐라고!?",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4860,
+      "source_index": "0x000ca581",
+      "source_ja_raw": "【退職（志利）】\\n『オレは白川一利に狙《ねら》われている。",
+      "source_ja_applied": "【三浦（志利）】\\n『オレは白川一利に狙《ねら》われている。",
+      "source_ja_reviewed": "【三浦（志利）】\\n『オレは白川一利に狙《ねら》われている。",
+      "old_translation": "【미우라(시와)】\\n『나는 시라카와 이치로에 노리고\\n있다.",
+      "new_translation": "【미우라(시리)】\\n『나는 시라카와 이치리에게\\n노려지고 있다.",
+      "speaker": "미우라(시리)",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4861,
+      "source_index": "0x000ca5e3",
+      "source_ja_raw": "【退職（志利）】\\nもしオレになにかあったら……\\nそれがどれだけ自然に\\n見えるものであっても、\\n白川の手によるものだと思ってほしい』",
+      "source_ja_applied": "【三浦（志利）】\\nもしオレになにかあったら……\\nそれがどれだけ自然に\\n見えるものであっても、\\n白川の手によるものだと思ってほしい』",
+      "source_ja_reviewed": "【三浦（志利）】\\nもしオレになにかあったら……\\nそれがどれだけ自然に\\n見えるものであっても、\\n白川の手によるものだと思ってほしい』",
+      "old_translation": "【미우라(시와)】\\n만약 내가 뭔가 있으면 ......\\n그것이 얼마나 자연스럽게\\n보이는 것이라도,\\n시라카와의 손에 의한 것이라면\\n무거워\\n주었으면 한다」",
+      "new_translation": "【미우라(시리)】\\n만약 나에게 무슨 일이 생긴다면……\\n그게 아무리 자연스럽게\\n보이는 일이라 해도\\n시라카와가 한 일이라고 생각해 주길\\n바란다』",
+      "speaker": "미우라(시리)",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4862,
+      "source_index": "0x000ca685",
+      "source_ja_raw": "【退職】\\n……これが意味するところは\\nたった一つだ。",
+      "source_ja_applied": "【三浦】\\n……これが意味するところは\\nたった一つだ。",
+      "source_ja_reviewed": "【三浦】\\n……これが意味するところは\\nたった一つだ。",
+      "old_translation": "【미우라】\\n… … 이것이 의미하는 곳은 \\n 단 하나이다.",
+      "new_translation": "【미우라】\\n……이 말이 뜻하는 건\\n단 하나다.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4863,
+      "source_index": "0x000ca6d1",
+      "source_ja_raw": "【光志】\\n…………\\n父親は白川一利によって\\n殺された？",
+      "source_ja_applied": "【光志】\\n…………\\n父親は白川一利によって\\n殺された？",
+      "source_ja_reviewed": "【光志】\\n…………\\n父親は白川一利によって\\n殺された？",
+      "old_translation": "【코우지】\\n…………\\n아버지는 시라카와 이치로에게\\n살해당한 건가?",
+      "new_translation": "【코우지】\\n…………\\n아버지는 시라카와 이치리에게\\n살해당한 건가?",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4864,
+      "source_index": "0x000ca72e",
+      "source_ja_raw": "【光志】\\nバカなっ！\\n父親は交通事故で！！",
+      "source_ja_applied": "【光志】\\nバカなっ！\\n父親は交通事故で！！",
+      "source_ja_reviewed": "【光志】\\nバカなっ！\\n父親は交通事故で！！",
+      "old_translation": "【코우지】\\n 바보 같아! \\n아버지는 교통사고에서! !",
+      "new_translation": "【코우지】\\n말도 안 돼!\\n아버지는 교통사고로 죽었어!!",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4865,
+      "source_index": "0x000ca79f",
+      "source_ja_raw": "【退職】\\nそうらしいな。",
+      "source_ja_applied": "【三浦】\\nそうらしいな。",
+      "source_ja_reviewed": "【三浦】\\nそうらしいな。",
+      "old_translation": "【미우라】\\n그렇구나.",
+      "new_translation": "【미우라】\\n그렇다고 알려져 있지.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4866,
+      "source_index": "0x000ca7fe",
+      "source_ja_raw": "【退職】\\nだが、交通事故と言っても、\\nひき逃《に》げだったことを考えれば、\\nこの文飯どおりのことが行なわれた\\n可能性が高いということだ。",
+      "source_ja_applied": "【三浦】\\nだが、交通事故と言っても、\\nひき逃《に》げだったことを考えれば、\\nこの文飯どおりのことが行なわれた\\n可能性が高いということだ。",
+      "source_ja_reviewed": "【三浦】\nだが、交通事故と言っても、\nひき逃げだったことを考えれば、\nこの文面どおりのことが行われた\n可能性が高いということだ。",
+      "old_translation": "【미우라】\\n이지만, 교통사고이라고 해도,\\n히도 도망쳤다는 것을 생각하면,\\n이 문면 대로의 일이 행해진\\n 가능성이 높다고 하는 것이다.",
+      "new_translation": "【미우라】\\n하지만 교통사고라고 해도\\n사고를 내고 도망친 일이었다는 점을\\n생각하면,\\n이 문장대로 일이 벌어졌을\\n가능성이 높다는 뜻이다.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4867,
+      "source_index": "0x000ca881",
+      "source_ja_raw": "【光志】\\nちょっと待てよ……\\nなんだよ、それ！\\nそんな決然《ぐうぜん》……あってたまるかっ！",
+      "source_ja_applied": "【光志】\\nちょっと待てよ……\\nなんだよ、それ！\\nそんな決然《ぐうぜん》……あってたまるかっ！",
+      "source_ja_reviewed": "【光志】\\nちょっと待てよ……\\nなんだよ、それ！\\nそんな決然《ぐうぜん》……あってたまるかっ！",
+      "old_translation": "【코우지】\\n잠깐 기다려…\\n뭐야, 그것!\\n그런 우연……있어 참을까!",
+      "new_translation": "【코우지】\\n잠깐 기다려……\\n그게 무슨 소리야!\\n그런 우연이…… 있을 리 없어!",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4868,
+      "source_index": "0x000ca90c",
+      "source_ja_raw": "【退職】\\n……今のお前の會。\\n私はどう寅《とら》えればいい？",
+      "source_ja_applied": "【三浦】\\n……今のお前の姿。\\n私はどう捉《とら》えればいい？",
+      "source_ja_reviewed": "【三浦】\\n……今のお前の姿。\\n私はどう捉《とら》えればいい？",
+      "old_translation": "【미우라】\\n… \\n내가 어떻게 할 수 있을까?",
+      "new_translation": "【미우라】\\n……지금 네 모습.\\n나는 어떻게 받아들여야 하지?",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4869,
+      "source_index": "0x000ca96d",
+      "source_ja_raw": "【退職】\\nお前がウソをついているようには\\n見えない……",
+      "source_ja_applied": "【三浦】\\nお前がウソをついているようには\\n見えない……",
+      "source_ja_reviewed": "【三浦】\\nお前がウソをついているようには\\n見えない……",
+      "old_translation": "【미우라】\\n너가 거짓말을 하고 있는 것처럼\\n보이지 않는다…",
+      "new_translation": "【미우라】\\n네가 거짓말을 하는 것처럼\\n보이지는 않는다……",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4870,
+      "source_index": "0x000ca9c5",
+      "source_ja_raw": "【退職】\\nだが、被疑者《ひぎしゃ》であるお前が\\n被害者《ひがいしゃ》とのつながりを閣《かく》そうとするのも\\n当然のこと。",
+      "source_ja_applied": "【三浦】\\nだが、被疑者《ひぎしゃ》であるお前が\\n被害者《ひがいしゃ》とのつながりを閣《かく》そうとするのも\\n当然のこと。",
+      "source_ja_reviewed": "【三浦】\\nだが、被疑者《ひぎしゃ》であるお前が\\n被害者《ひがいしゃ》とのつながりを閣《かく》そうとするのも\\n当然のこと。",
+      "old_translation": "【미우라】\\n하지만, 피의자인 너가\\n피해자와의 연결을 깨려고 하는 것도\\n당연한 일.",
+      "new_translation": "【미우라】\\n하지만 피의자인 네가\\n피해자와의 연결을 숨기려는 것도\\n당연한 일이지.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4871,
+      "source_index": "0x000caa46",
+      "source_ja_raw": "【光志】\\nオレがウソをついてるってのかよっ！",
+      "source_ja_applied": "【光志】\\nオレがウソをついてるってのかよっ！",
+      "source_ja_reviewed": "【光志】\\nオレがウソをついてるってのかよっ！",
+      "old_translation": "【코우지】\\n내가 거짓말을 하고 있다는 거야!",
+      "new_translation": "【코우지】\\n내가 거짓말을 한다는 거야!?",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4872,
+      "source_index": "0x000caaaf",
+      "source_ja_raw": "【退職】\\nお前が正直に話しているという\\n客観的な証拠《しょうこ》がない以上、\\nそう考えざるを得ないな。",
+      "source_ja_applied": "【三浦】\\nお前が正直に話しているという\\n客観的な証拠《しょうこ》がない以上、\\nそう考えざるを得ないな。",
+      "source_ja_reviewed": "【三浦】\\nお前が正直に話しているという\\n客観的な証拠《しょうこ》がない以上、\\nそう考えざるを得ないな。",
+      "old_translation": "【미우라】\\n너가 험직하게 말하고 있다는\\n객관적인 증거가 없는 이상,\\n그렇게 생각하지 않을 수 없구나.",
+      "new_translation": "【미우라】\\n네가 솔직하게 말하고 있다는\\n객관적인 증거가 없는 이상,\\n그렇게 생각할 수밖에 없군.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4873,
+      "source_index": "0x000cab1e",
+      "source_ja_raw": "【光志】\\nク……ッ！",
+      "source_ja_applied": "【光志】\\nク……ッ！",
+      "source_ja_reviewed": "【光志】\\nク……ッ！",
+      "old_translation": "【코우지】\\n큭……!",
+      "new_translation": "【코우지】\\n큭……!",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4874,
+      "source_index": "0x000cab57",
+      "source_ja_raw": "【光志】\\n（どうなってるんだ！？\\nこんな……こんなこと……！）",
+      "source_ja_applied": "【光志】\\n（どうなってるんだ！？\\nこんな……こんなこと……！）",
+      "source_ja_reviewed": "【光志】\\n（どうなってるんだ！？\\nこんな……こんなこと……！）",
+      "old_translation": "【코우지】\\n(어떻게 되어 있는 거야!?\\n이런......이런\\n일......!)",
+      "new_translation": "【코우지】\\n(대체 어떻게 된 거야!?\\n이런…… 이런 일이……!)",
+      "speaker": "코우지",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4875,
+      "source_index": "0x000cabd1",
+      "source_ja_raw": "【退職】\\n……まあ、いい。\\nそろそろ怖問《じんもん》を始めよう。",
+      "source_ja_applied": "【三浦】\\n……まあ、いい。\\nそろそろ怖問《じんもん》を始めよう。",
+      "source_ja_reviewed": "【三浦】\\n……まあ、いい。\\nそろそろ怖問《じんもん》を始めよう。",
+      "old_translation": "【미우라】\\n… … 음, 좋아. \\n슬슬 심문을 끝내자.",
+      "new_translation": "【미우라】\\n……뭐, 좋아.\\n슬슬 심문을 시작하자.",
+      "speaker": "미우라",
+      "scene": "미우라의 VIP룸 입실자 추궁과 아버지 수첩 공개",
+      "relationship_context": "미우라는 VIP룸에 들어간 네 사람을 나열한 뒤 목격된 젊은 남자를 코우지와 연결한다. 이어 코우지 아버지 사이토 시리의 수첩과 시라카와 이치리의 관계를 물증으로 제시한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4876,
+      "source_index": "0x000caf3b",
+      "source_ja_raw": "［３０パーセント以上］",
+      "source_ja_applied": "［３０パーセント以上］",
+      "source_ja_reviewed": "［３０パーセント以上］",
+      "old_translation": "[30퍼센트 이상]",
+      "new_translation": "[30퍼센트 이상]",
+      "speaker": "장면 대사",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4877,
+      "source_index": "0x000caf52",
+      "source_ja_raw": "［１０パーセント前後］",
+      "source_ja_applied": "［１０パーセント前後］",
+      "source_ja_reviewed": "［１０パーセント前後］",
+      "old_translation": "[10퍼센트 전후]",
+      "new_translation": "[10퍼센트 전후]",
+      "speaker": "장면 대사",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4878,
+      "source_index": "0x000caf69",
+      "source_ja_raw": "［３パーセント以下］",
+      "source_ja_applied": "［３パーセント以下］",
+      "source_ja_reviewed": "［３パーセント以下］",
+      "old_translation": "[3퍼센트 이하]",
+      "new_translation": "[3퍼센트 이하]",
+      "speaker": "장면 대사",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4879,
+      "source_index": "0x000caf7e",
+      "source_ja_raw": "［オレはやってないと主張］",
+      "source_ja_applied": "［オレはやってないと主張］",
+      "source_ja_reviewed": "［オレはやってないと主張］",
+      "old_translation": "[나는 하지 않으면 수첩]",
+      "new_translation": "[나는 하지 않았다고 주장]",
+      "speaker": "장면 대사",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4880,
+      "source_index": "0x000caf94",
+      "source_ja_raw": "［オレがやりましたと自白］",
+      "source_ja_applied": "［オレがやりましたと自白］",
+      "source_ja_reviewed": "［オレがやりましたと自白］",
+      "old_translation": "[내가 해냈다고 자백]",
+      "new_translation": "[내가 했다고 자백]",
+      "speaker": "장면 대사",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4881,
+      "source_index": "0x000cb00c",
+      "source_ja_raw": "【退職】\\nどうだ、斉藤。\\nそろそろ自白したらどうだ？",
+      "source_ja_applied": "【三浦】\\nどうだ、斉藤。\\nそろそろ自白したらどうだ？",
+      "source_ja_reviewed": "【三浦】\\nどうだ、斉藤。\\nそろそろ自白したらどうだ？",
+      "old_translation": "【미우라】\\n어떻게, 사이토. \\n슬슬 자백하면 어때?",
+      "new_translation": "【미우라】\\n어떤가, 사이토.\\n슬슬 자백하는 게 어때?",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4882,
+      "source_index": "0x000cb059",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4883,
+      "source_index": "0x000cb0b8",
+      "source_ja_raw": "【退職】\\nお前は緩がいい。\\n下手にしゃべって口を術《すべ》らす前に\\nだんまりを倚《き》め沽《こ》めば逃《に》げ切《き》れると\\n思っているんだろう。",
+      "source_ja_applied": "【三浦】\\nお前は緩がいい。\\n下手にしゃべって口を滑《すべ》らす前に\\nだんまりを倚《き》め込《こ》めば逃《に》げ切《き》れると\\n思っているんだろう。",
+      "source_ja_reviewed": "【三浦】\\nお前は緩がいい。\\n下手にしゃべって口を滑《すべ》らす前に\\nだんまりを倚《き》め込《こ》めば逃《に》げ切《き》れると\\n思っているんだろう。",
+      "old_translation": "【미우라】\\n너는 기분이 좋다. \\n잘못 말하고 입을 술하기 전에\\n단리를 흠뻑 자르면 도망치면\\n무거워 있을 것이다.",
+      "new_translation": "【미우라】\\n너는 운이 좋다고 생각하겠지.\\n괜히 말하다가 실수하기 전에\\n입을 다물고 버티면\\n빠져나갈 수 있다고 말이야.",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4884,
+      "source_index": "0x000cb166",
+      "source_ja_raw": "【退職】\\nだが、その考えは甘《あま》いぞ。\\n現状の証拠《しょうこ》だけでも、\\nお前を刑《き》訴《そ》する十分な理由となる。",
+      "source_ja_applied": "【三浦】\\nだが、その考えは甘《あま》いぞ。\\n現状の証拠《しょうこ》だけでも、\\nお前を刑《き》訴《そ》する十分な理由となる。",
+      "source_ja_reviewed": "【三浦】\\nだが、その考えは甘《あま》いぞ。\\n現状の証拠《しょうこ》だけでも、\\nお前を刑《き》訴《そ》する十分な理由となる。",
+      "old_translation": "【미우라】\\n이지만, 그 생각은 희귀해. \\n현재의 증거만으로도,\\n너를 소소하는 충분한 이경이 된다.",
+      "new_translation": "【미우라】\\n하지만 그 생각은 너무 안일해.\\n현재 증거만으로도\\n너를 기소할 충분한 이유가 된다.",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4885,
+      "source_index": "0x000cb1e4",
+      "source_ja_raw": "【光志】\\n……オレには家族も身乗りもないから、\\n別に胸判をするのは構わないさ。",
+      "source_ja_applied": "【光志】\\n……オレには家族も身乗りもないから、\\n別に胸判をするのは構わないさ。",
+      "source_ja_reviewed": "【光志】\\n……オレには家族も身乗りもないから、\\n別に胸判をするのは構わないさ。",
+      "old_translation": "【코우지】\\n…… 나에게는 가문도 몸부림도 없기\\n때문에,\\n따로 재판을 하는 것은 막지\\n않는다.",
+      "new_translation": "【코우지】\\n……나에게는 가족도 의지할 사람도\\n없으니\\n재판을 받는 것 자체는 상관없어.",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4886,
+      "source_index": "0x000cb243",
+      "source_ja_raw": "【光志】\\nだがな、オレは無実なんだ。\\n胸判で寃罪《えんざい》だったとハッキリしたら\\n三《はじ》をかくのはアンタたちだ。",
+      "source_ja_applied": "【光志】\\nだがな、オレは無実なんだ。\\n胸判で寃罪《えんざい》だったとハッキリしたら\\n三《はじ》をかくのはアンタたちだ。",
+      "source_ja_reviewed": "【光志】\\nだがな、オレは無実なんだ。\\n胸判で寃罪《えんざい》だったとハッキリしたら\\n三《はじ》をかくのはアンタたちだ。",
+      "old_translation": "【코우지】\\n하지만, 나는 무고하다. \\n재판으로 분죄였다고 분명히 하면\\n수욕을 하는 것은 안타들이다.",
+      "new_translation": "【코우지】\\n하지만 난 무죄야.\\n재판에서 무죄라는 게 밝혀지면\\n망신을 당하는 건 너희들이라고.",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4887,
+      "source_index": "0x000cb2dc",
+      "source_ja_raw": "【退職】\\n……ようやく口を開いたか。",
+      "source_ja_applied": "【三浦】\\n……ようやく口を開いたか。",
+      "source_ja_reviewed": "【三浦】\\n……ようやく口を開いたか。",
+      "old_translation": "【미우라】\\n…",
+      "new_translation": "【미우라】\\n……드디어 입을 열었군.",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4888,
+      "source_index": "0x000cb345",
+      "source_ja_raw": "【退職】\\n胸判で無罪を勝ち蠧れるかも\\nしれないと思っているなら、\\nそんな期待は今のうちに\\n捨てておくことだな。",
+      "source_ja_applied": "【三浦】\\n胸判で無罪を勝ち取れるかも\\nしれないと思っているなら、\\nそんな期待は今のうちに\\n捨てておくことだな。",
+      "source_ja_reviewed": "【三浦】\\n胸判で無罪を勝ち取れるかも\\nしれないと思っているなら、\\nそんな期待は今のうちに\\n捨てておくことだな。",
+      "old_translation": "【미우라】\\n재판에서 무죄를 받아낼 수 있을지도\\n모른다고 생각한다면,\\n그런 기대는 지금 미리\\n버려 두는 게 좋겠군.",
+      "new_translation": "【미우라】\\n재판에서 무죄를 받아낼 수 있다고\\n생각한다면,\\n그런 기대는 지금 버려 두는 게\\n좋다.",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4889,
+      "source_index": "0x000cb3b5",
+      "source_ja_raw": "【光志】\\nなんだと……？\\nどういう意味だ？",
+      "source_ja_applied": "【光志】\\nなんだと……？\\nどういう意味だ？",
+      "source_ja_reviewed": "【光志】\\nなんだと……？\\nどういう意味だ？",
+      "old_translation": "【코우지】\\n뭐라고… \\n무슨 뜻이야?",
+      "new_translation": "【코우지】\\n뭐라고……?\\n무슨 뜻이야?",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4890,
+      "source_index": "0x000cb466",
+      "source_ja_raw": "【退職】\\nお前は現在の日本の曜法連度下で\\n刑《き》訴《そ》された被浦《ひこく》が無罪になる\\n確率を知っているか？",
+      "source_ja_applied": "【三浦】\\nお前は現在の日本の曜法連度下で\\n刑《き》訴《そ》された被浦《ひこく》が無罪になる\\n確率を知っているか？",
+      "source_ja_reviewed": "【三浦】\nお前は現在の日本の法制度下で\n起訴された被告が無罪になる\n確率を知っているか？",
+      "old_translation": "【미우라】\\n너는 현재의 일본의 사법 제도하에서\\n저소된 피고가 무죄가 되는\\n확률을 알고 있는가?",
+      "new_translation": "【미우라】\\n현재 일본의 사법 제도 아래에서\\n기소된 피고인이 무죄가 될\\n확률을 알고 있나?",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4891,
+      "source_index": "0x000cb4f2",
+      "source_ja_raw": "【光志】\\n３０パーセント以上はあるだろう。\\nあまり考えたくないが、\\nオレみたいな不当逮捕《ふとうたいほ》は\\n多いだろうからな。",
+      "source_ja_applied": "【光志】\\n３０パーセント以上はあるだろう。\\nあまり考えたくないが、\\nオレみたいな不当逮捕《ふとうたいほ》は\\n多いだろうからな。",
+      "source_ja_reviewed": "【光志】\\n３０パーセント以上はあるだろう。\\nあまり考えたくないが、\\nオレみたいな不当逮捕《ふとうたいほ》は\\n多いだろうからな。",
+      "old_translation": "【코우지】\\n30퍼센트 이상은 있을 것이다. \\n별로 생각하고 싶지 않지만,\\n나 같은 부당 체포는\\n많을 것이다.",
+      "new_translation": "【코우지】\\n30퍼센트 이상은 되겠지.\\n생각하고 싶진 않지만\\n나 같은 부당 체포도\\n많을 테니까.",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4892,
+      "source_index": "0x000cb592",
+      "source_ja_raw": "【退職】\\nフッ……言わせてくれる。\\nお前は現実というものが\\nまったくわかっていない。",
+      "source_ja_applied": "【三浦】\\nフッ……笑わせてくれる。\\nお前は現実というものが\\nまったくわかっていない。",
+      "source_ja_reviewed": "【三浦】\\nフッ……笑わせてくれる。\\nお前は現実というものが\\nまったくわかっていない。",
+      "old_translation": "【미우라】\\n훗……웃기는군.\\n너는 현실이라는 걸\\n조금도 모르고 있어.",
+      "new_translation": "【미우라】\\n훗…… 웃기는군.\\n너는 현실이라는 걸\\n전혀 모르고 있어.",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4893,
+      "source_index": "0x000cb606",
+      "source_ja_raw": "【光志】\\nオレみたいに不当逮捕《ふとうたいほ》された者が\\n１０パーセント前後と考えれば、\\nだいたいそのくらいじゃないのか？",
+      "source_ja_applied": "【光志】\\nオレみたいに不当逮捕《ふとうたいほ》された者が\\n１０パーセント前後と考えれば、\\nだいたいそのくらいじゃないのか？",
+      "source_ja_reviewed": "【光志】\\nオレみたいに不当逮捕《ふとうたいほ》された者が\\n１０パーセント前後と考えれば、\\nだいたいそのくらいじゃないのか？",
+      "old_translation": "【코우지】\\n나처럼 부당 체포된 자가\\n10퍼센트 전후라고 생각하면,\\n대략 그 정도가 아닌가?",
+      "new_translation": "【코우지】\\n나처럼 부당하게 체포된 사람이\\n10퍼센트 전후라고 생각하면\\n대략 그 정도 아닌가?",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4894,
+      "source_index": "0x000cb68a",
+      "source_ja_raw": "【退職】\\nつまり、不当逮捕《ふとうたいほ》された者は、\\n落元無罪判倚をとれるとでも？",
+      "source_ja_applied": "【三浦】\\nつまり、不当逮捕《ふとうたいほ》された者は、\\n落元無罪判倚をとれるとでも？",
+      "source_ja_reviewed": "【三浦】\\nつまり、不当逮捕《ふとうたいほ》された者は、\\n落元無罪判倚をとれるとでも？",
+      "old_translation": "【미우라】\\n즉, 부당 체포된 사람은,\\n전원 무죄 판칭을 취할 수 있어도?",
+      "new_translation": "【미우라】\\n즉, 부당하게 체포된 사람은\\n모두 무죄 판결을 받을 수 있다고?",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4895,
+      "source_index": "0x000cb715",
+      "source_ja_raw": "【退職】\\nフッ……甘《あま》すぎるな。\\nもっと現実を見たほうがいい。",
+      "source_ja_applied": "【三浦】\\nフッ……甘《あま》すぎるな。\\nもっと現実を見たほうがいい。",
+      "source_ja_reviewed": "【三浦】\\nフッ……甘《あま》すぎるな。\\nもっと現実を見たほうがいい。",
+      "old_translation": "【미우라】\\n훗… \\n더 현실을 보는 편이 좋다.",
+      "new_translation": "【미우라】\\n훗…… 너무 순진하군.\\n현실을 좀 더 보는 게 좋다.",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4896,
+      "source_index": "0x000cb771",
+      "source_ja_raw": "【光志】\\nそんなに数が多くないのは\\nオレだって知っている。",
+      "source_ja_applied": "【光志】\\nそんなに数が多くないのは\\nオレだって知っている。",
+      "source_ja_reviewed": "【光志】\\nそんなに数が多くないのは\\nオレだって知っている。",
+      "old_translation": "【코우지】\\n그렇게 수가 많지 않은 것은\\n나도 알고 있다.",
+      "new_translation": "【코우지】\\n그렇게 많은 수가 아니라는 건\\n나도 알고 있어.",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4897,
+      "source_index": "0x000cb7be",
+      "source_ja_raw": "【光志】\\n良くて３パーセントって\\nところだろう？",
+      "source_ja_applied": "【光志】\\n良くて３パーセントって\\nところだろう？",
+      "source_ja_reviewed": "【光志】\\n良くて３パーセントって\\nところだろう？",
+      "old_translation": "【코우지】\\n좋아서 3퍼센트는\\n곳일까?",
+      "new_translation": "【코우지】\\n많아야 3퍼센트\\n정도겠지?",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4898,
+      "source_index": "0x000cb82c",
+      "source_ja_raw": "【退職】\\nなかなかいいところを枚《つ》いている。\\nしかし、まだまだだ。",
+      "source_ja_applied": "【三浦】\\nなかなかいいところを枚《つ》いている。\\nしかし、まだまだだ。",
+      "source_ja_reviewed": "【三浦】\\nなかなかいいところを枚《つ》いている。\\nしかし、まだまだだ。",
+      "old_translation": "【미우라】\\n상당히 좋은 곳을 쌓고 있다. \\n 하지만 아직.",
+      "new_translation": "【미우라】\\n제법 근접했군.\\n하지만 아직 멀었어.",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4899,
+      "source_index": "0x000cb8a6",
+      "source_ja_raw": "【退職】\\n正婚は１パーセント来痛だ。\\nいや、もっと正確に言うのであれば\\nここ数年の数字では\\n０．１パーセント前後だ。",
+      "source_ja_applied": "【三浦】\\n正婚は１パーセント未満だ。\\nいや、もっと正確に言うのであれば\\nここ数年の数字では\\n０．１パーセント前後だ。",
+      "source_ja_reviewed": "【三浦】\\n正婚は１パーセント未満だ。\\nいや、もっと正確に言うのであれば\\nここ数年の数字では\\n０．１パーセント前後だ。",
+      "old_translation": "【미우라】\\n정답은 1퍼센트 후만이다. \\n아니, 좀 더 정확하게 말한다면\\n지난 몇년의 수처에서는\\n0.1퍼센트 전후다.",
+      "new_translation": "【미우라】\\n정답은 1퍼센트 미만이다.\\n아니, 더 정확히 말하면\\n최근 몇 년의 수치로는\\n0.1퍼센트 전후지.",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4900,
+      "source_index": "0x000cb922",
+      "source_ja_raw": "【光志】\\nな……っ！？",
+      "source_ja_applied": "【光志】\\nな……っ！？",
+      "source_ja_reviewed": "【光志】\\nな……っ！？",
+      "old_translation": "【코우지】\\n인… ?",
+      "new_translation": "【코우지】\\n뭐……!?",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4901,
+      "source_index": "0x000cb96a",
+      "source_ja_raw": "【退職】\\n警察の私が言うのも気が引けるが、\\n現実問題として\\n不当逮捕《ふとうたいほ》はあるかもしれない。",
+      "source_ja_applied": "【三浦】\\n警察の私が言うのも気が引けるが、\\n現実問題として\\n不当逮捕《ふとうたいほ》はあるかもしれない。",
+      "source_ja_reviewed": "【三浦】\\n警察の私が言うのも気が引けるが、\\n現実問題として\\n不当逮捕《ふとうたいほ》はあるかもしれない。",
+      "old_translation": "【미우라】\\n경찰의 내가 말하는 것도 느낄 수\\n있지만,\\n현실 문제로서\\n부당 체포는 있을지도 모른다.",
+      "new_translation": "【미우라】\\n경찰인 내가 말하기도 어렵지만\\n현실적으로 부당 체포는\\n있을지도 모른다.",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4902,
+      "source_index": "0x000cba01",
+      "source_ja_raw": "【退職】\\nだが、現在の曜法連度はこういうものだ。\\n刑《き》訴《そ》された被浦《ひこく》はほぼ有罪になる。\\n刑訴前《きそまえ》に撃要な捜査《そうさ》は\\n完了《かんりょう》しているのだからな。",
+      "source_ja_applied": "【三浦】\\nだが、現在の曜法連度はこういうものだ。\\n刑《き》訴《そ》された被浦《ひこく》はほぼ有罪になる。\\n刑訴前《きそまえ》に撃要な捜査《そうさ》は\\n完了《かんりょう》しているのだからな。",
+      "source_ja_reviewed": "【三浦】\nだが、現在の法制度はこういうものだ。\n起訴された被告はほぼ有罪になる。\n起訴前に必要な捜査は\n完了しているのだからな。",
+      "old_translation": "【미우라】\\n이지만, 현재의 사법 제도는 이런\\n것이다. \\n소소된 피고는 거의 유죄가 된다. \\n조소전에 필요한 수사는 \\n감소하고 있으니까.",
+      "new_translation": "【미우라】\\n하지만 현재 사법 제도는 이런\\n식이야.\\n기소된 피고인은 거의 유죄가 된다.\\n기소 전에 필요한 수사는\\n이미 끝나 있기 때문이지.",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4903,
+      "source_index": "0x000cbaaa",
+      "source_ja_raw": "【光志】\\n胸判になったらおしまい、\\nって言いたいわけか……？",
+      "source_ja_applied": "【光志】\\n胸判になったらおしまい、\\nって言いたいわけか……？",
+      "source_ja_reviewed": "【光志】\\n胸判になったらおしまい、\\nって言いたいわけか……？",
+      "old_translation": "【코우지】\\n재판이 되면 끝,\\n라고 말하고 싶은 건가…",
+      "new_translation": "【코우지】\\n재판에 넘어가면 끝이라는\\n말을 하고 싶은 건가……?",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4904,
+      "source_index": "0x000cbb21",
+      "source_ja_raw": "【退職】\\nだからこそ、\\n私はお前に自白を煤《すす》めているんだ。",
+      "source_ja_applied": "【三浦】\\nだからこそ、\\n私はお前に自白を煤《すす》めているんだ。",
+      "source_ja_reviewed": "【三浦】\\nだからこそ、\\n私はお前に自白を煤《すす》めているんだ。",
+      "old_translation": "【미우라】\\n이기 때문에,\\n나는 너에게 자백을 끓이고 있다.",
+      "new_translation": "【미우라】\\n그래서 내가 너에게\\n자백을 권하는 거다.",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4905,
+      "source_index": "0x000cbb75",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4906,
+      "source_index": "0x000cbbae",
+      "source_ja_raw": "【光志】\\n（ダメだ……\\nここで自白なんてしたら、\\n有罪が確定する……）",
+      "source_ja_applied": "【光志】\\n（ダメだ……\\nここで自白なんてしたら、\\n有罪が確定する……）",
+      "source_ja_reviewed": "【光志】\\n（ダメだ……\\nここで自白なんてしたら、\\n有罪が確定する……）",
+      "old_translation": "【코우지】\\n(안돼…\\n여기서 자백이라면,\\n유죄가 확정된다…",
+      "new_translation": "【코우지】\\n(안 돼……\\n여기서 자백하면\\n유죄가 확정돼……)",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4907,
+      "source_index": "0x000cbc0b",
+      "source_ja_raw": "【光志】\\n（だけどいくら寃罪《えんざい》を主張しても、\\n有罪確率は９９パーセント以上……）",
+      "source_ja_applied": "【光志】\\n（だけどいくら寃罪《えんざい》を主張しても、\\n有罪確率は９９パーセント以上……）",
+      "source_ja_reviewed": "【光志】\\n（だけどいくら寃罪《えんざい》を主張しても、\\n有罪確率は９９パーセント以上……）",
+      "old_translation": "【코우지】\\n(하지만 아무리 분죄를 수첩해도,\\n유죄 확률은 99퍼센트 이상…",
+      "new_translation": "【코우지】\\n(하지만 아무리 무죄를 주장해도\\n유죄가 될 확률은 99퍼센트\\n이상……)",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4908,
+      "source_index": "0x000cbcaa",
+      "source_ja_raw": "【光志】\\n（……クソッ！\\nどうすればいいんだっ！？）",
+      "source_ja_applied": "【光志】\\n（……クソッ！\\nどうすればいいんだっ！？）",
+      "source_ja_reviewed": "【光志】\\n（……クソッ！\\nどうすればいいんだっ！？）",
+      "old_translation": "【코우지】\\n(……쿵!\\n어떻게 하면 돼! ? )",
+      "new_translation": "【코우지】\\n(……젠장!\\n어떻게 해야 하지!?)",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4909,
+      "source_index": "0x000cbd2d",
+      "source_ja_raw": "【光志】\\n……オレがやりました。",
+      "source_ja_applied": "【光志】\\n……オレがやりました。",
+      "source_ja_reviewed": "【光志】\\n……オレがやりました。",
+      "old_translation": "【코우지】\\n… … 내가 했습니다.",
+      "new_translation": "【코우지】\\n……내가 했습니다.",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4910,
+      "source_index": "0x000cbd92",
+      "source_ja_raw": "【退職】\\nほう……\\n自白するんだな、斉藤？",
+      "source_ja_applied": "【三浦】\\nほう……\\n自白するんだな、斉藤？",
+      "source_ja_reviewed": "【三浦】\\nほう……\\n自白するんだな、斉藤？",
+      "old_translation": "【미우라】\\n편……\\n자백하는구나, 사이토?",
+      "new_translation": "【미우라】\\n호오……\\n자백하겠다는 건가, 사이토?",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4911,
+      "source_index": "0x000cbddb",
+      "source_ja_raw": "【光志】\\n……はい。",
+      "source_ja_applied": "【光志】\\n……はい。",
+      "source_ja_reviewed": "【光志】\\n……はい。",
+      "old_translation": "【코우지】\\n……응.",
+      "new_translation": "【코우지】\\n……네.",
+      "speaker": "코우지",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4912,
+      "source_index": "0x000cbe3a",
+      "source_ja_raw": "【退職】\\nわかった。\\nなら義いようにはしない。\\n吉本順！",
+      "source_ja_applied": "【三浦】\\nわかった。\\nなら義いようにはしない。\\n吉本順！",
+      "source_ja_reviewed": "【三浦】\\nわかった。\\nなら義いようにはしない。\\n吉本順！",
+      "old_translation": "【미우라】\\n알았다. \\n이라면 아까워하지 않는다. \\n요시모토 강!",
+      "new_translation": "【미우라】\\n알겠다.\\n그럼 더 캐묻지는 않겠다.\\n요시모토 형사!",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4913,
+      "source_index": "0x000cbeaf",
+      "source_ja_raw": "【吉本】\\nはい。\\nすぐに調書を用意します。",
+      "source_ja_applied": "【吉本】\\nはい。\\nすぐに調書を用意します。",
+      "source_ja_reviewed": "【吉本】\\nはい。\\nすぐに調書を用意します。",
+      "old_translation": "【요시모토】\\n네. \\n 즉시 조서를 준비합니다.",
+      "new_translation": "【요시모토】\\n네.\\n곧 조서를 준비하겠습니다.",
+      "speaker": "요시모토",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4914,
+      "source_index": "0x000cbf1c",
+      "source_ja_raw": "【退職】\\n頼《たの》んだぞ。",
+      "source_ja_applied": "【三浦】\\n頼《たの》んだぞ。",
+      "source_ja_reviewed": "【三浦】\\n頼《たの》んだぞ。",
+      "old_translation": "【미우라】\\n부탁해.",
+      "new_translation": "【미우라】\\n부탁한다.",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4915,
+      "source_index": "0x000cbf66",
+      "source_ja_raw": "【退職】\\nすぐに吉本順が、\\nお前が自白した旨《むね》の調書を用意する。\\nそこにお前がサインをすることで、\\n自白が成立する。",
+      "source_ja_applied": "【三浦】\\nすぐに吉本順が、\\nお前が自白した旨《むね》の調書を用意する。\\nそこにお前がサインをすることで、\\n自白が成立する。",
+      "source_ja_reviewed": "【三浦】\\nすぐに吉本順が、\\nお前が自白した旨《むね》の調書を用意する。\\nそこにお前がサインをすることで、\\n自白が成立する。",
+      "old_translation": "【미우라】\\n곧 요시모토 강이,\\n너가 자백한 동의 조서를 준비한다.\\n거기에 네가 사인을 하는 것으로,\\n자백이 성태한다.",
+      "new_translation": "【미우라】\\n곧 요시모토 형사가\\n네가 자백했다는 조서를 준비할\\n거다.\\n거기에 네가 서명하면\\n자백이 성립하지.",
+      "speaker": "미우라",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4916,
+      "source_index": "0x000cc038",
+      "source_ja_raw": "　\\n　\\n（しばらくして渡《わた》された調書に\\nサインした恋付は、\\n長かったのか加かったのか……）",
+      "source_ja_applied": "　\\n　\\n（しばらくして渡《わた》された調書に\\nサインした恋付は、\\n長かったのか加かったのか……）",
+      "source_ja_reviewed": "　\\n　\\n（しばらくして渡《わた》された調書に\\nサインした恋付は、\\n長かったのか加かったのか……）",
+      "old_translation": "　\\n　\\n(얼마 후 건네받은 조서에\\n서명한 시간은,\\n길었는지 짧았는지……)",
+      "new_translation": "\\n\\n(잠시 뒤 건네받은 조서에\\n서명한 시간은\\n길었는지 짧았는지……)",
+      "speaker": "장면 대사",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4917,
+      "source_index": "0x000cc09e",
+      "source_ja_raw": "　\\n　\\n（なにを言われたのかも、\\nもう思い出せない。\\nオレは束《つか》れ切ってた）",
+      "source_ja_applied": "　\\n　\\n（なにを言われたのかも、\\nもう思い出せない。\\nオレは疲《つか》れ切ってた）",
+      "source_ja_reviewed": "　\\n　\\n（なにを言われたのかも、\\nもう思い出せない。\\nオレは疲《つか》れ切ってた）",
+      "old_translation": "\\n　\\n(무슨 말을 했는지도,\\n더 이상 무거울 수 없다.\\n나는 묶여 있었다)",
+      "new_translation": "\\n\\n(무슨 말을 들었는지도\\n이제는 기억나지 않는다.\\n나는 완전히 지쳐 있었다)",
+      "speaker": "장면 대사",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4918,
+      "source_index": "0x000cc0fa",
+      "source_ja_raw": "　\\n　\\n（戦いは終わったんだ……）",
+      "source_ja_applied": "　\\n　\\n（戦いは終わったんだ……）",
+      "source_ja_reviewed": "　\\n　\\n（戦いは終わったんだ……）",
+      "old_translation": "\\n　\\n(싸움은 끝났어……)",
+      "new_translation": "\\n\\n(싸움은 끝난 거야……)",
+      "speaker": "장면 대사",
+      "scene": "자백 확률을 이용한 미우라의 심문",
+      "relationship_context": "미우라는 일본의 유죄율을 근거로 자백을 유도한다. 코우지는 한 번 자백하는 선택과 무죄를 고수하는 선택 사이에서 흔들린다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4919,
+      "source_index": "0x000cc145",
+      "source_ja_raw": "【光志】\\n……オレはやってない。",
+      "source_ja_applied": "【光志】\\n……オレはやってない。",
+      "source_ja_reviewed": "【光志】\\n……オレはやってない。",
+      "old_translation": "【코우지】\\n… … 나는 하지 않았다.",
+      "new_translation": "【코우지】\\n……난 하지 않았어.",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4920,
+      "source_index": "0x000cc1aa",
+      "source_ja_raw": "【退職】\\n…………\\nまだ抵貢《ていこう》するつもりか。",
+      "source_ja_applied": "【三浦】\\n…………\\nまだ抵貢《ていこう》するつもりか。",
+      "source_ja_reviewed": "【三浦】\\n…………\\nまだ抵貢《ていこう》するつもりか。",
+      "old_translation": "【미우라】\\n…………\\n아직도 경항할 생각인가.",
+      "new_translation": "【미우라】\\n…………\\n아직도 저항할 셈인가.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4921,
+      "source_index": "0x000cc1f9",
+      "source_ja_raw": "【光志】\\n確率なんて問題じゃない。\\n大事なのは真実だ。",
+      "source_ja_applied": "【光志】\\n確率なんて問題じゃない。\\n大事なのは真実だ。",
+      "source_ja_reviewed": "【光志】\\n確率なんて問題じゃない。\\n大事なのは真実だ。",
+      "old_translation": "【코우지】\\n확률은 문제가 아니다. \\n소중한 것은 진실이다.",
+      "new_translation": "【코우지】\\n확률 따위는 문제가 아니야.\\n중요한 건 진실이지.",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4922,
+      "source_index": "0x000cc24a",
+      "source_ja_raw": "【光志】\\nオレは無実だ！",
+      "source_ja_applied": "【光志】\\nオレは無実だ！",
+      "source_ja_reviewed": "【光志】\\nオレは無実だ！",
+      "old_translation": "【코우지】\\n나는 무고하다!",
+      "new_translation": "【코우지】\\n난 무죄야!",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4923,
+      "source_index": "0x000cc2ab",
+      "source_ja_raw": "【退職】\\n……いいだろう。",
+      "source_ja_applied": "【三浦】\\n……いいだろう。",
+      "source_ja_reviewed": "【三浦】\\n……いいだろう。",
+      "old_translation": "【미우라】\\n……좋다.",
+      "new_translation": "【미우라】\\n……좋아.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4924,
+      "source_index": "0x000cc317",
+      "source_ja_raw": "【退職】\\nでは、怖問《じんもん》で道《お》い都《つ》めてやるっ！",
+      "source_ja_applied": "【三浦】\\nでは、怖問《じんもん》で道《お》い詰《つ》めてやるっ！",
+      "source_ja_reviewed": "【三浦】\\nでは、怖問《じんもん》で道《お》い詰《つ》めてやるっ！",
+      "old_translation": "【미우라】\\n에서는, 심문으로 쫓아 버린다!",
+      "new_translation": "【미우라】\\n그럼 심문으로 몰아붙여 주마!",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4925,
+      "source_index": "0x000cc781",
+      "source_ja_raw": "【退職】\\nさて、蠧調べを始めようか。",
+      "source_ja_applied": "【三浦】\\nさて、取調べを始めようか。",
+      "source_ja_reviewed": "【三浦】\\nさて、取調べを始めようか。",
+      "old_translation": "【미우라】\\n그럼, 취조를 끝낼까.",
+      "new_translation": "【미우라】\\n자, 취조를 시작하지.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4926,
+      "source_index": "0x000cc7c4",
+      "source_ja_raw": "【光志】\\nその前に……頼《たの》みがある。",
+      "source_ja_applied": "【光志】\\nその前に……頼《たの》みがある。",
+      "source_ja_reviewed": "【光志】\\nその前に……頼《たの》みがある。",
+      "old_translation": "【코우지】\\n그전에… … 부탁이 있다.",
+      "new_translation": "【코우지】\\n그전에…… 부탁이 있어.",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4927,
+      "source_index": "0x000cc818",
+      "source_ja_raw": "【退職】\\nなんだ？",
+      "source_ja_applied": "【三浦】\\nなんだ？",
+      "source_ja_reviewed": "【三浦】\\nなんだ？",
+      "old_translation": "【미우라】\\n뭐지?",
+      "new_translation": "【미우라】\\n뭐지?",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4928,
+      "source_index": "0x000cc84e",
+      "source_ja_raw": "【光志】\\n父親の手帳……\\nあれをもう一度見せてほしい。\\n係揺《どうよう》して、中身を覚えてないんだ。",
+      "source_ja_applied": "【光志】\\n父親の手帳……\\nあれをもう一度見せてほしい。\\n係揺《どうよう》して、中身を覚えてないんだ。",
+      "source_ja_reviewed": "【光志】\n父親の手帳……\nあれをもう一度見せてほしい。\n動揺して、中身を覚えてないんだ。",
+      "old_translation": "【코우지】\\n아버지의 수첩…\\n저것을 다시 보여주길 바란다.\\n동양하고 내용을 기억하지 못한다.",
+      "new_translation": "【코우지】\\n아버지의 수첩……\\n그걸 한 번 더 보여 줘.\\n너무 동요해서 내용을 기억하지\\n못했어.",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4929,
+      "source_index": "0x000cc8e4",
+      "source_ja_raw": "【退職】\\n…………",
+      "source_ja_applied": "【三浦】\\n…………",
+      "source_ja_reviewed": "【三浦】\\n…………",
+      "old_translation": "【미우라】\\n…………",
+      "new_translation": "【미우라】\\n…………",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4930,
+      "source_index": "0x000cc943",
+      "source_ja_raw": "【退職】\\n……吉本順。",
+      "source_ja_applied": "【三浦】\\n……吉本順。",
+      "source_ja_reviewed": "【三浦】\\n……吉本順。",
+      "old_translation": "【미우라】\\n……요시모토강.",
+      "new_translation": "【미우라】\\n……요시모토 형사.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4931,
+      "source_index": "0x000cc9a6",
+      "source_ja_raw": "【吉本】\\nはい、少々お待ち下さい。",
+      "source_ja_applied": "【吉本】\\nはい、少々お待ち下さい。",
+      "source_ja_reviewed": "【吉本】\\nはい、少々お待ち下さい。",
+      "old_translation": "【요시모토】\\n 네, 조금 기다려 주세요.",
+      "new_translation": "【요시모토】\\n네, 잠시만 기다려 주세요.",
+      "speaker": "요시모토",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4932,
+      "source_index": "0x000cca4f",
+      "source_ja_raw": "【光志】\\n（……前から思ってたけど\\n『吉本順』の一言で意思珍通《いしそつう》する\\nこの２人は\\nいったいどんな関係なんだろう？）",
+      "source_ja_applied": "【光志】\\n（……前から思ってたけど\\n『吉本順』の一言で意思珍通《いしそつう》する\\nこの２人は\\nいったいどんな関係なんだろう？）",
+      "source_ja_reviewed": "【光志】\\n（……前から思ってたけど\\n『吉本順』の一言で意思珍通《いしそつう》する\\nこの２人は\\nいったいどんな関係なんだろう？）",
+      "old_translation": "【코우지】\\n(……전부터 무거웠지만\\n「요시모토 강」의 한마디로 의중\\n소통한다\\n이 두 사람은\\n도대체 어떤 관계일까? )",
+      "new_translation": "【코우지】\\n(……전부터 생각했지만\\n『요시모토 형사』라는 한마디만으로\\n의사소통이 되는 두 사람은\\n대체 어떤 관계일까?)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4933,
+      "source_index": "0x000ccad1",
+      "source_ja_raw": "【光志】\\n（……聞いてみたいけど\\n絶対に怒《おこ》られるだろうな）",
+      "source_ja_applied": "【光志】\\n（……聞いてみたいけど\\n絶対に怒《おこ》られるだろうな）",
+      "source_ja_reviewed": "【光志】\\n（……聞いてみたいけど\\n絶対に怒《おこ》られるだろうな）",
+      "old_translation": "【코우지】\\n(……두고 싶지만\\n절대로 도망칠 것이다)",
+      "new_translation": "【코우지】\\n(……물어보고 싶지만\\n분명 화를 내겠지.)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4934,
+      "source_index": "0x000ccb61",
+      "source_ja_raw": "【吉本】\\nお待たせしました。",
+      "source_ja_applied": "【吉本】\\nお待たせしました。",
+      "source_ja_reviewed": "【吉本】\\nお待たせしました。",
+      "old_translation": "【요시모토】\\n기다리게 해서 죄송합니다.",
+      "new_translation": "【요시모토】\\n기다리게 해서 죄송합니다.",
+      "speaker": "요시모토",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4935,
+      "source_index": "0x000ccbc3",
+      "source_ja_raw": "【退職】\\nありがとう。",
+      "source_ja_applied": "【三浦】\\nありがとう。",
+      "source_ja_reviewed": "【三浦】\\nありがとう。",
+      "old_translation": "【미우라】\\n감사합니다.",
+      "new_translation": "【미우라】\\n고맙네.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4936,
+      "source_index": "0x000ccc2c",
+      "source_ja_raw": "【退職】\\n１０分だけだ。",
+      "source_ja_applied": "【三浦】\\n１０分だけだ。",
+      "source_ja_reviewed": "【三浦】\\n１０分だけだ。",
+      "old_translation": "【미우라】\\n10분 뿐이다.",
+      "new_translation": "【미우라】\\n10분뿐이다.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4937,
+      "source_index": "0x000ccc68",
+      "source_ja_raw": "【光志】\\n……わかった。",
+      "source_ja_applied": "【光志】\\n……わかった。",
+      "source_ja_reviewed": "【光志】\\n……わかった。",
+      "old_translation": "【코우지】\\n......알았다.",
+      "new_translation": "【코우지】\\n……알겠어.",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4938,
+      "source_index": "0x000ccd05",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4939,
+      "source_index": "0x000ccd3e",
+      "source_ja_raw": "【光志】\\n（『接近』）",
+      "source_ja_applied": "【光志】\\n（『接近』）",
+      "source_ja_reviewed": "【光志】\\n（『接近』）",
+      "old_translation": "【코우지】\\n(『접근』)",
+      "new_translation": "【코우지】\\n(『접근』)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4940,
+      "source_index": "0x000ccd7b",
+      "source_ja_raw": "【光志】\\n（『１８恋』）",
+      "source_ja_applied": "【光志】\\n（『１８恋』）",
+      "source_ja_reviewed": "【光志】\\n（『１８恋』）",
+      "old_translation": "【코우지】\\n(『18시』)",
+      "new_translation": "【코우지】\\n(『18시』)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4941,
+      "source_index": "0x000ccdba",
+      "source_ja_raw": "【光志】\\n（『金訪↑』）",
+      "source_ja_applied": "【光志】\\n（『金訪↑』）",
+      "source_ja_reviewed": "【光志】\\n（『金訪↑』）",
+      "old_translation": "【코우지】\\n(『금리↑』)",
+      "new_translation": "【코우지】\\n(『금리↑』)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4942,
+      "source_index": "0x000ccdf9",
+      "source_ja_raw": "【光志】\\n（『インサイダー』）",
+      "source_ja_applied": "【光志】\\n（『インサイダー』）",
+      "source_ja_reviewed": "【光志】\\n（『インサイダー』）",
+      "old_translation": "【코우지】\\n(『인사이더』)",
+      "new_translation": "【코우지】\\n(『인사이더』)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4943,
+      "source_index": "0x000cce39",
+      "source_ja_raw": "【光志】\\n（『キャリア』）",
+      "source_ja_applied": "【光志】\\n（『キャリア』）",
+      "source_ja_reviewed": "【光志】\\n（『キャリア』）",
+      "old_translation": "【코우지】\\n(『커리어』)",
+      "new_translation": "【코우지】\\n(『커리어』)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4944,
+      "source_index": "0x000cce76",
+      "source_ja_raw": "【光志】\\nスゴいな……\\nここに書いてあることが真実で、\\nもし新付《せけん》に振表されてたら\\n当恋の日本はひっくり換ってるな……",
+      "source_ja_applied": "【光志】\\nスゴいな……\\nここに書いてあることが真実で、\\nもし新付《せけん》に振表されてたら\\n当恋の日本はひっくり返ってるな……",
+      "source_ja_reviewed": "【光志】\\nスゴいな……\\nここに書いてあることが真実で、\\nもし新付《せけん》に振表されてたら\\n当恋の日本はひっくり返ってるな……",
+      "old_translation": "【코우지】\\n굉장해…\\n여기에 쓰는 것이 사실이며,\\n세상에 묘사되면\\n당시의 일본은 뒤집히고 있지…",
+      "new_translation": "【코우지】\\n대단한데……\\n여기에 적힌 내용이 진실이고\\n세상에 발표되기라도 했다면\\n당시 일본은 뒤집혔겠어……",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4945,
+      "source_index": "0x000ccef4",
+      "source_ja_raw": "【退職】\\nこの手帳が使われていたのは\\n１９８９年前後。",
+      "source_ja_applied": "【三浦】\\nこの手帳が使われていたのは\\n１９８９年前後。",
+      "source_ja_reviewed": "【三浦】\\nこの手帳が使われていたのは\\n１９８９年前後。",
+      "old_translation": "【미우라】\\n이 수첩이 고용되고 있던 것은\\n1989년 전후.",
+      "new_translation": "【미우라】\\n이 수첩이 쓰인 건\\n1989년 전후다.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4946,
+      "source_index": "0x000ccf46",
+      "source_ja_raw": "【退職】\\nバブル營気の疚に濃り、\\n白川ハウジングが\\n一気に住宅業界の大手へと\\n名濃りをあげた恋期でもある。",
+      "source_ja_applied": "【三浦】\\nバブル營気の波に乗り、\\n白川ハウジングが\\n一気に住宅業界の大手へと\\n名乗りをあげた恋期でもある。",
+      "source_ja_reviewed": "【三浦】\nバブル景気の波に乗り、\n白川ハウジングが\n一気に住宅業界の大手へと\n名乗りをあげた時期でもある。",
+      "old_translation": "【미우라】\\n버블 붕괴 후,\\n시라카와 하우징이 단숨에 건설 업계의 대기업으로\\n이름을 떨치기 시작한 시기이기도 하지.",
+      "new_translation": "【미우라】\\n버블 경기의 물결을 타고\\n시라카와 하우징이\\n단숨에 주택 업계의 대기업으로\\n성장하던 시기이기도 하지.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4947,
+      "source_index": "0x000ccfbf",
+      "source_ja_raw": "【退職】\\nお前の父親は、\\n急成長する白川ハウジングを\\n徹底的《てっていてき》にマークしていたようだな。",
+      "source_ja_applied": "【三浦】\\nお前の父親は、\\n急成長する白川ハウジングを\\n徹底的《てっていてき》にマークしていたようだな。",
+      "source_ja_reviewed": "【三浦】\\nお前の父親は、\\n急成長する白川ハウジングを\\n徹底的《てっていてき》にマークしていたようだな。",
+      "old_translation": "【미우라】\\n너의 아버지는,\\n투성장하는 시라카와 하우징을\\n철저하게 마크하고 있던 것 같다.",
+      "new_translation": "【미우라】\\n네 아버지는\\n급성장하던 시라카와 하우징을\\n철저하게 추적하고 있었던 모양이군.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4948,
+      "source_index": "0x000cd02e",
+      "source_ja_raw": "【光志】\\n（だけどその結果、\\nあの意味深《いみしん》な一文を残して\\n交通事故で……）",
+      "source_ja_applied": "【光志】\\n（だけどその結果、\\nあの意味深《いみしん》な一文を残して\\n交通事故で……）",
+      "source_ja_reviewed": "【光志】\\n（だけどその結果、\\nあの意味深《いみしん》な一文を残して\\n交通事故で……）",
+      "old_translation": "【코우지】\\n(그러나 그 결과, \\n그 의미심장한 한 문장을 타고\\n케이통사 혼잡으로…",
+      "new_translation": "【코우지】\\n(하지만 그 결과\\n저 의미심장한 문장을 남기고\\n교통사고로……)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4949,
+      "source_index": "0x000cd096",
+      "source_ja_raw": "【光志】\\n（……ん？）",
+      "source_ja_applied": "【光志】\\n（……ん？）",
+      "source_ja_reviewed": "【光志】\\n（……ん？）",
+      "old_translation": "【코우지】\\n(……응?)",
+      "new_translation": "【코우지】\\n(……응?)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4950,
+      "source_index": "0x000cd10d",
+      "source_ja_raw": "【光志】\\n心臓病……？",
+      "source_ja_applied": "【光志】\\n心臓病……？",
+      "source_ja_reviewed": "【光志】\\n心臓病……？",
+      "old_translation": "【코우지】\\n심장병…",
+      "new_translation": "【코우지】\\n심장병……?",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4951,
+      "source_index": "0x000cd157",
+      "source_ja_raw": "【退職】\\n白川一利はかつて\\n心臓を患《わずら》っていたらしい。",
+      "source_ja_applied": "【三浦】\\n白川一利はかつて\\n心臓を患《わずら》っていたらしい。",
+      "source_ja_reviewed": "【三浦】\\n白川一利はかつて\\n心臓を患《わずら》っていたらしい。",
+      "old_translation": "【미우라】\\n시라카와 이치로는 한때\\n심장을 앓고 있었던 것 같다.",
+      "new_translation": "【미우라】\\n시라카와 이치리는 예전에\\n심장병을 앓았던 모양이다.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4952,
+      "source_index": "0x000cd1b8",
+      "source_ja_raw": "【退職】\\nそして海外へ渡稿《とこう》し\\n移度手搬をしたという記録がある。",
+      "source_ja_applied": "【三浦】\\nそして海外へ渡稿《とこう》し\\n移度手術をしたという記録がある。",
+      "source_ja_reviewed": "【三浦】\nそして海外へ渡航し\n移植手術をしたという記録がある。",
+      "old_translation": "【미우라】\\n그리고 현외로 도항해\\n이식 수술을 했다는 기록이 있다.",
+      "new_translation": "【미우라】\\n그리고 해외로 건너가\\n이식 수술을 받았다는 기록이 있어.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4953,
+      "source_index": "0x000cd23a",
+      "source_ja_raw": "【退職】\\nたしかお前の母、\\n斉藤勝代も心臓移度手搬を\\nしていたな？",
+      "source_ja_applied": "【三浦】\\nたしかお前の母、\\n斉藤勝代も心臓移度手術を\\nしていたな？",
+      "source_ja_reviewed": "【三浦】\\nたしかお前の母、\\n斉藤勝代も心臓移度手術を\\nしていたな？",
+      "old_translation": "【미우라】\\n분명 네 어머니,\\n사이토 가쓰요도 심장 이식 수술을\\n받았었지?",
+      "new_translation": "【미우라】\\n그러고 보니 네 어머니\\n사이토 가쓰요도 심장 이식 수술을\\n받았었지?",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4954,
+      "source_index": "0x000cd295",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4955,
+      "source_index": "0x000cd324",
+      "source_ja_raw": "【退職】\\nだが、斉藤勝代は提供者《ドナー》。\\n白川一利は受容者《レシピエント》だ。\\n立場が逆ということになる。",
+      "source_ja_applied": "【三浦】\\nだが、斉藤勝代は提供者《ドナー》。\\n白川一利は受容者《レシピエント》だ。\\n立場が逆ということになる。",
+      "source_ja_reviewed": "【三浦】\\nだが、斉藤勝代は提供者《ドナー》。\\n白川一利は受容者《レシピエント》だ。\\n立場が逆ということになる。",
+      "old_translation": "【미우라】\\n이지만 사이토 카츠요는 제공자. \\n시라카와 이치로는 중용자다. \\n입장이 거꾸로 된다.",
+      "new_translation": "【미우라】\\n하지만 사이토 가쓰요는 제공자고\\n시라카와 이치리는 수혜자다.\\n입장이 정반대인 셈이지.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4956,
+      "source_index": "0x000cd3b5",
+      "source_ja_raw": "【退職】\\nただ、白川一利は\\n心臓移度手搬のときに……",
+      "source_ja_applied": "【三浦】\\nただ、白川一利は\\n心臓移度手術のときに……",
+      "source_ja_reviewed": "【三浦】\\nただ、白川一利は\\n心臓移度手術のときに……",
+      "old_translation": "【미우라】\\n단, 시라카와 이치로는\\n심장 이식 수술의 때에…",
+      "new_translation": "【미우라】\\n다만 시라카와 이치리는\\n심장 이식 수술을 받을 때……",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4957,
+      "source_index": "0x000cd475",
+      "source_ja_raw": "【光志】\\nやめてくれ！",
+      "source_ja_applied": "【光志】\\nやめてくれ！",
+      "source_ja_reviewed": "【光志】\\nやめてくれ！",
+      "old_translation": "【코우지】\\n그만해줘!",
+      "new_translation": "【코우지】\\n그만해!",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4958,
+      "source_index": "0x000cd4d3",
+      "source_ja_raw": "【退職】\\n！？",
+      "source_ja_applied": "【三浦】\\n！？",
+      "source_ja_reviewed": "【三浦】\\n！？",
+      "old_translation": "【미우라】\\n! ?",
+      "new_translation": "【미우라】\\n!?",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4959,
+      "source_index": "0x000cd508",
+      "source_ja_raw": "【光志】\\n……今は……やめてくれ……\\n心臓移度とか、\\nそんな話は…………",
+      "source_ja_applied": "【光志】\\n……今は……やめてくれ……\\n心臓移度とか、\\nそんな話は…………",
+      "source_ja_reviewed": "【光志】\\n……今は……やめてくれ……\\n心臓移度とか、\\nそんな話は…………",
+      "old_translation": "【코우지】\\n……지금은… … 그만해줘…\\n심장 이식이라든지,\\n그런 이야기는\\n............",
+      "new_translation": "【코우지】\\n……지금은…… 그만해……\\n심장 이식 같은 얘기는\\n그만……",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4960,
+      "source_index": "0x000cd576",
+      "source_ja_raw": "【退職】\\n…………",
+      "source_ja_applied": "【三浦】\\n…………",
+      "source_ja_reviewed": "【三浦】\\n…………",
+      "old_translation": "【미우라】\\n…………",
+      "new_translation": "【미우라】\\n…………",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4961,
+      "source_index": "0x000cd60b",
+      "source_ja_raw": "【光志】\\n（母さん……\\nクッ……オレは、まだ……）",
+      "source_ja_applied": "【光志】\\n（母さん……\\nクッ……オレは、まだ……）",
+      "source_ja_reviewed": "【光志】\\n（母さん……\\nクッ……オレは、まだ……）",
+      "old_translation": "【코우지】\\n(엄마……\\n쿡…",
+      "new_translation": "【코우지】\\n(엄마……\\n큭…… 나는 아직……)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4962,
+      "source_index": "0x000cd6de",
+      "source_ja_raw": "【光志】\\n（心臓移度という共通点……\\nただの決然《ぐうぜん》なのか？\\nそれとも……）",
+      "source_ja_applied": "【光志】\\n（心臓移度という共通点……\\nただの決然《ぐうぜん》なのか？\\nそれとも……）",
+      "source_ja_reviewed": "【光志】\\n（心臓移度という共通点……\\nただの決然《ぐうぜん》なのか？\\nそれとも……）",
+      "old_translation": "【코우지】\\n(심장이식이라는 이통점…\\n그냥 우연인가?\\n아니면…",
+      "new_translation": "【코우지】\\n(심장 이식이라는 공통점……\\n그냥 우연일까?\\n아니면……)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4963,
+      "source_index": "0x000cd740",
+      "source_ja_raw": "【光志】\\n義かった、急に大声を出して……\\n続けてくれ……",
+      "source_ja_applied": "【光志】\\n義かった、急に大声を出して……\\n続けてくれ……",
+      "source_ja_reviewed": "【光志】\\n義かった、急に大声を出して……\\n続けてくれ……",
+      "old_translation": "【코우지】\\n아쉬웠던, 투투에 큰 소리를\\n내고......\\n제외해줘......",
+      "new_translation": "【코우지】\\n미안해, 갑자기 소리를 질러서……\\n계속해 줘……",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4964,
+      "source_index": "0x000cd7b9",
+      "source_ja_raw": "【退職】\\n……いいだろう。\\nでは、怖問《じんもん》を始める。",
+      "source_ja_applied": "【三浦】\\n……いいだろう。\\nでは、怖問《じんもん》を始める。",
+      "source_ja_reviewed": "【三浦】\\n……いいだろう。\\nでは、怖問《じんもん》を始める。",
+      "old_translation": "【미우라】\\n......좋을 것이다. \\n에서는 심문을 날린다.",
+      "new_translation": "【미우라】\\n……좋아.\\n그럼 심문을 시작하지.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4965,
+      "source_index": "0x000cdaa6",
+      "source_ja_raw": "【退職】\\nさて、本日の蠧調べを始めるが……",
+      "source_ja_applied": "【三浦】\\nさて、本日の取調べを始めるが……",
+      "source_ja_reviewed": "【三浦】\\nさて、本日の取調べを始めるが……",
+      "old_translation": "【미우라】\\n 그런데, 오늘의 취조를\\n끝내지만…",
+      "new_translation": "【미우라】\\n자, 오늘 취조를 시작하겠다……",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4966,
+      "source_index": "0x000cdb15",
+      "source_ja_raw": "【退職】\\nどうだ、斉藤。\\n自白するつもりはないか？",
+      "source_ja_applied": "【三浦】\\nどうだ、斉藤。\\n自白するつもりはないか？",
+      "source_ja_reviewed": "【三浦】\\nどうだ、斉藤。\\n自白するつもりはないか？",
+      "old_translation": "【미우라】\\n어떻게, 사이토. \\n자백할 생각이 없어?",
+      "new_translation": "【미우라】\\n어떤가, 사이토.\\n자백할 생각은 없나?",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4967,
+      "source_index": "0x000cdb61",
+      "source_ja_raw": "【光志】\\nアンタ、そればっかりだな。",
+      "source_ja_applied": "【光志】\\nアンタ、そればっかりだな。",
+      "source_ja_reviewed": "【光志】\\nアンタ、そればっかりだな。",
+      "old_translation": "【코우지】\\n너, 그 뿐이구나.",
+      "new_translation": "【코우지】\\n당신은 그 말뿐이군.",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4968,
+      "source_index": "0x000cdbc7",
+      "source_ja_raw": "【退職】\\n私にとってもお前にとっても、\\nそれが一番の方法だからな。",
+      "source_ja_applied": "【三浦】\\n私にとってもお前にとっても、\\nそれが一番の方法だからな。",
+      "source_ja_reviewed": "【三浦】\\n私にとってもお前にとっても、\\nそれが一番の方法だからな。",
+      "old_translation": "【미우라】\\n나에게도 너에게도,\\n그것이 제일의 방법이니까.",
+      "new_translation": "【미우라】\\n나에게도 너에게도\\n그게 가장 좋은 방법이니까.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4969,
+      "source_index": "0x000cdc29",
+      "source_ja_raw": "【退職】\\n期日は間日だ。\\n間日までに、すべての怖問《じんもん》に対して\\n反論ができないのであれば\\n刑《き》訴《そ》手続《てつづ》きに入らせてもらう。",
+      "source_ja_applied": "【三浦】\\n期日は間日だ。\\n間日までに、すべての怖問《じんもん》に対して\\n反論ができないのであれば\\n刑《き》訴《そ》手続《てつづ》きに入らせてもらう。",
+      "source_ja_reviewed": "【三浦】\\n期日は間日だ。\\n間日までに、すべての怖問《じんもん》に対して\\n反論ができないのであれば\\n刑《き》訴《そ》手続《てつづ》きに入らせてもらう。",
+      "old_translation": "【미우라】\\n기일은 내일이다.\\n내일까지 모든 심문에 대해\\n반론하지 못하면\\n형사소송 절차에 들어가게 해주지.",
+      "new_translation": "【미우라】\\n기한은 내일이다.\\n내일까지 모든 심문에 반론하지\\n못하면\\n형사 소송 절차에 들어가도록 하지.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4970,
+      "source_index": "0x000cdcb6",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4971,
+      "source_index": "0x000cdcfc",
+      "source_ja_raw": "【退職】\\n……そうか。\\n最後まで足《あ》娥《が》くか。",
+      "source_ja_applied": "【三浦】\\n……そうか。\\n最後まで足《あ》娥《が》くか。",
+      "source_ja_reviewed": "【三浦】\\n……そうか。\\n最後まで足《あ》娥《が》くか。",
+      "old_translation": "【미우라】\\n......그런가. \\n마지막까지 아련한가?",
+      "new_translation": "【미우라】\\n……그런가.\\n끝까지 버티려는 건가?",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4972,
+      "source_index": "0x000cdd73",
+      "source_ja_raw": "【退職】\\nならば、私がこの手で\\n引導《いんどう》を渡《わた》してやろう！",
+      "source_ja_applied": "【三浦】\\nならば、私がこの手で\\n引導《いんどう》を渡《わた》してやろう！",
+      "source_ja_reviewed": "【三浦】\\nならば、私がこの手で\\n引導《いんどう》を渡《わた》してやろう！",
+      "old_translation": "【미우라】\\n이라면, 내가 이 손으로\\n인도를 들여다 보자!",
+      "new_translation": "【미우라】\\n그렇다면 내 손으로\\n끝장을 내 주마!",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4973,
+      "source_index": "0x000cddd9",
+      "source_ja_raw": "【退職】\\n怖問《じんもん》を始める！",
+      "source_ja_applied": "【三浦】\\n怖問《じんもん》を始める！",
+      "source_ja_reviewed": "【三浦】\\n怖問《じんもん》を始める！",
+      "old_translation": "【미우라】\\n심문을 시작한다!",
+      "new_translation": "【미우라】\\n심문을 시작한다!",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4974,
+      "source_index": "0x000ce0d5",
+      "source_ja_raw": "【退職】\\nさて、今日が蠧調べ最後の日となる。\\n今日までに得た証拠《しょうこ》や証言は\\nすべて間日には検察庁へ\\n送られることになる。",
+      "source_ja_applied": "【三浦】\\nさて、今日が取調べ最後の日となる。\\n今日までに得た証拠《しょうこ》や証言は\\nすべて間日には検察庁へ\\n送られることになる。",
+      "source_ja_reviewed": "【三浦】\\nさて、今日が取調べ最後の日となる。\\n今日までに得た証拠《しょうこ》や証言は\\nすべて間日には検察庁へ\\n送られることになる。",
+      "old_translation": "【미우라】\\n그런데, 오늘이 취조 마지막\\n날이\\n된다.\\n오늘까지 얻은 증거와 증언은\\n모두 내일에는 검찰청에\\n보내지게 된다.",
+      "new_translation": "【미우라】\\n자, 오늘이 마지막 취조 날이다.\\n오늘까지 얻은 증거와 증언은\\n모두 내일 검찰청으로\\n보내지게 된다.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [
+        "증언"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4975,
+      "source_index": "0x000ce16b",
+      "source_ja_raw": "【退職】\\nその欠植を元にして検事が\\n刑《き》訴《そ》、不《ふ》刑《き》訴《そ》を倚めるわけだが……",
+      "source_ja_applied": "【三浦】\\nその欠植を元にして検事が\\n刑《き》訴《そ》、不《ふ》刑《き》訴《そ》を倚めるわけだが……",
+      "source_ja_reviewed": "【三浦】\nその資料を元にして検事が\n起訴、不起訴を決めるわけだが……",
+      "old_translation": "【미우라】\\n그 자료를 바탕으로 하여 검사가\\n소리, 불소소를 결정하는 것이지만…",
+      "new_translation": "【미우라】\\n그 자료를 바탕으로 검사가\\n기소할지 불기소할지를 정하게\\n되지만……",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4976,
+      "source_index": "0x000ce1e8",
+      "source_ja_raw": "【退職】\\n私の怖問《じんもん》にすべて答えられない場合は、\\n直ちに刑《き》訴《そ》手続《てつづ》きに入ってもらって\\n問題ない、と書き加えておく。",
+      "source_ja_applied": "【三浦】\\n私の怖問《じんもん》にすべて答えられない場合は、\\n直ちに刑《き》訴《そ》手続《てつづ》きに入ってもらって\\n問題ない、と書き加えておく。",
+      "source_ja_reviewed": "【三浦】\\n私の怖問《じんもん》にすべて答えられない場合は、\\n直ちに刑《き》訴《そ》手続《てつづ》きに入ってもらって\\n問題ない、と書き加えておく。",
+      "old_translation": "【미우라】\\n내의 심문에 모두 대답할 수 없는\\n경우는,\\n곧바로 친소수제외에 들어가 주셔서\\n문제 없다, 라고 써서 순결해\\n둔다.",
+      "new_translation": "【미우라】\\n내 심문에 모두 대답하지 못하면\\n즉시 형사 소송 절차에 들어가도\\n좋다고\\n기록해 두도록 하지.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4977,
+      "source_index": "0x000ce273",
+      "source_ja_raw": "【光志】\\n……今日がラストチャンス、\\nってわけか。",
+      "source_ja_applied": "【光志】\\n……今日がラストチャンス、\\nってわけか。",
+      "source_ja_reviewed": "【光志】\\n……今日がラストチャンス、\\nってわけか。",
+      "old_translation": "【코우지】\\n… … 오늘이 마지막 기회,\\n뭐라고?",
+      "new_translation": "【코우지】\\n……오늘이 마지막 기회라는\\n말이군.",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4978,
+      "source_index": "0x000ce2e4",
+      "source_ja_raw": "【退職】\\nでは、怖問《じんもん》を始める！",
+      "source_ja_applied": "【三浦】\\nでは、怖問《じんもん》を始める！",
+      "source_ja_reviewed": "【三浦】\\nでは、怖問《じんもん》を始める！",
+      "old_translation": "【미우라】\\n그럼, 심문을 시작한다!",
+      "new_translation": "【미우라】\\n그럼 심문을 시작한다!",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4979,
+      "source_index": "0x000ce3af",
+      "source_ja_raw": "【光志】\\n（……ダメだ……！\\nまったく酔理が組み立てられてない……！）",
+      "source_ja_applied": "【光志】\\n（……ダメだ……！\\nまったく酔理が組み立てられてない……！）",
+      "source_ja_reviewed": "【光志】\\n（……ダメだ……！\\nまったく酔理が組み立てられてない……！）",
+      "old_translation": "【코우지】\\n(……안 돼……!\\n추리가 전혀 정리되지 않아……!)",
+      "new_translation": "【코우지】\\n(……안 돼……!\\n추리가 전혀 정리되지 않아……!)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4980,
+      "source_index": "0x000ce40d",
+      "source_ja_raw": "【光志】\\n（このまま活めても、\\n無実を証間することなんて、不可能……）",
+      "source_ja_applied": "【光志】\\n（このまま活めても、\\n無実を証間することなんて、不可能……）",
+      "source_ja_reviewed": "【光志】\\n（このまま活めても、\\n無実を証間することなんて、不可能……）",
+      "old_translation": "【코우지】\\n(이대로 진행해도\\n무죄를 증명하는 건 불가능……)",
+      "new_translation": "【코우지】\\n(이대로 계속해도\\n무죄를 증명하는 건 불가능해……)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4981,
+      "source_index": "0x000ce46a",
+      "source_ja_raw": "【光志】\\n（残された訪は……）",
+      "source_ja_applied": "【光志】\\n（残された道は……）",
+      "source_ja_reviewed": "【光志】\\n（残された道は……）",
+      "old_translation": "【코우지】\\n(남은 증거는……)",
+      "new_translation": "【코우지】\\n(남은 방법은……)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4982,
+      "source_index": "0x000ce4b8",
+      "source_ja_raw": "【光志】\\n……クッ！",
+      "source_ja_applied": "【光志】\\n……クッ！",
+      "source_ja_reviewed": "【光志】\\n……クッ！",
+      "old_translation": "【코우지】\\n……큭!",
+      "new_translation": "【코우지】\\n……큭!",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4983,
+      "source_index": "0x000ce4fe",
+      "source_ja_raw": "【光志】\\n……オレ……が……やりました……",
+      "source_ja_applied": "【光志】\\n……オレ……が……やりました……",
+      "source_ja_reviewed": "【光志】\\n……オレ……が……やりました……",
+      "old_translation": "【코우지】\\n……제가…… 했습니다……",
+      "new_translation": "【코우지】\\n……내가…… 했습니다……",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4984,
+      "source_index": "0x000ce56d",
+      "source_ja_raw": "【退職】\\nそれは、自白と寅《とら》えていいのか？",
+      "source_ja_applied": "【三浦】\\nそれは、自白と捉《とら》えていいのか？",
+      "source_ja_reviewed": "【三浦】\\nそれは、自白と捉《とら》えていいのか？",
+      "old_translation": "【미우라】\\n그건 자백으로 받아들여도 되나?",
+      "new_translation": "【미우라】\\n그건 자백으로 받아들여도 되나?",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4985,
+      "source_index": "0x000ce5c4",
+      "source_ja_raw": "【光志】\\n……はい。",
+      "source_ja_applied": "【光志】\\n……はい。",
+      "source_ja_reviewed": "【光志】\\n……はい。",
+      "old_translation": "【코우지】\\n……응.",
+      "new_translation": "【코우지】\\n……네.",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4986,
+      "source_index": "0x000ce623",
+      "source_ja_raw": "【退職】\\n……わかった。\\n吉本順、調書を書いてくれ。",
+      "source_ja_applied": "【三浦】\\n……わかった。\\n吉本順、調書を書いてくれ。",
+      "source_ja_reviewed": "【三浦】\\n……わかった。\\n吉本順、調書を書いてくれ。",
+      "old_translation": "【미우라】\\n……알겠다.\\n요시모토 형사, 조서를 작성해 주게.",
+      "new_translation": "【미우라】\\n……알겠다.\\n요시모토 형사, 조서를 작성하게.",
+      "speaker": "미우라",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4987,
+      "source_index": "0x000ce674",
+      "source_ja_raw": "【吉本】\\nはい。",
+      "source_ja_applied": "【吉本】\\nはい。",
+      "source_ja_reviewed": "【吉本】\\nはい。",
+      "old_translation": "【요시모토】\\n네.",
+      "new_translation": "【요시모토】\\n네.",
+      "speaker": "요시모토",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4988,
+      "source_index": "0x000ce6a9",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4989,
+      "source_index": "0x000ce6e2",
+      "source_ja_raw": "【光志】\\n（こうするしかなかった。\\nオレの力じゃ、この事件は婚けない）",
+      "source_ja_applied": "【光志】\\n（こうするしかなかった。\\nオレの力じゃ、この事件は婚けない）",
+      "source_ja_reviewed": "【光志】\\n（こうするしかなかった。\\nオレの力じゃ、この事件は婚けない）",
+      "old_translation": "【코우지】\\n(이렇게 할 수밖에 없었다.\\n내 힘으로는 이 사건을 풀 수 없어.)",
+      "new_translation": "【코우지】\\n(이렇게 할 수밖에 없었어.\\n내 힘으로는 이 사건을 풀 수\\n없어.)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4990,
+      "source_index": "0x000ce751",
+      "source_ja_raw": "【光志】\\n（こうなったらもう、\\n罪を認めて後悔《こうかい》と反省の島度を\\n見せて、少しでも刑罰《けいばつ》を目くしてもらうしかないんだ……）",
+      "source_ja_applied": "【光志】\\n（こうなったらもう、\\n罪を認めて後悔《こうかい》と反省の島度を\\n見せて、少しでも刑罰《けいばつ》を目くしてもらうしかないんだ……）",
+      "source_ja_reviewed": "【光志】\\n（こうなったらもう、\\n罪を認めて後悔《こうかい》と反省の島度を\\n見せて、少しでも刑罰《けいばつ》を目くしてもらうしかないんだ……）",
+      "old_translation": "【코우지】\\n(이렇게 된 이상 죄를 인정하고\\n후회와 반성의 뜻을 보여서\\n조금이라도 형을 가볍게 해 달라고 할 수밖에 없어……)",
+      "new_translation": "【코우지】\\n(이렇게 된 이상 죄를 인정하고\\n후회와 반성의 뜻을 보여서\\n조금이라도 형을 가볍게 해 달라고\\n할 수밖에 없어……)",
+      "speaker": "코우지",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4991,
+      "source_index": "0x000ce840",
+      "source_ja_raw": "　\\n　\\n　\\n（そして３年後、\\nオレには嗅役《ちょうえき》１０年の刑罰《けいばつ》が下った…）",
+      "source_ja_applied": "　\\n　\\n　\\n（そして３年後、\\nオレには嗅役《ちょうえき》１０年の刑罰《けいばつ》が下った…）",
+      "source_ja_reviewed": "　\\n　\\n　\\n（そして３年後、\\nオレには嗅役《ちょうえき》１０年の刑罰《けいばつ》が下った…）",
+      "old_translation": "　\\n　\\n　\\n(그리고 3년 후,\\n나는 징역 10년의 형을 받았다…)",
+      "new_translation": "\\n\\n\\n(그리고 3년 후,\\n나는 징역 10년을 선고받았다……)",
+      "speaker": "장면 대사",
+      "scene": "아버지 수첩 재확인과 심장 이식 단서",
+      "relationship_context": "코우지는 수첩의 기록에서 아버지의 죽음과 시라카와 이치리의 이름을 다시 확인한다. 미우라는 이치리와 코우지 어머니의 심장 이식 공통점을 압박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4992,
+      "source_index": "0x000ce8fb",
+      "source_ja_raw": "【退職】\\nでは、次だ。",
+      "source_ja_applied": "【三浦】\\nでは、次だ。",
+      "source_ja_reviewed": "【三浦】\\nでは、次だ。",
+      "old_translation": "【미우라】\\n그럼, 다음이다.",
+      "new_translation": "【미우라】\\n그럼 다음이다.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4993,
+      "source_index": "0x000ce975",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4994,
+      "source_index": "0x000ce9d4",
+      "source_ja_raw": "【退職】\\n黙秘《もくひ》か……\\nまあ、それもいいだろう。",
+      "source_ja_applied": "【三浦】\\n黙秘《もくひ》か……\\nまあ、それもいいだろう。",
+      "source_ja_reviewed": "【三浦】\\n黙秘《もくひ》か……\\nまあ、それもいいだろう。",
+      "old_translation": "【미우라】\\n묵비권인가……\\n뭐, 그것도 좋겠지.",
+      "new_translation": "【미우라】\\n묵비인가……\\n뭐, 그것도 좋겠지.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4995,
+      "source_index": "0x000cea8a",
+      "source_ja_raw": "【退職】\\n言ったはずだ。\\n反論なら論理的なものを、と。",
+      "source_ja_applied": "【三浦】\\n言ったはずだ。\\n反論なら論理的なものを、と。",
+      "source_ja_reviewed": "【三浦】\\n言ったはずだ。\\n反論なら論理的なものを、と。",
+      "old_translation": "【미우라】\\n 말했을 것이다. \\n반론이라면 논리적인 것을, 라고.",
+      "new_translation": "【미우라】\\n말했을 텐데.\\n반론이라면 논리적인 걸로 하라고.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4996,
+      "source_index": "0x000ceb00",
+      "source_ja_raw": "【光志】\\nうっ……！",
+      "source_ja_applied": "【光志】\\nうっ……！",
+      "source_ja_reviewed": "【光志】\\nうっ……！",
+      "old_translation": "【코우지】\\n우……!",
+      "new_translation": "【코우지】\\n윽……!",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4997,
+      "source_index": "0x000ceb46",
+      "source_ja_raw": "【退職】\\nそんな主張は通用しない。\\n……もっと考えて話したほうが\\nお前の身のためだ。",
+      "source_ja_applied": "【三浦】\\nそんな主張は通用しない。\\n……もっと考えて話したほうが\\nお前の身のためだ。",
+      "source_ja_reviewed": "【三浦】\\nそんな主張は通用しない。\\n……もっと考えて話したほうが\\nお前の身のためだ。",
+      "old_translation": "【미우라】\\n그런 수첩은 통용하지 않는다. \\n......더 생각하고 말하는 편이\\n너의 몸을 위해서다.",
+      "new_translation": "【미우라】\\n그런 주장은 통하지 않아.\\n……좀 더 생각하고 말하는 게\\n네 신상에도 좋을 거다.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4998,
+      "source_index": "0x000cebc1",
+      "source_ja_raw": "【光志】\\n（心証を義くしてしまったな……）",
+      "source_ja_applied": "【光志】\\n（心証を義くしてしまったな……）",
+      "source_ja_reviewed": "【光志】\\n（心証を義くしてしまったな……）",
+      "old_translation": "【코우지】\\n(심증을 참아버렸구나…",
+      "new_translation": "【코우지】\\n(미우라 씨의 심증을\\n나쁘게 만들어 버렸군……)",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 4999,
+      "source_index": "0x000ceca1",
+      "source_ja_raw": "【退職】\\nまずは確認だ。\\nお前が殺したのは誰《だれ》だ？",
+      "source_ja_applied": "【三浦】\\nまずは確認だ。\\nお前が殺したのは誰《だれ》だ？",
+      "source_ja_reviewed": "【三浦】\\nまずは確認だ。\\nお前が殺したのは誰《だれ》だ？",
+      "old_translation": "【미우라】\\n우선은 확인이다.\\n네가 죽인 건 누구냐?",
+      "new_translation": "【미우라】\\n우선 확인하지.\\n네가 죽인 건 누구지?",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5000,
+      "source_index": "0x000ced8d",
+      "source_ja_raw": "【光志】\\nオレは誰《だれ》も殺していない。\\nよって、黙秘《もくひ》させてもらう。",
+      "source_ja_applied": "【光志】\\nオレは誰《だれ》も殺していない。\\nよって、黙秘《もくひ》させてもらう。",
+      "source_ja_reviewed": "【光志】\\nオレは誰《だれ》も殺していない。\\nよって、黙秘《もくひ》させてもらう。",
+      "old_translation": "【코우지】\\n나는 아무도 죽이지 않았다.\\n그러므로 묵비권을 행사하겠다.",
+      "new_translation": "【코우지】\\n난 아무도 죽이지 않았어.\\n그러니 묵비권을 행사하겠다.",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5001,
+      "source_index": "0x000cee29",
+      "source_ja_raw": "【退職】\\nフッ……\\n引っかからなかったか。\\nなら、あらためて聞き直そう。",
+      "source_ja_applied": "【三浦】\\nフッ……\\n引っかからなかったか。\\nなら、あらためて聞き直そう。",
+      "source_ja_reviewed": "【三浦】\\nフッ……\\n引っかからなかったか。\\nなら、あらためて聞き直そう。",
+      "old_translation": "【미우라】\\n훗……\\n잡히지 않았나. \\n라면, 다시 놓자.",
+      "new_translation": "【미우라】\\n훗……\\n안 걸려들었나.\\n그럼 다시 물어보지.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5002,
+      "source_index": "0x000cef08",
+      "source_ja_raw": "【退職】\\nほう……\\nお前が殺したことを認めるんだな？",
+      "source_ja_applied": "【三浦】\\nほう……\\nお前が殺したことを認めるんだな？",
+      "source_ja_reviewed": "【三浦】\\nほう……\\nお前が殺したことを認めるんだな？",
+      "old_translation": "【미우라】\\n어……\\n네가 죽인 것을 인정하는 거냐?",
+      "new_translation": "【미우라】\\n호오……\\n네가 죽였다는 건 인정하는 건가?",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5003,
+      "source_index": "0x000cef93",
+      "source_ja_raw": "【光志】\\nな、なに！？",
+      "source_ja_applied": "【光志】\\nな、なに！？",
+      "source_ja_reviewed": "【光志】\\nな、なに！？",
+      "old_translation": "【코우지】\\n뭐, 뭐야! ?",
+      "new_translation": "【코우지】\\n뭐, 뭐야!?",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5004,
+      "source_index": "0x000cf00c",
+      "source_ja_raw": "【退職】\\n私は『お前が殺したのは誰《だれ》だ』と\\n聞いたんだぞ？",
+      "source_ja_applied": "【三浦】\\n私は『お前が殺したのは誰《だれ》だ』と\\n聞いたんだぞ？",
+      "source_ja_reviewed": "【三浦】\\n私は『お前が殺したのは誰《だれ》だ』と\\n聞いたんだぞ？",
+      "old_translation": "【미우라】\\n나는 ‘네가 죽인 건 누구냐’고\\n물었단 말이다?",
+      "new_translation": "【미우라】\\n나는 『네가 죽인 건 누구냐』고\\n물었을 뿐인데?",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5005,
+      "source_index": "0x000cf0a0",
+      "source_ja_raw": "【光志】\\nき、きたねー！\\nそんなの、アリかよ！",
+      "source_ja_applied": "【光志】\\nき、きたねー！\\nそんなの、アリかよ！",
+      "source_ja_reviewed": "【光志】\\nき、きたねー！\\nそんなの、アリかよ！",
+      "old_translation": "【코우지】\\n키, 왔네-! \\n그래, 개미!",
+      "new_translation": "【코우지】\\n치사하잖아!\\n그런 식으로 물어도 되는 거야!?",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5006,
+      "source_index": "0x000cf0f4",
+      "source_ja_raw": "【光志】\\nな、なら、あらためて否定する！\\nオレはやってない！",
+      "source_ja_applied": "【光志】\\nな、なら、あらためて否定する！\\nオレはやってない！",
+      "source_ja_reviewed": "【光志】\\nな、なら、あらためて否定する！\\nオレはやってない！",
+      "old_translation": "【코우지】\\n뭐, 그럼, 다시 자란다!\\n내가하지 않았다!",
+      "new_translation": "【코우지】\\n그, 그럼 다시 부정하겠어!\\n난 하지 않았어!",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5007,
+      "source_index": "0x000cf183",
+      "source_ja_raw": "【退職】\\nフン……\\nまあ、いいさ。",
+      "source_ja_applied": "【三浦】\\nフン……\\nまあ、いいさ。",
+      "source_ja_reviewed": "【三浦】\\nフン……\\nまあ、いいさ。",
+      "old_translation": "【미우라】\\n훈......\\n음, 좋은.",
+      "new_translation": "【미우라】\\n흥……\\n뭐, 좋아.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5008,
+      "source_index": "0x000cf1ea",
+      "source_ja_raw": "【退職】\\nだが、調書には一度肯定《こうてい》したと\\n書いておくからな。",
+      "source_ja_applied": "【三浦】\\nだが、調書には一度肯定《こうてい》したと\\n書いておくからな。",
+      "source_ja_reviewed": "【三浦】\\nだが、調書には一度肯定《こうてい》したと\\n書いておくからな。",
+      "old_translation": "【미우라】\\n하지만, 조서에는 한 번 강정했다고\\n 써 두기 때문에.",
+      "new_translation": "【미우라】\\n하지만 조서에는 한 번 인정했다고\\n적어 두도록 하지.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5009,
+      "source_index": "0x000cf282",
+      "source_ja_raw": "【光志】\\nク……ッ！？",
+      "source_ja_applied": "【光志】\\nク……ッ！？",
+      "source_ja_reviewed": "【光志】\\nク……ッ！？",
+      "old_translation": "【코우지】\\n큭……!?",
+      "new_translation": "【코우지】\\n큭……!?",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5010,
+      "source_index": "0x000cf35f",
+      "source_ja_raw": "【退職】\\n今関の事件で被害者《ひがいしゃ》となったのは\\n誰《だれ》だ？",
+      "source_ja_applied": "【三浦】\\n今回の事件で被害者《ひがいしゃ》となったのは\\n誰《だれ》だ？",
+      "source_ja_reviewed": "【三浦】\\n今回の事件で被害者《ひがいしゃ》となったのは\\n誰《だれ》だ？",
+      "old_translation": "【미우라】\\n이번 사건에서 피해자가 된 것은\\n누구지?",
+      "new_translation": "【미우라】\\n이번 사건의 피해자가 된 건\\n누구지?",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "피해자"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5011,
+      "source_index": "0x000cf457",
+      "source_ja_raw": "【退職】\\nその通りだ。\\n人の話を聞いていたようだな。",
+      "source_ja_applied": "【三浦】\\nその通りだ。\\n人の話を聞いていたようだな。",
+      "source_ja_reviewed": "【三浦】\\nその通りだ。\\n人の話を聞いていたようだな。",
+      "old_translation": "【미우라】\\n그대로다. \\n사람의 이야기를 둔 것 같다.",
+      "new_translation": "【미우라】\\n그렇지.\\n사람들 말을 듣고 있긴 했군.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5012,
+      "source_index": "0x000cf4e2",
+      "source_ja_raw": "【光志】\\n当たり前だ。\\n身に覚えのない事件で\\nしょっぴかれたんだ。",
+      "source_ja_applied": "【光志】\\n当たり前だ。\\n身に覚えのない事件で\\nしょっぴかれたんだ。",
+      "source_ja_reviewed": "【光志】\\n当たり前だ。\\n身に覚えのない事件で\\nしょっぴかれたんだ。",
+      "old_translation": "【코우지】\\n당연하다. \\n몸에 익숙하지 않은 사건으로\\n조금 빠졌어.",
+      "new_translation": "【코우지】\\n당연하지.\\n기억에도 없는 사건에 휘말려\\n끌려온 거라고.",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5013,
+      "source_index": "0x000cf576",
+      "source_ja_raw": "【退職】\\nフッ……身に覚えのない事件、か。\\n最後までそのスタンスで\\nいられるかな？",
+      "source_ja_applied": "【三浦】\\nフッ……身に覚えのない事件、か。\\n最後までそのスタンスで\\nいられるかな？",
+      "source_ja_reviewed": "【三浦】\\nフッ……身に覚えのない事件、か。\\n最後までそのスタンスで\\nいられるかな？",
+      "old_translation": "【미우라】\\n훗… … 익숙하지 않은 사건? \\n마지막까지 그 스탠스에서\\n 있을 수 있을까?",
+      "new_translation": "【미우라】\\n훗…… 기억에도 없는 사건이라.\\n끝까지 그 태도를 유지할 수\\n있을까?",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5014,
+      "source_index": "0x000cf671",
+      "source_ja_raw": "【退職】\\nお前のアリバイはあやふやだ。\\n殺害恋刻、お前はなにをしていた？",
+      "source_ja_applied": "【三浦】\\nお前のアリバイはあやふやだ。\\n殺害恋刻、お前はなにをしていた？",
+      "source_ja_reviewed": "【三浦】\\nお前のアリバイはあやふやだ。\\n殺害恋刻、お前はなにをしていた？",
+      "old_translation": "【미우라】\\n너의 알리바이는 애매하다.\\n살해 시각에, 너는 무엇을 하고\\n있었지?",
+      "new_translation": "【미우라】\\n네 알리바이는 애매해.\\n살해 시각에 자네는 뭘 하고\\n있었지?",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5015,
+      "source_index": "0x000cf7bb",
+      "source_ja_raw": "【光志】\\nオレは畭《よ》いつぶれてて覚えてないが、\\n一緒《いっしょ》にいた朝等さんが\\nタクシーに濃せたって言ってた。",
+      "source_ja_applied": "【光志】\\nオレは畭《よ》いつぶれてて覚えてないが、\\n一緒《いっしょ》にいた朝等さんが\\nタクシーに乗せたって言ってた。",
+      "source_ja_reviewed": "【光志】\\nオレは畭《よ》いつぶれてて覚えてないが、\\n一緒《いっしょ》にいた朝等さんが\\nタクシーに乗せたって言ってた。",
+      "old_translation": "【코우지】\\n나는 뭉툭해서 기억나지 않지만,\\n함께 있던 아사츠유씨가\\n택시에 진해졌다고 말했다.",
+      "new_translation": "【코우지】\\n난 완전히 취해서 기억이 안 나지만\\n같이 있던 아사츠유 씨가\\n택시에 태워 줬다고 했어.",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "택시"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5016,
+      "source_index": "0x000cf83a",
+      "source_ja_raw": "【光志】\\n朝等さんに聞いてもらえば、\\n証言してくれるはずだ。",
+      "source_ja_applied": "【光志】\\n朝等さんに聞いてもらえば、\\n証言してくれるはずだ。",
+      "source_ja_reviewed": "【光志】\\n朝等さんに聞いてもらえば、\\n証言してくれるはずだ。",
+      "old_translation": "【코우지】\\n아사츠유씨에게 두어 주면,\\n증언해 줄 것이다.",
+      "new_translation": "【코우지】\\n아사츠유 씨에게 물어보면\\n증언해 줄 거야.",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "증언"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5017,
+      "source_index": "0x000cf8d9",
+      "source_ja_raw": "【退職】\\nそんなことは警察でも\\nすでに調査済みだ。",
+      "source_ja_applied": "【三浦】\\nそんなことは警察でも\\nすでに調査済みだ。",
+      "source_ja_reviewed": "【三浦】\\nそんなことは警察でも\\nすでに調査済みだ。",
+      "old_translation": "【미우라】\\n그런 것은 경찰에서도\\n이미 조사 참망이다.",
+      "new_translation": "【미우라】\\n그건 경찰에서도\\n이미 조사한 내용이다.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5018,
+      "source_index": "0x000cf931",
+      "source_ja_raw": "【退職】\\nだが、水谷朝等はお前の身内も同然。\\nだったら、ウソをついた可能性も\\n否定できない。",
+      "source_ja_applied": "【三浦】\\nだが、水谷朝等はお前の身内も同然。\\nだったら、ウソをついた可能性も\\n否定できない。",
+      "source_ja_reviewed": "【三浦】\\nだが、水谷朝等はお前の身内も同然。\\nだったら、ウソをついた可能性も\\n否定できない。",
+      "old_translation": "【미우라】\\n이지만, 미즈타니 아사츠유는 너의\\n신내도\\n동연. \\n이라면, 거짓말을 했을 가능성도\\n비정할 수 없다.",
+      "new_translation": "【미우라】\\n하지만 미즈타니 아사츠유는\\n너와 가족이나 다름없지.\\n그렇다면 거짓말을 했을 가능성도\\n배제할 수 없다.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5019,
+      "source_index": "0x000cf9eb",
+      "source_ja_raw": "【光志】\\nなんだよ、それ！\\n朝等さんの証言まで\\n疑われるんじゃ……",
+      "source_ja_applied": "【光志】\\nなんだよ、それ！\\n朝等さんの証言まで\\n疑われるんじゃ……",
+      "source_ja_reviewed": "【光志】\\nなんだよ、それ！\\n朝等さんの証言まで\\n疑われるんじゃ……",
+      "old_translation": "【코우지】\\n 뭐야, 그것! \\n아사츠유씨의 증언까지\\n의심받는거야…",
+      "new_translation": "【코우지】\\n뭐야, 그게!\\n아사츠유 씨의 증언까지\\n의심하겠다는 거야……",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "증언"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5020,
+      "source_index": "0x000cfa4e",
+      "source_ja_raw": "【光志】\\nどうやってアリバイを\\n証間しろって言うんだよ！",
+      "source_ja_applied": "【光志】\\nどうやってアリバイを\\n証間しろって言うんだよ！",
+      "source_ja_reviewed": "【光志】\\nどうやってアリバイを\\n証間しろって言うんだよ！",
+      "old_translation": "【코우지】\\n어떻게 알리바이를\\n증명하라고 말하는 거야!",
+      "new_translation": "【코우지】\\n대체 어떻게 알리바이를\\n증명하라는 거야!",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "알리바이"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5021,
+      "source_index": "0x000cfada",
+      "source_ja_raw": "【退職】\\nあわてるな。\\n認めないとは言っていない。",
+      "source_ja_applied": "【三浦】\\nあわてるな。\\n認めないとは言っていない。",
+      "source_ja_reviewed": "【三浦】\\nあわてるな。\\n認めないとは言っていない。",
+      "old_translation": "【미우라】\\n 맞지 말아라. \\n인정하지 않는다고는 말하지 않았다.",
+      "new_translation": "【미우라】\\n당황하지 마라.\\n인정하지 않겠다고 한 건 아니다.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5022,
+      "source_index": "0x000cfb30",
+      "source_ja_raw": "【退職】\\n水谷朝等の証言は一旦《いったん》受け入れよう。",
+      "source_ja_applied": "【三浦】\\n水谷朝等の証言は一旦《いったん》受け入れよう。",
+      "source_ja_reviewed": "【三浦】\\n水谷朝等の証言は一旦《いったん》受け入れよう。",
+      "old_translation": "【미우라】\\n미즈타니 아사츠유의 증언은 일단\\n담아\\n넣자.",
+      "new_translation": "【미우라】\\n미즈타니 아사츠유의 증언은\\n일단 받아들이도록 하지.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "증언"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5023,
+      "source_index": "0x000cfc1a",
+      "source_ja_raw": "【退職】\\n水谷朝等の証言によれば、\\nお前がタクシーに濃ったのが\\n０恋３５分頃《ごろ》。",
+      "source_ja_applied": "【三浦】\\n水谷朝等の証言によれば、\\nお前がタクシーに乗ったのが\\n０恋３５分頃《ごろ》。",
+      "source_ja_reviewed": "【三浦】\\n水谷朝等の証言によれば、\\nお前がタクシーに乗ったのが\\n０恋３５分頃《ごろ》。",
+      "old_translation": "【미우라】\\n미즈타니 아사츠유의 증언에 의하면,\\n너가 택시에 진한 것이\\n0시 35분경.",
+      "new_translation": "【미우라】\\n미즈타니 아사츠유의 증언에 따르면\\n네가 택시에 탄 건\\n0시 35분쯤이다.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "택시",
+        "증언"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5024,
+      "source_index": "0x000cfc8f",
+      "source_ja_raw": "【退職】\\nだが警察による調査の結果、その恋付に\\n路上観挙《みやかみぎんざ》からお前の住んでいるアパートまで\\n客を濃せて思ったタクシーは存在しなかった。",
+      "source_ja_applied": "【三浦】\\nだが警察による調査の結果、その恋付に\\n宮上銀挙《みやかみぎんざ》からお前の住んでいるアパートまで\\n客を乗せて走ったタクシーは存在しなかった。",
+      "source_ja_reviewed": "【三浦】\nだが警察による調査の結果、その時間に\n宮上銀座からお前の住んでいるアパートまで\n客を乗せて走ったタクシーは存在しなかった。",
+      "old_translation": "【미우라】\\n하지만 경찰에 의한 조사의 결과,\\n그\\n시간에\\n동상 철자에서 너의 와 있는\\n아파트까지\\n객을 진하게 알게 된 택시는\\n존재하지\\n않았다.",
+      "new_translation": "【미우라】\\n하지만 경찰 조사 결과 그 시각에\\n미야카미 긴자에서 네 아파트까지\\n손님을 태우고 간 택시는\\n존재하지 않았다.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "택시"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5025,
+      "source_index": "0x000cfd52",
+      "source_ja_raw": "【退職】\\nよって、\\n水谷朝等の証言は信用できない、\\nということだ！",
+      "source_ja_applied": "【三浦】\\nよって、\\n水谷朝等の証言は信用できない、\\nということだ！",
+      "source_ja_reviewed": "【三浦】\\nよって、\\n水谷朝等の証言は信用できない、\\nということだ！",
+      "old_translation": "【미우라】\\n따라서,\\n미즈타니 아사츠유의 증언은 신용할\\n수\\n없다,\\n라고 하는 것이다!",
+      "new_translation": "【미우라】\\n그러니 미즈타니 아사츠유의 증언은\\n믿을 수 없다는 뜻이다!",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "증언"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5026,
+      "source_index": "0x000cfde9",
+      "source_ja_raw": "【光志】\\n……ううっ！",
+      "source_ja_applied": "【光志】\\n……ううっ！",
+      "source_ja_reviewed": "【光志】\\n……ううっ！",
+      "old_translation": "【코우지】\\n......우우!",
+      "new_translation": "【코우지】\\n……으윽!",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5027,
+      "source_index": "0x000cfe78",
+      "source_ja_raw": "【光志】\\n殺害恋付、\\nオレは轉に畭《よ》いつぶれていたんだ。",
+      "source_ja_applied": "【光志】\\n殺害恋付、\\nオレは轉に畭《よ》いつぶれていたんだ。",
+      "source_ja_reviewed": "【光志】\\n殺害恋付、\\nオレは轉に畭《よ》いつぶれていたんだ。",
+      "old_translation": "【코우지】\\n살해 시각,\\n나는 완전히 술에 취해 있었어.",
+      "new_translation": "【코우지】\\n살해 시각에\\n난 완전히 술에 취해 있었어.",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5028,
+      "source_index": "0x000cfed8",
+      "source_ja_raw": "【光志】\\nマスターも証言してくれるだろう。",
+      "source_ja_applied": "【光志】\\nマスターも証言してくれるだろう。",
+      "source_ja_reviewed": "【光志】\\nマスターも証言してくれるだろう。",
+      "old_translation": "【코우지】\\n마스터도 증언해 줄 것이다.",
+      "new_translation": "【코우지】\\n마스터도 증언해 줄 거야.",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "증언"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5029,
+      "source_index": "0x000cff65",
+      "source_ja_raw": "【退職】\\n……殺害恋付に、\\nオマエは既《すで》に堂を退堂していたハズだ。",
+      "source_ja_applied": "【三浦】\\n……殺害恋付に、\\nオマエは既《すで》に堂を退堂していたハズだ。",
+      "source_ja_reviewed": "【三浦】\\n……殺害恋付に、\\nオマエは既《すで》に堂を退堂していたハズだ。",
+      "old_translation": "【미우라】\\n……살해 시각에,\\n너는 이미 가게를 나갔을 터다.",
+      "new_translation": "【미우라】\\n……살해 시각에는\\n자네는 이미 가게를 나갔을 텐데.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5030,
+      "source_index": "0x000d0002",
+      "source_ja_raw": "【光志】\\nあれ、そうだっけ？",
+      "source_ja_applied": "【光志】\\nあれ、そうだっけ？",
+      "source_ja_reviewed": "【光志】\\nあれ、そうだっけ？",
+      "old_translation": "【코우지】\\n어라, 그래?",
+      "new_translation": "【코우지】\\n어라, 그랬던가?",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5031,
+      "source_index": "0x000d007d",
+      "source_ja_raw": "【退職】\\n……適当にごまかそうとするその會舞、\\nよろしくないな。",
+      "source_ja_applied": "【三浦】\\n……適当にごまかそうとするその姿舞、\\nよろしくないな。",
+      "source_ja_reviewed": "【三浦】\\n……適当にごまかそうとするその姿舞、\\nよろしくないな。",
+      "old_translation": "【미우라】\\n……건당하게 속이려고 하는 그\\n대쟁,\\n좋지 않아.",
+      "new_translation": "【미우라】\\n……적당히 얼버무리려는 그 태도는\\n좋지 않군.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5032,
+      "source_index": "0x000d00de",
+      "source_ja_raw": "【退職】\\n吉本順、\\n調書にその旨《むね》しっかりと記述するように。",
+      "source_ja_applied": "【三浦】\\n吉本順、\\n調書にその旨《むね》しっかりと記述するように。",
+      "source_ja_reviewed": "【三浦】\\n吉本順、\\n調書にその旨《むね》しっかりと記述するように。",
+      "old_translation": "【미우라】\\n요시모토 형사,\\n조서에는 그 취지를 확실히 기재하도록.",
+      "new_translation": "【미우라】\\n요시모토 형사,\\n조서에 그 내용을 확실히\\n기록하도록.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5033,
+      "source_index": "0x000d0136",
+      "source_ja_raw": "【吉本】\\nわかりました。",
+      "source_ja_applied": "【吉本】\\nわかりました。",
+      "source_ja_reviewed": "【吉本】\\nわかりました。",
+      "old_translation": "【요시모토】\\n알았습니다.",
+      "new_translation": "【요시모토】\\n알겠습니다.",
+      "speaker": "요시모토",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5034,
+      "source_index": "0x000d01a1",
+      "source_ja_raw": "【光志】\\n（ゲッ……！？\\nや、やばい……\\nもっと慎声《しんちょう》にいかないと……）",
+      "source_ja_applied": "【光志】\\n（ゲッ……！？\\nや、やばい……\\nもっと慎声《しんちょう》にいかないと……）",
+      "source_ja_reviewed": "【光志】\\n（ゲッ……！？\\nや、やばい……\\nもっと慎声《しんちょう》にいかないと……）",
+      "old_translation": "【코우지】\\n(겟……!?\\n야, 위험...\\n더 신중하게 가지 않으면\\n......)",
+      "new_translation": "【코우지】\\n(젠장……!?\\n이, 이러다간 안 돼……\\n좀 더 신중하게 대답해야 해……)",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5035,
+      "source_index": "0x000d02a8",
+      "source_ja_raw": "【退職】\\nお前を濃車させたという\\nタクシーは存在しない！\\nこれをどう説間するつもりだ！？",
+      "source_ja_applied": "【三浦】\\nお前を乗車させたという\\nタクシーは存在しない！\\nこれをどう説間するつもりだ！？",
+      "source_ja_reviewed": "【三浦】\\nお前を乗車させたという\\nタクシーは存在しない！\\nこれをどう説間するつもりだ！？",
+      "old_translation": "【미우라】\\n너를 농차시켰다는\\n택시는 존재하지 않는다! \\n 이것을 어떻게 설명하겠습니다! ?",
+      "new_translation": "【미우라】\\n널 태웠다는 택시는\\n존재하지 않는다!\\n이걸 어떻게 설명할 셈이지!?",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "택시"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5036,
+      "source_index": "0x000d03fa",
+      "source_ja_raw": "【光志】\\nそれはオレが濃ったタクシーが\\nたまたま白タクだったからだ！",
+      "source_ja_applied": "【光志】\\nそれはオレが乗ったタクシーが\\nたまたま白タクだったからだ！",
+      "source_ja_reviewed": "【光志】\\nそれはオレが乗ったタクシーが\\nたまたま白タクだったからだ！",
+      "old_translation": "【코우지】\\n그것은 내가 진한 택시가\\n 우연히 하얀 탁이었기 때문이다!",
+      "new_translation": "【코우지】\\n내가 탄 택시는\\n우연히 무허가 택시였던 거야!",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "택시"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5037,
+      "source_index": "0x000d048a",
+      "source_ja_raw": "【退職】\\n白タク、だと？\\nそれは本気で言っているのか？",
+      "source_ja_applied": "【三浦】\\n白タク、だと？\\nそれは本気で言っているのか？",
+      "source_ja_reviewed": "【三浦】\\n白タク、だと？\\nそれは本気で言っているのか？",
+      "old_translation": "【미우라】\\n흰색 탁, 그럼? \\n그것은 진심으로 말하는가?",
+      "new_translation": "【미우라】\\n무허가 택시라고?\\n진심으로 하는 말인가?",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5038,
+      "source_index": "0x000d0517",
+      "source_ja_raw": "【光志】\\nああ、本気も本気さ。\\nそう考えれば、新褄《つじつま》が合う。",
+      "source_ja_applied": "【光志】\\nああ、本気も本気さ。\\nそう考えれば、新褄《つじつま》が合う。",
+      "source_ja_reviewed": "【光志】\\nああ、本気も本気さ。\\nそう考えれば、新褄《つじつま》が合う。",
+      "old_translation": "【코우지】\\n아, 진심도 진심. \\n그렇게 생각하면, 츠지가 맞는다.",
+      "new_translation": "【코우지】\\n그래, 진심이야.\\n그렇게 생각하면 앞뒤가 맞아.",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5039,
+      "source_index": "0x000d05b2",
+      "source_ja_raw": "【退職】\\n…………",
+      "source_ja_applied": "【三浦】\\n…………",
+      "source_ja_reviewed": "【三浦】\\n…………",
+      "old_translation": "【미우라】\\n…………",
+      "new_translation": "【미우라】\\n…………",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5040,
+      "source_index": "0x000d0611",
+      "source_ja_raw": "【退職】\\nたしかにお前の言う通り、\\n白タクに濃車したと考えれば、\\n関係者、第退者の証言がすべて矛盾《むじゅん》のないものになる。",
+      "source_ja_applied": "【三浦】\\nたしかにお前の言う通り、\\n白タクに乗車したと考えれば、\\n関係者、第三者の証言がすべて矛盾《むじゅん》のないものになる。",
+      "source_ja_reviewed": "【三浦】\\nたしかにお前の言う通り、\\n白タクに乗車したと考えれば、\\n関係者、第三者の証言がすべて矛盾《むじゅん》のないものになる。",
+      "old_translation": "【미우라】\\n확실히 너가 말하는대로,\\n흰색 탁에 농차했다고 생각하면,\\n관계자, 무례자의 증언이 모두\\n모순이\\n없는 것이 된다.",
+      "new_translation": "【미우라】\\n확실히 네 말대로\\n무허가 택시를 탔다고 생각하면\\n관계자와 제삼자의 증언이\\n모두 모순 없이 설명된다.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "증언"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5041,
+      "source_index": "0x000d06a0",
+      "source_ja_raw": "【退職】\\nいいだろう。\\n今の恋点では、お前の主張を認めよう。",
+      "source_ja_applied": "【三浦】\\nいいだろう。\\n今の恋点では、お前の主張を認めよう。",
+      "source_ja_reviewed": "【三浦】\\nいいだろう。\\n今の恋点では、お前の主張を認めよう。",
+      "old_translation": "【미우라】\\n좋을 것이다. \\n지금은 너의 수첩을 인정하자.",
+      "new_translation": "【미우라】\\n좋아.\\n지금은 네 주장을 인정하도록 하지.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5042,
+      "source_index": "0x000d0758",
+      "source_ja_raw": "【光志】\\n（よし！）",
+      "source_ja_applied": "【光志】\\n（よし！）",
+      "source_ja_reviewed": "【光志】\\n（よし！）",
+      "old_translation": "【코우지】\\n(좋아!)",
+      "new_translation": "【코우지】\\n(좋아!)",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5043,
+      "source_index": "0x000d07d0",
+      "source_ja_raw": "【退職】\\nだが、白タクという存在自体が\\nあやふやなものだ。",
+      "source_ja_applied": "【三浦】\\nだが、白タクという存在自体が\\nあやふやなものだ。",
+      "source_ja_reviewed": "【三浦】\\nだが、白タクという存在自体が\\nあやふやなものだ。",
+      "old_translation": "【미우라】\\n이지만, 흰색 탁이라는 존재 자체가\\n아야후야인 것이다.",
+      "new_translation": "【미우라】\\n하지만 무허가 택시라는 존재 자체가\\n불확실한 거야.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5044,
+      "source_index": "0x000d082d",
+      "source_ja_raw": "【退職】\\nまた、白タクに濃ったとしても、\\nすぐにタクシーを降りて殺害現場に\\n向かったという婚釈《かいしゃく》だってできる。",
+      "source_ja_applied": "【三浦】\\nまた、白タクに乗ったとしても、\\nすぐにタクシーを降りて殺害現場に\\n向かったという婚釈《かいしゃく》だってできる。",
+      "source_ja_reviewed": "【三浦】\\nまた、白タクに乗ったとしても、\\nすぐにタクシーを降りて殺害現場に\\n向かったという婚釈《かいしゃく》だってできる。",
+      "old_translation": "【미우라】\\n또 흰 택시를 탔다고 해도\\n곧바로 내려 피해 현장으로 달려갔다는 해석도 가능하지.",
+      "new_translation": "【미우라】\\n또 무허가 택시를 탔다고 해도\\n곧바로 내려서 살해 현장으로\\n갔다는 해석도 가능하지.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "택시"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5045,
+      "source_index": "0x000d0917",
+      "source_ja_raw": "【退職】\\nそのタクシーに濃って自宅まで行ったという\\n証拠《しょうこ》がなければお前のアリバイは証間されない。\\n……それを触れないことだな。",
+      "source_ja_applied": "【三浦】\\nそのタクシーに乗って自宅まで行ったという\\n証拠《しょうこ》がなければお前のアリバイは証間されない。\\n……それを触れないことだな。",
+      "source_ja_reviewed": "【三浦】\\nそのタクシーに乗って自宅まで行ったという\\n証拠《しょうこ》がなければお前のアリバイは証間されない。\\n……それを触れないことだな。",
+      "old_translation": "【미우라】\\n그 택시에 진하게 집까지 갔다는\\n증거가 없으면 너의 알리바이는\\n증명되지\\n않는다. \\n… … 그것을 만지지 않는 것이다.",
+      "new_translation": "【미우라】\\n그 택시를 타고 집까지 갔다는\\n증거가 없으면 네 알리바이는\\n증명되지 않는다.\\n……그 점은 건드리지 않는 게\\n좋겠군.",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [
+        "알리바이",
+        "택시"
+      ],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5046,
+      "source_index": "0x000d09ca",
+      "source_ja_raw": "【光志】\\n…………",
+      "source_ja_applied": "【光志】\\n…………",
+      "source_ja_reviewed": "【光志】\\n…………",
+      "old_translation": "【코우지】\\n…………",
+      "new_translation": "【코우지】\\n…………",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5047,
+      "source_index": "0x000d0a6c",
+      "source_ja_raw": "【退職】\\n凶器《きょうき》となった拳銃《けんじゅう》には、お前の指紋《しもん》がついていた。\\nこれはお前が実行犯であるという\\nなによりの証拠《しょうこ》じゃないのか？",
+      "source_ja_applied": "【三浦】\\n凶器《きょうき》となった拳銃《けんじゅう》には、お前の指紋《しもん》がついていた。\\nこれはお前が実行犯であるという\\nなによりの証拠《しょうこ》じゃないのか？",
+      "source_ja_reviewed": "【三浦】\n凶器となった拳銃には、お前の指紋がついていた。\nこれはお前が実行犯であるという\nなによりの証拠じゃないのか？",
+      "old_translation": "【미우라】\\n경기가 된 권총에는, 너의 지문이\\n붙어\\n있었다. \\n이것은 네가 실행 남아 있다는\\n무엇보다의 증거가 아닌가?",
+      "new_translation": "【미우라】\\n범행에 사용된 권총에는\\n네 지문이 묻어 있었다.\\n이건 네가 실행범이라는\\n무엇보다 확실한 증거 아닌가?",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5048,
+      "source_index": "0x000d0bf4",
+      "source_ja_raw": "【光志】\\nライトブルーの駆犯カメラに、\\nオレが挙ってたカウンターを\\n映してるものがあった。",
+      "source_ja_applied": "【光志】\\nライトブルーの駆犯カメラに、\\nオレが挙ってたカウンターを\\n映してるものがあった。",
+      "source_ja_reviewed": "【光志】\\nライトブルーの駆犯カメラに、\\nオレが挙ってたカウンターを\\n映してるものがあった。",
+      "old_translation": "【코우지】\\n라이트 블루의 발잔 카메라에,\\n나가 앉아 있던 카운터를\\n발하고 있는 것이 있었다.",
+      "new_translation": "【코우지】\\n라이트 블루의 감시 카메라에\\n내가 앉아 있던 카운터를\\n찍은 영상이 있었어.",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5049,
+      "source_index": "0x000d0c61",
+      "source_ja_raw": "【光志】\\nそこにはテーブルに枚《つ》っ武《ぷ》してるオレに\\n近づく、綾《あや》しい影《かげ》が映ってた。",
+      "source_ja_applied": "【光志】\\nそこにはテーブルに枚《つ》っ武《ぷ》してるオレに\\n近づく、綾《あや》しい影《かげ》が映ってた。",
+      "source_ja_reviewed": "【光志】\\nそこにはテーブルに枚《つ》っ武《ぷ》してるオレに\\n近づく、綾《あや》しい影《かげ》が映ってた。",
+      "old_translation": "【코우지】\\n거기에는 테이블에 쌓아 올리고 있는\\n나에게\\n가까워지는, 시원한 그림자가\\n나왔다.",
+      "new_translation": "【코우지】\\n거기에는 테이블에 고개를 숙이고\\n있던\\n나에게 다가오는 수상한 그림자가\\n찍혀 있었어.",
+      "speaker": "코우지",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    },
+    {
+      "order": 5050,
+      "source_index": "0x000d0d0d",
+      "source_ja_raw": "【退職】\\nなに？\\n綾《あや》しい影《かげ》、だと……？",
+      "source_ja_applied": "【三浦】\\nなに？\\n綾《あや》しい影《かげ》、だと……？",
+      "source_ja_reviewed": "【三浦】\\nなに？\\n綾《あや》しい影《かげ》、だと……？",
+      "old_translation": "【미우라】\\n뭐야? \\n 능숙한 그림자,\\n그렇다면......?",
+      "new_translation": "【미우라】\\n뭐라고?\\n수상한 그림자라고……?",
+      "speaker": "미우라",
+      "scene": "묵비권 심문과 무허가 택시 알리바이",
+      "relationship_context": "미우라는 질문의 함정과 수사 기록으로 코우지의 알리바이를 흔든다. 코우지는 미야카미 긴자의 무허가 택시를 근거로 반박한다.",
+      "terms": [],
+      "uncertainty": [
+        "원문 복원 과정에서 손상된 글자와 인명·지명이 포함되어 문맥으로 보정함"
+      ],
+      "confidence": 0.78,
+      "status": "retranslated_v2"
+    }
+  ]
+}
