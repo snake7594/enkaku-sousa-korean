@@ -26,6 +26,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--stream", type=Path, default=ROOT / "build" / "stream0.bin")
     parser.add_argument("--band", type=int, default=26, help="pixels from the bottom")
+    parser.add_argument("--top", type=int, default=40, help="candidates to show")
     parser.add_argument("--out", type=Path, default=ROOT / "build" / "nameplates.png")
     args = parser.parse_args()
 
@@ -45,12 +46,15 @@ def main() -> None:
         ink = (np.abs(luma - floor) > 60) & opaque
         rows = ink.sum(axis=1)
         # text is a few bright rows, not the whole band
-        busy = (rows > 6).sum()
-        if 4 <= busy <= args.band - 4 and ink.mean() > 0.03:
+        busy = (rows > 4).sum()
+        # The first pass demanded a lot of ink and caught 11 of about two dozen plates.
+        # A name set in three characters covers far less of the band than one set in six,
+        # so the floor has to be low enough for the short ones.
+        if 3 <= busy <= args.band - 2 and ink.mean() > 0.012:
             scored.append((ink.mean(), tex))
 
     scored.sort(key=lambda s: -s[0])
-    picked = [t for _, t in scored[:32]]
+    picked = [t for _, t in scored[: args.top]]
     print(f"{len(picked)} candidates with a text-shaped band near the bottom")
 
     font = ImageFont.truetype(r"C:\Windows\Fonts\consola.ttf", 14)

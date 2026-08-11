@@ -1,0 +1,118 @@
+{
+ "schema": "enkaku_charmap_adjudication_v1",
+ "disputed_slots": 175,
+ "plates_glyph_map_wins": 4,
+ "plates_ledger_map_wins": 0,
+ "disputed_slots_vindicated_by_a_plate": [
+  243,
+  429,
+  482,
+  568
+ ],
+ "plates": [
+  {
+   "name": "水無月葵",
+   "glyph_map": 7,
+   "ledger_map": 0,
+   "disputed_slots": [
+    429
+   ]
+  },
+  {
+   "name": "神崎茜",
+   "glyph_map": 0,
+   "ledger_map": 0,
+   "disputed_slots": []
+  },
+  {
+   "name": "近藤克美",
+   "glyph_map": 9,
+   "ledger_map": 9,
+   "disputed_slots": []
+  },
+  {
+   "name": "吉本清香",
+   "glyph_map": 2,
+   "ledger_map": 0,
+   "disputed_slots": [
+    568
+   ]
+  },
+  {
+   "name": "水谷朝露",
+   "glyph_map": 0,
+   "ledger_map": 0,
+   "disputed_slots": []
+  },
+  {
+   "name": "三浦正信",
+   "glyph_map": 1,
+   "ledger_map": 1,
+   "disputed_slots": []
+  },
+  {
+   "name": "新城法子",
+   "glyph_map": 26,
+   "ledger_map": 26,
+   "disputed_slots": []
+  },
+  {
+   "name": "白川安代",
+   "glyph_map": 2,
+   "ledger_map": 2,
+   "disputed_slots": []
+  },
+  {
+   "name": "七芝伊月",
+   "glyph_map": 0,
+   "ledger_map": 0,
+   "disputed_slots": []
+  },
+  {
+   "name": "吉本ユミ",
+   "glyph_map": 9,
+   "ledger_map": 9,
+   "disputed_slots": []
+  },
+  {
+   "name": "白川悟",
+   "glyph_map": 0,
+   "ledger_map": 0,
+   "disputed_slots": []
+  },
+  {
+   "name": "斉藤佳代",
+   "glyph_map": 29,
+   "ledger_map": 0,
+   "disputed_slots": [
+    243
+   ]
+  },
+  {
+   "name": "斉藤志朗",
+   "glyph_map": 0,
+   "ledger_map": 0,
+   "disputed_slots": []
+  },
+  {
+   "name": "白川一朗",
+   "glyph_map": 0,
+   "ledger_map": 0,
+   "disputed_slots": []
+  },
+  {
+   "name": "白川真二",
+   "glyph_map": 61,
+   "ledger_map": 0,
+   "disputed_slots": [
+    482
+   ]
+  },
+  {
+   "name": "白川美佐恵",
+   "glyph_map": 2,
+   "ledger_map": 2,
+   "disputed_slots": []
+  }
+ ]
+}
