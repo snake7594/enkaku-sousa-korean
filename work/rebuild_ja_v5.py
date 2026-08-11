@@ -1,21 +1,20 @@
-"""Rebuild the Japanese source without the stale ledger overriding the glyph readings.
+"""Build the Japanese source from readings rather than from guesses.
 
-rebuild_ja_corrected.py starts from charmap_quality_corrected.json -- the pass that rendered
-each glyph and read it -- and then applies charmap_additional_confirmed.json's
-character_confirmations on top.  The ledger is the older, context-guessed pass, so for 175
-slots a guess overwrites a reading.  That is how 斉藤佳代 came out 勝代 and 白川真二 came out
-真了.
+Three passes wrote the glyph map, and rebuild_ja_corrected.py applied them in the wrong
+order: it starts from charmap_quality_corrected.json, which holds what each glyph looked like
+when it was rendered and read, and then lets charmap_additional_confirmed.json overwrite it,
+which is the older pass that guessed from context.  So a guess beat a reading on 175 slots.
 
-The name plates settle it without argument.  They are pictures of text, so their kanji are
-ground truth, and where a disputed slot spells a plate name the glyph map spells the plate's
-own name 4 times out of 4 -- 白川真二 61x, 斉藤佳代 29x, 水無月葵 7x, 吉本清香 2x -- while the
-ledger spells nothing.  Not one plate goes the other way.
+The plates decide it, because a plate is a picture and a picture has no glyph table in it.
+Counting the plate names in the script, the readings spell them 4 times out of 4 -- 白川真二
+61x, 斉藤佳代 29x, 水無月葵 7x, 吉本清香 2x -- and the guesses spell none.
 
-So character_confirmations are skipped exactly where they contradict a glyph_image_reading,
-and kept everywhere else.  Phrase and scoped confirmations are untouched: those name a whole
-word rather than a lone slot, and they are what recovered 播磨 and 宮上銀座.
+charmap_glyph_audit.json is then a further 54 slots that no pass had ever looked at, read the
+same way.  That is where 従業員, 定休日, 樋口, 音源, 白川一朗 and 水無月幸司 come back.
 
-Written to a new file.  The old one stays until the translation has caught up with it.
+Order here is: read the glyph, then let a confirmation override only if it is not arguing
+with a reading, then apply phrase confirmations, which name a whole word and outrank
+everything.  Writes a new file and leaves the old one alone.
 """
 
 from __future__ import annotations
@@ -34,13 +33,20 @@ TOKEN = re.compile(r"\[(\d+)\]")
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--previous", type=Path, default=FONT / "script_full_ja_corrected.tsv")
-    parser.add_argument("--out", type=Path, default=FONT / "script_full_ja_v4.tsv")
-    parser.add_argument("--report", type=Path, default=ROOT / "build" / "ja_v4_report.json")
+    parser.add_argument("--audit", type=Path, default=FONT / "charmap_glyph_audit.json")
+    parser.add_argument("--out", type=Path, default=FONT / "script_full_ja_v5.tsv")
+    parser.add_argument("--charmap-out", type=Path, default=FONT / "charmap_v5.json")
+    parser.add_argument("--report", type=Path, default=ROOT / "build" / "ja_v5_report.json")
     args = parser.parse_args()
 
     quality = json.loads((FONT / "charmap_quality_corrected.json").read_text(encoding="utf-8"))
     mapping = {int(e["index"]): e["char"] for e in quality}
-    by_glyph = {int(e["index"]) for e in quality if e.get("source") == "glyph_image_reading"}
+    read_by_eye = {int(e["index"]) for e in quality if e.get("source") == "glyph_image_reading"}
+
+    audit = json.loads(args.audit.read_text(encoding="utf-8"))
+    for entry in audit["readings"]:
+        mapping[int(entry["slot"])] = entry["char"]
+        read_by_eye.add(int(entry["slot"]))
 
     extra = json.loads((FONT / "charmap_additional_confirmed.json").read_text(encoding="utf-8"))
     applied, skipped = 0, []
@@ -50,9 +56,8 @@ def main() -> None:
             continue
         for index, char in zip(ids, confirmed):
             slot = int(index)
-            if slot in by_glyph and mapping.get(slot) != char:
-                skipped.append({"slot": slot, "glyph_read": mapping.get(slot),
-                                "ledger_said": char})
+            if slot in read_by_eye and mapping.get(slot) != char:
+                skipped.append({"slot": slot, "read": mapping.get(slot), "guessed": char})
                 continue
             mapping[slot] = char
             applied += 1
@@ -99,18 +104,23 @@ def main() -> None:
                 changed.append({"offset": row["offset"], "before": old, "after": text})
             writer.writerow({"offset": row["offset"], "lines": row["lines"], "text": text})
 
+    args.charmap_out.write_text(json.dumps(
+        {"schema": "enkaku_charmap_v5", "note": "readings first, guesses only where they do "
+         "not contradict a reading, phrase confirmations last",
+         "map": {str(k): v for k, v in sorted(mapping.items())}},
+        ensure_ascii=False, indent=1), encoding="utf-8")
     args.report.write_text(json.dumps({
-        "schema": "enkaku_ja_v4_v1", "rows": len(rows), "changed_rows": len(changed),
+        "schema": "enkaku_ja_v5_v1", "rows": len(rows), "changed_rows": len(changed),
+        "audit_readings": len(audit["readings"]),
         "confirmations_applied": applied, "confirmations_skipped": len(skipped),
         "unresolved_glyphs": unresolved,
         "skipped": sorted(skipped, key=lambda s: s["slot"]), "changes": changed,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
 
-    print(f"{applied} ledger confirmations applied, {len(skipped)} skipped as contradicted")
+    print(f"{len(audit['readings'])} audited readings + the glyph pass; "
+          f"{applied} guesses kept, {len(skipped)} dropped as contradicted")
     print(f"{len(changed)} of {len(rows)} rows change, {unresolved} glyphs still unresolved")
-    for c in changed[:6]:
-        print(f"   {c['offset']}\n     - {c['before'][:76]}\n     + {c['after'][:76]}")
-    print(f"-> {args.out}\n-> {args.report}")
+    print(f"-> {args.out}\n-> {args.charmap_out}\n-> {args.report}")
 
 
 if __name__ == "__main__":
