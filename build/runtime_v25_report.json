@@ -1,18 +1,18 @@
 {
   "schema": "enkaku-sousa-runtime-reference-candidate/v1",
   "source": "D:\\psp\\원격수사\\build\\stream1_ko_retranslated_v2_font.bin",
-  "translation": "D:\\psp\\원격수사\\build\\translation_ko_v2_kayo.tsv",
+  "translation": "D:\\psp\\원격수사\\build\\translation_ko_v5.tsv",
   "slots": "D:\\psp\\원격수사\\build\\korean_slots_retranslated_v2.json",
-  "output": "D:\\psp\\원격수사\\build\\stream1_ko_v23.bin",
+  "output": "D:\\psp\\원격수사\\build\\stream1_ko_v25.bin",
   "original_size": 1509923,
-  "output_size": 1667884,
+  "output_size": 1667282,
   "text": {
     "rows": 9626,
     "usable_spans": 9626,
     "failed": 0,
     "overlap": 0,
     "old_bytes": 449595,
-    "new_bytes": 607556
+    "new_bytes": 606954
   },
   "collection": {
     "blocks_used_for_boundary_scan": 8822,

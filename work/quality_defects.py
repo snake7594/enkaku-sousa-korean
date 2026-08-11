@@ -50,14 +50,16 @@ def rows(path: Path) -> dict[str, str]:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--ja", type=Path, default=JA)
+    parser.add_argument("--ko", type=Path, default=KO)
     parser.add_argument("--out", type=Path,
                         default=ROOT / "build" / "dialogue_defects.json")
     parser.add_argument("--show", type=int, default=4)
     args = parser.parse_args()
 
-    ja, ko = rows(JA), rows(KO)
+    ja, ko = rows(args.ja), rows(args.ko)
     keys = [k for k in ja if k in ko]
-    print(f"{len(keys)} pairs from {JA.name} / {KO.name}")
+    print(f"{len(keys)} pairs from {args.ja.name} / {args.ko.name}")
 
     found = {"truncation": [], "spacing": [], "punctuation": [], "artefact": []}
     for key in keys:

@@ -1,0 +1,38 @@
+{
+ "schema": "enkaku_displaced_runs_v1",
+ "rows": 9626,
+ "runs": 3,
+ "rows_displaced": 18,
+ "detail": [
+  {
+   "first_index": 5405,
+   "last_index": 5412,
+   "from": "0x000dee6c",
+   "to": "0x000df2ff",
+   "rows": 8,
+   "displacement": 2,
+   "ja_at_start": "口論していたことを肯定しては意味がない。\\nまずは本当に口論はあったのか、\\nそしてどのくらい激しい口論だったのかを\\n",
+   "ko_at_start": "말다툼을 했다는 사실을 인정해서는\\n의미가 없다.\\n먼저 정말 말다툼이 있었는지,\\n그리고 얼마나 심한 말다"
+  },
+  {
+   "first_index": 6125,
+   "last_index": 6128,
+   "from": "0x000f3754",
+   "to": "0x000f3c1d",
+   "rows": 4,
+   "displacement": -6,
+   "ja_at_start": "【三浦】\\nお前が考える真犯人……\\nこのあとの怖問《じんもん》で、聞かせてもらおう。",
+   "ko_at_start": "【미우라】\\n다음 심문에서 말해 주지."
+  },
+  {
+   "first_index": 9333,
+   "last_index": 9338,
+   "from": "0x00156343",
+   "to": "0x0015662c",
+   "rows": 6,
+   "displacement": -6,
+   "ja_at_start": "【朝露】\\n水無月は０時５分頃《ごろ》に退店したから、\\nそれを確認して、\\nアタシはＶＩＰルームに入ったわ。",
+   "ko_at_start": "【아사츠유】\\n미나즈키는 0시 5분쯤 바를\\n나갔어.\\n그걸 확인한 뒤\\n나는 VIP룸에 들어갔지."
+  }
+ ]
+}

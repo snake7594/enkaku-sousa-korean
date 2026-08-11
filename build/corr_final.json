@@ -1,0 +1,26 @@
+{
+ "schema": "enkaku_correspondence_v1",
+ "rows": 9626,
+ "flagged": 1,
+ "worst_windows": [
+  {
+   "from_index": 2650,
+   "to_index": 2700,
+   "flagged": 1
+  }
+ ],
+ "flags": [
+  {
+   "index": 2654,
+   "offset": "0x00084ddd",
+   "missing": [
+    "沼崎"
+   ],
+   "spurious": [
+    "시라카와"
+   ],
+   "ja": "［沼崎栄太郎と一朗の関係］",
+   "ko": "[에이타로와 시라카와 이치로의\\n관계]"
+  }
+ ]
+}
