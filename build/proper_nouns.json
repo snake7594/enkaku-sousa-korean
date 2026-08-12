@@ -1,0 +1,448 @@
+{
+ "schema": "enkaku_proper_nouns_v1",
+ "terms": [
+  {
+   "term": "水谷",
+   "expected": "미즈타니",
+   "rows": 182,
+   "rows_with_expected": 146,
+   "rows_without": 36,
+   "offsets_without": [
+    "0x0005da41",
+    "0x000832f5",
+    "0x00083446",
+    "0x0008376a",
+    "0x00084075",
+    "0x00084e15",
+    "0x00087758",
+    "0x000b1876"
+   ],
+   "words_in_those_rows": [
+    "아사츠유",
+    "미우라",
+    "에이타",
+    "콘도",
+    "노리코",
+    "알리바이"
+   ]
+  },
+  {
+   "term": "七芝",
+   "expected": "나나시바",
+   "rows": 240,
+   "rows_with_expected": 231,
+   "rows_without": 9,
+   "offsets_without": [
+    "0x00132c76",
+    "0x001352c7",
+    "0x00135342",
+    "0x0013542f",
+    "0x001354cf",
+    "0x001358c9",
+    "0x001359fa",
+    "0x00135a99"
+   ],
+   "words_in_those_rows": [
+    "코우지",
+    "그럼",
+    "몸을",
+    "씻으",
+    "아니야",
+    "그래"
+   ]
+  },
+  {
+   "term": "清香",
+   "expected": "사야카",
+   "rows": 5,
+   "rows_with_expected": 1,
+   "rows_without": 4,
+   "offsets_without": [
+    "0x0013c062",
+    "0x00153cbc",
+    "0x00169dd9",
+    "0x00169f18"
+   ],
+   "words_in_those_rows": [
+    "요시모토",
+    "관계자",
+    "성을",
+    "가진",
+    "스미카뿐인데",
+    "아사츠유"
+   ]
+  },
+  {
+   "term": "水無月",
+   "expected": "미나즈키",
+   "rows": 160,
+   "rows_with_expected": 157,
+   "rows_without": 3,
+   "offsets_without": [
+    "0x0004aca0",
+    "0x0004ae1b",
+    "0x00139ee7"
+   ],
+   "words_in_those_rows": [
+    "노리코",
+    "사람",
+    "아나요",
+    "미즈타니",
+    "아사츠유",
+    "누마사키"
+   ]
+  },
+  {
+   "term": "白川",
+   "expected": "시라카와",
+   "rows": 425,
+   "rows_with_expected": 422,
+   "rows_without": 3,
+   "offsets_without": [
+    "0x00047802",
+    "0x000f3c1d",
+    "0x000f41a2"
+   ],
+   "words_in_those_rows": [
+    "미우라",
+    "말인",
+    "코우지",
+    "전부터",
+    "사토루",
+    "미나즈키"
+   ]
+  },
+  {
+   "term": "沼崎",
+   "expected": "누마사키",
+   "rows": 147,
+   "rows_with_expected": 144,
+   "rows_without": 3,
+   "offsets_without": [
+    "0x00084dc4",
+    "0x00084ddd",
+    "0x000f8ffb"
+   ],
+   "words_in_those_rows": [
+    "에이타로",
+    "알리바",
+    "시라카",
+    "이치로",
+    "관계",
+    "코우지"
+   ]
+  },
+  {
+   "term": "佳代",
+   "expected": "가요",
+   "rows": 55,
+   "rows_with_expected": 52,
+   "rows_without": 3,
+   "offsets_without": [
+    "0x00042943",
+    "0x00042ff5",
+    "0x000f3c1d"
+   ],
+   "words_in_those_rows": [
+    "사이토",
+    "어머니",
+    "등록되어",
+    "노리코",
+    "고객",
+    "정보"
+   ]
+  },
+  {
+   "term": "真二",
+   "expected": "신지",
+   "rows": 167,
+   "rows_with_expected": 164,
+   "rows_without": 3,
+   "offsets_without": [
+    "0x0004831a",
+    "0x0008b307",
+    "0x0011f8c8"
+   ],
+   "words_in_those_rows": [
+    "사토루",
+    "코우지",
+    "그런데",
+    "신경",
+    "쓰이",
+    "시라카"
+   ]
+  },
+  {
+   "term": "幸司",
+   "expected": "코우지",
+   "rows": 207,
+   "rows_with_expected": 204,
+   "rows_without": 3,
+   "offsets_without": [
+    "0x000486cc",
+    "0x0013c486",
+    "0x00169ed2"
+   ],
+   "words_in_those_rows": [
+    "미나즈키",
+    "노리코",
+    "헤에",
+    "그렇게",
+    "대단한",
+    "사람인가요"
+   ]
+  },
+  {
+   "term": "桜蔭",
+   "expected": "오인",
+   "rows": 19,
+   "rows_with_expected": 17,
+   "rows_without": 2,
+   "offsets_without": [
+    "0x00051342",
+    "0x0005134b"
+   ],
+   "words_in_those_rows": [
+    "준텐",
+    "고등학교"
+   ]
+  },
+  {
+   "term": "神崎",
+   "expected": "간자키",
+   "rows": 3,
+   "rows_with_expected": 1,
+   "rows_without": 2,
+   "offsets_without": [
+    "0x00051677",
+    "0x0005187f"
+   ],
+   "words_in_those_rows": [
+    "노리코",
+    "리키자키",
+    "아카네",
+    "씨와",
+    "미나즈키",
+    "아오"
+   ]
+  },
+  {
+   "term": "斉藤",
+   "expected": "사이토",
+   "rows": 142,
+   "rows_with_expected": 140,
+   "rows_without": 2,
+   "offsets_without": [
+    "0x000f3c1d",
+    "0x000f4101"
+   ],
+   "words_in_those_rows": [
+    "미우라",
+    "자네",
+    "어머니",
+    "누군가",
+    "떠밀렸다",
+    "의혹"
+   ]
+  },
+  {
+   "term": "一朗",
+   "expected": "이치로",
+   "rows": 157,
+   "rows_with_expected": 155,
+   "rows_without": 2,
+   "offsets_without": [
+    "0x0007fd01",
+    "0x000f3c1d"
+   ],
+   "words_in_those_rows": [
+    "가쓰요",
+    "아사츠유",
+    "관계",
+    "미우라",
+    "자네",
+    "어머니"
+   ]
+  },
+  {
+   "term": "三浦",
+   "expected": "미우라",
+   "rows": 908,
+   "rows_with_expected": 907,
+   "rows_without": 1,
+   "offsets_without": [
+    "0x0004089c"
+   ],
+   "words_in_those_rows": [
+    "코우지",
+    "고마워",
+    "노리코",
+    "이제",
+    "숙적",
+    "반격할"
+   ]
+  },
+  {
+   "term": "伊月",
+   "expected": "이즈키",
+   "rows": 1,
+   "rows_with_expected": 0,
+   "rows_without": 1,
+   "offsets_without": [
+    "0x00145d30"
+   ],
+   "words_in_those_rows": [
+    "코우지",
+    "붙임성",
+    "좋은",
+    "녀석",
+    "나나시바",
+    "이츠키"
+   ]
+  },
+  {
+   "term": "新城",
+   "expected": "신조",
+   "rows": 55,
+   "rows_with_expected": 55,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "近藤",
+   "expected": "콘도",
+   "rows": 261,
+   "rows_with_expected": 261,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "吉本",
+   "expected": "요시모토",
+   "rows": 207,
+   "rows_with_expected": 207,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "樋口",
+   "expected": "히구치",
+   "rows": 129,
+   "rows_with_expected": 129,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "中川",
+   "expected": "나카가와",
+   "rows": 114,
+   "rows_with_expected": 114,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "西島",
+   "expected": "니시지마",
+   "rows": 36,
+   "rows_with_expected": 36,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "田代",
+   "expected": "다시로",
+   "rows": 3,
+   "rows_with_expected": 3,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "朝露",
+   "expected": "아사츠유",
+   "rows": 897,
+   "rows_with_expected": 897,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "志朗",
+   "expected": "시로",
+   "rows": 7,
+   "rows_with_expected": 7,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "美佐恵",
+   "expected": "미사에",
+   "rows": 23,
+   "rows_with_expected": 23,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "安代",
+   "expected": "야스요",
+   "rows": 26,
+   "rows_with_expected": 26,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "克美",
+   "expected": "가쓰미",
+   "rows": 10,
+   "rows_with_expected": 10,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "栄太郎",
+   "expected": "에이타로",
+   "rows": 290,
+   "rows_with_expected": 290,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "晋太郎",
+   "expected": "신타로",
+   "rows": 93,
+   "rows_with_expected": 93,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "澄香",
+   "expected": "스미카",
+   "rows": 15,
+   "rows_with_expected": 15,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  },
+  {
+   "term": "正信",
+   "expected": "마사노부",
+   "rows": 1,
+   "rows_with_expected": 1,
+   "rows_without": 0,
+   "offsets_without": [],
+   "words_in_those_rows": []
+  }
+ ]
+}

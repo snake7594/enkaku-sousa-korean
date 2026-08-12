@@ -36,7 +36,9 @@ NAMES = {
     359: ("マスター", "마스터", 0.95),
     351: ("新城法子", "신조 노리코", 0.95),
     349: ("白川安代", "시라카와 야스요", 0.85),
-    358: ("七芝伊月", "나나시바 이즈키", 0.6),
+    # the game attaches the reading itself -- 七芝《ななしば》伊月《いつき》 -- so this one is
+    # settled, and the plate had the commoner-looking guess rather than the game's own answer
+    358: ("七芝伊月", "나나시바 이츠키", 1.0),
     339: ("吉本ユミ", "요시모토 유미", 0.9),
     # found on a second, looser pass -- the first threshold wanted more ink than a
     # three-character name puts on the band
