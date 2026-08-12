@@ -1,0 +1,9 @@
+{
+ "schema": "enkaku_labels_v1",
+ "note": "The interrogation hint panel: a white heading on a grey bar, with 助言 set as a dark watermark to its right.",
+ "textures": [
+  {"index": 448, "font": "gothic", "labels": [
+    {"box": [8, 10, 158, 35], "ja": "尋問のヒント", "ko": "심문 힌트", "align": "left"},
+    {"box": [288, 3, 380, 39], "ja": "助言", "ko": "조언"}]}
+ ]
+}

@@ -130,20 +130,32 @@ def main() -> None:
             # panel, where clearing to transparent would punch a hole in it, so the fill has
             # to be whatever that box is actually sitting on.
             patch = px[box[1]:box[3] + 1, box[0]:box[2] + 1]
-            behind = patch[patch[:, :, 3] < 170]
-            if (patch[:, :, 3] < 60).sum() > patch[:, :, 3].size * 0.15 or not len(behind):
-                fill = clear
-                draw.rectangle(box, fill=fill)
+            # Only the amount of transparency decides this.  An earlier version also fell back
+            # to clearing when no pixel in the box was translucent, which is exactly the case
+            # for a label on a solid bar -- so the hint panel's grey heading was punched
+            # through to transparent instead of being repainted.
+            if (patch[:, :, 3] < 60).sum() > patch[:, :, 3].size * 0.15:
+                draw.rectangle(box, fill=clear)
             else:
                 # The system menu panel is a vertical gradient, so one flat fill leaves a
                 # visible slab.  Each row gets the commonest colour of that row -- taken
                 # across the whole texture, not just the box, so the sample is background
                 # rather than the rim of the type being removed.
+                lo = max(0, box[0] - 24)
+                hi = min(px.shape[1], box[2] + 25)
                 for y in range(box[1], box[3] + 1):
-                    row = px[y]
-                    quiet = row[row[:, 3] < 170]
+                    # Sample beside the box, never inside it.  Across the whole row the hint
+                    # panel's grey heading bar lost to the dark body beneath it; inside the
+                    # box the bar is fully opaque, so an alpha filter finds nothing and the
+                    # fallback picked up the type being removed.  The margins are background
+                    # by construction.
+                    left, right = px[y, lo:box[0]], px[y, box[2] + 1:hi]
+                    beside = np.concatenate([left, right]) if len(left) or len(right) else px[y]
+                    if not len(beside):
+                        beside = px[y]
+                    quiet = beside[beside[:, 3] < 170]
                     if not len(quiet):
-                        quiet = row
+                        quiet = beside
                     values, counts = np.unique(quiet, axis=0, return_counts=True)
                     draw.rectangle((box[0], y, box[2], y),
                                    fill=tuple(int(v) for v in values[counts.argmax()]))

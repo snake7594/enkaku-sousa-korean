@@ -1,0 +1,132 @@
+{
+ "schema": "enkaku_labels_v1",
+ "note": "The counter strip. Every box here comes from an ink profile, not from reading the ruled image: the weekday row sits at y44..56, not at the y33 the grid suggested, and boxes placed there erased the digits above and the arrow glyphs below. Digits, brackets, arrows and the L/R buttons are deliberately absent so nothing overwrites them.",
+ "textures": [
+  {
+   "index": 408,
+   "font": "gothic",
+   "labels": [
+    {
+     "box": [
+      109,
+      17,
+      187,
+      30
+     ],
+     "ja": "起訴まであと",
+     "ko": "기소까지"
+    },
+    {
+     "box": [
+      195,
+      17,
+      206,
+      30
+     ],
+     "ja": "日",
+     "ko": "일"
+    },
+    {
+     "box": [
+      209,
+      17,
+      221,
+      30
+     ],
+     "ja": "日",
+     "ko": "일"
+    },
+    {
+     "box": [
+      228,
+      17,
+      253,
+      30
+     ],
+     "ja": "拘束",
+     "ko": "구속"
+    },
+    {
+     "box": [
+      134,
+      34,
+      183,
+      46
+     ],
+     "ja": "調査報告",
+     "ko": "조사보고"
+    },
+    {
+     "box": [
+      1,
+      41,
+      15,
+      58
+     ],
+     "ja": "月",
+     "ko": "월"
+    },
+    {
+     "box": [
+      17,
+      41,
+      31,
+      58
+     ],
+     "ja": "火",
+     "ko": "화"
+    },
+    {
+     "box": [
+      32,
+      41,
+      47,
+      58
+     ],
+     "ja": "水",
+     "ko": "수"
+    },
+    {
+     "box": [
+      48,
+      41,
+      63,
+      58
+     ],
+     "ja": "木",
+     "ko": "목"
+    },
+    {
+     "box": [
+      64,
+      41,
+      79,
+      58
+     ],
+     "ja": "金",
+     "ko": "금"
+    },
+    {
+     "box": [
+      81,
+      41,
+      95,
+      58
+     ],
+     "ja": "土",
+     "ko": "토"
+    },
+    {
+     "box": [
+      97,
+      41,
+      111,
+      58
+     ],
+     "ja": "日",
+     "ko": "일"
+    }
+   ]
+  }
+ ]
+}

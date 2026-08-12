@@ -1,0 +1,25 @@
+{
+ "schema": "enkaku_labels_v1",
+ "note": "The prompts above the interrogation answer list. White type on a dark panel with a blue glow, set flush left from x=2.",
+ "asagiri": "tex0403 draws the second character with 雨 over 務, which is 霧 -- but the script writes 朝露 912 times and 朝霧 never, and the line it refers to (「その言葉に愕然としちゃった」) is 朝露's. Whether the texture has a typo or the glyph is simply hard to read at 24px, the person meant is 아사츠유.",
+ "textures": [
+  {"index": 401, "font": "gothic", "labels": [
+    {"box": [2, 2, 253, 30], "ja": "彼女の本心は…", "ko": "그녀의 본심은…", "align": "left"}]},
+  {"index": 402, "font": "gothic", "labels": [
+    {"box": [2, 2, 253, 30], "ja": "聞きたいことは…", "ko": "묻고 싶은 것은…", "align": "left"}]},
+  {"index": 403, "font": "gothic", "labels": [
+    {"box": [2, 2, 253, 30], "ja": "朝霧が愕然とした言葉は…", "ko": "아사츠유가 놀란 말은…",
+     "align": "left"}]},
+  {"index": 404, "font": "gothic", "labels": [
+    {"box": [2, 2, 253, 30], "ja": "無罪になる確率は…", "ko": "무죄가 될 확률은…", "align": "left"}]},
+  {"index": 405, "font": "gothic", "labels": [
+    {"box": [2, 2, 253, 30], "ja": "三浦に質問したいことは…", "ko": "미우라에게 물을 것은…",
+     "align": "left"}]},
+  {"index": 406, "font": "gothic", "labels": [
+    {"box": [2, 2, 253, 30], "ja": "のぞみの実母の死因は…", "ko": "노조미 친어머니의 사인은…",
+     "align": "left"}]},
+  {"index": 407, "font": "gothic", "labels": [
+    {"box": [2, 2, 253, 30], "ja": "白川一朗を見たことは…", "ko": "시라카와 이치로를 본 것은…",
+     "align": "left"}]}
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "schema": "enkaku_labels_v1",
+ "note": "The second HUD atlas. Rows 1 and 2 are orange type on white, laid out on the same 16px grid the first atlas uses -- 11 characters across 176px, 7 across 112. Row 3 is white on an orange band, with 午後 set small and stacked between the two large words.",
+ "textures": [
+  {
+   "index": 410,
+   "font": "gothic",
+   "labels": [
+    {
+     "box": [
+      0,
+      0,
+      31,
+      15
+     ],
+     "ja": "午前",
+     "ko": "오전"
+    },
+    {
+     "box": [
+      32,
+      0,
+      63,
+      15
+     ],
+     "ja": "午後",
+     "ko": "오후"
+    },
+    {
+     "box": [
+      64,
+      0,
+      111,
+      15
+     ],
+     "ja": "休診日",
+     "ko": "휴진일"
+    },
+    {
+     "box": [
+      112,
+      0,
+      143,
+      15
+     ],
+     "ja": "拡大",
+     "ko": "확대"
+    },
+    {
+     "box": [
+      144,
+      0,
+      175,
+      15
+     ],
+     "ja": "縮小",
+     "ko": "축소"
+    },
+    {
+     "box": [
+      0,
+      16,
+      47,
+      31
+     ],
+     "ja": "調べる",
+     "ko": "조사"
+    },
+    {
+     "box": [
+      48,
+      16,
+      79,
+      31
+     ],
+     "ja": "話す",
+     "ko": "대화"
+    },
+    {
+     "box": [
+      80,
+      16,
+      111,
+      31
+     ],
+     "ja": "中止",
+     "ko": "중지"
+    },
+    {
+     "box": [
+      3,
+      33,
+      96,
+      62
+     ],
+     "ja": "定休日",
+     "ko": "정기휴일"
+    },
+    {
+     "box": [
+      97,
+      33,
+      110,
+      62
+     ],
+     "ja": "午後",
+     "ko": "오후",
+     "vertical": true
+    },
+    {
+     "box": [
+      111,
+      33,
+      203,
+      62
+     ],
+     "ja": "休診日",
+     "ko": "휴진일"
+    }
+   ]
+  }
+ ]
+}
