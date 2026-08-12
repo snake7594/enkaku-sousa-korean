@@ -125,7 +125,28 @@ def main() -> None:
             # palette's clear entry carries a grey RGB while another entry is near-black at
             # alpha 22 -- from pure black the near-black entry is the closer match.  Writing
             # the palette's own clear colour removes the choice.
-            draw.rectangle(box, fill=clear)
+            #
+            # And not every label sits on nothing.  The system menu is drawn on an opaque
+            # panel, where clearing to transparent would punch a hole in it, so the fill has
+            # to be whatever that box is actually sitting on.
+            patch = px[box[1]:box[3] + 1, box[0]:box[2] + 1]
+            behind = patch[patch[:, :, 3] < 170]
+            if (patch[:, :, 3] < 60).sum() > patch[:, :, 3].size * 0.15 or not len(behind):
+                fill = clear
+                draw.rectangle(box, fill=fill)
+            else:
+                # The system menu panel is a vertical gradient, so one flat fill leaves a
+                # visible slab.  Each row gets the commonest colour of that row -- taken
+                # across the whole texture, not just the box, so the sample is background
+                # rather than the rim of the type being removed.
+                for y in range(box[1], box[3] + 1):
+                    row = px[y]
+                    quiet = row[row[:, 3] < 170]
+                    if not len(quiet):
+                        quiet = row
+                    values, counts = np.unique(quiet, axis=0, return_counts=True)
+                    draw.rectangle((box[0], y, box[2], y),
+                                   fill=tuple(int(v) for v in values[counts.argmax()]))
             x0, y0, x1, y1 = box
             width, height = x1 - x0 + 1, y1 - y0 + 1
             if label.get("vertical"):
