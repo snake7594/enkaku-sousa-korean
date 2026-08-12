@@ -1,0 +1,14 @@
+{
+ "schema": "enkaku_labels_v1",
+ "patched": [
+  {
+   "index": 415,
+   "labels": 3,
+   "sizes_px": [
+    39,
+    40,
+    45
+   ]
+  }
+ ]
+}

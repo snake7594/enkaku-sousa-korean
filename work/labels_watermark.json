@@ -1,0 +1,10 @@
+{
+ "schema": "enkaku_labels_v1",
+ "note": "The three watermark headings on the dictionary panel, set large and dark on a lighter grey. Found by diffing the patched stream against the original one more time, after everything else in the menu range had been done.",
+ "textures": [
+  {"index": 415, "font": "gothic", "labels": [
+    {"box": [30, 1, 126, 39], "ja": "解説", "ko": "해설"},
+    {"box": [22, 40, 126, 79], "ja": "辞典", "ko": "사전"},
+    {"box": [22, 80, 126, 124], "ja": "詳細", "ko": "상세"}]}
+ ]
+}
