@@ -1,15 +1,31 @@
-"""Decode the images in USRDIR/0001-0004, whose records carry their own header.
+"""Decode the images in USRDIR/0001-0004.
 
-0000 keeps texture metadata in a separate record 0 and stores the pixels bare.  These archives
-do not: each image record starts with its own twelve-byte header and the pixels follow at the
-offset in it.  Reading them the 0000 way produced "512x256 tile 32x32 psm 5" for records of
-1,056 and 2,096 bytes, which is what a wrong reading looks like.
+0000 keeps texture metadata in a separate record 0 and stores its pixels bare.  These archives
+do not.  Each image record carries its own header,
 
-    u16 width, u16 height, u16 tile_w, u16 tile_h, u16 psm, u16 flag, u32 pixel_start
+    u16 width, u16 height, u16 tile_w, u16 tile_h, u16 psm, u16 flag, u32 tile_count
 
-Each stream holds one image and its palette.  The pixel run is often shorter than width*height
--- the tail is transparent and simply not stored -- so the missing rows are filled in as empty
-rather than treated as a failure.
+and the pixels after it are not a continuous run.  From offset 16 they are **tiles with their
+own headers**:
+
+    u16 tile_x, u16 tile_y, 12 bytes reserved, then tile_w x tile_h bytes, 16x8 block swizzled
+
+which is why every arrangement of a continuous run came out torn -- sixteen bytes of header
+were being drawn as pixels at the head of every tile, shifting the rest.  Each tile carries
+its own position, so an image can leave its empty tiles out: a 512x256 that would need 128
+tiles usually stores 120, and the gaps are transparent.
+
+The word at offset 12 reads like an offset and is not one -- it is the tile count, which is
+what makes the arithmetic close exactly:
+
+    banner    16 + 16 x 1040 = 16,656 = the record's length
+    scene     16 + 120 x 1040 = 124,816
+    512x512   16 + 240 x 1040 = 249,616
+
+Reading a banner confirms the rest: `尋問開始` comes out clean.
+
+The whole archive has to be walked by its blocks (see read_blocks.py) rather than by scanning
+for LZ11, or most of the streams are never seen.
 """
 
 from __future__ import annotations
@@ -21,76 +37,57 @@ from pathlib import Path
 import numpy as np
 from PIL import Image
 
-import lzss
+import read_blocks
 import texpack
 
-ROOT = Path(r"D:\psp\원격수사\iso_extract\PSP_GAME\USRDIR")
+ROOT = read_blocks.ROOT
+TILE_HEADER = 0x10
 
 
-def streams(blob: bytes, limit: int = 512):
-    at, found = 0, 0
-    while at < len(blob) - 4 and found < limit:
-        if blob[at] == 0x11:
-            size = int.from_bytes(blob[at + 1:at + 4], "little")
-            if 4096 <= size <= 64 << 20:
-                try:
-                    plain, consumed = lzss.decompress(blob, at, limit=64 << 20)
-                except Exception:
-                    plain = None
-                if plain is not None and len(plain) == size:
-                    found += 1
-                    yield at, plain
-                    at += max(consumed, 4)
-                    continue
-        at += 4
-
-
-def detile(buf: np.ndarray, byte_width: int, height: int,
-           tile_bytes: int, tile_rows: int) -> np.ndarray:
-    """Lay tiles back into a picture, unswizzling inside each one.
-
-    The header carries a tile size and it means it: the pixels are stored one 32x32 tile after
-    another, left to right and top to bottom, not as continuous scanlines.  Treating the run as
-    scanlines is what produced the striped mess -- every tile boundary became a horizontal tear.
-    Inside a tile the usual 16x8 block swizzle still applies.
-    """
-    if tile_bytes <= 0 or tile_rows <= 0 or byte_width % tile_bytes or height % tile_rows:
-        return texpack.unswizzle(buf, byte_width, height)
-    across, down = byte_width // tile_bytes, height // tile_rows
-    tiles = buf.reshape(down * across, tile_rows * tile_bytes)
-    plane = np.empty((height, byte_width), dtype=np.uint8)
-    for n in range(down * across):
-        row, col = divmod(n, across)
-        plane[row * tile_rows:(row + 1) * tile_rows,
-              col * tile_bytes:(col + 1) * tile_bytes] = \
-            (texpack.unswizzle(tiles[n], tile_bytes, tile_rows) if swizzled
-             else tiles[n].reshape(tile_rows, tile_bytes))
-    return plane
-
-
-def decode_stream(plain: bytes):
-    """Return (image, header) for a stream, or (None, header) when it is not a picture."""
+def records_of(plain: bytes):
     first = int.from_bytes(plain[0:4], "little")
     if not 8 <= first <= min(0x4000, len(plain)) or first % 4:
-        return None, None                        # not a record table; some streams are data
-    records = texpack.load_records(plain)
-    if len(records) < 3 or len(records[2]) < 16:
+        return None
+    try:
+        records = texpack.load_records(plain)
+    except Exception:
+        return None
+    return records if len(records) >= 3 else None
+
+
+def decode_record(palette: bytes, record: bytes):
+    """Return (image, header) for one image record, or (None, header) if it is not one."""
+    if len(record) < 16:
         return None, None
-    width, height, tile_w, tile_h, psm, flag = struct.unpack_from("<6H", records[2], 0)
-    start, = struct.unpack_from("<I", records[2], 12)
+    width, height, tile_w, tile_h, psm, flag = struct.unpack_from("<6H", record, 0)
+    count, = struct.unpack_from("<I", record, 12)
     header = dict(width=width, height=height, tile=(tile_w, tile_h), psm=psm,
-                  flag=flag, start=start, palette=len(records[1]), pixels=len(records[2]) - start)
+                  flag=flag, tiles=count)
     if psm not in (4, 5) or not (0 < width <= 4096 and 0 < height <= 4096):
         return None, header
+    if not (0 < tile_w <= width and 0 < tile_h <= height) or width % tile_w or height % tile_h:
+        return None, header
 
-    byte_width = width // 2 if psm == 4 else width
-    raw = records[2][start:]
-    need = byte_width * height
-    if len(raw) < need:
-        raw = raw + bytes(need - len(raw))       # the transparent tail is not stored
-    plane = detile(np.frombuffer(raw[:need], dtype=np.uint8),
-                   byte_width, height,
-                   tile_w // 2 if psm == 4 else tile_w, tile_h)
+    bytes_per_row = tile_w // 2 if psm == 4 else tile_w
+    stride = TILE_HEADER + bytes_per_row * tile_h
+    plane_width = width // 2 if psm == 4 else width
+    header["tiles_full"] = (width // tile_w) * (height // tile_h)
+    if count < 1 or TILE_HEADER + count * stride > len(record):
+        return None, header
+    plane = np.zeros((height, plane_width), dtype=np.uint8)
+
+    body = record[TILE_HEADER:]
+    for n in range(count):
+        at = n * stride
+        # The tile says where it goes: two u16 holding its column and row in the tile grid.
+        # That is what lets an image leave its empty tiles out and still land correctly.
+        col, row = struct.unpack_from("<2H", body, at)
+        if row * tile_h >= height or col * tile_w >= width:
+            continue
+        cell = np.frombuffer(body[at + TILE_HEADER:at + stride], dtype=np.uint8)
+        plane[row * tile_h:(row + 1) * tile_h,
+              col * bytes_per_row:(col + 1) * bytes_per_row] = \
+            texpack.unswizzle(cell, bytes_per_row, tile_h)
 
     if psm == 4:
         indices = np.empty((height, width), dtype=np.uint8)
@@ -98,35 +95,51 @@ def decode_stream(plain: bytes):
         indices[:, 1::2] = plane >> 4
     else:
         indices = plane
-    colours = np.frombuffer(records[1], dtype=np.uint8)
+    colours = np.frombuffer(palette, dtype=np.uint8)
     colours = colours[: (len(colours) // 4) * 4].reshape(-1, 4)
     if colours.shape[0] < 256:
         colours = np.vstack([colours, np.zeros((256 - colours.shape[0], 4), np.uint8)])
     return Image.fromarray(colours[indices], "RGBA"), header
 
 
+def decode_stream(plain: bytes):
+    """Every image in one stream, as (record index, image, header)."""
+    records = records_of(plain)
+    if records is None:
+        return []
+    out = []
+    for n in range(2, len(records), 2):
+        image, header = decode_record(records[n - 1], records[n])
+        if image is not None:
+            out.append((n, image, header))
+    return out
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--names", nargs="*", default=["0001", "0002", "0003", "0004"])
     parser.add_argument("--out", type=Path, default=Path(r"D:\psp\원격수사\build\containers"))
-    parser.add_argument("--limit", type=int, default=512)
+    parser.add_argument("--max-width", type=int, default=0,
+                        help="only save images this wide or narrower (0 = all)")
     args = parser.parse_args()
 
     args.out.mkdir(parents=True, exist_ok=True)
+    total = 0
     for name in args.names:
         blob = (ROOT / name).read_bytes()
-        made = skipped = 0
-        for offset, plain in streams(blob, args.limit):
-            image, header = decode_stream(plain)
-            if image is None:
-                skipped += 1
+        made = 0
+        for at, payload in read_blocks.blocks(blob):
+            plain, _ = read_blocks.open_stream(payload)
+            if plain is None:
                 continue
-            image.save(args.out / f"{name}_{offset:08x}.png")
-            made += 1
-            print(f"  {name}@{offset:#09x}  {header['width']}x{header['height']} "
-                  f"psm{header['psm']} tile{header['tile']} "
-                  f"pixels {header['pixels']}/{header['width'] * header['height']}")
-        print(f"{name}: {made} images, {skipped} streams that are not pictures\n")
+            for n, image, header in decode_stream(plain):
+                if args.max_width and image.width > args.max_width:
+                    continue
+                image.save(args.out / f"{name}_{at:07x}_{n}_{image.width}x{image.height}.png")
+                made += 1
+        total += made
+        print(f"{name}: {made} images")
+    print(f"{total} images -> {args.out}")
 
 
 if __name__ == "__main__":
