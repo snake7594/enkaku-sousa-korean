@@ -17,7 +17,9 @@ import json
 from pathlib import Path
 
 import decode_container
+import encode_container
 import read_blocks
+import texpack
 
 
 def main() -> None:
@@ -31,7 +33,7 @@ def main() -> None:
     args = parser.parse_args()
 
     args.out.mkdir(parents=True, exist_ok=True)
-    kept = []
+    kept, skipped = [], []
     for name in args.names:
         blob = (read_blocks.ROOT / name).read_bytes()
         for at, payload in read_blocks.blocks(blob):
@@ -46,14 +48,30 @@ def main() -> None:
                 # -- the 尋問開始 banners fill all sixteen of their tiles.
                 if not small and share > args.max_share:
                     continue
+                # Never offer a record the encoder cannot reproduce byte for byte.  Thirty-one
+                # records in 0001 still decode wrongly -- their tile walk goes off the rails
+                # partway -- and writing one back would scramble it.
+                # A tile that lands outside the grid means the walk came off the rails: the
+                # picture is only partly there and cannot be read, let alone translated.
+                if header.get("stray"):
+                    skipped.append(f"{name}_{at:07x}_{n} ({header['stray']} stray tiles)")
+                    continue
+                record = texpack.load_records(plain)[n]
+                if encode_container.write_record(
+                        record, encode_container.indices_of(record)) != record:
+                    skipped.append(f"{name}_{at:07x}_{n}")
+                    continue
                 label = f"{name}_{at:07x}_{n}"
                 image.save(args.out / f"{label}.png")
                 kept.append({"id": label, "file": name, "block": at, "record": n,
                              "size": [image.width, image.height],
                              "tiles": header["tiles"], "of": header["tiles_full"]})
 
-    args.report.write_text(json.dumps({"schema": "enkaku_container_text_v1", "images": kept},
+    args.report.write_text(json.dumps({"schema": "enkaku_container_text_v2",
+                                       "images": kept, "not_round_tripping": skipped},
                                       ensure_ascii=False, indent=1), encoding="utf-8")
+    if skipped:
+        print(f"{len(skipped)} records left out: the encoder cannot reproduce them")
     by_size: dict[tuple[int, int], int] = {}
     for k in kept:
         key = tuple(k["size"])

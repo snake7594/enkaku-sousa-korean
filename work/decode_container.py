@@ -65,10 +65,15 @@ def decode_record(palette: bytes, record: bytes):
                   flag=flag, tiles=count)
     if psm not in (4, 5) or not (0 < width <= 4096 and 0 < height <= 4096):
         return None, header
-    if not (0 < tile_w <= width and 0 < tile_h <= height) or width % tile_w or height % tile_h:
+    if not (0 < tile_w and 0 < tile_h <= height) or height % tile_h:
         return None, header
 
+    # tile_w is in pixels.  Some 4bpp records still come back with duplicated and out-of-range
+    # tile coordinates under that reading and reading it as bytes fixes those but breaks the
+    # ones that were right, so the rule is not uniform and is not settled.  Records that do not
+    # survive a decode/encode round trip are left alone rather than guessed at.
     bytes_per_row = tile_w // 2 if psm == 4 else tile_w
+    tile_pixels = tile_w
     stride = TILE_HEADER + bytes_per_row * tile_h
     plane_width = width // 2 if psm == 4 else width
     header["tiles_full"] = (width // tile_w) * (height // tile_h)
@@ -82,7 +87,8 @@ def decode_record(palette: bytes, record: bytes):
         # The tile says where it goes: two u16 holding its column and row in the tile grid.
         # That is what lets an image leave its empty tiles out and still land correctly.
         col, row = struct.unpack_from("<2H", body, at)
-        if row * tile_h >= height or col * tile_w >= width:
+        if row * tile_h >= height or col * tile_pixels >= width:
+            header["stray"] = header.get("stray", 0) + 1
             continue
         cell = np.frombuffer(body[at + TILE_HEADER:at + stride], dtype=np.uint8)
         plane[row * tile_h:(row + 1) * tile_h,
