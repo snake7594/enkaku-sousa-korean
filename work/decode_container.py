@@ -68,26 +68,40 @@ def decode_record(palette: bytes, record: bytes):
     if not (0 < tile_w and 0 < tile_h <= height) or height % tile_h:
         return None, header
 
-    # tile_w is in pixels.  Some 4bpp records still come back with duplicated and out-of-range
-    # tile coordinates under that reading and reading it as bytes fixes those but breaks the
-    # ones that were right, so the rule is not uniform and is not settled.  Records that do not
-    # survive a decode/encode round trip are left alone rather than guessed at.
-    bytes_per_row = tile_w // 2 if psm == 4 else tile_w
-    tile_pixels = tile_w
+    # The records settle both questions at once.  Every tile body is 1024 bytes and every
+    # header says 32x32, so tile_w and tile_h count *bytes and rows*, not pixels: at 4bpp a
+    # tile is 64 pixels wide.  The palettes agree -- 64 bytes, sixteen colours, which is what
+    # 4bpp needs.
+    # width counts bytes too, which only shows at 4bpp: a header saying 256 there is a picture
+    # 512 pixels across.  The tile coordinates proved it -- a "256 wide" record puts tiles in
+    # columns 2 through 5, which needs eight columns of grid, not four.
+    bytes_per_row = tile_w
+    tile_pixels = tile_w * 2 if psm == 4 else tile_w
     stride = TILE_HEADER + bytes_per_row * tile_h
-    plane_width = width // 2 if psm == 4 else width
+    plane_width = width
+    pixel_width = width * 2 if psm == 4 else width
+    header["width"] = pixel_width
     header["tiles_full"] = (width // tile_w) * (height // tile_h)
     if count < 1 or TILE_HEADER + count * stride > len(record):
         return None, header
     plane = np.zeros((height, plane_width), dtype=np.uint8)
 
     body = record[TILE_HEADER:]
+    seen = set()
     for n in range(count):
         at = n * stride
         # The tile says where it goes: two u16 holding its column and row in the tile grid.
         # That is what lets an image leave its empty tiles out and still land correctly.
         col, row = struct.unpack_from("<2H", body, at)
-        if row * tile_h >= height or col * tile_pixels >= width:
+        # A coordinate that comes round again is not a duplicate -- it is the next mip level
+        # starting over at the top left.  A 128x32 stores two tiles for the picture, then one
+        # for 64x16 and one for 32x8, which is why some records carry four tiles for a grid
+        # with room for two.  Everything past the repeat belongs to the smaller copies.
+        if (col, row) in seen:
+            header["mips"] = count - n
+            break
+        seen.add((col, row))
+        if row * tile_h >= height or col * bytes_per_row >= plane_width:
             header["stray"] = header.get("stray", 0) + 1
             continue
         cell = np.frombuffer(body[at + TILE_HEADER:at + stride], dtype=np.uint8)
@@ -96,7 +110,7 @@ def decode_record(palette: bytes, record: bytes):
             texpack.unswizzle(cell, bytes_per_row, tile_h)
 
     if psm == 4:
-        indices = np.empty((height, width), dtype=np.uint8)
+        indices = np.empty((height, pixel_width), dtype=np.uint8)
         indices[:, 0::2] = plane & 0x0F
         indices[:, 1::2] = plane >> 4
     else:

@@ -26,57 +26,88 @@ import texpack
 TILE_HEADER = decode_container.TILE_HEADER
 
 
-def write_record(record: bytes, indices: np.ndarray) -> bytes:
-    """Return the record with its tiles taken from a full-size index plane."""
-    width, height, tile_w, tile_h, psm, flag = struct.unpack_from("<6H", record, 0)
+def levels(record: bytes):
+    """Split the tile run into mip levels, yielding (level, tile index, col, row).
+
+    A record can hold smaller copies of the same picture after the full-size one.  They are not
+    marked; the only sign is that the coordinates start over at (0,0).  Reading them as part of
+    the picture is what produced "duplicate" tiles and out-of-range columns.
+    """
+    _, _, tile_w, tile_h, _, _ = struct.unpack_from("<6H", record, 0)
     count, = struct.unpack_from("<I", record, 12)
-    bytes_per_row = tile_w // 2 if psm == 4 else tile_w
-    tile_pixels = tile_w
+    stride = TILE_HEADER + tile_w * tile_h
+    level, seen = 0, set()
+    for n in range(count):
+        col, row = struct.unpack_from("<2H", record, TILE_HEADER + n * stride)
+        if (col, row) in seen:
+            level += 1
+            seen = set()
+        seen.add((col, row))
+        yield level, n, col, row
+
+
+def write_record(record: bytes, planes) -> bytes:
+    """Return the record with its tiles taken from one index plane per mip level."""
+    width, height, tile_w, tile_h, psm, flag = struct.unpack_from("<6H", record, 0)
+    bytes_per_row = tile_w
+    tile_pixels = tile_w * 2 if psm == 4 else tile_w
     stride = TILE_HEADER + bytes_per_row * tile_h
-    if indices.shape != (height, width):
-        raise ValueError(f"index plane is {indices.shape}, record wants {(height, width)}")
+    if isinstance(planes, np.ndarray):
+        planes = [planes]
 
     out = bytearray(record)
-    for n in range(count):
-        at = TILE_HEADER + n * stride
-        col, row = struct.unpack_from("<2H", out, at)
-        if row * tile_h >= height or col * tile_pixels >= width:
+    for level, n, col, row in levels(record):
+        if level >= len(planes):
             continue
-        cell = indices[row * tile_h:(row + 1) * tile_h,
-                       col * tile_pixels:(col + 1) * tile_pixels]
+        plane = planes[level]
+        if row * tile_h >= plane.shape[0] or col * tile_pixels >= plane.shape[1]:
+            continue
+        cell = plane[row * tile_h:(row + 1) * tile_h,
+                     col * tile_pixels:(col + 1) * tile_pixels]
+        if cell.shape != (tile_h, tile_pixels):
+            continue
         if psm == 4:
             packed = (cell[:, 0::2] & 0x0F) | ((cell[:, 1::2] & 0x0F) << 4)
         else:
             packed = cell.astype(np.uint8)
-        flat = texenc.swizzle(packed, bytes_per_row, tile_h)
-        out[at + TILE_HEADER:at + stride] = flat.tobytes()
+        at = TILE_HEADER + n * stride
+        out[at + TILE_HEADER:at + stride] = texenc.swizzle(
+            packed, bytes_per_row, tile_h).tobytes()
     return bytes(out)
 
 
-def indices_of(record: bytes) -> np.ndarray | None:
-    """The index plane behind a record, before the palette is applied."""
+def indices_of(record: bytes):
+    """One index plane per mip level, before the palette is applied."""
     width, height, tile_w, tile_h, psm, flag = struct.unpack_from("<6H", record, 0)
-    count, = struct.unpack_from("<I", record, 12)
-    bytes_per_row = tile_w // 2 if psm == 4 else tile_w
-    tile_pixels = tile_w
+    bytes_per_row = tile_w
+    tile_pixels = tile_w * 2 if psm == 4 else tile_w
     stride = TILE_HEADER + bytes_per_row * tile_h
-    plane_width = width // 2 if psm == 4 else width
-    plane = np.zeros((height, plane_width), dtype=np.uint8)
-    for n in range(count):
-        at = TILE_HEADER + n * stride
-        col, row = struct.unpack_from("<2H", record, at)
-        if row * tile_h >= height or col * tile_pixels >= width:
+    plane_width = width                          # width counts bytes, like tile_w
+
+    out = []
+    for level, n, col, row in levels(record):
+        while len(out) <= level:
+            k = len(out)
+            out.append(np.zeros((max(tile_h, height >> k),
+                                 max(bytes_per_row, plane_width >> k)), dtype=np.uint8))
+        plane = out[level]
+        if (row + 1) * tile_h > plane.shape[0] or (col + 1) * bytes_per_row > plane.shape[1]:
             continue
+        at = TILE_HEADER + n * stride
         cell = np.frombuffer(record[at + TILE_HEADER:at + stride], dtype=np.uint8)
         plane[row * tile_h:(row + 1) * tile_h,
               col * bytes_per_row:(col + 1) * bytes_per_row] = \
             texpack.unswizzle(cell, bytes_per_row, tile_h)
+
     if psm != 4:
-        return plane
-    out = np.empty((height, width), dtype=np.uint8)
-    out[:, 0::2] = plane & 0x0F
-    out[:, 1::2] = plane >> 4
-    return out
+        return out
+    unpacked = []
+    for plane in out:
+        wide = np.empty((plane.shape[0], plane.shape[1] * 2), dtype=np.uint8)
+        wide[:, 0::2] = plane & 0x0F
+        wide[:, 1::2] = plane >> 4
+        unpacked.append(wide)
+    return unpacked
 
 
 def replace_image(stream: bytes, record_index: int, image: Image.Image) -> bytes:
@@ -84,8 +115,14 @@ def replace_image(stream: bytes, record_index: int, image: Image.Image) -> bytes
     records = texpack.load_records(stream)
     palette = records[record_index - 1]
     record = records[record_index]
-    indices = texenc.quantise(image, palette)
-    rebuilt = write_record(record, indices)
+    # Each mip level gets the new artwork at its own size, so the smaller copies do not keep
+    # showing the Japanese if the engine ever reaches for them.
+    planes = [texenc.quantise(image, palette)]
+    for level in range(1, len(indices_of(record))):
+        small = image.resize((max(1, image.width >> level), max(1, image.height >> level)),
+                             Image.LANCZOS)
+        planes.append(texenc.quantise(small, palette))
+    rebuilt = write_record(record, planes)
     if len(rebuilt) != len(record):
         raise ValueError("record length changed")
     # Records are laid out back to back at the offsets in the table, so writing one back is a
