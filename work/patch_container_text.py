@@ -78,7 +78,13 @@ def fit(draw: ImageDraw.ImageDraw, lines, box, font_name: str, start: int) -> tu
 
 def draw_text(image: Image.Image, entry) -> None:
     box = entry["box"]
-    clear(image, box)
+    if entry.get("fill"):
+        # a stated chip colour, for words that sit on artwork where no sampled ground exists
+        ImageDraw.Draw(image).rectangle(box, fill=entry["fill"])
+    else:
+        clear(image, box)
+    if not entry.get("ko"):
+        return                        # wipe-only entry
     draw = ImageDraw.Draw(image)
     lines = entry["ko"].split("\n")
     font, step = fit(draw, lines, box, entry.get("font", "gothic"),

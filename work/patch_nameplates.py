@@ -49,6 +49,15 @@ NAMES = {
     348: ("白川一朗", "시라카와 이치로", 0.95),
     344: ("白川真二", "시라카와 신지", 0.95),
     347: ("白川美佐恵", "시라카와 미사에", 0.85),
+    # The second audit found these six still Japanese -- every one a plate the ink-threshold
+    # pass skipped the first time round.  Readings follow the dialogue: the defendant 斉藤光志
+    # and the protagonist 水無月幸司 both read こうじ and the script renders both 코우지.
+    340: ("近藤克美", "콘도 가쓰미", 0.9),
+    350: ("沼崎栄太郎", "누마사키 에이타로", 0.95),
+    352: ("斉藤光志", "사이토 코우지", 0.95),
+    353: ("白川のぞみ", "시라카와 노조미", 0.95),
+    355: ("沼崎晋太郎", "누마사키 신타로", 0.95),
+    360: ("水無月幸司", "미나즈키 코우지", 0.95),
 }
 BAND = 26
 
@@ -77,9 +86,14 @@ def main() -> None:
         px = np.asarray(original).astype(np.int32)
         top = tex.height - BAND
         band = px[top:, :, :]
+        # Only opaque pixels count.  Several plates carry a transparent margin around the
+        # white band, and letting those into the median made the "background" come out white
+        # with alpha 0 -- so the band was wiped to nothing and the dark name was then drawn
+        # onto the portrait behind it, where it reads as a smudge.
+        opaque = band[:, :, 3] > 128
         luma = band[:, :, :3].mean(axis=2)
-        floor = float(np.median(luma))
-        ink_mask = np.abs(luma - floor) > 60
+        floor = float(np.median(luma[opaque])) if opaque.any() else 255.0
+        ink_mask = opaque & (np.abs(luma - floor) > 60)
         if not ink_mask.any():
             print(f"   tex{index:04d}: no ink in the band, skipped")
             continue
@@ -90,7 +104,12 @@ def main() -> None:
         # original is black on white.
         text_rows = band[int(ys.min()):int(ys.max()) + 1]
         text_mask = ink_mask[int(ys.min()):int(ys.max()) + 1]
-        back = tuple(int(v) for v in np.median(text_rows[~text_mask], axis=0))
+        text_opaque = opaque[int(ys.min()):int(ys.max()) + 1]
+        ground = text_rows[text_opaque & ~text_mask]
+        if not len(ground):
+            print(f"   tex{index:04d}: no opaque ground in the band, skipped")
+            continue
+        back = tuple(int(v) for v in np.median(ground, axis=0))
         core = text_rows[text_mask]
         darkest = core[core[:, :3].sum(axis=1).argmin()]
         ink = tuple(int(v) for v in darkest)[:3] + (255,)

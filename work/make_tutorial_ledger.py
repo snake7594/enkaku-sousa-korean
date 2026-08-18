@@ -22,7 +22,7 @@ from pathlib import Path
 
 ROOT = Path(r"D:\psp\원격수사")
 
-HEAD = [12, 14, 280, 39]
+HEAD = [10, 10, 286, 42]
 WIDE = 14
 BESIDE = 196
 RIGHT = 385
@@ -93,8 +93,10 @@ PAGES = {
          "구류 기간은 최대 23일이므로\n조사할 수 있는 날수는 한정돼 있습니다.\n\n각 장소의 특성을 파악해\n효율적으로 조사하십시오."),
     ]),
     "0001_04bd800_2": ("사전에 관하여", [
-        ((BESIDE - 76, 52, RIGHT, 168),
-         "사전은 게임에 나오는 전문 용어나\n속어 등을 찾아볼 수 있는 기능입니다.\n\n대화 중 글자가 초록색으로 표시될 때\n□ 버튼을 누르면 단어를\n고를 수 있게 됩니다."),
+        ((0, 0, 0, 0),
+         "사전은 게임에 나오는 전문 용어나\n속어 등을 찾아볼 수 있는 기능입니다."),
+        ((0, 0, 0, 0),
+         "대화 중 글자가 초록색으로 표시될 때\n□ 버튼을 누르면 단어를\n고를 수 있게 됩니다."),
     ]),
     "0001_04c3000_2": ("사전에 관하여", [
         ((BESIDE, 52, RIGHT, 168),
@@ -125,8 +127,8 @@ PAGES = {
 # Bottoms stay above y=176 so the page number in the corner survives, and above the gauges on
 # the pages that have them.
 BOXES = {
-    "0001_046b000_2": [(196, 66, 385, 165)],
-    "0001_0470800_2": [(196, 60, 385, 98), (20, 120, 385, 175)],
+    "0001_046b000_2": [(174, 58, 388, 168)],
+    "0001_0470800_2": [(148, 56, 388, 100), (20, 114, 384, 174)],
     "0001_0475000_2": [(14, 55, 385, 76), (196, 101, 385, 158)],
     "0001_0479800_2": [(14, 63, 385, 103)],
     "0001_047e800_2": [(14, 66, 385, 123)],
@@ -140,12 +142,66 @@ BOXES = {
     "0001_04ad000_2": [(182, 50, 385, 174)],
     "0001_04b4000_2": [(196, 57, 385, 168)],
     "0001_04ba000_2": [(34, 67, 385, 160)],
-    "0001_04bd800_2": [(120, 58, 385, 169)],
-    "0001_04c3000_2": [(196, 50, 385, 174)],
+    "0001_04bd800_2": [(112, 44, 388, 106), (96, 114, 390, 172)],
+    "0001_04c3000_2": [(150, 48, 386, 174)],
     "0001_04c8000_2": [(156, 59, 385, 170)],
     "0001_04cd000_2": [(136, 61, 385, 172)],
     "0001_04d1800_2": [(196, 85, 385, 142)],
     "0001_04d5800_2": [(148, 54, 385, 174)],
+}
+
+
+
+
+# The words the first pass left alone because they sit on artwork rather than on the panel:
+# the gauge captions, and the icon captions on the cursor page.  Boxes measured off the
+# pristine pages with a pixel ruler.  A stated fill is used where the ground is a photograph.
+WATERMARK = {"box": [288, 5, 389, 45], "ja": "解説", "ko": "해설", "font": "serif",
+             "colour": "#3c3c44", "size": 34, "align": "center", "bold": True}
+EXTRAS = {
+    "0001_04bd800_2": [
+        {"box": [96, 172, 344, 190], "ja": "(line3 tail rows)", "ko": ""},
+    ],
+    "0001_0479800_2": [
+        {"box": [146, 110, 260, 127], "ja": "心証ゲージ", "ko": "심증 게이지",
+         "font": "gothic", "colour": "#ffffff", "size": 14, "align": "center",
+         "fill": "#17171f"},
+        {"box": [20, 146, 94, 176], "ja": "成功", "ko": "성공", "font": "serif",
+         "colour": "#ffffff", "size": 24, "align": "center", "bold": True,
+         "fill": "#17171f"},
+        {"box": [316, 146, 382, 176], "ja": "失敗", "ko": "실패", "font": "serif",
+         "colour": "#ffffff", "size": 24, "align": "center", "bold": True,
+         "fill": "#17171f"},
+    ],
+    "0001_047e800_2": [
+        {"box": [82, 150, 166, 182], "ja": "増加", "ko": "증가", "font": "serif",
+         "colour": "#ffffff", "size": 24, "align": "center", "bold": True,
+         "fill": "#17171f"},
+    ],
+    "0001_0483800_2": [
+        {"box": [242, 146, 316, 180], "ja": "減少", "ko": "감소", "font": "serif",
+         "colour": "#ffffff", "size": 24, "align": "center", "bold": True,
+         "fill": "#17171f"},
+    ],
+    "0001_0499800_2": [
+        {"box": [62, 64, 136, 90], "ja": "カーソル", "ko": "커서", "font": "gothic",
+         "colour": "#f0a030", "size": 16, "fill": "#101018"},
+        {"box": [62, 112, 122, 138], "ja": "会話", "ko": "대화", "font": "gothic",
+         "colour": "#f0a030", "size": 16, "fill": "#101018"},
+        {"box": [62, 142, 186, 168], "ja": "調べる・移動", "ko": "조사·이동",
+         "font": "gothic", "colour": "#f0a030", "size": 16, "fill": "#101018"},
+    ],
+}
+
+
+# The CERO / demo-build notice that comes up before the title.  The ratings mark itself is
+# a logo and stays; only the sentence under it is set in Korean.
+STARTUP = {
+    "0001_0538000_2": [
+        {"box": [62, 126, 416, 196], "ja": "このソフトウェアは…ご了承ください。",
+         "ko": "이 소프트웨어는 제품판과 사양이 달라 정상적으로\n동작하지 않는 등 예기치 못한 문제가 발견될\n수 있습니다. 양해 부탁드립니다.",
+         "font": "gothic", "colour": "#ffffff", "size": 17},
+    ],
 }
 
 
@@ -171,8 +227,17 @@ def main() -> None:
         for (_, korean), box in zip(blocks, BOXES[page_id]):
             labels.append({"box": list(box), "ja": "", "ko": korean,
                            "font": "gothic-light", "colour": "#f0f0f0", "size": 17})
+        labels.append(dict(WATERMARK))
+        labels.extend(dict(e) for e in EXTRAS.get(page_id, ()))
         entries.append({"id": page_id, "block": item["block"], "record": item["record"],
                         "labels": labels})
+
+    # The startup notice is a full-bleed 512x256 and so never entered the text survey, which
+    # keeps only sparse pictures.  It round-trips exactly, so it is named here by hand.
+    for page_id, labels in STARTUP.items():
+        _, block, record = page_id.split("_")
+        entries.append({"id": page_id, "block": int(block, 16), "record": int(record),
+                        "labels": [dict(l) for l in labels]})
 
     args.out.write_text(json.dumps({"schema": "enkaku_container_ko_v1", "images": entries},
                                    ensure_ascii=False, indent=1), encoding="utf-8")
